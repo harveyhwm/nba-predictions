@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+backup/
+dags/__pycache__
+dags/extras/__pycache__
+data/
+sagemaker/temp/
+sagemaker/params.json
+sagemaker/notebooks/sagemaker_test.ipynb
+sagemaker/*
+notebooks/sagemaker/
+params.json
