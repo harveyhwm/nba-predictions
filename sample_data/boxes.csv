@@ -1,0 +1,1001 @@
+Date,Detail Path,Player ID,First Name,Last Name,Name,Slug,Position,Comment,Jersey,Home,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,+/-
+1997-12-02,orl-vs-por-0029700227,400.0,Derek,Strong,D. Strong,derek-strong,F,,,N,35:42,1,9,0.111,0,0.0,0.0,4,4.0,1.0,1,4.0,5,2,0,0,2,4,6,8
+2009-01-05,tor-vs-mil-0020800503,200081.0,Jamario,Moon,J. Moon,jamario-moon,F,,,N,35:42,3,5,0.6,0,2.0,0.0,0,0.0,0.0,0,5.0,5,0,0,0,1,3,6,4
+2014-12-30,det-vs-orl-0021400465,2406.0,Caron,Butler,C. Butler,caron-butler,,,,N,18:04,1,4,0.25,1,2.0,0.5,0,0.0,0.0,0,4.0,4,0,1,0,0,0,3,4
+2006-04-29,njn-vs-ind-0040500124,1902.0,Jeff,Foster,J. Foster,jeff-foster,C,,,Y,11:16,0,2,0.0,0,0.0,0.0,0,0.0,0.0,2,3.0,5,0,1,0,0,2,0,-10
+2015-10-07,okc-vs-min-0011500018,2419.0,Tayshaun,Prince,T. Prince,tayshaun-prince,,DND -,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2010-04-14,cle-vs-atl-0020901217,980.0,Zydrunas,Ilgauskas,Z. Ilgauskas,zydrunas-ilgauskas,,,,N,22:03,2,6,0.333,0,0.0,0.0,4,4.0,1.0,0,5.0,5,0,0,0,1,3,8,-7
+2000-12-12,min-vs-njn-0020000304,67.0,Tom,Hammonds,T. Hammonds,tom-hammonds,,,,N,4:37,1,3,0.333,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,2,1
+2013-11-05,sas-vs-den-0021300057,200751.0,Randy,Foye,R. Foye,randy-foye,G,,,Y,27:38,4,9,0.444,3,6.0,0.5,0,0.0,0.0,0,1.0,1,3,2,0,1,4,11,5
+2018-12-12,bos-vs-was-0021800409,202322.0,John,Wall,J. Wall,john-wall,G,,,Y,40:35,14,26,0.538,1,5.0,0.2,5,8.0,0.625,0,6.0,6,13,2,1,5,1,34,-2
+2013-02-26,min-vs-phx-0021200849,202694.0,Marcus,Morris Sr.,M. Morris Sr.,marcus-morris-sr,,,,Y,3:48,0,1,0.0,0,0.0,0.0,0,2.0,0.0,0,2.0,2,1,0,0,0,1,0,-1
+2015-02-04,was-vs-atl-0021400732,1889.0,Andre,Miller,A. Miller,andre-miller,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2019-11-08,mia-vs-lal-0021900126,1627936.0,Alex,Caruso,A. Caruso,alex-caruso,,,,Y,18:41,3,6,0.5,0,1.0,0.0,0,0.0,0.0,0,3.0,3,4,0,1,1,1,6,1
+2017-02-06,uta-vs-atl-0021600772,203145.0,Kent,Bazemore,K. Bazemore,kent-bazemore,G,,,Y,28:40,2,8,0.25,1,3.0,0.333,3,4.0,0.75,0,1.0,1,1,3,0,1,0,8,-3
+2022-11-04,uta-vs-lal-0022200131,203903.0,Jordan,Clarkson,J. Clarkson,jordan-clarkson,G,,,N,29:18,9,19,0.474,2,7.0,0.286,0,0.0,0.0,0,7.0,7,3,0,0,0,5,20,11
+2007-01-06,njn-vs-cle-0020600492,133.0,David,Wesley,D. Wesley,david-wesley,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2022-10-28,chi-vs-sas-0022200077,1630245.0,Ayo,Dosunmu,A. Dosunmu,ayo-dosunmu,G,,,N,20:19,5,10,0.5,2,4.0,0.5,0,0.0,0.0,0,3.0,3,1,0,0,2,1,12,-22
+1997-01-24,sac-vs-phi-0029600584,182.0,Billy,Owens,B. Owens,billy-owens,,INJURED--Sprained Right Ankle,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2014-12-08,den-vs-tor-0021400304,201880.0,Greg,Stiemsma,G. Stiemsma,greg-stiemsma,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2008-11-05,cha-vs-nyk-0020800054,101135.0,David,Lee,D. Lee,david-lee,F,,,Y,29:43,4,11,0.364,0,0.0,0.0,0,0.0,0.0,1,3.0,4,2,1,0,2,2,8,11
+2021-05-29,phi-vs-was-0042000103,1629067.0,Isaac,Bonga,I. Bonga,isaac-bonga,,,,Y,3:44,0,1,0.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2000-02-05,tor-vs-mil-0029900665,788.0,Kevin,Willis,K. Willis,kevin-willis,,,,N,16:57,1,5,0.2,0,0.0,0.0,0,0.0,0.0,1,2.0,3,0,0,0,2,3,2,3
+2022-03-03,det-vs-tor-0022100942,1628449.0,Chris,Boucher,C. Boucher,chris-boucher,,,,Y,26:32,2,4,0.5,0,1.0,0.0,1,2.0,0.5,3,7.0,10,0,0,1,0,1,5,8
+2010-03-21,det-vs-cle-0020901040,200796.0,Leon,Powe,L. Powe,leon-powe,,,,Y,21:04,5,8,0.625,0,0.0,0.0,6,10.0,0.6,2,5.0,7,0,1,0,0,3,16,7
+2004-11-09,phx-vs-chi-0020400055,2761.0,Jackson,Vroman,J. Vroman,jackson-vroman,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2001-01-18,orl-vs-dal-0020000561,1720.0,Michael,Doleac,M. Doleac,michael-doleac,,,,N,19:02,3,13,0.231,0,0.0,0.0,2,3.0,0.667,1,5.0,6,1,0,0,0,3,8,9
+2021-01-30,lal-vs-bos-0022000302,1628035.0,Alfonzo,McKinnie,A. McKinnie,alfonzo-mckinnie,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-02-25,sac-vs-cha-0021000861,2564.0,Boris,Diaw,B. Diaw,boris-diaw,F,,,Y,29:26,1,6,0.167,0,1.0,0.0,0,0.0,0.0,1,2.0,3,2,2,0,0,2,2,4
+1999-11-25,det-vs-ind-0029900170,1983.0,Jermaine,Jackson,J. Jackson,jermaine-jackson,,,,N,4:35,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,0,0,0,-6
+2005-04-15,min-vs-uta-0020401180,2743.0,Kris,Humphries,K. Humphries,kris-humphries,,,,Y,15:08,3,7,0.429,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,1,4,6,-9
+2017-03-15,por-vs-sas-0021601011,203459.0,Allen,Crabbe,A. Crabbe,allen-crabbe,,,,N,34:49,4,7,0.571,2,4.0,0.5,0,0.0,0.0,0,2.0,2,1,2,0,1,3,10,1
+2016-04-13,sas-vs-dal-0021501223,101135.0,David,Lee,D. Lee,david-lee,,,,Y,7:12,1,2,0.5,0,0.0,0.0,0,0.0,0.0,0,4.0,4,0,0,0,0,0,2,10
+1998-01-14,sas-vs-was-0029700516,289.0,Ledell,Eackles,L. Eackles,ledell-eackles,,,,Y,10:15,1,4,0.25,1,3.0,0.333,0,0.0,0.0,0,1.0,1,0,0,0,0,0,3,-8
+2023-01-02,nop-vs-phi-0022200554,1626195.0,Willy,Hernangomez,W. Hernangomez,willy-hernangomez,,,,N,17:19,4,7,0.571,0,0.0,0.0,1,1.0,1.0,4,4.0,8,1,0,0,0,4,9,-5
+2017-03-15,min-vs-bos-0021601006,203923.0,James,Young,J. Young,james-young,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2015-02-23,phi-vs-mia-0021400830,201596.0,Mario,Chalmers,M. Chalmers,mario-chalmers,,,,Y,21:22,4,8,0.5,1,2.0,0.5,0,1.0,0.0,1,1.0,2,6,1,0,1,5,9,11
+2003-12-05,lac-vs-uta-0020300267,1894.0,Corey,Maggette,C. Maggette,corey-maggette,F,,,N,35:46,7,14,0.5,0,2.0,0.0,1,2.0,0.5,2,4.0,6,1,1,0,3,3,15,-16
+2014-11-21,bkn-vs-okc-0021400178,201572.0,Brook,Lopez,B. Lopez,brook-lopez,C,,,N,34:41,6,12,0.5,0,0.0,0.0,4,4.0,1.0,4,6.0,10,0,0,3,4,2,16,-1
+2012-01-13,det-vs-cha-0021100161,201155.0,Rodney,Stuckey,R. Stuckey,rodney-stuckey,,,,N,20:20,2,8,0.25,1,3.0,0.333,3,4.0,0.75,1,4.0,5,3,0,0,2,2,8,13
+1997-04-27,was-vs-chi-0049600014,893.0,Michael,Jordan,M. Jordan,michael-jordan,G,,,Y,44:13,22,35,0.629,1,2.0,0.5,10,10.0,1.0,3,4.0,7,2,2,0,2,3,55,10
+2007-05-12,phx-vs-sas-0040600233,2757.0,Beno,Udrih,B. Udrih,beno-udrih,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2006-02-06,min-vs-phx-0020500704,2770.0,Justin,Reed,J. Reed,justin-reed,,,,N,10:59,2,4,0.5,0,0.0,0.0,1,1.0,1.0,2,3.0,5,0,0,0,1,1,5,10
+2004-04-02,tor-vs-ind-0020301091,441.0,Lamond,Murray,L. Murray,lamond-murray,,,,N,1:50,0,1,0.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,-1
+2000-04-22,det-vs-mia-0049900001,711.0,Jerry,Stackhouse,J. Stackhouse,jerry-stackhouse,G,,,N,41:36,7,16,0.438,2,3.0,0.667,7,12.0,0.583,1,2.0,3,4,0,0,5,0,23,-11
+2023-01-24,lac-vs-lal-0022200719,1629599.0,Amir,Coffey,A. Coffey,amir-coffey,,,,N,2:55,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,3
+2002-02-22,phx-vs-chi-0020100779,339.0,Tom,Gugliotta,T. Gugliotta,tom-gugliotta,F,,,N,33:53,2,10,0.2,0,0.0,0.0,0,0.0,0.0,0,5.0,5,2,3,0,3,5,4,-1
+2016-10-03,mil-vs-chi-0011600005,203141.0,Mirza,Teletovic,M. Teletovic,mirza-teletovic,,,,N,20:10,4,7,0.571,2,3.0,0.667,0,1.0,0.0,2,1.0,3,1,1,1,0,4,10,8
+2016-02-10,sas-vs-orl-0021500790,201980.0,Danny,Green,D. Green,danny-green,G,,,N,34:36,4,11,0.364,2,8.0,0.25,2,2.0,1.0,1,4.0,5,2,0,1,2,1,12,7
+2008-11-23,chi-vs-den-0020800196,101132.0,Linas,Kleiza,L. Kleiza,linas-kleiza,,,,Y,20:32,4,6,0.667,1,2.0,0.5,0,0.0,0.0,1,3.0,4,2,0,0,1,2,9,5
+1996-11-19,min-vs-hou-0029600134,1037.0,Stojko,Vrankovic,S. Vrankovic,stojko-vrankovic,C,,,N,21:06,1,5,0.2,0,0.0,0.0,0,0.0,0.0,1,2.0,3,1,1,3,1,4,2,-11
+2007-04-23,orl-vs-det-0040600102,2419.0,Tayshaun,Prince,T. Prince,tayshaun-prince,F,,,Y,35:59,7,13,0.538,3,3.0,1.0,1,2.0,0.5,3,3.0,6,1,0,0,1,4,18,19
+2000-11-23,tor-vs-ind-0020000170,147.0,Jalen,Rose,J. Rose,jalen-rose,G,,,Y,38:46,5,17,0.294,0,0.0,0.0,6,6.0,1.0,1,5.0,6,7,0,0,2,4,16,-16
+2007-10-25,sas-vs-orl-0010700105,101177.0,Fabricio,Oberto,F. Oberto,fabricio-oberto,,,7.0,N,20,2,3,0.667,0,0.0,0.0,0,0.0,0.0,1,3.0,4,0,0,0,1,4,4,0
+2016-10-30,lal-vs-okc-0021600040,204028.0,Tarik,Black,T. Black,tarik-black,,,,N,11:02,1,2,0.5,0,0.0,0.0,0,0.0,0.0,1,3.0,4,0,0,0,1,2,2,1
+2013-11-27,lal-vs-bkn-0021300218,201941.0,Jordan,Hill,J. Hill,jordan-hill,F,,,N,20:34,1,9,0.111,0,0.0,0.0,0,0.0,0.0,4,8.0,12,1,0,0,1,4,2,1
+2010-06-13,lal-vs-bos-0040900405,965.0,Derek,Fisher,D. Fisher,derek-fisher,G,,,N,34:13,2,9,0.222,0,1.0,0.0,5,5.0,1.0,2,2.0,4,2,1,0,2,3,9,-6
+2014-01-30,lac-vs-gsw-0021300688,2584.0,Willie,Green,W. Green,willie-green,,,,N,15:29,1,4,0.25,0,1.0,0.0,0,0.0,0.0,0,0.0,0,2,0,0,3,4,2,-6
+2018-11-07,den-vs-mem-0021800158,203914.0,Gary,Harris,G. Harris,gary-harris,G,,,N,32:47,6,16,0.375,3,6.0,0.5,5,6.0,0.833,1,1.0,2,2,0,0,3,1,20,-2
+2000-01-17,bos-vs-was-0029900531,958.0,Vitaly,Potapenko,V. Potapenko,vitaly-potapenko,C,,,N,30:11,4,8,0.5,0,0.0,0.0,5,6.0,0.833,3,5.0,8,2,0,1,1,2,13,20
+2010-01-09,atl-vs-orl-0020900531,201043.0,Randolph,Morris,R. Morris,randolph-morris,,,,N,8:52,0,3,0.0,0,0.0,0.0,1,2.0,0.5,0,3.0,3,1,0,0,1,3,1,-1
+2014-10-21,por-vs-den-0011400094,200777.0,Joel,Freeland,J. Freeland,joel-freeland,,,,N,8:50,1,2,0.5,0,0.0,0.0,1,2.0,0.5,0,1.0,1,0,0,0,0,2,3,-2
+1996-11-01,phx-vs-lal-0029600012,2.0,Byron,Scott,B. Scott,byron-scott,,,,Y,24:45,2,7,0.286,1,4.0,0.25,3,5.0,0.6,0,0.0,0,2,2,1,1,0,8,-6
+1999-12-22,atl-vs-bos-0029900362,958.0,Vitaly,Potapenko,V. Potapenko,vitaly-potapenko,C,,,Y,28:26,6,11,0.545,0,0.0,0.0,0,0.0,0.0,0,4.0,4,2,1,0,1,1,12,21
+2020-01-24,hou-vs-min-0021900675,1629162.0,Jordan,McLaughlin,J. McLaughlin,jordan-mclaughlin,,,,Y,23:31,3,6,0.5,1,2.0,0.5,1,2.0,0.5,0,2.0,2,4,0,0,3,1,8,6
+2008-02-11,dal-vs-phi-0020700752,1563.0,Kevin,Ollie,K. Ollie,kevin-ollie,,,,Y,3:32,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,0,0,0,2
+2018-02-02,lal-vs-bkn-0021700768,203917.0,Nik,Stauskas,N. Stauskas,nik-stauskas,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-11-02,uta-vs-noh-0021200021,2744.0,Al,Jefferson,A. Jefferson,al-jefferson,C,,,N,28:16,5,13,0.385,0,0.0,0.0,0,0.0,0.0,2,6.0,8,1,0,0,1,3,10,-8
+2018-11-18,mem-vs-min-0021800234,201959.0,Taj,Gibson,T. Gibson,taj-gibson,F,,,Y,19:13,1,6,0.167,0,0.0,0.0,3,4.0,0.75,5,0.0,5,0,1,0,2,2,5,-15
+1995-04-30,por-vs-phx-0049400016,460.0,Trevor,Ruffin,T. Ruffin,trevor-ruffin,,,8,Y,1,0,0,0.0,0,0.0,0.0,0,2.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2000-03-19,phx-vs-gsw-0029900953,302.0,Mookie,Blaylock,M. Blaylock,mookie-blaylock,G,,,Y,32:13,3,12,0.25,0,3.0,0.0,1,2.0,0.5,0,3.0,3,8,3,1,1,2,7,1
+2023-01-23,sas-vs-por-0022200711,1631110.0,Jeremy,Sochan,J. Sochan,jeremy-sochan,F,,,N,27:40,5,11,0.455,2,2.0,1.0,6,8.0,0.75,4,2.0,6,4,0,1,1,0,18,-11
+2009-10-28,ind-vs-atl-0020900005,2037.0,Jamal,Crawford,J. Crawford,jamal-crawford,,,,Y,13:36,1,3,0.333,0,1.0,0.0,1,1.0,1.0,0,0.0,0,3,1,0,0,4,3,1
+2011-02-26,njn-vs-hou-0021000876,2624.0,Quinton,Ross,Q. Ross,quinton-ross,,DND - Strained lower back,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2019-03-13,gsw-vs-hou-0021801018,1626188.0,Quinn,Cook,Q. Cook,quinn-cook,,,,N,12:37,3,3,1.0,1,1.0,1.0,0,0.0,0.0,0,1.0,1,0,0,0,2,0,7,6
+2022-11-20,nyk-vs-phx-0022200240,1629028.0,Deandre,Ayton,D. Ayton,deandre-ayton,C,,,Y,26:48,6,9,0.667,0,1.0,0.0,1,5.0,0.2,4,7.0,11,4,1,0,0,3,13,6
+2010-11-26,mil-vs-det-0021000225,101141.0,Ersan,Ilyasova,E. Ilyasova,ersan-ilyasova,,,,N,34:01,5,11,0.455,1,3.0,0.333,3,4.0,0.75,3,8.0,11,1,2,2,3,1,14,-16
+2008-02-07,mia-vs-phi-0020700723,201160.0,Jason,Smith,J. Smith,jason-smith,,,,Y,8:49,2,2,1.0,0,0.0,0.0,0,1.0,0.0,0,1.0,1,0,0,1,0,1,4,5
+2022-02-27,nop-vs-lal-0022100919,203468.0,CJ,McCollum,C. McCollum,cj-mccollum,G,,,N,33:44,8,15,0.533,4,7.0,0.571,2,2.0,1.0,0,5.0,5,8,2,0,1,2,22,20
+2023-02-28,ind-vs-dal-0022200929,1629670.0,Jordan,Nwora,J. Nwora,jordan-nwora,,,,N,28:51,6,10,0.6,3,4.0,0.75,1,1.0,1.0,0,3.0,3,1,0,0,0,1,16,2
+1996-12-30,orl-vs-det-0029600417,688.0,Michael,Curry,M. Curry,michael-curry,,,,Y,23:00,3,6,0.5,1,2.0,0.5,4,4.0,1.0,1,2.0,3,1,0,0,0,1,11,3
+2011-01-01,sac-vs-den-0021000490,2747.0,JR,Smith,J. Smith,jr-smith,,,,Y,25:42,7,12,0.583,3,5.0,0.6,0,1.0,0.0,1,3.0,4,3,2,1,2,2,17,14
+2000-02-06,chi-vs-lac-0029900675,1913.0,Michael,Ruffin,M. Ruffin,michael-ruffin,,,,N,15:22,3,4,0.75,0,0.0,0.0,0,0.0,0.0,4,0.0,4,0,0,0,1,3,6,4
+2010-02-27,mil-vs-mia-0020900872,2306.0,Carlos,Arroyo,C. Arroyo,carlos-arroyo,,,,Y,12:00,1,1,1.0,0,0.0,0.0,1,2.0,0.5,0,2.0,2,0,2,0,0,0,3,-5
+1996-03-27,lal-vs-mia-0029500997,1005.0,Walt,Williams,W. Williams,walt-williams,,,42,Y,31,3,12,0.25,1,5.0,0.2,0,1.0,0.0,2,2.0,4,1,0,1,4,5,7,0
+2016-03-25,tor-vs-hou-0021501077,203512.0,Lucas,Nogueira,L. Nogueira,lucas-nogueira,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2003-11-22,cle-vs-atl-0020300177,1901.0,Dion,Glover,D. Glover,dion-glover,G,,,Y,19:51,3,9,0.333,0,1.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,2,6,-6
+2002-05-12,njn-vs-chh-0040100204,2215.0,Jason,Collins,J. Collins,jason-collins,,,,N,23:25,2,5,0.4,0,0.0,0.0,1,4.0,0.25,4,2.0,6,0,1,0,1,4,5,-2
+2009-01-18,phx-vs-tor-0020800599,2743.0,Kris,Humphries,K. Humphries,kris-humphries,,,,Y,10:52,2,3,0.667,0,0.0,0.0,2,2.0,1.0,1,0.0,1,0,0,1,1,4,6,-7
+2010-04-12,tor-vs-det-0020901204,2556.0,Marcus,Banks,M. Banks,marcus-banks,,,,N,1:24,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,1,0,0,-4
+2000-03-12,tor-vs-sea-0029900903,209.0,Dell,Curry,D. Curry,dell-curry,,,,N,8:21,2,7,0.286,1,2.0,0.5,0,0.0,0.0,2,1.0,3,0,0,0,0,0,5,0
+2008-10-29,den-vs-uta-0020800013,1853.0,Anthony,Carter,A. Carter,anthony-carter,G,,,N,36:02,6,11,0.545,1,1.0,1.0,0,0.0,0.0,1,4.0,5,2,3,0,1,5,13,-4
+2009-11-13,dal-vs-min-0020900128,2078.0,Jason,Hart,J. Hart,jason-hart,,,,Y,4:58,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,1,0,0,0,0,5
+2010-12-17,njn-vs-tor-0021000384,2734.0,Devin,Harris,D. Harris,devin-harris,G,,,N,34:47,6,12,0.5,0,0.0,0.0,3,4.0,0.75,0,4.0,4,6,1,0,2,1,15,-6
+2017-03-21,sas-vs-min-0021601056,201980.0,Danny,Green,D. Green,danny-green,G,,,N,32:11,4,7,0.571,2,5.0,0.4,0,0.0,0.0,0,3.0,3,3,1,1,0,4,10,-4
+2005-12-18,min-vs-dal-0020500344,2648.0,Ronald,Dupree,R. Dupree,ronald-dupree,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-01-26,mem-vs-njn-0021000669,202349.0,Greivis,Vasquez,G. Vasquez,greivis-vasquez,,,,N,8:47,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,2,0,0,1,2,0,-9
+2012-04-15,tor-vs-atl-0021100896,956.0,Erick,Dampier,E. Dampier,erick-dampier,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2004-12-01,uta-vs-sea-0020400219,2501.0,Reggie,Evans,R. Evans,reggie-evans,F,,,Y,16:59,1,1,1.0,0,0.0,0.0,0,2.0,0.0,1,5.0,6,0,0,0,1,4,2,-3
+2016-10-05,tor-vs-lac-0011600019,201601.0,Luc,Mbah a Moute,L. Mbah a Moute,luc-mbah-a-moute,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2002-05-03,phi-vs-bos-0040100125,952.0,Antoine,Walker,A. Walker,antoine-walker,F,,,Y,40:59,11,22,0.5,4,9.0,0.444,0,0.0,0.0,3,6.0,9,6,1,1,1,3,26,31
+2012-11-12,bos-vs-chi-0021200098,200765.0,Rajon,Rondo,R. Rondo,rajon-rondo,G,,,N,37:23,10,16,0.625,0,2.0,0.0,0,0.0,0.0,1,8.0,9,10,5,0,5,4,20,15
+2000-02-25,phi-vs-mil-0029900785,281.0,Scott,Williams,S. Williams,scott-williams,F,,,Y,21:41,3,7,0.429,0,0.0,0.0,0,0.0,0.0,2,3.0,5,2,0,1,0,3,6,-8
+2014-01-17,min-vs-tor-0021300584,201985.0,AJ,Price,A. Price,aj-price,,,,N,4:18,0,2,0.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,0,2
+2002-01-05,njn-vs-chh-0020100460,1724.0,Bryce,Drew,B. Drew,bryce-drew,,,,Y,19:35,1,2,0.5,1,2.0,0.5,0,0.0,0.0,0,1.0,1,3,0,0,0,2,3,-4
+2010-04-12,cha-vs-njn-0020901205,201571.0,D.J.,Augustin,D. Augustin,dj-augustin,,,,N,22:22,5,7,0.714,1,1.0,1.0,0,0.0,0.0,1,2.0,3,7,0,0,0,2,11,3
+2010-01-22,mia-vs-was-0020900626,2048.0,Jamaal,Magloire,J. Magloire,jamaal-magloire,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2018-12-10,sac-vs-chi-0021800394,1626171.0,Bobby,Portis,B. Portis,bobby-portis,,,,Y,18:38,3,8,0.375,1,2.0,0.5,2,2.0,1.0,2,6.0,8,1,0,1,1,2,9,-9
+2013-04-03,phx-vs-lac-0021201121,200797.0,Ryan,Hollins,R. Hollins,ryan-hollins,,,,Y,9:11,2,2,1.0,0,0.0,0.0,3,4.0,0.75,0,0.0,0,0,0,0,1,4,7,-4
+2020-08-18,mia-vs-ind-0041900131,203960.0,JaKarr,Sampson,J. Sampson,jakarr-sampson,,,,Y,16:43,5,6,0.833,0,0.0,0.0,0,0.0,0.0,0,3.0,3,1,1,0,1,1,10,5
+2001-11-16,tor-vs-lac-0020100130,1709.0,Michael,Olowokandi,M. Olowokandi,michael-olowokandi,C,,,Y,34:38,2,4,0.5,0,0.0,0.0,1,2.0,0.5,2,8.0,10,1,1,1,4,2,5,10
+2019-01-31,ind-vs-orl-0021800765,201152.0,Thaddeus,Young,T. Young,thaddeus-young,F,,,N,30:41,8,13,0.615,0,2.0,0.0,0,0.0,0.0,3,7.0,10,4,2,0,1,1,16,6
+2005-12-06,nyk-vs-sea-0020500257,2741.0,Robert,Swift,R. Swift,robert-swift,,,,Y,9:45,0,2,0.0,0,0.0,0.0,0,0.0,0.0,1,1.0,2,0,0,0,0,2,0,-3
+2016-01-02,nop-vs-dal-0021500501,202718.0,Chandler,Parsons,C. Parsons,chandler-parsons,F,,,Y,34:13,2,6,0.333,1,2.0,0.5,1,2.0,0.5,0,1.0,1,3,2,0,1,3,6,-4
+2008-12-15,nyk-vs-phx-0020800357,2440.0,Matt,Barnes,M. Barnes,matt-barnes,,,,Y,26:57,4,9,0.444,1,4.0,0.25,0,0.0,0.0,2,4.0,6,2,0,1,1,2,9,-3
+2019-11-22,sac-vs-bkn-0021900217,1628385.0,Harry,Giles III,H. Giles III,harry-giles-iii,,,,N,10:27,3,7,0.429,0,0.0,0.0,0,0.0,0.0,1,0.0,1,3,0,0,1,3,6,-2
+2009-05-11,den-vs-dal-0040800234,2403.0,Nene,Hilario,Nene,nene-hilario,C,,,N,42:28,2,5,0.4,0,0.0,0.0,5,10.0,0.5,0,8.0,8,3,1,3,2,5,9,-8
+2015-11-25,mem-vs-hou-0021500220,203516.0,James,Ennis III,J. Ennis III,james-ennis-iii,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2018-12-13,lac-vs-sas-0021800417,202699.0,Tobias,Harris,T. Harris,tobias-harris,F,,,N,28:15,5,14,0.357,1,4.0,0.25,6,7.0,0.857,1,4.0,5,2,0,0,3,2,17,-13
+2021-03-04,det-vs-nyk-0022000565,203493.0,Reggie,Bullock,R. Bullock,reggie-bullock,F,,,Y,32:31,4,13,0.308,2,9.0,0.222,2,3.0,0.667,1,3.0,4,2,1,0,0,1,12,17
+1999-02-24,orl-vs-bos-0029800146,692.0,Andrew,DeClercq,A. DeClercq,andrew-declercq,,,,Y,19:01,7,9,0.778,0,0.0,0.0,0,0.0,0.0,1,5.0,6,0,2,1,1,1,14,12
+2004-03-09,lac-vs-hou-0020300923,2404.0,Chris,Wilcox,C. Wilcox,chris-wilcox,,,,N,8:39,0,4,0.0,0,0.0,0.0,0,0.0,0.0,1,2.0,3,0,0,0,1,1,0,2
+2003-12-25,hou-vs-lal-0020300403,1509.0,Kelvin,Cato,K. Cato,kelvin-cato,F,,,N,35:10,2,4,0.5,0,0.0,0.0,1,2.0,0.5,1,7.0,8,1,1,3,3,4,5,4
+1995-11-24,san-vs-sea-0029500152,219.0,Vinny,Del Negro,V. Del Negro,vinny-del-negro,,,15,N,30,5,11,0.455,1,5.0,0.2,0,0.0,0.0,1,0.0,1,4,1,0,1,2,11,0
+2013-12-20,uta-vs-atl-0021300384,101249.0,John,Lucas III,J. Lucas III,john-lucas-iii,,,,N,18:45,4,13,0.308,0,3.0,0.0,0,0.0,0.0,0,0.0,0,1,3,0,1,0,8,-9
+1999-02-05,dal-vs-sea-0029800012,718.0,Gary,Trent,G. Trent,gary-trent,,,,N,9:28,3,6,0.5,0,0.0,0.0,0,0.0,0.0,1,0.0,1,0,0,0,1,2,6,-7
+2009-01-06,bos-vs-cha-0020800506,200747.0,Adam,Morrison,A. Morrison,adam-morrison,,,,Y,15:13,6,9,0.667,1,2.0,0.5,0,0.0,0.0,0,1.0,1,0,0,0,0,1,13,-11
+2019-11-24,sac-vs-was-0021900237,203992.0,Bogdan,Bogdanovic,B. Bogdanovic,bogdan-bogdanovic,,,,N,27:40,7,16,0.438,3,9.0,0.333,4,6.0,0.667,0,4.0,4,4,1,0,1,0,21,2
+2014-04-14,bos-vs-phi-0021301204,203519.0,Adonis,Thomas,A. Thomas,adonis-thomas,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2009-12-01,gsw-vs-den-0020900256,201627.0,Anthony,Morrow,A. Morrow,anthony-morrow,F,,,N,33:04,12,20,0.6,2,7.0,0.286,1,1.0,1.0,2,1.0,3,1,1,0,2,4,27,-8
+2018-03-20,okc-vs-bos-0021701059,201147.0,Corey,Brewer,C. Brewer,corey-brewer,G,,,N,36:08,4,12,0.333,1,6.0,0.167,2,2.0,1.0,1,4.0,5,3,2,1,0,3,11,-3
+2022-10-06,adl-vs-okc-0012200025,203504.0,Trey,Burke,T. Burke,trey-burke,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2022-01-05,gsw-vs-dal-0022100572,1630228.0,Jonathan,Kuminga,J. Kuminga,jonathan-kuminga,,,,N,12:22,0,3,0.0,0,1.0,0.0,4,4.0,1.0,0,2.0,2,0,0,0,1,3,4,-13
+2018-10-28,uta-vs-dal-0021800084,201599.0,DeAndre,Jordan,D. Jordan,deandre-jordan,C,,,Y,36:36,4,5,0.8,0,0.0,0.0,4,4.0,1.0,5,14.0,19,9,0,1,2,3,12,3
+2021-10-22,ind-vs-was-0022100019,1629655.0,Daniel,Gafford,D. Gafford,daniel-gafford,C,,,Y,18:12,4,5,0.8,0,0.0,0.0,0,0.0,0.0,1,1.0,2,1,0,2,1,4,8,-8
+2018-10-24,lal-vs-phx-0021800060,201583.0,Ryan,Anderson,R. Anderson,ryan-anderson,F,,,Y,19:20,4,6,0.667,1,3.0,0.333,0,0.0,0.0,1,2.0,3,2,0,0,1,2,9,-12
+2021-03-17,lac-vs-dal-0022000625,1630189.0,Tyler,Bey,T. Bey,tyler-bey,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-10-06,det-vs-bkn-0011600024,203083.0,Andre,Drummond,A. Drummond,andre-drummond,C,,,N,24:13,8,20,0.4,0,0.0,0.0,1,3.0,0.333,11,10.0,21,1,0,1,0,3,17,-3
+2016-11-21,tor-vs-lac-0021600207,201960.0,DeMarre,Carroll,D. Carroll,demarre-carroll,,DND - Rest,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2013-12-20,bkn-vs-phi-0021300383,2501.0,Reggie,Evans,R. Evans,reggie-evans,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-03-16,chi-vs-was-0021501006,2400.0,Drew,Gooden,D. Gooden,drew-gooden,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2013-02-05,gsw-vs-hou-0021200718,2210.0,Richard,Jefferson,R. Jefferson,richard-jefferson,,,,N,20:25,2,6,0.333,0,3.0,0.0,6,6.0,1.0,0,6.0,6,0,0,0,0,1,10,-3
+2000-04-12,njn-vs-nyk-0029901122,383.0,Kendall,Gill,K. Gill,kendall-gill,G,,,N,35:07,6,18,0.333,0,0.0,0.0,3,3.0,1.0,1,5.0,6,5,1,0,0,6,15,12
+2012-10-15,hou-vs-dal-0011200052,203108.0,Bernard,James,B. James,bernard-james,,,5.0,Y,10,3,4,0.75,0,0.0,0.0,0,0.0,0.0,2,4.0,6,0,0,1,0,0,6,0
+2006-02-07,det-vs-atl-0020500706,2746.0,Josh,Smith,J. Smith,josh-smith,F,,,Y,27:18,2,5,0.4,0,0.0,0.0,0,0.0,0.0,1,3.0,4,2,0,0,0,5,4,-8
+2009-02-17,noh-vs-okc-0020800793,1498.0,Antonio,Daniels,A. Daniels,antonio-daniels,,,,N,13:37,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,0,1,2,-1
+1998-05-16,lal-vs-uta-0049700069,922.0,Elden,Campbell,E. Campbell,elden-campbell,,,,N,14:12,1,4,0.25,0,0.0,0.0,1,2.0,0.5,0,1.0,1,0,0,1,2,1,3,-13
+2023-03-06,phi-vs-ind-0022200972,1629670.0,Jordan,Nwora,J. Nwora,jordan-nwora,F,,,Y,19:41,7,12,0.583,2,5.0,0.4,0,0.0,0.0,1,1.0,2,1,0,0,0,2,16,-4
+2012-12-04,phx-vs-mem-0021200255,101162.0,Marcin,Gortat,M. Gortat,marcin-gortat,C,,,N,35:01,3,4,0.75,0,0.0,0.0,5,6.0,0.833,3,4.0,7,4,1,1,0,2,11,-9
+2014-10-08,sas-vs-alb-0011400022,201965.0,Jeff,Ayres,J. Ayres,jeff-ayres,,,,N,6:07,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,0,-6
+2006-01-09,sea-vs-phi-0020500486,2741.0,Robert,Swift,R. Swift,robert-swift,,,,N,13:26,3,6,0.5,0,0.0,0.0,0,0.0,0.0,3,1.0,4,0,0,1,1,2,6,-13
+2018-11-23,mem-vs-lac-0021800266,101150.0,Lou,Williams,L. Williams,lou-williams,,,,Y,29:47,5,14,0.357,1,4.0,0.25,4,4.0,1.0,0,2.0,2,6,1,0,0,1,15,5
+2010-10-07,mem-vs-atl-0011000017,202410.0,Evan,Brock,E. Brock,evan-brock,,,3.0,Y,10,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,0,0,0,1,2,0,0
+2019-02-22,det-vs-atl-0021800877,1628971.0,Bruce,Brown,B. Brown,bruce-brown,F,,,N,32:13,5,11,0.455,1,3.0,0.333,1,1.0,1.0,3,1.0,4,1,1,2,1,5,12,14
+1997-12-27,mil-vs-njn-0029700394,288.0,Armen,Gilliam,A. Gilliam,armen-gilliam,,,,N,33:30,6,10,0.6,0,0.0,0.0,7,8.0,0.875,4,3.0,7,0,2,1,1,4,19,-6
+2008-02-02,cha-vs-den-0020700693,2403.0,Nene,Hilario,Nene,nene-hilario,,DND - INJ - Testicular Tumor Surgery,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2020-02-21,ind-vs-nyk-0021900828,1628373.0,Frank,Ntilikina,F. Ntilikina,frank-ntilikina,G,,,Y,32:04,5,11,0.455,2,4.0,0.5,2,2.0,1.0,1,1.0,2,2,2,0,0,2,14,-5
+2013-12-10,okc-vs-atl-0021300313,2555.0,Nick,Collison,N. Collison,nick-collison,,,,N,21:17,2,3,0.667,0,0.0,0.0,0,0.0,0.0,2,4.0,6,2,0,0,0,3,4,2
+2011-01-19,det-vs-bos-0021000616,979.0,Jermaine,O'Neal,J. O'Neal,jermaine-oneal,,DND - Sore Left Knee,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-12-28,tor-vs-gsw-0021600485,1627832.0,Fred,VanVleet,F. VanVleet,fred-vanvleet,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2017-03-05,gsw-vs-nyk-0021600928,1627850.0,Marshall,Plumlee,M. Plumlee,marshall-plumlee,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1997-03-28,ind-vs-chh-0029601019,956.0,Erick,Dampier,E. Dampier,erick-dampier,,,,N,7:58,2,5,0.4,1,1.0,1.0,0,0.0,0.0,0,0.0,0,0,0,0,1,1,5,-9
+2008-12-01,orl-vs-bos-0020800253,1502.0,Adonal,Foyle,A. Foyle,adonal-foyle,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-11-18,ind-vs-nyk-0021200139,101123.0,Gerald,Green,G. Green,gerald-green,,,,N,17:52,2,2,1.0,1,1.0,1.0,0,0.0,0.0,0,4.0,4,1,0,1,0,0,5,2
+2002-03-13,njn-vs-bos-0020100915,446.0,Lucious,Harris,L. Harris,lucious-harris,,,,N,17:29,3,7,0.429,0,3.0,0.0,1,2.0,0.5,0,2.0,2,0,0,0,1,1,7,-3
+2004-04-18,mil-vs-det-0040300121,389.0,Toni,Kukoc,T. Kukoc,toni-kukoc,,,,N,19:59,2,4,0.5,2,3.0,0.667,2,4.0,0.5,0,2.0,2,0,0,1,1,2,8,-8
+1997-04-08,was-vs-tor-0029601093,1114.0,Jaren,Jackson,J. Jackson,jaren-jackson,,,,N,2:48,0,1,0.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,-4
+2022-12-31,nyk-vs-hou-0022200541,1631102.0,TyTy,Washington Jr.,T. Washington Jr.,tyty-washington-jr,,,,Y,12:35,0,3,0.0,0,2.0,0.0,1,2.0,0.5,0,2.0,2,0,0,0,0,3,1,-3
+2002-01-29,det-vs-was-0020100625,1800.0,Damon,Jones,D. Jones,damon-jones,,,,N,9:58,1,2,0.5,1,2.0,0.5,0,0.0,0.0,0,1.0,1,2,0,0,3,1,3,-9
+2012-02-05,mem-vs-bos-0021100355,979.0,Jermaine,O'Neal,J. O'Neal,jermaine-oneal,C,,,Y,25:50,2,5,0.4,0,0.0,0.0,0,0.0,0.0,3,4.0,7,0,0,2,1,1,4,10
+2020-01-15,cha-vs-den-0021900610,1628420.0,Monte,Morris,M. Morris,monte-morris,,,,Y,23:57,1,4,0.25,1,2.0,0.5,1,1.0,1.0,0,1.0,1,5,0,0,0,0,4,11
+2022-03-18,lal-vs-tor-0022101051,1629117.0,Wenyen,Gabriel,W. Gabriel,wenyen-gabriel,F,,,N,24:52,7,8,0.875,3,3.0,1.0,0,1.0,0.0,2,1.0,3,2,0,1,1,5,17,4
+2005-12-14,lal-vs-mem-0020500314,101209.0,Devin,Green,D. Green,devin-green,,,,N,2:38,1,2,0.5,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,2,2,-7
+1996-11-03,den-vs-sas-0029600026,61.0,Carl,Herrera,C. Herrera,carl-herrera,F,,,Y,15:28,1,8,0.125,0,0.0,0.0,0,0.0,0.0,0,2.0,2,1,1,2,2,2,2,-1
+2008-12-07,bos-vs-ind-0020800299,2211.0,Troy,Murphy,T. Murphy,troy-murphy,F,,,Y,40:21,6,9,0.667,2,4.0,0.5,1,2.0,0.5,0,6.0,6,1,1,0,0,5,15,-14
+2001-12-30,sas-vs-mem-0020100426,98.0,Nick,Anderson,N. Anderson,nick-anderson,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2000-04-22,sea-vs-uta-0049900003,1953.0,Lazaro,Borrell,L. Borrell,lazaro-borrell,F,,,N,13:45,2,3,0.667,0,0.0,0.0,2,4.0,0.5,3,3.0,6,1,0,0,1,1,6,3
+2009-04-01,sac-vs-gsw-0020801120,201150.0,Spencer,Hawes,S. Hawes,spencer-hawes,C,,,N,21:29,4,10,0.4,3,3.0,1.0,0,0.0,0.0,3,3.0,6,1,0,0,3,1,11,2
+2020-12-22,gsw-vs-bkn-0022000001,203952.0,Andrew,Wiggins,A. Wiggins,andrew-wiggins,F,,,N,31:14,4,16,0.25,2,6.0,0.333,3,4.0,0.75,0,2.0,2,1,0,1,4,4,13,-28
+2013-01-20,lal-vs-tor-0021200601,202721.0,Darius,Morris,D. Morris,darius-morris,,,,N,5:08,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,1,1,2,-6
+2014-10-14,mem-vs-okc-0011400051,2570.0,Kendrick,Perkins,K. Perkins,kendrick-perkins,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2018-03-09,cle-vs-lac-0021700986,202325.0,Wesley,Johnson,W. Johnson,wesley-johnson,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2015-11-27,nop-vs-lac-0021500238,201962.0,Toney,Douglas,T. Douglas,toney-douglas,,,,N,23:43,4,11,0.364,1,4.0,0.25,2,2.0,1.0,1,0.0,1,2,2,0,1,4,11,3
+1999-12-10,mil-vs-tor-0029900276,177.0,Muggsy,Bogues,M. Bogues,muggsy-bogues,,,,Y,25:51,2,4,0.5,1,2.0,0.5,0,0.0,0.0,0,0.0,0,3,1,0,2,1,5,3
+2002-01-02,lal-vs-den-0020100440,2058.0,Mark,Madsen,M. Madsen,mark-madsen,F,,,N,21:10,2,5,0.4,0,0.0,0.0,1,2.0,0.5,2,3.0,5,2,0,0,0,1,5,2
+2022-11-07,mil-vs-atl-0022200149,1629027.0,Trae,Young,T. Young,trae-young,,DND - Injury/Illness,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2019-01-12,cha-vs-sac-0021800636,202357.0,Nemanja,Bjelica,N. Bjelica,nemanja-bjelica,F,,,Y,16:33,1,2,0.5,1,2.0,0.5,0,0.0,0.0,0,0.0,0,4,2,0,0,2,3,1
+2001-11-23,lac-vs-uta-0020100175,976.0,Jeff,McInnis,J. McInnis,jeff-mcinnis,G,,,N,43:39,10,17,0.588,2,3.0,0.667,0,0.0,0.0,1,2.0,3,3,2,0,2,4,22,-4
+2021-02-20,mia-vs-lal-0022000463,203484.0,Kentavious,Caldwell-Pope,K. Caldwell-Pope,kentavious-caldwell-pope,G,,,Y,35:18,3,5,0.6,3,5.0,0.6,2,2.0,1.0,1,2.0,3,4,1,1,2,2,11,4
+2002-11-26,sac-vs-cle-0020200198,980.0,Zydrunas,Ilgauskas,Z. Ilgauskas,zydrunas-ilgauskas,C,,,Y,36:04,4,13,0.308,0,0.0,0.0,8,11.0,0.727,4,7.0,11,0,2,2,4,4,16,-10
+2001-03-13,van-vs-atl-0020000920,1898.0,Cal,Bowdler,C. Bowdler,cal-bowdler,,,,Y,4:10,2,2,1.0,0,0.0,0.0,1,1.0,1.0,1,2.0,3,0,0,0,0,0,5,1
+2000-02-07,nyk-vs-chh-0029900506,1726.0,Mirsad,Turkcan,M. Turkcan,mirsad-turkcan,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2003-02-04,lal-vs-ind-0020200691,216.0,Brian,Shaw,B. Shaw,brian-shaw,,,,N,10:06,0,2,0.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0,3,2,0,0,0,0,5
+2006-12-09,bos-vs-njn-0020600288,200767.0,Josh,Boone,J. Boone,josh-boone,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-12-08,gsw-vs-uta-0021600335,2760.0,Anderson,Varejao,A. Varejao,anderson-varejao,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1995-03-09,sea-vs-chh-0029400793,76362.0,Bill,Cartwright,B. Cartwright,bill-cartwright,,,24,N,22,3,3,1.0,0,0.0,0.0,0,0.0,0.0,2,2.0,4,1,0,0,1,5,6,0
+2020-02-20,bkn-vs-phi-0021900822,1626196.0,Josh,Richardson,J. Richardson,josh-richardson,G,,,Y,38:56,3,12,0.25,1,6.0,0.167,0,0.0,0.0,2,5.0,7,3,3,1,3,5,7,16
+1999-11-02,orl-vs-chh-0029900005,193.0,Anthony,Mason,A. Mason,anthony-mason,F,,,Y,32:13,3,5,0.6,0,0.0,0.0,1,2.0,0.5,3,5.0,8,3,0,0,2,4,7,17
+2017-05-09,hou-vs-sas-0041600235,1626149.0,Montrezl,Harrell,M. Harrell,montrezl-harrell,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2004-01-05,phx-vs-chi-0020300480,2423.0,Chris,Jefferies,C. Jefferies,chris-jefferies,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-02-05,mil-vs-was-0020400690,2585.0,Zaza,Pachulia,Z. Pachulia,zaza-pachulia,,,,N,12:46,0,2,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,3,0,-17
+2006-02-27,phi-vs-dal-0020500833,2205.0,DeSagana,Diop,D. Diop,desagana-diop,C,,,Y,23:00,2,4,0.5,0,0.0,0.0,2,2.0,1.0,5,2.0,7,0,1,1,2,4,6,13
+1996-11-23,orl-vs-ind-0029600163,1064.0,Brent,Scott,B. Scott,brent-scott,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2017-12-04,gsw-vs-nop-0021700346,201950.0,Jrue,Holiday,J. Holiday,jrue-holiday,G,,,Y,38:01,13,21,0.619,4,11.0,0.364,4,5.0,0.8,1,5.0,6,4,1,0,3,3,34,1
+1997-10-31,lac-vs-phx-0029700011,71.0,Pooh,Richardson,P. Richardson,pooh-richardson,,,,N,19:01,3,8,0.375,0,0.0,0.0,0,0.0,0.0,1,0.0,1,2,0,0,1,1,6,-9
+2021-05-03,nyk-vs-mem-0022000980,1628991.0,Jaren,Jackson Jr.,J. Jackson Jr.,jaren-jackson-jr,,,,Y,19:57,4,8,0.5,2,4.0,0.5,5,6.0,0.833,0,3.0,3,0,0,0,1,1,15,-12
+2014-02-18,orl-vs-mil-0021300797,203094.0,Andrew,Nicholson,A. Nicholson,andrew-nicholson,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1997-04-12,nyk-vs-mia-0029601124,961.0,John,Wallace,J. Wallace,john-wallace,,,,N,5:46,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,1,0,0,2,1,0,-4
+2015-02-09,gsw-vs-phi-0021400775,203487.0,Michael,Carter-Williams,M. Carter-Williams,michael-carter-williams,,DND - Right Foot Big Toe Strain,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2017-02-08,den-vs-atl-0021600785,2743.0,Kris,Humphries,K. Humphries,kris-humphries,,,,Y,12:34,3,4,0.75,1,2.0,0.5,0,0.0,0.0,0,4.0,4,1,0,0,0,3,7,-4
+2017-01-10,chi-vs-was-0021600571,101162.0,Marcin,Gortat,M. Gortat,marcin-gortat,C,,,Y,41:32,5,8,0.625,0,0.0,0.0,0,0.0,0.0,3,9.0,12,0,1,1,3,4,10,16
+2016-11-16,cle-vs-ind-0021600160,2544.0,LeBron,James,L. James,lebron-james,,DND - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-10-08,phi-vs-cle-0011600033,201567.0,Kevin,Love,K. Love,kevin-love,F,,,Y,15:55,1,7,0.143,0,3.0,0.0,0,0.0,0.0,0,4.0,4,2,0,0,1,1,2,3
+2016-02-01,mil-vs-sac-0021500729,201956.0,Omri,Casspi,O. Casspi,omri-casspi,,,,Y,24:31,3,9,0.333,1,4.0,0.25,6,7.0,0.857,0,5.0,5,1,0,0,0,1,13,-1
+1996-01-19,lal-vs-lac-0029500532,441.0,Lamond,Murray,L. Murray,lamond-murray,,,7,Y,26,2,8,0.25,0,2.0,0.0,2,2.0,1.0,1,6.0,7,1,2,1,2,4,6,0
+1996-04-03,chh-vs-det-0029501049,689.0,Theo,Ratliff,T. Ratliff,theo-ratliff,,,42,Y,14,2,2,1.0,0,0.0,0.0,1,4.0,0.25,2,3.0,5,1,0,1,1,2,5,0
+2014-12-15,chi-vs-atl-0021400358,2550.0,Kirk,Hinrich,K. Hinrich,kirk-hinrich,,,,N,21:44,0,7,0.0,0,4.0,0.0,0,0.0,0.0,0,1.0,1,2,1,0,1,1,0,2
+2006-03-19,sac-vs-min-0020500984,708.0,Kevin,Garnett,K. Garnett,kevin-garnett,F,,,Y,38:40,11,18,0.611,0,0.0,0.0,15,17.0,0.882,1,9.0,10,1,4,2,4,2,37,10
+2012-02-20,sas-vs-uta-0021100477,101139.0,CJ,Miles,C. Miles,cj-miles,,,,Y,22:39,5,10,0.5,1,3.0,0.333,2,2.0,1.0,0,2.0,2,1,0,0,1,2,13,1
+2004-11-12,ind-vs-phi-0020400072,1536.0,Stephen,Jackson,S. Jackson,stephen-jackson,G,,,N,45:52,6,18,0.333,5,12.0,0.417,0,0.0,0.0,0,4.0,4,3,3,1,6,4,17,1
+2020-12-30,por-vs-lac-0022000061,203918.0,Rodney,Hood,R. Hood,rodney-hood,,,,N,15:03,1,3,0.333,1,2.0,0.5,0,0.0,0.0,0,2.0,2,1,0,0,2,0,3,-10
+2017-11-15,phi-vs-lal-0021700214,203898.0,Tyler,Ennis,T. Ennis,tyler-ennis,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2020-02-26,dal-vs-sas-0021900869,1627751.0,Jakob,Poeltl,J. Poeltl,jakob-poeltl,,,,Y,9:43,2,3,0.667,0,0.0,0.0,1,4.0,0.25,1,3.0,4,1,0,0,0,0,5,-11
+2013-03-06,por-vs-mem-0021200905,202334.0,Ed,Davis,E. Davis,ed-davis,F,,,Y,24:36,1,4,0.25,0,0.0,0.0,1,2.0,0.5,2,4.0,6,0,1,2,0,4,3,-1
+2007-04-03,cle-vs-min-0020601105,2544.0,LeBron,James,L. James,lebron-james,F,,,N,41:49,13,24,0.542,0,2.0,0.0,5,5.0,1.0,2,10.0,12,6,4,1,2,1,31,21
+2000-03-23,lac-vs-hou-0029900981,432.0,Pete,Chilcutt,P. Chilcutt,pete-chilcutt,,,,N,6:12,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,0,-8
+2013-10-15,lac-vs-phx-0011300055,101162.0,Marcin,Gortat,M. Gortat,marcin-gortat,,,4.0,Y,24,6,13,0.462,0,0.0,0.0,0,1.0,0.0,1,4.0,5,1,0,0,1,1,12,0
+2018-04-27,cle-vs-ind-0041700136,203918.0,Rodney,Hood,R. Hood,rodney-hood,,,,N,24:57,6,12,0.5,0,2.0,0.0,0,0.0,0.0,0,3.0,3,1,0,0,2,4,12,-27
+2013-02-02,orl-vs-mil-0021200701,2400.0,Drew,Gooden,D. Gooden,drew-gooden,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2019-03-13,det-vs-mia-0021801014,1629017.0,Khyri,Thomas,K. Thomas,khyri-thomas,,,,N,5:51,1,5,0.2,0,2.0,0.0,0,0.0,0.0,0,1.0,1,1,0,1,0,0,2,-2
+2009-10-23,sas-vs-ind-0010900109,201612.0,Malik,Hairston,M. Hairston,malik-hairston,,,1.0,N,7,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,0,1,0,1,0,2,0
+2019-01-10,bos-vs-mia-0021800617,202355.0,Hassan,Whiteside,H. Whiteside,hassan-whiteside,C,,,Y,21:19,4,8,0.5,0,0.0,0.0,1,2.0,0.5,3,7.0,10,2,1,0,0,2,9,7
+2017-01-01,tor-vs-lal-0021600512,1626273.0,Marcelo,Huertas,M. Huertas,marcelo-huertas,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2009-03-15,nyk-vs-cle-0020800986,1887.0,Wally,Szczerbiak,W. Szczerbiak,wally-szczerbiak,,,,Y,15:54,1,4,0.25,0,2.0,0.0,0,0.0,0.0,0,3.0,3,0,0,0,1,2,2,-3
+2007-02-28,cha-vs-sac-0020600863,101179.0,Ronnie,Price,R. Price,ronnie-price,,,,Y,13:24,1,4,0.25,1,3.0,0.333,2,2.0,1.0,0,1.0,1,0,2,0,0,2,5,-6
+1998-01-30,was-vs-det-0029700630,183.0,Bison,Dele,B. Dele,bison-dele,,DND - TENDINITIS LT. KNEE,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2008-04-04,ind-vs-mil-0020701132,2399.0,Mike,Dunleavy,M. Dunleavy,mike-dunleavy,F,,,N,44:57,8,17,0.471,4,6.0,0.667,7,10.0,0.7,1,10.0,11,4,3,0,5,4,27,3
+2013-11-20,por-vs-mil-0021300167,203114.0,Khris,Middleton,K. Middleton,khris-middleton,,,,Y,19:53,4,4,1.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,0,0,0,2,3,8,0
+1999-04-28,phx-vs-min-0029800663,364.0,Rex,Chapman,R. Chapman,rex-chapman,G,,,N,26:57,3,9,0.333,1,2.0,0.5,0,0.0,0.0,0,1.0,1,3,0,1,2,1,7,-8
+2005-11-15,cha-vs-orl-0020500099,2045.0,Hedo,Turkoglu,H. Turkoglu,hedo-turkoglu,F,,,Y,30:20,1,11,0.091,1,3.0,0.333,2,2.0,1.0,1,2.0,3,0,1,0,0,2,5,0
+2019-10-18,hou-vs-mia-0011900076,2199.0,Tyson,Chandler,T. Chandler,tyson-chandler,,,,N,9:56,0,0,0.0,0,0.0,0.0,2,2.0,1.0,2,2.0,4,0,0,0,3,4,2,-14
+2018-11-30,atl-vs-okc-0021800325,203101.0,Miles,Plumlee,M. Plumlee,miles-plumlee,,,,N,6:55,2,3,0.667,0,0.0,0.0,2,2.0,1.0,1,0.0,1,0,1,0,0,0,6,1
+2022-01-10,mil-vs-cha-0022100607,1629023.0,P.J.,Washington,P. Washington,pj-washington,,,,Y,27:24,2,10,0.2,0,5.0,0.0,1,1.0,1.0,1,6.0,7,5,4,1,3,5,5,6
+2005-11-12,uta-vs-chi-0020500086,2443.0,Darius,Songaila,D. Songaila,darius-songaila,F,,,Y,11:56,0,2,0.0,0,0.0,0.0,0,0.0,0.0,1,0.0,1,1,0,1,0,3,0,-6
+2014-12-28,tor-vs-den-0021400457,201949.0,James,Johnson,J. Johnson,james-johnson,F,,,N,18:42,2,4,0.5,0,2.0,0.0,1,2.0,0.5,0,3.0,3,1,1,1,2,3,5,-2
+2022-02-09,tor-vs-okc-0022100827,1629018.0,Gary,Trent Jr.,G. Trent Jr.,gary-trent-jr,G,,,N,34:22,5,12,0.417,2,5.0,0.4,4,4.0,1.0,0,1.0,1,2,5,0,1,1,16,20
+2007-05-29,det-vs-cle-0040600304,2436.0,Flip,Murray,R. Murray,flip-murray,,,,N,6:57,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,1,0,0,1,0,0,-4
+2014-11-26,gsw-vs-orl-0021400212,101112.0,Channing,Frye,C. Frye,channing-frye,F,,,Y,24:22,1,4,0.25,0,2.0,0.0,0,0.0,0.0,1,2.0,3,1,0,1,3,3,2,-28
+2008-12-20,ind-vs-phi-0020800391,101122.0,Danny,Granger,D. Granger,danny-granger,,NWT - Viral Infection,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2006-11-18,mem-vs-dal-0020600137,2073.0,Brian,Cardinal,B. Cardinal,brian-cardinal,,,,N,5:15,0,2,0.0,0,1.0,0.0,0,0.0,0.0,0,1.0,1,0,1,0,0,1,0,2
+1997-12-26,gsw-vs-den-0029700389,1677.0,Harold,Ellis,H. Ellis,harold-ellis,,,,Y,4:08,1,2,0.5,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,2,0
+2011-02-11,noh-vs-orl-0021000788,2045.0,Hedo,Turkoglu,H. Turkoglu,hedo-turkoglu,F,,,Y,32:58,7,10,0.7,1,1.0,1.0,1,1.0,1.0,0,6.0,6,5,0,0,4,4,16,-7
+2010-01-18,sac-vs-cha-0020900597,201936.0,Tyreke,Evans,T. Evans,tyreke-evans,G,,,N,40:32,13,20,0.65,0,2.0,0.0,8,11.0,0.727,1,3.0,4,7,2,3,3,2,34,6
+2011-01-29,ind-vs-chi-0021000693,2563.0,Dahntay,Jones,D. Jones,dahntay-jones,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2015-01-05,dal-vs-bkn-0021400511,202962.0,Greg,Smith,G. Smith,greg-smith,,,,N,15:44,2,2,1.0,0,0.0,0.0,1,2.0,0.5,0,3.0,3,1,0,1,0,3,5,8
+2006-10-12,ept-vs-gsw-0010600026,582.0,Mustafa,Abi,M. Abi,mustafa-abi,,,,N,26,1,4,0.25,0,3.0,0.0,0,2.0,0.0,0,2.0,2,1,1,0,0,2,2,0
+2016-11-05,hou-vs-atl-0021600084,1627761.0,DeAndre',Bembry,D. Bembry,deandre-bembry,,,,Y,1:36,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,-2
+2020-02-01,lal-vs-sac-0021900736,1627936.0,Alex,Caruso,A. Caruso,alex-caruso,,,,N,16:11,5,6,0.833,3,4.0,0.75,0,1.0,0.0,0,1.0,1,1,2,0,1,4,13,-13
+2007-03-10,min-vs-atl-0020600929,2746.0,Josh,Smith,J. Smith,josh-smith,F,,,Y,40:34,12,15,0.8,2,2.0,1.0,6,7.0,0.857,1,4.0,5,1,1,2,5,5,32,18
+2017-10-31,phx-vs-bkn-0021700102,1626156.0,D'Angelo,Russell,D. Russell,dangelo-russell,G,,,Y,28:42,11,21,0.524,2,5.0,0.4,9,11.0,0.818,1,5.0,6,4,0,0,1,2,33,-22
+2004-12-06,cha-vs-lac-0020400254,2078.0,Jason,Hart,J. Hart,jason-hart,G,,,N,30:55,3,9,0.333,0,0.0,0.0,1,1.0,1.0,1,1.0,2,6,1,0,1,0,7,-3
+2021-01-22,atl-vs-min-0022000236,1629020.0,Jarred,Vanderbilt,J. Vanderbilt,jarred-vanderbilt,F,,,Y,26:50,5,10,0.5,0,0.0,0.0,0,0.0,0.0,1,3.0,4,4,2,1,0,1,10,-10
+2016-01-06,lac-vs-por-0021500535,201945.0,Gerald,Henderson,G. Henderson,gerald-henderson,,,,Y,17:19,1,6,0.167,0,2.0,0.0,0,0.0,0.0,2,2.0,4,1,1,1,1,0,2,5
+2007-03-23,lal-vs-nok-0020601027,101138.0,Brandon,Bass,B. Bass,brandon-bass,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2003-01-12,mem-vs-sac-0020200528,2425.0,Robert,Archibald,R. Archibald,robert-archibald,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-03-02,okc-vs-lac-0021500907,1718.0,Paul,Pierce,P. Pierce,paul-pierce,F,,,Y,14:38,2,4,0.5,2,3.0,0.667,0,0.0,0.0,1,3.0,4,1,0,0,0,1,6,-3
+2001-03-25,njn-vs-min-0020001009,1496.0,Keith,Van Horn,K. Van Horn,keith-van-horn,F,,,N,11:48,1,4,0.25,1,2.0,0.5,0,0.0,0.0,0,1.0,1,0,0,0,1,1,3,-17
+2017-02-13,sas-vs-ind-0021600825,2225.0,Tony,Parker,T. Parker,tony-parker,G,,,N,29:04,4,8,0.5,0,0.0,0.0,4,4.0,1.0,0,1.0,1,4,0,0,1,1,12,6
+2006-01-16,mia-vs-lal-0020500547,1885.0,Lamar,Odom,L. Odom,lamar-odom,F,,,Y,40:45,5,12,0.417,2,5.0,0.4,7,8.0,0.875,3,7.0,10,9,0,0,4,4,19,3
+2014-11-10,nop-vs-cle-0021400098,202684.0,Tristan,Thompson,T. Thompson,tristan-thompson,,,,Y,25:53,3,7,0.429,0,0.0,0.0,0,0.0,0.0,3,3.0,6,1,0,2,1,1,6,3
+2003-03-28,cle-vs-bos-0020201040,2402.0,Dajuan,Wagner,D. Wagner,dajuan-wagner,,"NWT - Arthroscopic Surgery, Right Knee",,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-02-15,noh-vs-mil-0021100435,202333.0,Xavier,Henry,X. Henry,xavier-henry,,,,N,13:16,3,3,1.0,0,0.0,0.0,0,0.0,0.0,1,3.0,4,0,0,0,2,1,6,-6
+2006-11-17,nyk-vs-mia-0020600121,1899.0,James,Posey,J. Posey,james-posey,,,,Y,14:09,0,4,0.0,0,1.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,2,0,-13
+2017-02-03,mem-vs-okc-0021600750,201188.0,Marc,Gasol,M. Gasol,marc-gasol,C,,,N,41:32,14,24,0.583,0,4.0,0.0,3,3.0,1.0,0,4.0,4,8,2,1,1,4,31,-8
+1998-02-14,uta-vs-sea-0029700722,228.0,Adam,Keefe,A. Keefe,adam-keefe,F,,,N,15:10,1,2,0.5,0,0.0,0.0,2,2.0,1.0,1,1.0,2,0,0,0,1,2,4,-1
+2019-10-11,was-vs-nyk-0011900041,1629067.0,Isaac,Bonga,I. Bonga,isaac-bonga,F,,,N,19:11,2,3,0.667,0,1.0,0.0,0,0.0,0.0,1,1.0,2,0,1,0,1,1,4,11
+2012-04-25,cha-vs-orl-0021100971,201583.0,Ryan,Anderson,R. Anderson,ryan-anderson,F,,,Y,42:22,8,15,0.533,2,8.0,0.25,6,7.0,0.857,7,6.0,13,1,1,0,1,3,24,5
+2004-01-30,cle-vs-mil-0020300666,2091.0,Daniel,Santiago,D. Santiago,daniel-santiago,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2018-02-26,lal-vs-atl-0021700897,203101.0,Miles,Plumlee,M. Plumlee,miles-plumlee,,,,Y,13:17,0,0,0.0,0,0.0,0.0,0,2.0,0.0,1,2.0,3,1,2,0,1,1,0,-10
+2012-06-05,bos-vs-mia-0041100305,202354.0,Dexter,Pittman,D. Pittman,dexter-pittman,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2004-01-30,det-vs-tor-0020300662,2437.0,Lonny,Baxter,L. Baxter,lonny-baxter,,,,Y,3:52,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,3.0,3,0,0,1,1,1,0,3
+2014-10-10,bos-vs-tor-0011400031,203515.0,Phil,Pressey,P. Pressey,phil-pressey,,,,N,21:54,2,4,0.5,1,3.0,0.333,0,0.0,0.0,0,3.0,3,3,0,0,1,1,5,8
+2010-04-26,por-vs-phx-0040900165,200811.0,Lou,Amundson,L. Amundson,lou-amundson,,,,Y,19:13,1,1,1.0,0,0.0,0.0,0,0.0,0.0,3,1.0,4,0,0,1,0,3,2,7
+2016-12-20,lal-vs-cha-0021600419,203087.0,Jeremy,Lamb,J. Lamb,jeremy-lamb,,,,Y,10:50,0,6,0.0,0,1.0,0.0,2,2.0,1.0,1,2.0,3,0,0,0,0,1,2,-14
+2020-09-30,mia-vs-lal-0041900401,203109.0,Jae,Crowder,J. Crowder,jae-crowder,F,,,N,24:30,4,8,0.5,4,7.0,0.571,0,0.0,0.0,0,2.0,2,0,0,2,0,3,12,-21
+2023-03-01,chi-vs-det-0022200934,202711.0,Bojan,Bogdanovic,B. Bogdanovic,bojan-bogdanovic,F,,,Y,39:28,11,21,0.524,8,12.0,0.667,4,4.0,1.0,2,4.0,6,3,1,1,2,4,34,11
+2018-11-02,hou-vs-bkn-0021800118,1626156.0,D'Angelo,Russell,D. Russell,dangelo-russell,G,,,Y,22:26,5,14,0.357,1,5.0,0.2,1,2.0,0.5,1,2.0,3,3,0,0,1,0,12,-12
+2008-11-21,bos-vs-min-0020800176,2215.0,Jason,Collins,J. Collins,jason-collins,C,,,Y,12:29,0,2,0.0,0,0.0,0.0,0,0.0,0.0,2,0.0,2,2,0,0,0,4,0,-10
+2015-11-29,phi-vs-mem-0021500251,203924.0,Jerami,Grant,J. Grant,jerami-grant,F,,,N,30:29,3,9,0.333,1,4.0,0.25,4,5.0,0.8,2,5.0,7,1,2,3,1,4,11,-14
+2013-10-19,was-vs-nop-0011300074,2403.0,Nene,Hilario,Nene,nene-hilario,,,42.0,N,23,2,5,0.4,0,0.0,0.0,6,8.0,0.75,2,6.0,8,1,2,0,2,2,10,0
+2018-10-17,bkn-vs-det-0021800004,1628971.0,Bruce,Brown,B. Brown,bruce-brown,G,,,Y,18:52,0,3,0.0,0,2.0,0.0,0,0.0,0.0,0,2.0,2,1,0,1,1,4,0,6
+2000-03-26,chi-vs-hou-0029901004,1005.0,Walt,Williams,W. Williams,walt-williams,F,,,Y,23:38,9,14,0.643,2,4.0,0.5,4,5.0,0.8,0,1.0,1,0,1,2,2,1,24,34
+2017-12-04,mil-vs-bos-0021700343,1627748.0,Thon,Maker,T. Maker,thon-maker,,,,N,8:21,0,4,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,1,0,-8
+1995-04-04,lal-vs-den-0029400974,1380.0,Lloyd,Daniels,L. Daniels,lloyd-daniels,,,24,N,4,2,3,0.667,0,0.0,0.0,0,0.0,0.0,2,0.0,2,0,0,0,0,0,4,0
+2002-12-11,ind-vs-mil-0020200311,208.0,Sam,Cassell,S. Cassell,sam-cassell,G,,,Y,41:56,10,17,0.588,0,2.0,0.0,5,6.0,0.833,0,2.0,2,8,3,0,4,5,25,-5
+2018-02-01,mil-vs-min-0021700763,202332.0,Cole,Aldrich,C. Aldrich,cole-aldrich,,,,Y,2:39,0,2,0.0,0,0.0,0.0,0,0.0,0.0,1,0.0,1,0,0,1,0,2,0,-5
+2010-01-13,mil-vs-por-0020900567,101106.0,Andrew,Bogut,A. Bogut,andrew-bogut,C,,,N,29:28,4,8,0.5,0,1.0,0.0,2,4.0,0.5,4,7.0,11,1,0,2,4,2,10,-19
+2010-02-09,was-vs-cha-0020900758,101109.0,Raymond,Felton,R. Felton,raymond-felton,G,,,Y,30:48,4,9,0.444,0,2.0,0.0,3,3.0,1.0,0,3.0,3,5,0,1,1,1,11,-6
+2016-10-28,cle-vs-tor-0021600018,201567.0,Kevin,Love,K. Love,kevin-love,F,,,N,35:39,6,15,0.4,2,5.0,0.4,4,4.0,1.0,2,8.0,10,2,1,1,0,2,18,5
+2014-05-02,tor-vs-bkn-0041300126,203082.0,Terrence,Ross,T. Ross,terrence-ross,F,,,N,22:53,3,9,0.333,0,4.0,0.0,0,0.0,0.0,0,3.0,3,1,1,1,0,2,6,-14
+2019-11-13,was-vs-bos-0021900156,202738.0,Isaiah,Thomas,I. Thomas,isaiah-thomas,G,,,N,32:37,7,14,0.5,3,6.0,0.5,1,1.0,1.0,0,1.0,1,7,0,0,2,2,18,-3
+1996-04-11,chi-vs-njn-0029501107,82.0,Bill,Wennington,B. Wennington,bill-wennington,,,34.0,N,16,5,7,0.713,0,0.0,0.0,1,1.0,1.0,2,1.0,3,1,1,0,1,4,11,0
+1995-04-11,sac-vs-lac-0029401015,763.0,Tony,Massenburg,T. Massenburg,tony-massenburg,,,9,Y,31,3,10,0.299,0,0.0,0.0,4,4.0,1.0,0,5.0,5,0,0,0,3,3,10,0
+2021-11-04,bos-vs-mia-0022100121,1628389.0,Bam,Adebayo,B. Adebayo,bam-adebayo,C,,,Y,29:47,4,8,0.5,0,0.0,0.0,5,6.0,0.833,1,6.0,7,4,2,0,5,2,13,-12
+1996-03-08,nyk-vs-phl-0029500857,157.0,Derek,Harper,D. Harper,derek-harper,,,11,N,36,5,14,0.356,0,1.0,0.0,3,3.0,1.0,0,1.0,1,6,1,0,1,4,13,0
+2017-03-17,orl-vs-phx-0021601026,1627737.0,Marquese,Chriss,M. Chriss,marquese-chriss,F,,,Y,25:35,6,9,0.667,1,2.0,0.5,0,0.0,0.0,0,9.0,9,0,0,4,2,4,13,9
+1997-12-26,lac-vs-lal-0029700390,953.0,Lorenzen,Wright,L. Wright,lorenzen-wright,F,,,N,51:31,12,20,0.6,0,0.0,0.0,8,10.0,0.8,3,12.0,15,1,1,1,2,5,32,-7
+2014-03-09,tor-vs-min-0021300940,203498.0,Shabazz,Muhammad,S. Muhammad,shabazz-muhammad,,,,Y,7:30,3,4,0.75,0,0.0,0.0,0,0.0,0.0,1,1.0,2,0,0,0,1,1,6,3
+2021-04-25,phx-vs-bkn-0022000912,203925.0,Joe,Harris,J. Harris,joe-harris,F,,,Y,33:29,4,10,0.4,1,3.0,0.333,1,1.0,1.0,2,2.0,4,1,0,0,2,2,10,6
+2011-03-16,phi-vs-lac-0021001013,101113.0,Ike,Diogu,I. Diogu,ike-diogu,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2000-01-17,mil-vs-atl-0029900533,107.0,Dale,Ellis,D. Ellis,dale-ellis,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2020-12-26,orl-vs-was-0022000024,1629643.0,Chuma,Okeke,C. Okeke,chuma-okeke,,,,N,18:21,1,4,0.25,0,1.0,0.0,1,2.0,0.5,1,2.0,3,2,0,0,0,1,3,-6
+2018-02-06,okc-vs-gsw-0021700803,101109.0,Raymond,Felton,R. Felton,raymond-felton,,,,N,14:02,1,4,0.25,0,2.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,0,0,2,-2
+2012-01-21,min-vs-uta-0021100236,202683.0,Enes,Freedom,E. Freedom,enes-freedom,,,,Y,11:20,3,3,1.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,0,0,1,0,1,6,-1
+2001-12-13,mem-vs-den-0020100311,45.0,George,McCloud,G. McCloud,george-mccloud,,,,Y,22:31,0,6,0.0,0,4.0,0.0,0,0.0,0.0,2,3.0,5,1,1,0,4,2,0,1
+2003-01-21,hou-vs-dal-0020200589,1899.0,James,Posey,J. Posey,james-posey,F,,,N,28:56,1,6,0.167,0,2.0,0.0,5,6.0,0.833,2,3.0,5,0,0,0,1,2,7,-6
+2023-01-18,mia-vs-nop-0022200673,202710.0,Jimmy,Butler,J. Butler,jimmy-butler,F,,,N,26:34,8,13,0.615,0,1.0,0.0,2,3.0,0.667,1,2.0,3,7,0,0,2,1,18,16
+1996-11-27,lal-vs-bos-0029600187,133.0,David,Wesley,D. Wesley,david-wesley,,DND - Sore Right Foot,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2007-11-21,ind-vs-noh-0020700164,2446.0,Rasual,Butler,R. Butler,rasual-butler,,,,Y,11:37,1,5,0.2,1,4.0,0.25,0,0.0,0.0,0,2.0,2,0,0,0,1,2,3,-4
+2013-12-14,cle-vs-mia-0021300344,203079.0,Dion,Waiters,D. Waiters,dion-waiters,,,,N,35:04,5,11,0.455,2,4.0,0.5,4,4.0,1.0,2,1.0,3,0,0,0,2,2,16,-11
+2016-03-27,den-vs-lac-0021501092,203999.0,Nikola,Jokic,N. Jokic,nikola-jokic,C,,,N,20:51,2,7,0.286,0,1.0,0.0,1,2.0,0.5,3,6.0,9,2,1,0,0,1,5,-18
+2021-06-13,bkn-vs-mil-0042000214,1627789.0,Timothe,Luwawu-Cabarrot,T. Luwawu-Cabarrot,timothe-luwawu-cabarrot,,,,N,4:28,1,3,0.333,1,3.0,0.333,0,0.0,0.0,0,0.0,0,1,0,0,0,0,3,4
+2001-11-28,ind-vs-den-0020100209,979.0,Jermaine,O'Neal,J. O'Neal,jermaine-oneal,F,,,N,37:14,4,13,0.308,0,0.0,0.0,6,7.0,0.857,3,10.0,13,2,0,5,1,3,14,25
+2002-12-28,min-vs-det-0020200421,1497.0,Chauncey,Billups,C. Billups,chauncey-billups,G,,,Y,32:41,7,12,0.583,2,6.0,0.333,5,6.0,0.833,0,5.0,5,4,0,0,3,2,21,13
+2015-10-21,cha-vs-det-0011500093,201587.0,Nicolas,Batum,N. Batum,nicolas-batum,G,,,N,32:36,5,14,0.357,3,6.0,0.5,5,5.0,1.0,0,10.0,10,6,0,0,3,3,18,9
+2010-01-09,atl-vs-orl-0020900531,2215.0,Jason,Collins,J. Collins,jason-collins,,,,N,4:27,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,0,-2
+2016-03-24,cle-vs-bkn-0021501069,203930.0,Sean,Kilpatrick,S. Kilpatrick,sean-kilpatrick,,,,Y,22:07,4,13,0.308,0,6.0,0.0,2,2.0,1.0,0,0.0,0,1,1,0,0,0,10,2
+2011-01-01,mem-vs-uta-0021000491,200752.0,Rudy,Gay,R. Gay,rudy-gay,,DND - stomach virus,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2010-01-01,sac-vs-lal-0020900476,201150.0,Spencer,Hawes,S. Hawes,spencer-hawes,C,,,N,40:21,12,20,0.6,4,5.0,0.8,2,2.0,1.0,0,11.0,11,5,1,0,3,3,30,-3
+2007-01-30,bos-vs-ind-0020600670,2744.0,Al,Jefferson,A. Jefferson,al-jefferson,F,,,N,38:57,6,11,0.545,0,0.0,0.0,3,7.0,0.429,5,12.0,17,0,2,0,3,3,15,-11
+2008-03-22,orl-vs-atl-0020701031,2730.0,Dwight,Howard,D. Howard,dwight-howard,C,,,N,37:27,3,5,0.6,0,0.0,0.0,5,11.0,0.455,2,14.0,16,2,2,2,3,3,11,-9
+2022-12-19,sas-vs-hou-0022200455,1626246.0,Boban,Marjanovic,B. Marjanovic,boban-marjanovic,,,,Y,4:01,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,0,2,7
+2007-12-30,gsw-vs-den-0020700445,2747.0,JR,Smith,J. Smith,jr-smith,,,,Y,17:37,6,11,0.545,3,8.0,0.375,0,0.0,0.0,1,2.0,3,2,1,0,3,3,15,3
+2015-03-16,bkn-vs-min-0021400994,708.0,Kevin,Garnett,K. Garnett,kevin-garnett,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-10-26,mil-vs-den-0010500100,2403.0,Nene,Hilario,Nene,nene-hilario,,,31.0,Y,26,9,13,0.691,0,0.0,0.0,7,9.0,0.778,1,7.0,8,2,0,0,3,5,25,0
+1996-04-19,por-vs-gos-0029501163,243.0,Aaron,McKie,A. McKie,aaron-mckie,,,23.0,N,23,4,8,0.5,0,2.0,0.0,4,5.0,0.8,1,2.0,3,3,1,0,4,4,12,0
+1998-02-11,mil-vs-det-0029700697,911.0,Ervin,Johnson,E. Johnson,ervin-johnson,C,,,N,24:47,0,2,0.0,0,0.0,0.0,1,2.0,0.5,2,4.0,6,0,2,0,2,3,1,-12
+2017-03-07,was-vs-phx-0021600948,1627737.0,Marquese,Chriss,M. Chriss,marquese-chriss,F,,,Y,26:17,3,5,0.6,2,2.0,1.0,1,2.0,0.5,2,3.0,5,0,1,1,1,6,9,4
+2000-12-23,cle-vs-orl-0020000385,462.0,J.R.,Reid,J. Reid,jr-reid,,,,N,8:03,1,2,0.5,0,0.0,0.0,1,2.0,0.5,0,1.0,1,0,0,0,0,2,3,-7
+2007-11-04,sea-vs-lac-0020700036,101130.0,Johan,Petro,J. Petro,johan-petro,,,,N,4:40,1,1,1.0,0,0.0,0.0,3,4.0,0.75,1,1.0,2,0,0,0,0,0,5,7
+2012-10-22,gsw-vs-lac-0011200094,201599.0,DeAndre,Jordan,D. Jordan,deandre-jordan,,,6.0,Y,24,8,11,0.726,0,1.0,0.0,2,5.0,0.4,6,6.0,12,0,0,3,0,4,18,0
+2020-01-30,sac-vs-lac-0021900719,203090.0,Maurice,Harkless,M. Harkless,maurice-harkless,F,,,Y,23:43,2,8,0.25,0,3.0,0.0,0,0.0,0.0,1,3.0,4,0,0,1,1,0,4,-3
+2018-03-02,nyk-vs-lac-0021700935,203124.0,Kyle,O'Quinn,K. O'Quinn,kyle-oquinn,,,,N,16:15,0,3,0.0,0,0.0,0.0,0,0.0,0.0,0,4.0,4,2,0,0,1,3,0,-4
+2012-03-12,nyk-vs-chi-0021100612,2243.0,Brian,Scalabrine,B. Scalabrine,brian-scalabrine,,,,Y,1:30,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,1,1,0,-3
+2005-11-05,phx-vs-uta-0020500040,754.0,Jim,Jackson,J. Jackson,jim-jackson,,,,N,17:55,1,4,0.25,1,2.0,0.5,0,0.0,0.0,1,2.0,3,0,1,0,0,0,3,8
+1995-02-26,uth-vs-den-0029400718,67.0,Tom,Hammonds,T. Hammonds,tom-hammonds,,,21,Y,18,3,4,0.75,0,0.0,0.0,3,4.0,0.75,2,2.0,4,1,0,0,4,3,9,0
+1996-03-07,phx-vs-den-0029500852,713.0,Chris,Carr,C. Carr,chris-carr,,,43,N,1,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,1,0,0,0
+2002-10-30,sas-vs-gsw-0020200017,788.0,Kevin,Willis,K. Willis,kevin-willis,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-01-26,lac-vs-hou-0021000674,202339.0,Eric,Bledsoe,E. Bledsoe,eric-bledsoe,,,,N,22:02,2,7,0.286,0,2.0,0.0,1,1.0,1.0,0,1.0,1,6,3,2,0,1,5,-4
+2018-01-08,mil-vs-ind-0021700591,1626167.0,Myles,Turner,M. Turner,myles-turner,C,,,Y,24:05,7,10,0.7,0,1.0,0.0,1,4.0,0.25,2,4.0,6,1,2,3,1,4,15,1
+2012-03-12,was-vs-sas-0021100614,2210.0,Richard,Jefferson,R. Jefferson,richard-jefferson,F,,,Y,25:00,2,8,0.25,1,5.0,0.2,0,1.0,0.0,0,3.0,3,3,1,0,0,0,5,2
+2016-01-08,nyk-vs-sas-0021500546,202338.0,Kevin,Seraphin,K. Seraphin,kevin-seraphin,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2018-01-07,atl-vs-lal-0021700590,203903.0,Jordan,Clarkson,J. Clarkson,jordan-clarkson,,,,Y,23:39,7,10,0.7,3,4.0,0.75,1,1.0,1.0,0,2.0,2,2,1,0,0,0,18,18
+2005-02-07,lal-vs-atl-0020400705,1885.0,Lamar,Odom,L. Odom,lamar-odom,F,,,N,40:13,8,15,0.533,0,1.0,0.0,12,20.0,0.6,1,6.0,7,2,1,2,3,4,28,-6
+2022-02-28,sas-vs-mem-0022100923,1630533.0,Ziaire,Williams,Z. Williams,ziaire-williams,F,,,Y,26:16,0,3,0.0,0,2.0,0.0,0,0.0,0.0,0,2.0,2,1,0,0,0,1,0,9
+2022-12-28,den-vs-sac-0022200522,202397.0,Ish,Smith,I. Smith,ish-smith,,,,N,14:35,2,4,0.5,0,0.0,0.0,0,0.0,0.0,0,1.0,1,5,0,0,1,2,4,4
+2006-03-31,njn-vs-atl-0020501068,2210.0,Richard,Jefferson,R. Jefferson,richard-jefferson,F,,,N,41:58,8,15,0.533,0,2.0,0.0,11,14.0,0.786,4,5.0,9,2,1,0,2,0,27,3
+2016-10-01,gsw-vs-tor-0011600001,200768.0,Kyle,Lowry,K. Lowry,kyle-lowry,G,,,Y,21:18,2,7,0.286,1,5.0,0.2,1,2.0,0.5,0,2.0,2,4,2,1,3,1,6,-7
+1995-11-20,njn-vs-uth-0029500131,288.0,Armen,Gilliam,A. Gilliam,armen-gilliam,,,43,N,33,5,9,0.556,0,0.0,0.0,3,4.0,0.75,0,3.0,3,0,1,0,3,1,13,0
+2011-01-15,mia-vs-chi-0021000591,201600.0,Omer,Asik,O. Asik,omer-asik,,,,Y,17:15,1,1,1.0,0,0.0,0.0,1,1.0,1.0,1,4.0,5,0,1,0,0,3,3,-4
+2006-01-18,phx-vs-lac-0020500561,208.0,Sam,Cassell,S. Cassell,sam-cassell,G,,,Y,33:42,11,19,0.579,0,1.0,0.0,5,8.0,0.625,0,4.0,4,5,0,0,1,3,27,-3
+1996-01-28,phx-vs-chi-0029500597,787.0,Charles,Barkley,C. Barkley,charles-barkley,,,34,N,46,6,14,0.428,0,2.0,0.0,8,10.0,0.8,5,11.0,16,8,0,0,3,2,20,0
+2008-11-21,noh-vs-okc-0020800180,978.0,Peja,Stojakovic,P. Stojakovic,peja-stojakovic,F,,,N,24:56,5,14,0.357,3,6.0,0.5,0,0.0,0.0,1,0.0,1,2,3,0,0,1,13,21
+2013-04-28,mia-vs-mil-0041200104,202327.0,Ekpe,Udoh,E. Udoh,ekpe-udoh,,,,Y,15:42,1,4,0.25,0,0.0,0.0,0,0.0,0.0,1,0.0,1,0,2,2,0,0,2,0
+2007-12-26,mil-vs-den-0020700415,101132.0,Linas,Kleiza,L. Kleiza,linas-kleiza,,,,Y,19:03,4,6,0.667,2,4.0,0.5,3,4.0,0.75,1,4.0,5,3,0,0,1,0,13,3
+2008-12-09,lal-vs-sac-0020800313,200770.0,Jordan,Farmar,J. Farmar,jordan-farmar,,,,N,16:25,2,7,0.286,2,4.0,0.5,2,2.0,1.0,0,0.0,0,1,0,0,0,5,8,5
+2016-10-30,uta-vs-lac-0021600035,201601.0,Luc,Mbah a Moute,L. Mbah a Moute,luc-mbah-a-moute,F,,,Y,16:22,1,5,0.2,0,2.0,0.0,1,2.0,0.5,4,0.0,4,1,0,0,1,0,3,8
+2021-01-06,det-vs-mil-0022000113,201933.0,Blake,Griffin,B. Griffin,blake-griffin,F,,,N,26:11,2,9,0.222,0,6.0,0.0,5,6.0,0.833,0,1.0,1,5,1,0,1,2,9,-19
+2001-04-10,gsw-vs-por-0020001123,739.0,Rasheed,Wallace,R. Wallace,rasheed-wallace,F,,,Y,30:38,5,9,0.556,1,2.0,0.5,1,2.0,0.5,0,6.0,6,3,0,4,0,3,12,29
+2020-01-04,cha-vs-dal-0021900530,201587.0,Nicolas,Batum,N. Batum,nicolas-batum,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2022-12-02,den-vs-atl-0022200327,1628427.0,Vlatko,Cancar,V. Cancar,vlatko-cancar,,,,N,17:10,5,8,0.625,2,4.0,0.5,0,0.0,0.0,1,2.0,3,1,0,0,0,1,12,-7
+2013-03-22,mil-vs-ind-0021201024,202336.0,Larry,Sanders,L. Sanders,larry-sanders,C,,,N,18:38,3,10,0.3,0,0.0,0.0,0,0.0,0.0,6,6.0,12,2,0,2,0,2,6,-11
+2019-02-05,min-vs-mem-0021800801,1627395.0,Julian,Washburn,J. Washburn,julian-washburn,F,,,Y,31:19,3,10,0.3,1,5.0,0.2,0,0.0,0.0,2,2.0,4,2,1,0,0,0,7,19
+2000-02-03,por-vs-nyk-0029900647,757.0,Damon,Stoudamire,D. Stoudamire,damon-stoudamire,G,,,N,35:35,7,12,0.583,1,2.0,0.5,1,1.0,1.0,0,2.0,2,5,0,0,2,1,16,-17
+2010-11-26,lal-vs-uta-0021000231,977.0,Kobe,Bryant,K. Bryant,kobe-bryant,G,,,N,33:40,10,21,0.476,3,5.0,0.6,8,9.0,0.889,1,2.0,3,3,1,0,3,2,31,1
+2019-12-11,lac-vs-tor-0021900359,1628449.0,Chris,Boucher,C. Boucher,chris-boucher,,,,Y,8:59,2,5,0.4,1,3.0,0.333,0,0.0,0.0,1,2.0,3,0,0,0,0,1,5,2
+2006-11-06,mil-vs-chi-0020600047,1730.0,Brian,Skinner,B. Skinner,brian-skinner,,,,N,18:18,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,4.0,4,1,0,0,2,2,2,-14
+2009-12-29,okc-vs-was-0020900453,2555.0,Nick,Collison,N. Collison,nick-collison,,,,N,27:35,3,3,1.0,0,0.0,0.0,2,2.0,1.0,1,3.0,4,0,0,1,0,4,8,18
+2008-03-11,mem-vs-phx-0020700950,2215.0,Jason,Collins,J. Collins,jason-collins,,,,N,9:14,1,1,1.0,0,0.0,0.0,3,4.0,0.75,1,3.0,4,0,0,1,1,1,5,4
+2016-11-04,phx-vs-nop-0021600075,201600.0,Omer,Asik,O. Asik,omer-asik,,,,Y,24:56,0,2,0.0,0,0.0,0.0,0,0.0,0.0,2,10.0,12,1,0,2,1,4,0,6
+2022-11-14,phx-vs-mia-0022200202,203473.0,Dewayne,Dedmon,D. Dedmon,dewayne-dedmon,,,,Y,11:46,5,7,0.714,2,3.0,0.667,0,0.0,0.0,3,1.0,4,0,0,1,0,0,12,-11
+2002-04-08,atl-vs-det-0020101106,361.0,Clifford,Robinson,C. Robinson,clifford-robinson,F,,,Y,40:32,7,15,0.467,3,7.0,0.429,2,2.0,1.0,1,7.0,8,4,3,4,0,5,19,5
+2016-03-02,sac-vs-mem-0021500902,203112.0,Quincy,Acy,Q. Acy,quincy-acy,F,,,N,26:04,5,6,0.833,0,1.0,0.0,1,2.0,0.5,1,2.0,3,1,1,0,1,5,11,-5
+2016-12-20,lal-vs-cha-0021600419,203944.0,Julius,Randle,J. Randle,julius-randle,F,,,N,31:20,4,12,0.333,0,0.0,0.0,0,0.0,0.0,1,6.0,7,4,0,5,3,5,8,-12
+2021-12-22,lac-vs-sac-0022100475,1626159.0,Justise,Winslow,J. Winslow,justise-winslow,,,,N,7:21,2,4,0.5,0,0.0,0.0,1,2.0,0.5,0,4.0,4,0,0,0,0,0,5,7
+2006-01-25,sea-vs-uta-0020500612,2501.0,Reggie,Evans,R. Evans,reggie-evans,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2000-11-03,tor-vs-bos-0020000028,1559.0,Adrian,Griffin,A. Griffin,adrian-griffin,,,,Y,19:06,2,2,1.0,0,0.0,0.0,0,0.0,0.0,0,4.0,4,1,2,1,0,2,4,2
+2008-10-29,njn-vs-was-0020800006,2052.0,DeShawn,Stevenson,D. Stevenson,deshawn-stevenson,G,,,Y,33:25,5,13,0.385,4,8.0,0.5,0,1.0,0.0,0,2.0,2,1,1,0,1,0,14,-8
+2022-10-04,nop-vs-chi-0012200016,1629627.0,Zion,Williamson,Z. Williamson,zion-williamson,F,,,N,15:19,4,6,0.667,0,0.0,0.0,5,5.0,1.0,2,2.0,4,1,1,0,1,0,13,-1
+2009-04-08,was-vs-cle-0020801162,1887.0,Wally,Szczerbiak,W. Szczerbiak,wally-szczerbiak,,,,Y,16:16,1,6,0.167,0,0.0,0.0,2,2.0,1.0,2,4.0,6,0,0,0,0,4,4,-9
+2000-12-25,por-vs-lal-0020000397,21.0,Greg,Anthony,G. Anthony,greg-anthony,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2010-03-12,den-vs-noh-0020900971,2731.0,Emeka,Okafor,E. Okafor,emeka-okafor,C,,,Y,30:58,4,12,0.333,0,0.0,0.0,1,2.0,0.5,2,7.0,9,0,2,0,2,2,9,-4
+2013-10-09,mos-vs-sas-0011300027,42578.0,Sasha,Kaun,S. Kaun,sasha-kaun,,,24.0,N,28,2,3,0.667,0,0.0,0.0,3,3.0,1.0,2,4.0,6,0,0,1,3,2,7,0
+2006-04-27,njn-vs-ind-0040500123,1521.0,Jacque,Vaughn,J. Vaughn,jacque-vaughn,,,,N,25:34,2,4,0.5,0,0.0,0.0,2,2.0,1.0,1,0.0,1,0,1,0,0,3,6,5
+2000-11-21,det-vs-cle-0020000155,902.0,Bimbo,Coles,B. Coles,bimbo-coles,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1996-12-28,gsw-vs-hou-0029600406,769.0,B.J.,Armstrong,B. Armstrong,bj-armstrong,,,,N,15:21,1,5,0.2,0,2.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,2,1,2,-9
+2018-02-02,nyk-vs-mil-0021700771,203503.0,Tony,Snell,T. Snell,tony-snell,G,,,Y,35:26,3,7,0.429,2,3.0,0.667,0,0.0,0.0,1,3.0,4,2,0,1,0,2,8,1
+2004-10-22,den-vs-gsw-0010400064,935.0,Bryon,Russell,B. Russell,bryon-russell,,,9.0,N,5,3,5,0.599,2,2.0,1.0,0,0.0,0.0,0,3.0,3,0,0,0,0,1,8,0
+2009-12-26,cha-vs-okc-0020900434,101109.0,Raymond,Felton,R. Felton,raymond-felton,G,,,N,37:39,5,11,0.455,0,3.0,0.0,2,2.0,1.0,0,2.0,2,5,0,0,1,2,12,-6
+2003-12-19,gsw-vs-orl-0020300361,1731.0,Tyronn,Lue,T. Lue,tyronn-lue,,DND - Strained Left Hip Flexor,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2008-04-23,den-vs-lal-0040700142,201207.0,Coby,Karl,C. Karl,coby-karl,,,,Y,2:02,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,0,1,0,-4
+2011-02-20,est-vs-wst-0031000001,201933.0,Blake,Griffin,B. Griffin,blake-griffin,,,,Y,14:39,4,6,0.667,0,0.0,0.0,0,0.0,0.0,2,3.0,5,5,0,0,0,0,8,-9
+2017-04-20,sas-vs-mem-0041600153,1713.0,Vince,Carter,V. Carter,vince-carter,G,,,Y,36:09,2,4,0.5,0,1.0,0.0,0,0.0,0.0,0,4.0,4,2,0,0,0,1,4,10
+2015-11-15,por-vs-cha-0021500147,1626163.0,Frank,Kaminsky,F. Kaminsky,frank-kaminsky,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2021-10-30,cle-vs-phx-0022100088,1630205.0,Lamar,Stevens,L. Stevens,lamar-stevens,,,,N,6:06,1,2,0.5,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,1,0,2,3
+2011-03-12,det-vs-den-0021000984,2403.0,Nene,Hilario,Nene,nene-hilario,C,,,Y,26:03,6,8,0.75,0,0.0,0.0,6,8.0,0.75,1,10.0,11,2,1,1,0,0,18,11
+2000-01-13,bos-vs-min-0029900501,1517.0,Bobby,Jackson,B. Jackson,bobby-jackson,,,,Y,5:40,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,0,0,0,-3
+2005-02-15,uta-vs-lal-0020400767,258.0,Brian,Grant,B. Grant,brian-grant,,,,Y,12:49,0,3,0.0,0,0.0,0.0,0,0.0,0.0,1,2.0,3,1,0,1,2,6,0,-4
+2010-04-12,min-vs-sas-0020901208,101133.0,Ian,Mahinmi,I. Mahinmi,ian-mahinmi,,,,Y,19:40,4,7,0.571,0,0.0,0.0,6,12.0,0.5,1,6.0,7,0,1,1,1,6,14,1
+2016-10-16,den-vs-por-0011600075,202323.0,Evan,Turner,E. Turner,evan-turner,,,,Y,23:44,2,10,0.2,0,2.0,0.0,2,2.0,1.0,0,4.0,4,1,3,0,2,0,6,2
+2000-11-14,chi-vs-hou-0020000106,1000.0,Shandon,Anderson,S. Anderson,shandon-anderson,G,,,Y,24:37,2,5,0.4,0,2.0,0.0,0,0.0,0.0,0,3.0,3,1,2,0,4,2,4,14
+2014-01-12,cle-vs-sac-0021300552,200752.0,Rudy,Gay,R. Gay,rudy-gay,F,,,Y,29:30,8,12,0.667,3,5.0,0.6,1,1.0,1.0,0,5.0,5,3,1,3,2,1,20,30
+2006-04-10,dal-vs-lac-0020501155,2605.0,Marquis,Daniels,M. Daniels,marquis-daniels,,,,N,23:26,6,8,0.75,1,1.0,1.0,0,0.0,0.0,1,0.0,1,4,0,1,0,3,13,2
+1998-03-22,was-vs-njn-0029700974,420.0,Jayson,Williams,J. Williams,jayson-williams,C,,,Y,39:34,7,14,0.5,0,0.0,0.0,1,4.0,0.25,9,8.0,17,0,0,0,0,6,15,2
+2001-02-13,phx-vs-gsw-0020000720,1502.0,Adonal,Foyle,A. Foyle,adonal-foyle,C,,,Y,25:21,0,2,0.0,0,0.0,0.0,0,0.0,0.0,1,7.0,8,1,0,2,2,1,0,-22
+1997-01-10,ind-vs-den-0029600486,273.0,Duane,Ferrell,D. Ferrell,duane-ferrell,,,,N,8:43,1,3,0.333,1,2.0,0.5,0,0.0,0.0,0,0.0,0,1,0,0,0,2,3,-2
+2008-12-29,den-vs-atl-0020800450,1088.0,Chucky,Atkins,C. Atkins,chucky-atkins,,,,N,2:33,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,0,0,0,1
+2005-04-15,sac-vs-lal-0020401182,2567.0,Brian,Cook,B. Cook,brian-cook,,,,Y,2:54,1,3,0.333,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,0,2,0
+1997-02-13,gsw-vs-dal-0029600703,1077.0,Ray,Owes,R. Owes,ray-owes,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2010-05-26,bos-vs-orl-0040900305,201175.0,Glen,Davis,G. Davis,glen-davis,,,,N,19:51,2,4,0.5,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,4,4,-6
+2001-12-07,uta-vs-lac-0020100273,317.0,John,Starks,J. Starks,john-starks,,,,N,7:54,0,3,0.0,0,1.0,0.0,1,2.0,0.5,0,0.0,0,1,0,0,1,2,1,-4
+2012-02-01,was-vs-orl-0021100316,202698.0,Chris,Singleton,C. Singleton,chris-singleton,,,,N,12:57,0,3,0.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,2,0,0,2
+2007-12-31,ind-vs-cha-0020700449,101113.0,Ike,Diogu,I. Diogu,ike-diogu,,,,N,5:14,0,1,0.0,0,0.0,0.0,0,0.0,0.0,1,0.0,1,0,0,0,1,0,0,-5
+1999-05-05,van-vs-sac-0029800725,949.0,Shareef,Abdur-Rahim,S. Abdur-Rahim,shareef-abdur-rahim,F,,,N,38:30,9,16,0.563,1,1.0,1.0,7,9.0,0.778,0,2.0,2,0,2,0,3,5,26,-8
+2008-01-11,cha-vs-cle-0020700527,200789.0,Daniel,Gibson,D. Gibson,daniel-gibson,,,,Y,40:23,4,7,0.571,4,6.0,0.667,2,3.0,0.667,0,2.0,2,1,1,0,2,2,14,17
+2013-02-01,sac-vs-phi-0021200689,2202.0,Jason,Richardson,J. Richardson,jason-richardson,,NWT - Left Knee Synovitis,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2021-02-03,hou-vs-okc-0022000333,200782.0,P.J.,Tucker,P. Tucker,pj-tucker,F,,,N,24:57,0,2,0.0,0,1.0,0.0,0,0.0,0.0,0,5.0,5,1,0,0,0,2,0,-6
+2002-11-04,chi-vs-tor-0020200046,1572.0,Nate,Huffman,N. Huffman,nate-huffman,,DND - Arthroscopic Surgery Right Knee,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2022-12-16,sac-vs-det-0022200429,1629674.0,Neemias,Queta,N. Queta,neemias-queta,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2002-02-23,sac-vs-dal-0020100783,124.0,Vlade,Divac,V. Divac,vlade-divac,C,,,N,15:14,0,7,0.0,0,0.0,0.0,0,0.0,0.0,2,5.0,7,2,1,0,1,4,0,-5
+1997-01-31,mil-vs-chh-0029600633,177.0,Muggsy,Bogues,M. Bogues,muggsy-bogues,G,,,Y,8:50,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,3,0,0,0,1,2,5
+2015-10-30,tor-vs-bos-0021500024,202323.0,Evan,Turner,E. Turner,evan-turner,,,,Y,27:30,2,11,0.182,0,1.0,0.0,2,4.0,0.5,1,3.0,4,1,1,0,4,2,6,-6
+2009-02-22,det-vs-cle-0020800835,201581.0,JJ,Hickson,J. Hickson,jj-hickson,,,,Y,12:00,0,0,0.0,0,0.0,0.0,0,0.0,0.0,1,1.0,2,0,0,0,1,0,0,-9
+1996-02-03,por-vs-phl-0029500636,137.0,Vernon,Maxwell,V. Maxwell,vernon-maxwell,,,11,Y,27,4,9,0.444,2,7.0,0.285,10,15.0,0.667,0,1.0,1,5,1,0,4,1,20,0
+2014-12-20,ind-vs-den-0021400398,203994.0,Jusuf,Nurkic,J. Nurkic,jusuf-nurkic,,,,Y,11:49,2,4,0.5,0,0.0,0.0,0,0.0,0.0,1,4.0,5,0,1,0,0,3,4,1
+2018-12-10,min-vs-gsw-0021800400,1628395.0,Jordan,Bell,J. Bell,jordan-bell,,,,Y,10:27,1,2,0.5,0,0.0,0.0,0,0.0,0.0,1,0.0,1,0,0,0,1,3,2,2
+2016-01-06,mem-vs-okc-0021500534,202713.0,Kyle,Singler,K. Singler,kyle-singler,,,,Y,3:39,1,2,0.5,0,1.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,0,2,2,-4
+2013-01-12,hou-vs-phi-0021200544,202730.0,Lavoy,Allen,L. Allen,lavoy-allen,C,,,Y,20:48,1,6,0.167,0,0.0,0.0,1,2.0,0.5,2,2.0,4,1,0,0,0,3,3,-3
+2000-04-26,tor-vs-nyk-0049900013,121.0,Patrick,Ewing,P. Ewing,patrick-ewing,C,,,Y,31:07,6,11,0.545,0,0.0,0.0,7,11.0,0.636,1,8.0,9,0,1,0,2,5,19,5
+1999-11-07,was-vs-njn-0029900046,271.0,Johnny,Newman,J. Newman,johnny-newman,,,,Y,23:52,7,11,0.636,4,6.0,0.667,7,8.0,0.875,0,0.0,0,0,0,0,0,2,25,16
+2013-12-16,orl-vs-chi-0021300362,202710.0,Jimmy,Butler,J. Butler,jimmy-butler,G,,,Y,27:30,1,11,0.091,0,4.0,0.0,2,2.0,1.0,2,1.0,3,2,1,1,0,1,4,-16
+2016-01-27,cha-vs-uta-0021500690,202324.0,Derrick,Favors,D. Favors,derrick-favors,,,,Y,20:49,6,9,0.667,0,0.0,0.0,0,2.0,0.0,1,2.0,3,2,1,0,0,1,12,20
+2004-02-28,den-vs-sas-0020300854,948.0,Marcus,Camby,M. Camby,marcus-camby,C,,,N,20:41,1,3,0.333,0,0.0,0.0,0,0.0,0.0,0,5.0,5,1,0,1,0,4,2,-7
+2000-04-04,sas-vs-orl-0029901058,1533.0,Anthony,Johnson,A. Johnson,anthony-johnson,,,,Y,1:39,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,0,-7
+2004-03-27,chi-vs-atl-0020301049,2055.0,Mamadou,N'diaye,M. N'diaye,mamadou-ndiaye,,,,Y,13:06,1,1,1.0,0,0.0,0.0,1,2.0,0.5,1,4.0,5,0,1,0,0,2,3,-10
+2009-01-02,phi-vs-dal-0020800483,2416.0,Kareem,Rush,K. Rush,kareem-rush,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2017-10-04,mac-vs-uta-0011700021,203918.0,Rodney,Hood,R. Hood,rodney-hood,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2021-04-01,was-vs-det-0022000179,201566.0,Russell,Westbrook,R. Westbrook,russell-westbrook,G,,,N,35:31,7,16,0.438,1,5.0,0.2,1,6.0,0.167,2,9.0,11,12,0,1,9,3,16,-23
+2004-11-06,orl-vs-cha-0020400031,2078.0,Jason,Hart,J. Hart,jason-hart,G,,,Y,32:27,4,8,0.5,1,1.0,1.0,5,6.0,0.833,0,2.0,2,11,1,0,2,1,14,10
+2009-11-07,sac-vs-uta-0020900090,201953.0,Eric,Maynor,E. Maynor,eric-maynor,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2003-02-21,por-vs-lal-0020200790,2058.0,Mark,Madsen,M. Madsen,mark-madsen,,,,Y,17:33,1,3,0.333,0,0.0,0.0,4,4.0,1.0,2,2.0,4,1,0,0,0,1,6,-4
+2005-04-10,lal-vs-sac-0020401142,722.0,Corliss,Williamson,C. Williamson,corliss-williamson,,NWT - NBA suspension,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-11-23,lac-vs-bkn-0021200174,1885.0,Lamar,Odom,L. Odom,lamar-odom,,,,N,5:30,0,1,0.0,0,0.0,0.0,0,0.0,0.0,1,1.0,2,0,1,0,1,2,0,-1
+2003-12-03,den-vs-gsw-0020300256,1863.0,Earl,Boykins,E. Boykins,earl-boykins,,,,N,24:27,5,8,0.625,0,1.0,0.0,2,2.0,1.0,1,1.0,2,4,0,0,2,0,12,2
+2000-11-14,orl-vs-sac-0020000109,2045.0,Hedo,Turkoglu,H. Turkoglu,hedo-turkoglu,,,,Y,4:22,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,-2
+2005-11-26,phi-vs-nyk-0020500182,2047.0,Quentin,Richardson,Q. Richardson,quentin-richardson,G,,,Y,19:18,0,5,0.0,0,2.0,0.0,0,0.0,0.0,1,3.0,4,0,0,0,1,1,0,-1
+2022-11-18,mil-vs-phi-0022200226,1627788.0,Furkan,Korkmaz,F. Korkmaz,furkan-korkmaz,,DND - Injury/Illness,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-11-13,cle-vs-orl-0020500092,1499.0,Tony,Battie,T. Battie,tony-battie,C,,,Y,27:42,5,9,0.556,0,0.0,0.0,0,0.0,0.0,1,2.0,3,0,0,1,0,2,10,-1
+2001-05-15,chh-vs-mil-0040000046,934.0,Derrick,Coleman,D. Coleman,derrick-coleman,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2002-11-27,atl-vs-noh-0020200212,689.0,Theo,Ratliff,T. Ratliff,theo-ratliff,C,,,N,24:07,1,5,0.2,0,0.0,0.0,0,2.0,0.0,0,4.0,4,1,0,0,1,1,2,-17
+2010-04-13,uta-vs-gsw-0020901214,1904.0,Devean,George,D. George,devean-george,,,,Y,27:22,6,9,0.667,5,6.0,0.833,4,4.0,1.0,2,3.0,5,0,3,0,0,4,21,-1
+2012-01-10,tor-vs-was-0021100133,201580.0,JaVale,McGee,J. McGee,javale-mcgee,C,,,Y,20:59,4,6,0.667,0,0.0,0.0,2,2.0,1.0,0,6.0,6,0,0,3,6,2,10,0
+1998-05-17,ind-vs-chi-0049700070,22.0,Rik,Smits,R. Smits,rik-smits,C,,,N,33:37,4,10,0.4,0,0.0,0.0,1,2.0,0.5,0,7.0,7,1,0,1,4,4,9,-9
+2021-12-15,min-vs-den-0022100424,1627752.0,Taurean,Prince,T. Prince,taurean-prince,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1998-01-10,uta-vs-hou-0029700495,228.0,Adam,Keefe,A. Keefe,adam-keefe,F,,,N,24:00,4,6,0.667,0,0.0,0.0,0,0.0,0.0,1,0.0,1,2,2,0,2,2,8,17
+2017-11-06,bkn-vs-phx-0021700147,1627733.0,Dragan,Bender,D. Bender,dragan-bender,,,,Y,10:19,0,2,0.0,0,1.0,0.0,0,0.0,0.0,1,3.0,4,0,0,0,0,0,0,-15
+2016-01-28,mil-vs-mem-0021500695,201188.0,Marc,Gasol,M. Gasol,marc-gasol,C,,,Y,28:05,7,11,0.636,0,0.0,0.0,1,2.0,0.5,1,7.0,8,4,4,0,1,2,15,17
+2022-12-14,mia-vs-okc-0022200419,200768.0,Kyle,Lowry,K. Lowry,kyle-lowry,G,,,N,29:14,5,10,0.5,4,9.0,0.444,0,0.0,0.0,0,3.0,3,6,0,0,1,3,14,-10
+1998-04-12,nyk-vs-mia-0029701131,369.0,Charlie,Ward,C. Ward,charlie-ward,G,,,N,32:13,4,9,0.444,1,2.0,0.5,0,0.0,0.0,0,5.0,5,6,1,0,1,3,9,10
+2012-11-24,min-vs-gsw-0021200190,2572.0,Josh,Howard,J. Howard,josh-howard,,,,N,12:32,1,2,0.5,0,1.0,0.0,1,2.0,0.5,0,2.0,2,1,0,0,1,2,3,-4
+2014-02-03,chi-vs-sac-0021300720,203112.0,Quincy,Acy,Q. Acy,quincy-acy,,,,Y,23:15,3,4,0.75,1,1.0,1.0,2,2.0,1.0,3,3.0,6,1,2,0,0,5,9,21
+2006-03-05,gsw-vs-min-0020500878,2239.0,Trenton,Hassell,T. Hassell,trenton-hassell,F,,,Y,30:51,6,8,0.75,0,0.0,0.0,3,3.0,1.0,2,2.0,4,4,0,0,2,3,15,20
+2008-12-05,phi-vs-det-0020800282,201578.0,Marreese,Speights,M. Speights,marreese-speights,F,,,N,22:31,4,11,0.364,0,0.0,0.0,0,0.0,0.0,0,6.0,6,1,0,1,2,3,8,-13
+2005-11-12,uta-vs-chi-0020500086,2736.0,Luol,Deng,L. Deng,luol-deng,,,,Y,29:38,7,12,0.583,1,2.0,0.5,6,7.0,0.857,1,2.0,3,1,0,2,0,1,21,11
+2002-04-17,mia-vs-orl-0020101180,353.0,Darrell,Armstrong,D. Armstrong,darrell-armstrong,,,,Y,29:18,4,10,0.4,3,7.0,0.429,2,2.0,1.0,1,2.0,3,4,1,1,4,2,13,-2
+2003-12-13,phx-vs-lac-0020300327,2425.0,Robert,Archibald,R. Archibald,robert-archibald,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2008-01-18,sac-vs-det-0020700577,2419.0,Tayshaun,Prince,T. Prince,tayshaun-prince,F,,,Y,38:25,5,11,0.455,1,2.0,0.5,4,5.0,0.8,2,2.0,4,3,0,1,2,1,15,7
+2000-12-12,ind-vs-tor-0020000306,1541.0,Alvin,Williams,A. Williams,alvin-williams,,,,Y,26:51,1,10,0.1,0,1.0,0.0,4,6.0,0.667,1,2.0,3,2,2,0,1,4,6,26
+2001-02-21,den-vs-sea-0020000778,788.0,Kevin,Willis,K. Willis,kevin-willis,,,,N,15:02,3,11,0.273,0,0.0,0.0,0,0.0,0.0,2,2.0,4,1,1,0,1,4,6,-21
+1998-03-08,chh-vs-njn-0029700870,710.0,David,Vaughn,D. Vaughn,david-vaughn,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-05-17,mia-vs-ind-0041100203,202227.0,Terrel,Harris,T. Harris,terrel-harris,,,,N,2:43,0,1,0.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,1
+2006-12-27,mia-vs-chi-0020600422,1112.0,Ben,Wallace,B. Wallace,ben-wallace,C,,,Y,38:44,4,9,0.444,0,0.0,0.0,1,6.0,0.167,5,6.0,11,5,2,3,2,4,9,-7
+2002-12-23,atl-vs-ind-0020200299,1956.0,Ira,Newble,I. Newble,ira-newble,G,,,N,23:07,3,5,0.6,0,0.0,0.0,2,2.0,1.0,1,3.0,4,0,0,0,1,4,8,-10
+2013-04-15,hou-vs-phx-0021201211,202693.0,Markieff,Morris,M. Morris,markieff-morris,F,,,Y,35:34,8,15,0.533,2,3.0,0.667,2,2.0,1.0,2,5.0,7,1,5,6,1,3,20,16
+2007-11-21,njn-vs-por-0020700168,2038.0,Joel,Przybilla,J. Przybilla,joel-przybilla,,,,Y,10:22,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,3.0,3,0,0,0,2,3,2,-9
+2003-01-25,phi-vs-mia-0020200617,934.0,Derrick,Coleman,D. Coleman,derrick-coleman,,,,N,28:03,5,7,0.714,0,0.0,0.0,4,5.0,0.8,3,3.0,6,0,0,2,1,4,14,17
+2005-02-09,mem-vs-phi-0020400719,2563.0,Dahntay,Jones,D. Jones,dahntay-jones,G,,,N,28:56,6,11,0.545,3,6.0,0.5,8,9.0,0.889,0,2.0,2,2,0,0,1,2,23,-4
+2008-11-21,mem-vs-dal-0020800177,200826.0,J.J.,Barea,J. Barea,jj-barea,,,,Y,18:57,3,5,0.6,1,2.0,0.5,2,2.0,1.0,1,0.0,1,2,1,0,2,1,9,-2
+2021-10-05,was-vs-hou-0012100013,1630256.0,Jae'Sean,Tate,J. Tate,jaesean-tate,,,,Y,17:54,1,4,0.25,0,0.0,0.0,2,2.0,1.0,0,2.0,2,0,0,0,0,4,4,-3
+2001-01-21,ind-vs-nyk-0020000578,1733.0,Al,Harrington,A. Harrington,al-harrington,,,,N,33:11,4,9,0.444,0,0.0,0.0,1,2.0,0.5,1,10.0,11,2,0,0,3,4,9,13
+1996-03-01,dal-vs-van-0029500812,898.0,Blue,Edwards,B. Edwards,blue-edwards,,,30,Y,41,5,15,0.333,1,3.0,0.333,4,4.0,1.0,3,10.0,13,11,2,1,1,5,15,0
+2016-11-07,ind-vs-cha-0021600095,203077.0,Michael,Kidd-Gilchrist,M. Kidd-Gilchrist,michael-kidd-gilchrist,F,,,Y,18:30,4,4,1.0,0,0.0,0.0,5,5.0,1.0,0,1.0,1,1,1,2,0,1,13,27
+2018-12-27,por-vs-gsw-0021800516,202691.0,Klay,Thompson,K. Thompson,klay-thompson,G,,,Y,39:02,6,19,0.316,2,9.0,0.222,1,4.0,0.25,1,7.0,8,2,3,1,1,2,15,5
+2003-05-08,sac-vs-dal-0040200232,1505.0,Tariq,Abdul-Wahad,T. Abdul-Wahad,tariq-abdul-wahad,,,,Y,9:48,0,5,0.0,0,1.0,0.0,0,0.0,0.0,2,1.0,3,1,0,0,0,2,0,-14
+2015-01-09,mem-vs-nop-0021400541,203076.0,Anthony,Davis,A. Davis,anthony-davis,F,,,Y,36:30,7,16,0.438,0,0.0,0.0,6,6.0,1.0,2,8.0,10,2,0,3,1,3,20,12
+2011-03-25,tor-vs-gsw-0021001079,2501.0,Reggie,Evans,R. Evans,reggie-evans,,DND - Sore Right Foot,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1998-04-08,mia-vs-nyk-0029701101,194.0,Anthony,Bowie,A. Bowie,anthony-bowie,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-01-24,okc-vs-noh-0021000660,201161.0,Daequan,Cook,D. Cook,daequan-cook,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1997-01-03,min-vs-bos-0029600434,175.0,Alton,Lister,A. Lister,alton-lister,C,,,Y,18:17,1,1,1.0,0,0.0,0.0,0,0.0,0.0,1,6.0,7,0,0,0,3,3,2,-4
+2010-01-29,mem-vs-sas-0020900686,201970.0,Sam,Young,S. Young,sam-young,,,,N,16:41,5,6,0.833,0,0.0,0.0,1,1.0,1.0,0,0.0,0,0,1,0,0,0,11,1
+2020-12-29,orl-vs-okc-0022000052,1630221.0,Josh,Hall,J. Hall,josh-hall,,,,Y,0:48,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,-1
+1999-02-05,nyk-vs-orl-0029800002,270.0,Horace,Grant,H. Grant,horace-grant,F,,,Y,30:21,7,14,0.5,0,0.0,0.0,0,0.0,0.0,4,7.0,11,3,2,1,1,3,14,5
+2015-04-11,phi-vs-chi-0021401189,203128.0,Furkan,Aldemir,F. Aldemir,furkan-aldemir,C,,,N,25:15,1,2,0.5,0,0.0,0.0,0,0.0,0.0,4,4.0,8,0,1,0,3,5,2,-13
+2009-02-06,lac-vs-mem-0020800737,948.0,Marcus,Camby,M. Camby,marcus-camby,C,,,N,24:04,3,6,0.5,0,0.0,0.0,1,2.0,0.5,1,10.0,11,2,0,1,3,4,7,6
+2012-01-21,den-vs-nyk-0021100228,201568.0,Danilo,Gallinari,D. Gallinari,danilo-gallinari,F,,,N,51:42,9,19,0.474,1,3.0,0.333,18,20.0,0.9,3,8.0,11,2,1,0,2,4,37,5
+2011-03-04,cle-vs-nyk-0021000919,200749.0,Shelden,Williams,S. Williams,shelden-williams,,,,Y,12:22,1,1,1.0,0,0.0,0.0,4,6.0,0.667,3,1.0,4,0,0,1,0,3,6,-1
+2005-03-16,mem-vs-noh-0020400949,2248.0,Earl,Watson,E. Watson,earl-watson,G,,,N,31:59,7,11,0.636,2,3.0,0.667,0,0.0,0.0,0,3.0,3,8,1,0,3,2,16,4
+2015-10-16,bos-vs-nyk-0011500067,1626276.0,Darion,Atkins,D. Atkins,darion-atkins,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2018-11-29,gsw-vs-tor-0021800316,1626188.0,Quinn,Cook,Q. Cook,quinn-cook,G,,,N,21:19,4,9,0.444,0,2.0,0.0,0,0.0,0.0,0,0.0,0,1,1,0,1,2,8,-9
+2012-11-14,uta-vs-bos-0021200110,202683.0,Enes,Freedom,E. Freedom,enes-freedom,,,,N,11:51,1,4,0.25,0,0.0,0.0,0,0.0,0.0,1,2.0,3,0,0,0,2,2,2,-8
+2019-04-22,hou-vs-uta-0041800174,202697.0,Iman,Shumpert,I. Shumpert,iman-shumpert,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2006-10-26,den-vs-lal-0010600114,2567.0,Brian,Cook,B. Cook,brian-cook,,,43.0,Y,15,5,9,0.556,2,2.0,1.0,1,3.0,0.333,0,3.0,3,0,0,0,0,3,13,0
+2009-10-14,tor-vs-bos-0010900060,200753.0,Patrick,O'Bryant,P. O'Bryant,patrick-obryant,,,13.0,N,5,0,1,0.0,0,0.0,0.0,1,2.0,0.5,0,1.0,1,0,0,1,0,0,1,0
+2001-03-26,lac-vs-por-0020001016,15.0,Eric,Piatkowski,E. Piatkowski,eric-piatkowski,G,,,N,10:44,1,2,0.5,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,3,2,-11
+2000-01-15,det-vs-was-0029900517,1425.0,Aaron,Williams,A. Williams,aaron-williams,,,,Y,24:25,3,5,0.6,0,0.0,0.0,1,4.0,0.25,2,6.0,8,1,4,4,3,3,7,-8
+2013-12-31,atl-vs-bos-0021300460,203544.0,Pero,Antic,P. Antic,pero-antic,,,,N,22:30,2,5,0.4,1,4.0,0.25,0,0.0,0.0,1,4.0,5,0,0,0,0,3,5,6
+2015-03-19,den-vs-hou-0021401017,203910.0,Nick,Johnson,N. Johnson,nick-johnson,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2002-02-17,sea-vs-sac-0020100745,2045.0,Hedo,Turkoglu,H. Turkoglu,hedo-turkoglu,,,,Y,20:13,2,8,0.25,0,3.0,0.0,3,4.0,0.75,1,2.0,3,2,1,2,0,3,7,1
+2011-03-27,dal-vs-phx-0021001095,101133.0,Ian,Mahinmi,I. Mahinmi,ian-mahinmi,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-03-17,nyk-vs-ind-0021100656,2561.0,David,West,D. West,david-west,F,,,Y,26:09,1,4,0.25,0,0.0,0.0,1,2.0,0.5,2,3.0,5,3,0,1,2,3,3,2
+2001-11-30,lal-vs-sea-0020100225,699.0,Brent,Barry,B. Barry,brent-barry,G,,,Y,32:03,5,9,0.556,2,4.0,0.5,0,0.0,0.0,0,0.0,0,3,0,0,0,3,12,-22
+2006-04-04,nyk-vs-was-0020501096,1508.0,Maurice,Taylor,M. Taylor,maurice-taylor,,,,N,17:28,2,9,0.222,0,0.0,0.0,1,2.0,0.5,2,2.0,4,0,0,0,1,2,5,-3
+2010-02-16,bos-vs-sac-0020900789,201175.0,Glen,Davis,G. Davis,glen-davis,,,,N,17:22,3,7,0.429,0,0.0,0.0,0,0.0,0.0,5,3.0,8,3,0,1,1,1,6,11
+2009-01-23,mil-vs-atl-0020800633,201242.0,Thomas,Gardner,T. Gardner,thomas-gardner,,,,Y,10:21,1,3,0.333,0,1.0,0.0,0,0.0,0.0,0,2.0,2,0,0,0,1,0,2,2
+2003-04-02,nyk-vs-den-0020201084,369.0,Charlie,Ward,C. Ward,charlie-ward,,,,N,24:00,2,4,0.5,1,3.0,0.333,1,2.0,0.5,0,3.0,3,6,1,0,1,3,6,19
+2015-03-18,bos-vs-okc-0021401011,201973.0,Jonas,Jerebko,J. Jerebko,jonas-jerebko,,,,N,19:14,1,3,0.333,1,2.0,0.5,4,4.0,1.0,0,4.0,4,2,0,0,1,0,7,2
+1997-11-28,min-vs-den-0029700200,1504.0,Danny,Fortson,D. Fortson,danny-fortson,,,,Y,26:33,3,11,0.273,0,0.0,0.0,6,6.0,1.0,2,2.0,4,0,0,0,4,5,12,13
+2000-01-25,det-vs-cle-0029900588,283.0,Lindsey,Hunter,L. Hunter,lindsey-hunter,G,,,N,33:25,7,14,0.5,3,6.0,0.5,0,2.0,0.0,0,3.0,3,4,1,1,2,5,17,-18
+2006-02-22,bos-vs-phx-0020500798,1718.0,Paul,Pierce,P. Pierce,paul-pierce,F,,,N,37:46,8,28,0.286,0,6.0,0.0,4,8.0,0.5,2,5.0,7,6,1,1,5,0,20,-22
+2015-01-07,det-vs-dal-0021400529,201571.0,D.J.,Augustin,D. Augustin,dj-augustin,,,,N,21:41,9,16,0.563,4,5.0,0.8,4,5.0,0.8,0,1.0,1,2,1,0,2,1,26,4
+2019-12-01,was-vs-lac-0021900292,203895.0,Jordan,McRae,J. McRae,jordan-mcrae,,,,N,17:49,3,10,0.3,0,2.0,0.0,2,2.0,1.0,0,1.0,1,2,0,0,2,3,8,-8
+1998-03-15,lac-vs-por-0029700926,180.0,John,Crotty,J. Crotty,john-crotty,,,,Y,12:00,1,1,1.0,0,0.0,0.0,4,4.0,1.0,0,0.0,0,1,0,0,1,0,6,12
+2015-11-07,nop-vs-dal-0021500088,201967.0,Dante,Cunningham,D. Cunningham,dante-cunningham,,,,N,18:51,0,3,0.0,0,2.0,0.0,0,0.0,0.0,1,4.0,5,1,0,0,0,1,0,-17
+1997-02-26,lac-vs-van-0029600803,195.0,Lee,Mayberry,L. Mayberry,lee-mayberry,,,,Y,9:09,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,1,0,0,0,1,0,-6
+2010-11-14,sas-vs-okc-0021000141,202332.0,Cole,Aldrich,C. Aldrich,cole-aldrich,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1998-04-19,phx-vs-hou-0029701185,672.0,Matt,Bullard,M. Bullard,matt-bullard,,,,Y,29:59,5,9,0.556,0,2.0,0.0,0,0.0,0.0,0,3.0,3,0,4,0,0,3,10,-25
+2012-01-25,njn-vs-phi-0021100257,201152.0,Thaddeus,Young,T. Young,thaddeus-young,,,,Y,27:17,5,9,0.556,0,1.0,0.0,0,0.0,0.0,0,5.0,5,2,2,0,2,1,10,7
+2008-02-26,orl-vs-njn-0020700837,2045.0,Hedo,Turkoglu,H. Turkoglu,hedo-turkoglu,F,,,N,40:23,8,13,0.615,2,4.0,0.5,7,8.0,0.875,1,4.0,5,3,2,0,3,3,25,6
+2002-03-22,chh-vs-orl-0020100981,1714.0,Robert,Traylor,R. Traylor,robert-traylor,,,,N,4:03,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,1,0,0,2,0,-2
+2001-01-29,chh-vs-gsw-0020000637,1944.0,Eddie,Robinson,E. Robinson,eddie-robinson,,,,N,13:12,2,5,0.4,0,0.0,0.0,0,0.0,0.0,1,1.0,2,0,2,0,1,1,4,-1
+2020-03-10,phx-vs-por-0021900966,1628403.0,Caleb,Swanigan,C. Swanigan,caleb-swanigan,,,,Y,11:11,0,0,0.0,0,0.0,0.0,0,0.0,0.0,1,4.0,5,1,0,0,1,1,0,-1
+2021-10-12,gsw-vs-lal-0012100047,1627780.0,Gary,Payton II,G. Payton II,gary-payton-ii,,,,N,11:10,5,7,0.714,0,2.0,0.0,2,2.0,1.0,1,0.0,1,0,1,1,1,3,12,-3
+2009-02-23,bos-vs-den-0020800838,1853.0,Anthony,Carter,A. Carter,anthony-carter,,,,Y,16:13,2,5,0.4,0,0.0,0.0,0,0.0,0.0,1,0.0,1,0,0,0,0,1,4,-17
+2007-11-20,chi-vs-den-0020700155,693.0,Joe,Smith,J. Smith,joe-smith,,,,N,16:50,2,5,0.4,0,0.0,0.0,2,2.0,1.0,1,3.0,4,3,0,0,0,3,6,-5
+1997-01-19,phi-vs-ind-0029600547,931.0,Don,MacLean,D. MacLean,don-maclean,F,,,N,18:53,2,10,0.2,1,2.0,0.5,0,0.0,0.0,1,4.0,5,1,1,0,3,3,5,-15
+2015-11-02,mil-vs-bkn-0021500047,203114.0,Khris,Middleton,K. Middleton,khris-middleton,F,,,N,38:57,6,12,0.5,2,5.0,0.4,3,4.0,0.75,1,4.0,5,3,1,1,0,2,17,-2
+2016-11-21,gsw-vs-ind-0021600202,2561.0,David,West,D. West,david-west,,,,N,14:36,2,5,0.4,0,0.0,0.0,3,3.0,1.0,0,4.0,4,2,1,1,4,2,7,-5
+1999-11-17,por-vs-orl-0029900112,448.0,Bo,Outlaw,B. Outlaw,bo-outlaw,,,,Y,28:01,0,0,0.0,0,0.0,0.0,0,0.0,0.0,5,2.0,7,2,2,3,2,1,0,1
+1999-05-24,atl-vs-nyk-0049800056,1728.0,Roshown,McLeod,R. McLeod,roshown-mcleod,,,,N,9:11,4,6,0.667,0,0.0,0.0,2,2.0,1.0,0,0.0,0,0,0,0,1,0,10,5
+2019-12-15,lal-vs-atl-0021900390,2730.0,Dwight,Howard,D. Howard,dwight-howard,,,,N,22:32,1,1,1.0,0,0.0,0.0,0,0.0,0.0,2,5.0,7,1,1,3,2,4,2,8
+2004-03-01,mem-vs-sas-0020300866,109.0,Robert,Horry,R. Horry,robert-horry,F,,,Y,22:09,0,3,0.0,0,1.0,0.0,1,2.0,0.5,2,4.0,6,2,1,2,3,2,1,2
+2001-04-10,chi-vs-mil-0020001118,2038.0,Joel,Przybilla,J. Przybilla,joel-przybilla,,,,Y,5:53,1,1,1.0,0,0.0,0.0,1,2.0,0.5,0,0.0,0,0,0,2,0,0,3,-5
+2022-10-24,tor-vs-mia-0022200045,1630173.0,Precious,Achiuwa,P. Achiuwa,precious-achiuwa,,,,N,33:43,5,12,0.417,0,1.0,0.0,0,1.0,0.0,4,18.0,22,2,0,1,0,2,10,10
+1996-03-08,sac-vs-por-0029500861,333.0,Kevin,Gamble,K. Gamble,kevin-gamble,,,40,N,28,7,12,0.582,3,5.0,0.599,0,0.0,0.0,0,0.0,0,2,0,0,1,4,17,0
+2022-01-14,bos-vs-phi-0022100635,1626196.0,Josh,Richardson,J. Richardson,josh-richardson,,,,N,18:07,1,3,0.333,1,1.0,1.0,2,2.0,1.0,1,3.0,4,1,0,0,0,1,5,-14
+2003-12-06,was-vs-mil-0020300275,1800.0,Damon,Jones,D. Jones,damon-jones,,,,Y,19:54,6,9,0.667,3,5.0,0.6,3,3.0,1.0,0,0.0,0,4,0,0,3,2,18,3
+2000-12-23,ind-vs-atl-0020000387,1683.0,Larry,Robinson,L. Robinson,larry-robinson,,,,Y,11:15,0,1,0.0,0,1.0,0.0,0,0.0,0.0,0,2.0,2,1,0,0,1,2,0,-3
+2000-12-20,det-vs-den-0020000366,1763.0,Ryan,Bowen,R. Bowen,ryan-bowen,,,,Y,6:06,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,1,0,0,2,0,12
+2007-01-03,phi-vs-uta-0020600474,1563.0,Kevin,Ollie,K. Ollie,kevin-ollie,,,,N,8:26,0,2,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,3,0,0,-4
+2007-03-05,cha-vs-uta-0020600898,101109.0,Raymond,Felton,R. Felton,raymond-felton,G,,,N,29:07,3,10,0.3,2,5.0,0.4,4,5.0,0.8,2,1.0,3,3,0,0,1,1,12,-11
+2011-03-22,chi-vs-atl-0021001051,201143.0,Al,Horford,A. Horford,al-horford,C,,,Y,28:50,6,7,0.857,0,0.0,0.0,2,2.0,1.0,1,2.0,3,2,0,2,2,4,14,-28
+2006-03-16,min-vs-gsw-0020500961,2058.0,Mark,Madsen,M. Madsen,mark-madsen,,,,N,2:48,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,1,2,0,-5
+2017-11-13,phi-vs-lac-0021700200,1626147.0,Justin,Anderson,J. Anderson,justin-anderson,,,,N,13:06,0,1,0.0,0,1.0,0.0,0,0.0,0.0,0,1.0,1,1,0,0,0,2,0,1
+2019-10-13,cle-vs-bos-0011900046,1629057.0,Robert,Williams III,R. Williams III,robert-williams-iii,,,,Y,10:54,4,4,1.0,0,0.0,0.0,0,0.0,0.0,0,3.0,3,0,2,2,0,0,8,19
+2000-03-07,dal-vs-sea-0029900866,1800.0,Damon,Jones,D. Jones,damon-jones,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2001-04-18,ind-vs-cle-0020001184,445.0,Wesley,Person,W. Person,wesley-person,G,,,Y,16:15,2,8,0.25,0,0.0,0.0,2,2.0,1.0,0,4.0,4,0,1,0,2,1,6,-14
+2018-11-01,den-vs-cle-0021800112,200794.0,Paul,Millsap,P. Millsap,paul-millsap,F,,,N,20:50,6,9,0.667,1,1.0,1.0,3,4.0,0.75,2,4.0,6,1,1,0,0,3,16,11
+2017-12-12,was-vs-bkn-0021700400,202322.0,John,Wall,J. Wall,john-wall,,DNP - Injury/Illness,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2009-05-20,orl-vs-cle-0040800301,200789.0,Daniel,Gibson,D. Gibson,daniel-gibson,,,,Y,3:14,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,-3
+1999-03-23,chh-vs-orl-0029800366,133.0,David,Wesley,D. Wesley,david-wesley,G,,,N,34:00,4,11,0.364,1,4.0,0.25,0,0.0,0.0,0,2.0,2,1,3,0,3,5,9,-9
+1999-11-29,dal-vs-nyk-0029900196,948.0,Marcus,Camby,M. Camby,marcus-camby,,,,Y,10:49,1,5,0.2,0,0.0,0.0,2,2.0,1.0,4,4.0,8,1,1,1,0,0,4,13
+2004-11-10,gsw-vs-sas-0020400066,1725.0,Rasho,Nesterovic,R. Nesterovic,rasho-nesterovic,C,,,Y,31:24,3,6,0.5,0,0.0,0.0,0,0.0,0.0,3,5.0,8,2,0,1,0,2,6,9
+2004-12-03,gsw-vs-lal-0020400231,2059.0,Eduardo,Najera,E. Najera,eduardo-najera,,,,N,4:06,1,1,1.0,0,0.0,0.0,0,0.0,0.0,1,2.0,3,1,1,0,0,1,2,4
+2012-10-08,rmd-vs-tor-0011200011,56050.0,Felipe,Reyes,F. Reyes,felipe-reyes,,,9.0,N,15,2,5,0.4,0,0.0,0.0,5,11.0,0.455,1,2.0,3,0,0,0,1,4,9,0
+2011-02-13,okc-vs-gsw-0021000811,2740.0,Andris,Biedrins,A. Biedrins,andris-biedrins,C,,,Y,20:12,1,3,0.333,0,0.0,0.0,0,0.0,0.0,4,3.0,7,1,0,0,0,4,2,-2
+2015-12-05,gsw-vs-tor-0021500290,201949.0,James,Johnson,J. Johnson,james-johnson,,,,Y,5:29,0,0,0.0,0,0.0,0.0,1,2.0,0.5,0,0.0,0,1,0,0,0,1,1,-1
+2009-10-16,cle-vs-sas-0010900071,1495.0,Tim,Duncan,T. Duncan,tim-duncan,,,21.0,Y,20,5,11,0.455,0,0.0,0.0,3,6.0,0.5,2,7.0,9,1,1,1,0,4,13,0
+2017-04-01,phx-vs-por-0021601141,203943.0,Noah,Vonleh,N. Vonleh,noah-vonleh,F,,,Y,35:16,6,8,0.75,0,0.0,0.0,0,0.0,0.0,5,8.0,13,2,2,0,2,5,12,16
+2011-04-16,atl-vs-orl-0041000131,201143.0,Al,Horford,A. Horford,al-horford,F,,,N,44:56,7,14,0.5,0,1.0,0.0,2,2.0,1.0,1,5.0,6,3,1,0,1,2,16,8
+2004-04-13,lac-vs-phx-0020301174,2250.0,Bobby,Simmons,B. Simmons,bobby-simmons,F,,,N,38:17,5,11,0.455,0,0.0,0.0,0,0.0,0.0,4,4.0,8,1,2,1,3,2,10,-6
+2017-12-29,mil-vs-okc-0021700526,202713.0,Kyle,Singler,K. Singler,kyle-singler,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2010-05-02,mil-vs-atl-0040900127,2429.0,Dan,Gadzuric,D. Gadzuric,dan-gadzuric,,,,N,1:50,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,1,0,1,0,-5
+2000-03-28,nyk-vs-sac-0029901018,457.0,Andrew,Lang,A. Lang,andrew-lang,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2009-12-06,phx-vs-lal-0020900295,201981.0,Taylor,Griffin,T. Griffin,taylor-griffin,,,,N,5:35,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,1,0,1,0,0
+2022-12-26,bkn-vs-cle-0022200498,1628386.0,Jarrett,Allen,J. Allen,jarrett-allen,C,,,Y,31:59,2,5,0.4,0,1.0,0.0,6,8.0,0.75,4,7.0,11,1,1,1,2,0,10,-14
+2012-11-10,sas-vs-por-0021200088,101179.0,Ronnie,Price,R. Price,ronnie-price,,,,Y,10:15,0,3,0.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0,0,1,0,1,1,0,-4
+2001-01-02,mil-vs-chi-0020000446,1736.0,Corey,Benjamin,C. Benjamin,corey-benjamin,,,,Y,21:58,1,10,0.1,0,2.0,0.0,3,4.0,0.75,0,1.0,1,2,0,0,0,5,5,-11
+1997-03-28,cle-vs-mia-0029601018,297.0,Alonzo,Mourning,A. Mourning,alonzo-mourning,C,,,Y,31:10,8,12,0.667,0,0.0,0.0,7,10.0,0.7,3,9.0,12,2,2,0,5,5,23,11
+1995-04-11,lal-vs-uth-0029401011,252.0,Karl,Malone,K. Malone,karl-malone,,,32,Y,43,13,28,0.464,0,1.0,0.0,4,9.0,0.444,6,8.0,14,1,2,1,2,2,30,0
+2014-02-22,nop-vs-was-0021300826,203076.0,Anthony,Davis,A. Davis,anthony-davis,F,,,N,33:30,11,18,0.611,0,0.0,0.0,4,4.0,1.0,3,8.0,11,0,1,0,0,2,26,-11
+2020-09-01,uta-vs-den-0041900167,1629671.0,Miye,Oni,M. Oni,miye-oni,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1998-01-06,lac-vs-sac-0029700462,971.0,Mark,Hendrickson,M. Hendrickson,mark-hendrickson,,,,Y,26:14,2,4,0.5,0,0.0,0.0,6,6.0,1.0,0,8.0,8,1,3,2,0,1,10,15
+1997-12-03,sea-vs-njn-0029700229,236.0,Kevin,Edwards,K. Edwards,kevin-edwards,,,,Y,10:54,0,6,0.0,0,0.0,0.0,0,0.0,0.0,1,1.0,2,2,0,0,1,1,0,-3
+1997-04-12,bos-vs-orl-0029601123,353.0,Darrell,Armstrong,D. Armstrong,darrell-armstrong,,,,Y,22:05,2,7,0.286,1,4.0,0.25,2,2.0,1.0,1,1.0,2,6,6,1,4,0,7,23
+1995-12-02,orl-vs-sac-0029500215,36.0,Sarunas,Marciulionis,S. Marciulionis,sarunas-marciulionis,,,13,Y,23,3,6,0.5,1,4.0,0.25,3,4.0,0.75,0,1.0,1,3,2,0,3,2,10,0
+2020-08-19,bkn-vs-tor-0041900112,204020.0,Tyler,Johnson,T. Johnson,tyler-johnson,,,,N,22:17,5,10,0.5,2,5.0,0.4,0,0.0,0.0,0,3.0,3,2,0,1,1,3,12,-15
+2004-02-03,tor-vs-phi-0020300692,947.0,Allen,Iverson,A. Iverson,allen-iverson,G,,,Y,43:00,12,27,0.444,1,4.0,0.25,11,18.0,0.611,0,6.0,6,8,2,0,3,3,36,-8
+2004-03-05,hou-vs-min-0020300891,2058.0,Mark,Madsen,M. Madsen,mark-madsen,,,,Y,20:15,3,3,1.0,0,0.0,0.0,0,2.0,0.0,0,4.0,4,0,1,0,0,3,6,4
+2015-11-28,den-vs-dal-0021500241,202718.0,Chandler,Parsons,C. Parsons,chandler-parsons,F,,,Y,23:00,2,7,0.286,0,1.0,0.0,0,0.0,0.0,0,1.0,1,2,1,1,1,0,4,6
+2023-01-31,cha-vs-mil-0022200767,202330.0,Gordon,Hayward,G. Hayward,gordon-hayward,F,,,N,27:19,6,12,0.5,1,4.0,0.25,3,3.0,1.0,2,5.0,7,3,0,0,0,0,16,3
+2009-04-23,sas-vs-dal-0040800163,2225.0,Tony,Parker,T. Parker,tony-parker,G,,,N,21:12,5,14,0.357,0,2.0,0.0,2,4.0,0.5,0,4.0,4,3,0,0,3,0,12,-31
+1999-05-20,nyk-vs-atl-0049800047,120.0,Steven,Smith,S. Smith,steven-smith,G,,,Y,37:54,2,16,0.125,0,5.0,0.0,5,5.0,1.0,3,1.0,4,2,4,0,1,2,9,-1
+2004-01-25,phx-vs-min-0020300630,2560.0,Zarko,Cabarkapa,Z. Cabarkapa,zarko-cabarkapa,,,,N,15:55,1,6,0.167,0,0.0,0.0,0,0.0,0.0,0,2.0,2,3,0,0,0,2,2,-2
+2019-12-18,mem-vs-okc-0021900412,203500.0,Steven,Adams,S. Adams,steven-adams,C,,,Y,30:16,6,7,0.857,0,0.0,0.0,1,4.0,0.25,3,7.0,10,5,0,0,3,2,13,8
+2020-02-11,bos-vs-hou-0021900806,1627759.0,Jaylen,Brown,J. Brown,jaylen-brown,F,,,N,32:39,7,12,0.583,4,8.0,0.5,1,2.0,0.5,1,2.0,3,1,1,1,5,4,19,-13
+1996-03-07,phx-vs-den-0029500852,147.0,Jalen,Rose,J. Rose,jalen-rose,,,5,Y,31,7,9,0.778,1,2.0,0.5,2,2.0,1.0,0,3.0,3,4,0,1,3,4,17,0
+2017-01-06,mia-vs-lal-0021600549,2736.0,Luol,Deng,L. Deng,luol-deng,F,,,Y,30:02,8,12,0.667,3,4.0,0.75,0,0.0,0.0,3,11.0,14,2,0,0,3,3,19,32
+2019-03-29,cha-vs-lal-0021801135,1629140.0,Johnathan,Williams,J. Williams,johnathan-williams,,,,Y,21:09,6,7,0.857,0,0.0,0.0,1,2.0,0.5,2,2.0,4,0,0,0,1,2,13,0
+2019-10-17,mia-vs-orl-0011900069,1628371.0,Jonathan,Isaac,J. Isaac,jonathan-isaac,F,,,Y,23:25,2,4,0.5,0,0.0,0.0,4,5.0,0.8,2,3.0,5,0,3,1,0,1,8,-4
+2011-01-31,cle-vs-mia-0021000710,200081.0,Jamario,Moon,J. Moon,jamario-moon,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2000-01-24,van-vs-den-0029900581,1914.0,Chris,Herren,C. Herren,chris-herren,,,,Y,8:13,1,2,0.5,1,2.0,0.5,0,0.0,0.0,0,0.0,0,1,0,0,1,0,3,4
+1996-12-12,det-vs-hou-0029600295,929.0,Tracy,Moore,T. Moore,tracy-moore,,,,Y,13:36,1,5,0.2,1,2.0,0.5,0,0.0,0.0,1,0.0,1,1,1,0,1,2,3,4
+2013-11-18,por-vs-bkn-0021300150,203116.0,Tyshawn,Taylor,T. Taylor,tyshawn-taylor,,,,Y,11:08,0,2,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,2,1,0,2,2,0,-10
+2012-11-21,noh-vs-ind-0021200160,202333.0,Xavier,Henry,X. Henry,xavier-henry,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1997-11-04,gsw-vs-tor-0029700034,1073.0,Reggie,Slater,R. Slater,reggie-slater,,,,Y,21:46,4,10,0.4,0,0.0,0.0,3,7.0,0.429,1,4.0,5,0,0,2,1,2,11,7
+1998-04-03,den-vs-uta-0029701067,156.0,Antoine,Carr,A. Carr,antoine-carr,,DNP - DND Sore R. Hamstring,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2000-02-09,gsw-vs-mia-0029900690,1853.0,Anthony,Carter,A. Carter,anthony-carter,,,,Y,26:08,4,8,0.5,0,1.0,0.0,2,4.0,0.5,0,1.0,1,5,3,0,2,2,10,15
+2015-02-20,den-vs-mil-0021400811,203914.0,Gary,Harris,G. Harris,gary-harris,,,,N,4:01,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,1,1,0,-2
+2006-03-28,dal-vs-det-0020501048,1888.0,Richard,Hamilton,R. Hamilton,richard-hamilton,G,,,Y,34:51,6,14,0.429,1,2.0,0.5,1,3.0,0.333,2,2.0,4,2,0,0,0,3,14,18
+2005-11-04,njn-vs-tor-0020500020,101181.0,Jose,Calderon,J. Calderon,jose-calderon,,,,Y,32:54,6,8,0.75,0,2.0,0.0,8,9.0,0.889,1,3.0,4,7,1,0,1,1,20,5
+2012-04-20,mem-vs-cha-0021100937,202130.0,Reggie,Williams,R. Williams,reggie-williams,,DND - Concussion,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-04-06,was-vs-det-0020401111,686.0,Antonio,McDyess,A. McDyess,antonio-mcdyess,,,,Y,25:01,7,10,0.7,0,0.0,0.0,5,6.0,0.833,0,5.0,5,2,0,0,3,2,19,-5
+2019-12-30,mil-vs-chi-0021900493,1629655.0,Daniel,Gafford,D. Gafford,daniel-gafford,,,,Y,17:07,4,7,0.571,0,0.0,0.0,0,1.0,0.0,3,1.0,4,2,2,1,0,0,8,-2
+2007-11-02,sac-vs-sas-0020700025,2755.0,Kevin,Martin,K. Martin,kevin-martin,G,,,N,39:11,7,17,0.412,1,3.0,0.333,7,8.0,0.875,0,1.0,1,1,3,0,1,0,22,-19
+2014-04-27,hou-vs-por-0041300174,203080.0,Thomas,Robinson,T. Robinson,thomas-robinson,,,,Y,6:12,1,1,1.0,0,0.0,0.0,0,0.0,0.0,2,1.0,3,1,1,1,2,2,2,3
+1997-03-11,chi-vs-bos-0029600888,54.0,Dickey,Simpkins,D. Simpkins,dickey-simpkins,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2018-02-02,ind-vs-cha-0021700766,203077.0,Michael,Kidd-Gilchrist,M. Kidd-Gilchrist,michael-kidd-gilchrist,F,,,Y,24:18,3,5,0.6,0,0.0,0.0,0,0.0,0.0,1,0.0,1,0,0,0,2,3,6,0
+2021-05-08,hou-vs-uta-0022001016,1626220.0,Royce,O'Neale,R. O'Neale,royce-oneale,G,,,Y,31:26,4,7,0.571,3,6.0,0.5,2,2.0,1.0,0,5.0,5,6,1,0,1,1,13,11
+2000-03-16,lal-vs-was-0029900923,977.0,Kobe,Bryant,K. Bryant,kobe-bryant,G,,,N,33:16,2,10,0.2,0,0.0,0.0,3,4.0,0.75,1,2.0,3,7,1,0,6,6,7,-7
+2000-02-03,phi-vs-hou-0029900649,238.0,Tyrone,Hill,T. Hill,tyrone-hill,F,,,N,30:06,6,9,0.667,0,0.0,0.0,0,0.0,0.0,3,9.0,12,0,0,0,0,3,12,3
+1998-01-27,atl-vs-min-0029700608,1003.0,Drew,Barry,D. Barry,drew-barry,,,,N,2:01,0,0,0.0,0,0.0,0.0,2,2.0,1.0,0,1.0,1,1,0,0,0,0,2,3
+1997-04-27,was-vs-chi-0049600014,23.0,Dennis,Rodman,D. Rodman,dennis-rodman,,,,Y,33:18,2,3,0.667,0,0.0,0.0,0,0.0,0.0,3,5.0,8,2,0,0,3,4,4,12
+2012-11-09,gsw-vs-lal-0021200080,2730.0,Dwight,Howard,D. Howard,dwight-howard,C,,,Y,24:06,2,6,0.333,0,0.0,0.0,2,4.0,0.5,3,5.0,8,2,0,2,2,4,6,2
+2014-01-20,phi-vs-was-0021300609,203487.0,Michael,Carter-Williams,M. Carter-Williams,michael-carter-williams,G,,,N,34:02,13,22,0.591,1,2.0,0.5,4,8.0,0.5,1,5.0,6,5,3,0,2,1,31,-10
+2018-11-07,dal-vs-uta-0021800160,1628378.0,Donovan,Mitchell,D. Mitchell,donovan-mitchell,G,,,Y,32:58,9,17,0.529,3,8.0,0.375,2,2.0,1.0,1,4.0,5,7,2,0,1,2,23,9
+2000-12-17,sac-vs-njn-0020000346,428.0,Sherman,Douglas,S. Douglas,sherman-douglas,,,,Y,16:47,2,4,0.5,0,1.0,0.0,5,5.0,1.0,1,2.0,3,1,1,0,0,1,9,-7
+2000-01-10,den-vs-lal-0029900483,686.0,Antonio,McDyess,A. McDyess,antonio-mcdyess,F,,,N,28:40,7,13,0.538,0,0.0,0.0,9,12.0,0.75,2,7.0,9,1,0,2,5,3,23,-33
+2009-03-27,noh-vs-nyk-0020801079,1752.0,Sean,Marks,S. Marks,sean-marks,,,,N,10:55,1,3,0.333,0,0.0,0.0,0,0.0,0.0,2,2.0,4,0,0,0,3,2,2,-5
+2019-03-11,sac-vs-was-0021801002,201145.0,Jeff,Green,J. Green,jeff-green,F,,,Y,29:28,3,7,0.429,0,3.0,0.0,5,5.0,1.0,0,2.0,2,2,0,0,1,3,11,16
+2022-11-03,gsw-vs-orl-0022200118,1628964.0,Mo,Bamba,M. Bamba,mo-bamba,,,,Y,5:38,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,0,0,0,1,1,0,-4
+2021-05-12,sas-vs-bkn-0022001043,201988.0,Patty,Mills,P. Mills,patty-mills,,,,N,19:53,4,9,0.444,3,7.0,0.429,4,4.0,1.0,0,1.0,1,1,0,0,2,2,15,-1
+2012-12-18,ind-vs-mil-0021200361,202362.0,Lance,Stephenson,L. Stephenson,lance-stephenson,G,,,N,27:44,1,5,0.2,1,1.0,1.0,0,0.0,0.0,0,1.0,1,1,2,0,0,0,3,-10
+2008-10-19,tor-vs-lal-0010800082,2772.0,Trevor,Ariza,T. Ariza,trevor-ariza,,,3.0,Y,24,6,9,0.667,0,0.0,0.0,2,2.0,1.0,1,2.0,3,3,1,1,1,0,14,0
+2018-01-30,bkn-vs-nyk-0021700745,203917.0,Nik,Stauskas,N. Stauskas,nik-stauskas,,,,N,25:17,4,11,0.364,2,7.0,0.286,2,2.0,1.0,0,2.0,2,0,1,1,1,1,12,-8
+2005-01-04,mil-vs-ind-0020400449,2592.0,James,Jones,J. Jones,james-jones,,,,Y,1:43,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,0,0,1
+2008-05-13,sas-vs-noh-0040700235,703.0,Kurt,Thomas,K. Thomas,kurt-thomas,C,,,N,13:16,1,6,0.167,0,0.0,0.0,0,0.0,0.0,2,2.0,4,0,0,1,1,3,2,-14
+2005-10-11,dal-vs-sac-0010500005,2694.0,Josh,Powell,J. Powell,josh-powell,,,33.0,N,13,0,1,0.0,0,0.0,0.0,4,4.0,1.0,1,0.0,1,0,0,0,4,2,4,0
+2022-02-16,uta-vs-lal-0022100884,1628378.0,Donovan,Mitchell,D. Mitchell,donovan-mitchell,G,,,N,37:05,13,24,0.542,5,11.0,0.455,6,7.0,0.857,1,2.0,3,5,4,0,2,1,37,0
+2009-10-09,nyk-vs-bos-0010900032,201592.0,J.R.,Giddens,J. Giddens,jr-giddens,,,4.0,Y,5,0,0,0.0,0,0.0,0.0,2,2.0,1.0,0,0.0,0,1,0,0,2,0,2,0
+2016-10-13,bos-vs-bkn-0011600055,1627743.0,Demetrius,Jackson,D. Jackson,demetrius-jackson,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-02-28,por-vs-ind-0021500880,101133.0,Ian,Mahinmi,I. Mahinmi,ian-mahinmi,C,,,Y,18:40,3,5,0.6,0,0.0,0.0,1,3.0,0.333,0,3.0,3,2,1,0,0,4,7,-2
+2006-02-21,por-vs-lal-0020500790,2751.0,Viktor,Khryapa,V. Khryapa,viktor-khryapa,,,,N,18:17,2,5,0.4,0,0.0,0.0,0,0.0,0.0,2,3.0,5,0,1,0,2,2,4,-7
+2006-11-20,njn-vs-sea-0020600149,101120.0,Antoine,Wright,A. Wright,antoine-wright,F,,,N,38:09,5,12,0.417,0,2.0,0.0,1,2.0,0.5,3,8.0,11,1,2,0,0,5,11,-19
+2006-05-28,dal-vs-phx-0040500313,2564.0,Boris,Diaw,B. Diaw,boris-diaw,C,,,Y,37:18,10,22,0.455,0,1.0,0.0,0,0.0,0.0,3,3.0,6,4,0,3,5,4,20,-8
+2018-03-17,ind-vs-was-0021701035,202709.0,Cory,Joseph,C. Joseph,cory-joseph,G,,,N,23:49,1,4,0.25,1,1.0,1.0,2,2.0,1.0,0,1.0,1,1,1,0,0,1,5,-24
+2018-04-17,was-vs-tor-0041700102,204025.0,Tim,Frazier,T. Frazier,tim-frazier,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2004-11-27,atl-vs-cha-0020400185,960.0,Tony,Delk,T. Delk,tony-delk,,,,N,32:38,3,11,0.273,1,4.0,0.25,0,0.0,0.0,0,1.0,1,2,0,0,0,3,7,-16
+2022-02-02,orl-vs-ind-0022100773,1630537.0,Chris,Duarte,C. Duarte,chris-duarte,G,,,Y,31:42,3,11,0.273,2,2.0,1.0,3,3.0,1.0,0,7.0,7,1,0,0,1,3,11,6
+2013-12-21,den-vs-lac-0021300403,202389.0,Timofey,Mozgov,T. Mozgov,timofey-mozgov,,,,N,26:16,6,9,0.667,0,0.0,0.0,3,5.0,0.6,4,5.0,9,0,0,0,3,3,15,0
+2006-11-03,sac-vs-chi-0020600026,2768.0,Chris,Duhon,C. Duhon,chris-duhon,,,,Y,29:36,3,10,0.3,1,2.0,0.5,3,3.0,1.0,1,2.0,3,3,4,0,6,2,10,-7
+2000-02-09,cle-vs-chh-0029900691,133.0,David,Wesley,D. Wesley,david-wesley,G,,,Y,39:05,9,17,0.529,1,4.0,0.25,11,12.0,0.917,0,3.0,3,5,5,0,3,3,30,5
+2019-03-03,atl-vs-chi-0021800946,1627782.0,Wayne,Selden,W. Selden,wayne-selden,,,,Y,23:39,4,7,0.571,0,3.0,0.0,1,2.0,0.5,0,4.0,4,2,0,0,1,4,9,-3
+2008-12-30,mil-vs-sas-0020800464,1477.0,Bruce,Bowen,B. Bowen,bruce-bowen,,,,Y,15:11,1,2,0.5,1,1.0,1.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,3,-7
+2007-03-02,nok-vs-chi-0020600875,200757.0,Thabo,Sefolosha,T. Sefolosha,thabo-sefolosha,,,,Y,7:17,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,-8
+2002-02-27,mia-vs-phi-0020100810,2074.0,Jabari,Smith,J. Smith,jabari-smith,,,,Y,0:07,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2002-03-23,mia-vs-sas-0020100990,224.0,Eddie,Jones,E. Jones,eddie-jones,G,,,N,30:41,2,8,0.25,0,5.0,0.0,4,4.0,1.0,1,3.0,4,2,1,0,3,3,8,-10
+2008-01-04,cha-vs-njn-0020700476,200766.0,Marcus,Williams,M. Williams,marcus-williams,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2006-02-12,sas-vs-ind-0020500744,1506.0,Austin,Croshere,A. Croshere,austin-croshere,,DND - Mild Concussion,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-03-23,uta-vs-okc-0021001061,202330.0,Gordon,Hayward,G. Hayward,gordon-hayward,,,,N,27:48,1,10,0.1,1,3.0,0.333,4,6.0,0.667,1,3.0,4,3,2,0,1,3,7,-8
+2011-03-11,orl-vs-gsw-0021000975,2240.0,Gilbert,Arenas,G. Arenas,gilbert-arenas,,,,N,17:14,2,5,0.4,1,4.0,0.25,5,5.0,1.0,0,2.0,2,0,0,0,0,1,10,2
+1999-02-17,mia-vs-det-0029800092,255.0,Grant,Hill,G. Hill,grant-hill,F,,,Y,36:05,5,21,0.238,0,0.0,0.0,12,13.0,0.923,2,5.0,7,3,1,1,3,4,22,-19
+2017-10-23,mem-vs-hou-0021700043,1627743.0,Demetrius,Jackson,D. Jackson,demetrius-jackson,,,,Y,3:30,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,2,0,-4
+2012-02-19,dal-vs-nyk-0021100460,202361.0,Landry,Fields,L. Fields,landry-fields,G,,,Y,26:49,6,12,0.5,1,3.0,0.333,0,0.0,0.0,1,3.0,4,2,4,0,3,2,13,-11
+2017-02-13,lac-vs-uta-0021600828,1718.0,Paul,Pierce,P. Pierce,paul-pierce,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-02-23,chi-vs-tor-0021000851,703.0,Kurt,Thomas,K. Thomas,kurt-thomas,,,,N,22:27,1,2,0.5,0,0.0,0.0,0,0.0,0.0,1,4.0,5,1,0,1,0,3,2,-5
+2019-03-13,orl-vs-was-0021801015,1628982.0,Melvin,Frazier Jr.,M. Frazier Jr.,melvin-frazier-jr,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2018-03-09,was-vs-nop-0021700982,204025.0,Tim,Frazier,T. Frazier,tim-frazier,,,,N,6:21,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,1,0,-6
+1996-02-08,lac-vs-den-0029500671,686.0,Antonio,McDyess,A. McDyess,antonio-mcdyess,,,24,Y,18,2,5,0.4,0,0.0,0.0,3,4.0,0.75,3,1.0,4,1,1,1,4,5,7,0
+2009-02-18,ind-vs-cha-0020800798,2205.0,DeSagana,Diop,D. Diop,desagana-diop,,,,Y,11:14,0,0,0.0,0,0.0,0.0,1,2.0,0.5,2,2.0,4,0,0,0,1,1,1,6
+2000-11-14,gsw-vs-cle-0020000105,902.0,Bimbo,Coles,B. Coles,bimbo-coles,,,,Y,20:08,3,6,0.5,0,0.0,0.0,1,2.0,0.5,0,1.0,1,2,0,0,3,3,7,-8
+2018-12-13,dal-vs-phx-0021800419,202083.0,Wesley,Matthews,W. Matthews,wesley-matthews,F,,,N,30:25,4,11,0.364,1,5.0,0.2,2,4.0,0.5,1,2.0,3,1,0,0,0,3,11,-6
+2010-04-11,okc-vs-gsw-0020901200,201805.0,Chris,Hunter,C. Hunter,chris-hunter,,,,Y,2:16,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,0,-5
+2018-11-19,bos-vs-cha-0021800239,203935.0,Marcus,Smart,M. Smart,marcus-smart,,,,N,26:20,4,7,0.571,4,6.0,0.667,2,2.0,1.0,0,1.0,1,2,2,0,0,3,14,-12
+2001-12-01,orl-vs-was-0020100228,692.0,Andrew,DeClercq,A. DeClercq,andrew-declercq,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2002-11-05,gsw-vs-sas-0020200057,2240.0,Gilbert,Arenas,G. Arenas,gilbert-arenas,G,,,N,36:30,5,9,0.556,0,1.0,0.0,4,5.0,0.8,2,10.0,12,4,2,0,5,4,14,-17
+2004-11-05,uta-vs-gsw-0020400028,1952.0,Raja,Bell,R. Bell,raja-bell,,,,N,27:01,5,8,0.625,1,3.0,0.333,0,0.0,0.0,0,4.0,4,1,0,0,1,2,11,-7
+2022-02-27,phi-vs-nyk-0022100912,1626161.0,Willie,Cauley-Stein,W. Cauley-Stein,willie-cauley-stein,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1999-04-28,was-vs-orl-0029800659,976.0,Jeff,McInnis,J. McInnis,jeff-mcinnis,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2010-02-24,okc-vs-sas-0020900851,2041.0,Etan,Thomas,E. Thomas,etan-thomas,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2004-04-09,atl-vs-chi-0020301142,966.0,Jerome,Williams,J. Williams,jerome-williams,,,,Y,7:03,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,1,0,0,0,0,0,-4
+2003-04-14,nyk-vs-was-0020201164,369.0,Charlie,Ward,C. Ward,charlie-ward,,,,N,7:52,0,1,0.0,0,1.0,0.0,0,0.0,0.0,0,1.0,1,2,1,0,0,1,0,4
+2022-04-06,dal-vs-det-0022101190,1628973.0,Jalen,Brunson,J. Brunson,jalen-brunson,G,,,N,34:37,9,15,0.6,1,2.0,0.5,5,6.0,0.833,1,5.0,6,3,1,0,0,3,24,22
+2012-01-13,por-vs-sas-0021100166,201971.0,DeJuan,Blair,D. Blair,dejuan-blair,C,,,Y,27:49,5,8,0.625,0,0.0,0.0,3,4.0,0.75,2,9.0,11,3,1,1,1,5,13,8
+2021-11-18,sas-vs-min-0022100227,1630162.0,Anthony,Edwards,A. Edwards,anthony-edwards,F,,,Y,33:01,5,11,0.455,3,8.0,0.375,0,0.0,0.0,2,3.0,5,6,2,2,4,4,13,12
+2011-01-10,det-vs-chi-0021000553,1112.0,Ben,Wallace,B. Wallace,ben-wallace,C,,,N,2:05,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,0,-1
+2004-02-18,mil-vs-det-0020300777,1112.0,Ben,Wallace,B. Wallace,ben-wallace,F,,,Y,43:15,4,10,0.4,0,0.0,0.0,3,8.0,0.375,4,11.0,15,0,3,8,1,1,11,4
+1995-11-03,gos-vs-hou-0029500006,84.0,Latrell,Sprewell,L. Sprewell,latrell-sprewell,,,15,N,31,3,15,0.2,1,3.0,0.333,0,0.0,0.0,0,4.0,4,0,1,0,2,2,7,0
+2001-11-15,por-vs-mem-0020100118,2226.0,Will,Solomon,W. Solomon,will-solomon,,,,Y,3:56,1,3,0.333,0,2.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,1,0,2,-1
+2017-01-03,ind-vs-det-0021600523,203382.0,Aron,Baynes,A. Baynes,aron-baynes,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2021-12-23,okc-vs-phx-0022100483,101108.0,Chris,Paul,C. Paul,chris-paul,G,,,Y,31:41,7,14,0.5,1,6.0,0.167,1,2.0,0.5,0,5.0,5,7,3,0,2,3,16,-2
+2000-01-19,cle-vs-lal-0029900551,965.0,Derek,Fisher,D. Fisher,derek-fisher,,,,Y,29:34,3,10,0.3,2,5.0,0.4,3,4.0,0.75,0,1.0,1,1,0,0,1,6,11,5
+2012-01-08,sas-vs-okc-0021100122,201980.0,Danny,Green,D. Green,danny-green,,,,N,20:51,2,7,0.286,2,2.0,1.0,0,0.0,0.0,0,5.0,5,4,1,1,2,2,6,-2
+2018-11-29,gsw-vs-tor-0021800316,202695.0,Kawhi,Leonard,K. Leonard,kawhi-leonard,F,,,Y,44:06,14,24,0.583,3,6.0,0.5,6,6.0,1.0,2,6.0,8,3,1,1,1,4,37,3
+2021-02-16,den-vs-bos-0022000427,1629626.0,Bol,Bol,B. Bol,bol-bol,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-02-10,atl-vs-orl-0020400727,2044.0,Jason,Collier,J. Collier,jason-collier,,,,N,0:51,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,2,0,-4
+2004-12-03,det-vs-sas-0020400228,990.0,Malik,Rose,M. Rose,malik-rose,,,,Y,28:30,2,7,0.286,0,0.0,0.0,3,7.0,0.429,4,6.0,10,0,2,1,2,5,7,-7
+2015-03-31,ind-vs-bkn-0021401108,202366.0,Jerome,Jordan,J. Jordan,jerome-jordan,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1999-03-27,uta-vs-lac-0029800404,1508.0,Maurice,Taylor,M. Taylor,maurice-taylor,F,,,Y,13:13,6,8,0.75,0,0.0,0.0,0,1.0,0.0,0,0.0,0,0,0,0,0,4,12,11
+2018-10-29,nop-vs-den-0021800095,1629152.0,DeVaughn,Akoon-Purcell,D. Akoon-Purcell,devaughn-akoon-purcell,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-04-08,phx-vs-gsw-0020401129,754.0,Jim,Jackson,J. Jackson,jim-jackson,,,,N,20:07,3,8,0.375,2,4.0,0.5,0,0.0,0.0,0,1.0,1,1,1,0,1,2,8,-7
+2015-12-05,por-vs-min-0021500294,204025.0,Tim,Frazier,T. Frazier,tim-frazier,,,,N,0:08,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,-2
+2012-02-06,chi-vs-njn-0021100360,101114.0,Deron,Williams,D. Williams,deron-williams,G,,,Y,36:56,8,16,0.5,0,4.0,0.0,9,10.0,0.9,0,0.0,0,5,0,0,3,2,25,-20
+2009-01-28,mil-vs-ind-0020800667,2124.0,Malik,Allen,M. Allen,malik-allen,,,,N,6:54,2,2,1.0,0,0.0,0.0,1,1.0,1.0,0,2.0,2,0,0,1,1,0,5,0
+2020-10-04,lal-vs-mia-0041900403,2544.0,LeBron,James,L. James,lebron-james,F,,,N,39:13,9,16,0.563,1,5.0,0.2,6,9.0,0.667,1,9.0,10,8,0,2,8,2,25,-4
+2005-04-16,orl-vs-mil-0020401188,278.0,Stacey,Augmon,S. Augmon,stacey-augmon,,,,N,24:09,5,9,0.556,0,0.0,0.0,0,0.0,0.0,2,0.0,2,3,0,0,1,4,10,-10
+2021-03-31,sac-vs-sas-0022000728,1630169.0,Tyrese,Haliburton,T. Haliburton,tyrese-haliburton,G,,,N,29:39,7,15,0.467,3,7.0,0.429,1,1.0,1.0,1,0.0,1,2,1,0,1,2,18,-19
+2015-04-13,mil-vs-phi-0021401204,203487.0,Michael,Carter-Williams,M. Carter-Williams,michael-carter-williams,G,,,N,30:00,11,17,0.647,0,0.0,0.0,8,13.0,0.615,0,5.0,5,5,3,1,2,3,30,19
+1999-03-18,bos-vs-mil-0029800330,65.0,Greg,Minor,G. Minor,greg-minor,,,,N,19:43,4,4,1.0,1,1.0,1.0,0,0.0,0.0,0,4.0,4,0,0,0,2,1,9,4
+2007-02-10,mem-vs-nok-0020600751,2031.0,Stromile,Swift,S. Swift,stromile-swift,,,,N,3:38,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,0,0,0,0,0,0,-1
+1999-02-16,mia-vs-ind-0029800084,55.0,Marty,Conlon,M. Conlon,marty-conlon,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-03-30,mil-vs-tor-0021001109,101181.0,Jose,Calderon,J. Calderon,jose-calderon,G,,,Y,25:55,5,11,0.455,1,2.0,0.5,2,2.0,1.0,0,1.0,1,8,1,0,3,1,13,10
+2023-02-24,nyk-vs-was-0022200895,1630264.0,Anthony,Gill,A. Gill,anthony-gill,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2003-05-01,min-vs-lal-0040200176,2416.0,Kareem,Rush,K. Rush,kareem-rush,,,,Y,2:48,1,2,0.5,0,1.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,2,1
+2013-04-05,hou-vs-por-0021201136,202700.0,Donatas,Motiejunas,D. Motiejunas,donatas-motiejunas,,,,N,25:37,3,10,0.3,1,4.0,0.25,3,4.0,0.75,3,4.0,7,2,0,0,0,2,10,13
+2010-04-30,lal-vs-okc-0040900146,1563.0,Kevin,Ollie,K. Ollie,kevin-ollie,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-01-06,ind-vs-orl-0021500526,202696.0,Nikola,Vucevic,N. Vucevic,nikola-vucevic,C,,,Y,32:31,8,14,0.571,0,0.0,0.0,1,2.0,0.5,1,3.0,4,1,2,0,2,3,17,-14
+1996-02-27,san-vs-lac-0029500784,470.0,Doc,Rivers,D. Rivers,doc-rivers,,,25,N,16,2,6,0.333,0,1.0,0.0,1,2.0,0.5,0,1.0,1,1,2,0,2,4,5,0
+2000-12-28,por-vs-uta-0020000419,278.0,Stacey,Augmon,S. Augmon,stacey-augmon,,,,N,15:05,1,3,0.333,0,0.0,0.0,0,0.0,0.0,0,2.0,2,1,1,1,1,1,2,-12
+2007-11-12,noh-vs-njn-0020700093,2210.0,Richard,Jefferson,R. Jefferson,richard-jefferson,F,,,Y,42:52,12,23,0.522,1,3.0,0.333,7,7.0,1.0,0,6.0,6,4,2,0,2,0,32,-3
+2007-02-07,sas-vs-was-0020600727,101154.0,Andray,Blatche,A. Blatche,andray-blatche,,,,Y,24:01,2,11,0.182,0,1.0,0.0,2,2.0,1.0,5,7.0,12,2,0,0,1,4,6,-18
+2008-03-28,was-vs-sac-0020701081,1903.0,Kenny,Thomas,K. Thomas,kenny-thomas,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-04-05,phx-vs-atl-0021501157,201978.0,Chase,Budinger,C. Budinger,chase-budinger,,,,N,6:44,1,1,1.0,0,0.0,0.0,0,2.0,0.0,0,1.0,1,2,0,0,0,1,2,-3
+2010-12-07,phx-vs-por-0021000314,959.0,Steve,Nash,S. Nash,steve-nash,G,,,N,38:47,10,16,0.625,0,1.0,0.0,4,5.0,0.8,0,3.0,3,15,1,0,6,3,24,5
+2005-03-28,dal-vs-det-0020401039,2419.0,Tayshaun,Prince,T. Prince,tayshaun-prince,F,,,Y,40:54,7,15,0.467,0,0.0,0.0,0,0.0,0.0,5,2.0,7,3,0,0,1,3,14,-9
+2018-04-06,chi-vs-bos-0021701185,1627846.0,Abdel,Nader,A. Nader,abdel-nader,,,,Y,6:36,0,1,0.0,0,0.0,0.0,0,2.0,0.0,0,0.0,0,0,0,0,1,1,0,-9
+2005-05-02,hou-vs-dal-0040400175,87.0,Dikembe,Mutombo,D. Mutombo,dikembe-mutombo,,,,N,10:59,1,2,0.5,0,0.0,0.0,1,2.0,0.5,1,4.0,5,0,0,1,3,2,3,-5
+2007-11-24,chi-vs-nyk-0020700182,101135.0,David,Lee,D. Lee,david-lee,,,,Y,11:25,1,3,0.333,0,0.0,0.0,4,4.0,1.0,2,3.0,5,0,0,0,1,3,6,3
+2000-03-19,hou-vs-tor-0029900951,1000.0,Shandon,Anderson,S. Anderson,shandon-anderson,G,,,N,40:58,9,13,0.692,3,4.0,0.75,4,7.0,0.571,3,5.0,8,4,3,0,3,0,25,3
+2015-02-06,gsw-vs-atl-0021400749,201939.0,Stephen,Curry,S. Curry,stephen-curry,G,,,N,36:12,8,19,0.421,4,9.0,0.444,6,7.0,0.857,0,2.0,2,9,2,2,1,3,26,-5
+2009-03-06,mia-vs-tor-0020800919,200753.0,Patrick,O'Bryant,P. O'Bryant,patrick-obryant,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2010-01-22,chi-vs-phx-0020900635,2202.0,Jason,Richardson,J. Richardson,jason-richardson,,,,Y,29:44,6,17,0.353,0,5.0,0.0,0,0.0,0.0,4,4.0,8,3,0,0,1,2,12,-12
+2005-01-10,lal-vs-min-0020400494,1607.0,Troy,Hudson,T. Hudson,troy-hudson,G,,,Y,33:31,8,15,0.533,2,4.0,0.5,2,2.0,1.0,0,0.0,0,6,1,0,0,3,20,7
+2008-11-19,mil-vs-uta-0020800167,201601.0,Luc,Mbah a Moute,L. Mbah a Moute,luc-mbah-a-moute,F,,,N,26:33,2,10,0.2,0,0.0,0.0,4,6.0,0.667,5,2.0,7,0,1,0,1,4,8,-2
+2017-03-31,ind-vs-tor-0021601126,2744.0,Al,Jefferson,A. Jefferson,al-jefferson,,NWT - Sprained Left Ankle,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-05-10,sea-vs-sas-0040400232,2501.0,Reggie,Evans,R. Evans,reggie-evans,F,,,N,24:19,0,4,0.0,0,0.0,0.0,1,2.0,0.5,4,8.0,12,1,1,0,2,4,1,-5
+2021-12-18,cle-vs-mil-0022100446,1630205.0,Lamar,Stevens,L. Stevens,lamar-stevens,G,,,N,11:55,3,5,0.6,1,2.0,0.5,1,1.0,1.0,1,2.0,3,2,0,0,1,1,8,-6
+2007-04-07,mem-vs-orl-0020601134,2200.0,Pau,Gasol,P. Gasol,pau-gasol,C,,,N,30:31,4,9,0.444,0,0.0,0.0,6,6.0,1.0,0,8.0,8,1,1,1,2,5,14,-25
+2019-03-09,cha-vs-mil-0021800990,203087.0,Jeremy,Lamb,J. Lamb,jeremy-lamb,,,,N,27:00,6,12,0.5,0,4.0,0.0,2,2.0,1.0,0,4.0,4,3,0,1,3,2,14,-4
+2014-01-01,nop-vs-min-0021300470,201880.0,Greg,Stiemsma,G. Stiemsma,greg-stiemsma,,,,N,6:25,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,3,2,0,-13
+2013-10-30,cha-vs-hou-0021300009,202687.0,Bismack,Biyombo,B. Biyombo,bismack-biyombo,,,,N,16:35,2,4,0.5,0,0.0,0.0,0,0.0,0.0,1,4.0,5,0,0,0,0,2,4,-6
+2006-01-29,phx-vs-cle-0020500642,980.0,Zydrunas,Ilgauskas,Z. Ilgauskas,zydrunas-ilgauskas,C,,,Y,18:44,2,4,0.5,0,0.0,0.0,6,7.0,0.857,2,3.0,5,3,0,0,0,1,10,-10
+1997-11-07,min-vs-van-0029700064,324.0,Anthony,Peeler,A. Peeler,anthony-peeler,G,,,Y,23:08,5,11,0.455,0,1.0,0.0,0,1.0,0.0,0,3.0,3,0,2,0,0,1,10,-3
+2001-04-28,sas-vs-min-0040000019,1498.0,Antonio,Daniels,A. Daniels,antonio-daniels,,,,N,9:47,1,1,1.0,1,1.0,1.0,0,0.0,0.0,0,1.0,1,1,0,0,1,1,3,0
+2015-10-23,phi-vs-bos-0011500106,203917.0,Nik,Stauskas,N. Stauskas,nik-stauskas,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2015-01-11,por-vs-lal-0021400562,202391.0,Jeremy,Lin,J. Lin,jeremy-lin,,,,Y,18:57,3,9,0.333,0,0.0,0.0,3,4.0,0.75,0,3.0,3,3,0,0,1,0,9,-9
+2006-12-13,det-vs-ind-0020600318,1536.0,Stephen,Jackson,S. Jackson,stephen-jackson,G,,,Y,36:30,6,15,0.4,0,4.0,0.0,2,2.0,1.0,0,2.0,2,2,0,2,1,2,14,0
+2014-11-14,uta-vs-nyk-0021400126,203504.0,Trey,Burke,T. Burke,trey-burke,G,,,N,35:22,5,9,0.556,3,5.0,0.6,0,0.0,0.0,0,1.0,1,8,0,1,2,1,13,16
+2004-12-15,orl-vs-sas-0020400324,2225.0,Tony,Parker,T. Parker,tony-parker,G,,,Y,28:59,6,15,0.4,1,4.0,0.25,0,0.0,0.0,1,5.0,6,3,0,0,4,2,13,-18
+2009-11-04,den-vs-njn-0020900063,201157.0,Sean,Williams,S. Williams,sean-williams,,,,Y,7:44,2,3,0.667,0,0.0,0.0,2,5.0,0.4,1,2.0,3,0,0,0,0,0,6,1
+2005-06-12,det-vs-sas-0040400402,1737.0,Nazr,Mohammed,N. Mohammed,nazr-mohammed,C,,,Y,25:49,1,2,0.5,0,0.0,0.0,4,5.0,0.8,3,2.0,5,0,0,2,2,2,6,7
+2014-10-14,hou-vs-nop-0011400050,202337.0,Luke,Babbitt,L. Babbitt,luke-babbitt,,,,Y,10:49,3,3,1.0,2,2.0,1.0,0,0.0,0.0,0,2.0,2,0,0,1,0,1,8,-7
+2015-11-15,bos-vs-okc-0021500149,201586.0,Serge,Ibaka,S. Ibaka,serge-ibaka,F,,,Y,34:46,8,16,0.5,0,1.0,0.0,0,0.0,0.0,4,6.0,10,0,0,3,0,1,16,1
+2017-12-30,cle-vs-uta-0021700534,1628513.0,Naz,Mitrou-Long,N. Mitrou-Long,naz-mitrou-long,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2020-12-12,okc-vs-sas-0012000008,1628388.0,T.J.,Leaf,T. Leaf,tj-leaf,,,,N,17:04,2,5,0.4,1,1.0,1.0,3,3.0,1.0,1,4.0,5,0,0,0,0,0,8,12
+2009-02-17,lac-vs-phx-0020800795,406.0,Shaquille,O'Neal,S. O'Neal,shaquille-oneal,C,,,Y,21:13,6,6,1.0,0,0.0,0.0,3,3.0,1.0,0,8.0,8,1,0,0,3,2,15,26
+2022-11-06,cle-vs-lal-0022200140,203526.0,Raul,Neto,R. Neto,raul-neto,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-04-21,gsw-vs-hou-0041500143,203909.0,KJ,McDaniels,K. McDaniels,kj-mcdaniels,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2017-01-20,gsw-vs-hou-0021600646,201583.0,Ryan,Anderson,R. Anderson,ryan-anderson,F,,,Y,9:26,0,1,0.0,0,1.0,0.0,0,0.0,0.0,0,2.0,2,0,0,0,0,0,0,-8
+2015-01-21,uta-vs-cle-0021400626,202683.0,Enes,Freedom,E. Freedom,enes-freedom,C,,,N,33:08,9,20,0.45,0,0.0,0.0,6,8.0,0.75,7,10.0,17,1,1,0,1,2,24,-3
+2005-03-03,ind-vs-den-0020400852,1533.0,Anthony,Johnson,A. Johnson,anthony-johnson,G,,,N,22:16,0,6,0.0,0,2.0,0.0,2,4.0,0.5,0,0.0,0,5,1,0,1,0,2,-14
+2005-11-11,njn-vs-ind-0020500073,955.0,Samaki,Walker,S. Walker,samaki-walker,,,,Y,4:36,0,0,0.0,0,0.0,0.0,2,2.0,1.0,0,0.0,0,0,0,0,0,2,2,-10
+2012-04-15,mem-vs-noh-0021100900,201160.0,Jason,Smith,J. Smith,jason-smith,F,,,Y,26:55,7,13,0.538,0,0.0,0.0,0,0.0,0.0,3,7.0,10,4,0,0,1,3,14,22
+2019-03-01,cha-vs-bkn-0021800929,202687.0,Bismack,Biyombo,B. Biyombo,bismack-biyombo,,,,N,4:57,0,2,0.0,0,0.0,0.0,2,2.0,1.0,1,1.0,2,0,0,0,1,1,2,-7
+1997-11-08,atl-vs-cle-0029700068,1544.0,Chris,Crawford,C. Crawford,chris-crawford,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2023-02-05,tor-vs-mem-0022200805,1629018.0,Gary,Trent Jr.,G. Trent Jr.,gary-trent-jr,G,,,N,37:23,5,14,0.357,0,3.0,0.0,0,1.0,0.0,0,2.0,2,0,0,0,2,1,10,-7
+1997-04-11,phi-vs-mil-0029601119,221.0,Clar.,Weatherspoon,C. Weatherspoon,clar-weatherspoon,F,,,N,42:28,9,18,0.5,0,0.0,0.0,1,1.0,1.0,1,5.0,6,1,0,0,2,3,19,-6
+2022-04-17,atl-vs-mia-0042100101,1629622.0,Max,Strus,M. Strus,max-strus,G,,,Y,25:08,3,8,0.375,1,5.0,0.2,2,3.0,0.667,0,2.0,2,1,2,1,0,3,9,8
+2019-11-06,sac-vs-tor-0021900106,1626259.0,Malcolm,Miller,M. Miller,malcolm-miller,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2021-04-07,uta-vs-phx-0022000783,203109.0,Jae,Crowder,J. Crowder,jae-crowder,F,,,Y,37:42,2,9,0.222,2,9.0,0.222,0,0.0,0.0,2,10.0,12,2,0,0,0,3,6,7
+2008-12-25,dal-vs-por-0020800425,201573.0,Jerryd,Bayless,J. Bayless,jerryd-bayless,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-11-14,cha-vs-min-0021200114,202723.0,Malcolm,Lee,M. Lee,malcolm-lee,G,,,Y,35:22,3,12,0.25,0,5.0,0.0,4,6.0,0.667,2,2.0,4,3,1,0,0,2,10,-2
+2000-03-06,orl-vs-was-0029900852,782.0,Mitch,Richmond,M. Richmond,mitch-richmond,G,,,Y,21:55,2,6,0.333,0,2.0,0.0,0,0.0,0.0,0,3.0,3,4,1,0,1,0,4,-1
+2008-11-17,hou-vs-okc-0020800146,699.0,Brent,Barry,B. Barry,brent-barry,,,,N,17:40,0,1,0.0,0,1.0,0.0,0,0.0,0.0,0,1.0,1,0,1,0,1,3,0,0
+2008-01-04,hou-vs-orl-0020700473,201166.0,Aaron,Brooks,A. Brooks,aaron-brooks,,,,N,19:01,3,6,0.5,1,3.0,0.333,0,0.0,0.0,0,2.0,2,4,0,1,1,3,7,-1
+2013-03-29,mia-vs-noh-0021201080,2617.0,Udonis,Haslem,U. Haslem,udonis-haslem,F,,,N,22:23,1,4,0.25,0,0.0,0.0,2,2.0,1.0,1,4.0,5,0,0,0,0,1,4,16
+2022-03-11,nyk-vs-mem-0022101000,1629630.0,Ja,Morant,J. Morant,ja-morant,G,,,Y,37:31,14,34,0.412,1,4.0,0.25,8,10.0,0.8,2,3.0,5,8,2,1,2,2,37,-3
+2021-11-14,sas-vs-lal-0022100192,202340.0,Avery,Bradley,A. Bradley,avery-bradley,G,,,Y,22:34,0,3,0.0,0,2.0,0.0,0,0.0,0.0,0,2.0,2,1,1,1,0,2,0,0
+2002-11-09,sea-vs-mia-0020200084,696.0,Travis,Best,T. Best,travis-best,,DND - Sprained Right Ankle,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2006-12-30,nok-vs-dal-0020600448,2446.0,Rasual,Butler,R. Butler,rasual-butler,G,,,N,35:01,5,13,0.385,1,4.0,0.25,1,2.0,0.5,1,3.0,4,1,0,1,0,3,12,-19
+2022-02-25,tor-vs-cha-0022100896,1630208.0,Nick,Richards,N. Richards,nick-richards,,DND - Injury/Illness,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2022-02-09,gsw-vs-uta-0022100828,203952.0,Andrew,Wiggins,A. Wiggins,andrew-wiggins,F,,,N,27:44,5,11,0.455,2,5.0,0.4,1,2.0,0.5,0,3.0,3,4,2,1,2,2,13,-9
+2021-04-07,min-vs-ind-0022000776,1629020.0,Jarred,Vanderbilt,J. Vanderbilt,jarred-vanderbilt,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2000-01-21,sea-vs-bos-0029900558,1741.0,Jelani,McCoy,J. McCoy,jelani-mccoy,,,,N,24:51,3,7,0.429,0,0.0,0.0,4,6.0,0.667,2,5.0,7,1,1,1,3,2,10,-9
+2021-02-01,hou-vs-okc-0022000318,1629026.0,Kenrich,Williams,K. Williams,kenrich-williams,,,,Y,20:17,3,7,0.429,1,3.0,0.333,0,0.0,0.0,1,3.0,4,2,0,0,0,1,7,-12
+2010-04-10,sas-vs-den-0020901192,2365.0,Chris,Andersen,C. Andersen,chris-andersen,,,,Y,16:20,2,3,0.667,0,0.0,0.0,2,2.0,1.0,2,5.0,7,1,0,2,1,3,6,-8
+1997-12-22,dal-vs-nyk-0029700364,913.0,Larry,Johnson,L. Johnson,larry-johnson,F,,,Y,33:56,8,15,0.533,1,1.0,1.0,1,2.0,0.5,4,4.0,8,2,1,0,1,3,18,15
+2004-04-29,dal-vs-sac-0040300175,1934.0,Rodney,Buford,R. Buford,rodney-buford,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2009-11-09,min-vs-gsw-0020900101,1536.0,Stephen,Jackson,S. Jackson,stephen-jackson,F,,,Y,31:18,2,8,0.25,0,2.0,0.0,6,6.0,1.0,2,4.0,6,15,4,2,3,1,10,35
+1997-03-02,atl-vs-det-0029600827,695.0,Eldridge,Recasner,E. Recasner,eldridge-recasner,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-01-28,was-vs-orl-0020400629,2045.0,Hedo,Turkoglu,H. Turkoglu,hedo-turkoglu,,,,Y,27:19,12,18,0.667,5,7.0,0.714,2,2.0,1.0,0,5.0,5,2,1,0,1,2,31,13
+2016-03-25,tor-vs-hou-0021501077,200768.0,Kyle,Lowry,K. Lowry,kyle-lowry,G,,,N,41:37,4,19,0.211,3,10.0,0.3,4,9.0,0.444,0,2.0,2,8,1,1,0,4,15,-3
+2016-03-30,lac-vs-min-0021501116,203952.0,Andrew,Wiggins,A. Wiggins,andrew-wiggins,F,,,Y,24:29,3,9,0.333,1,2.0,0.5,0,0.0,0.0,0,0.0,0,1,1,0,6,3,7,-12
+1995-12-13,lal-vs-det-0029500287,691.0,Lou,Roe,L. Roe,lou-roe,,,3,Y,1,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-01-13,cle-vs-lal-0020400518,446.0,Lucious,Harris,L. Harris,lucious-harris,,,,N,16:02,2,6,0.333,1,2.0,0.5,3,4.0,0.75,1,0.0,1,1,0,0,0,1,8,-7
+2001-03-21,dal-vs-min-0020000982,111.0,LaPhonso,Ellis,L. Ellis,laphonso-ellis,,,,Y,11:21,0,4,0.0,0,0.0,0.0,1,2.0,0.5,1,0.0,1,0,0,0,0,2,1,-14
+2022-01-21,hou-vs-gsw-0022100694,1626172.0,Kevon,Looney,K. Looney,kevon-looney,C,,,Y,31:56,3,3,1.0,0,0.0,0.0,2,2.0,1.0,4,8.0,12,0,1,4,3,2,8,6
+1995-11-03,mil-vs-bos-0029500013,299.0,Glenn,Robinson,G. Robinson,glenn-robinson,,,13,N,38,9,24,0.375,0,1.0,0.0,6,8.0,0.75,3,4.0,7,1,4,0,3,3,24,0
+1996-11-26,sac-vs-tor-0029600182,768.0,Acie,Earl,A. Earl,acie-earl,,,,Y,28:21,3,9,0.333,0,0.0,0.0,2,2.0,1.0,2,1.0,3,0,0,2,3,4,8,8
+1997-03-02,sas-vs-mia-0029600826,136.0,P.J.,Brown,P. Brown,pj-brown,F,,,Y,39:41,7,13,0.538,0,0.0,0.0,2,3.0,0.667,2,9.0,11,1,0,2,1,4,16,4
+1999-05-14,mia-vs-nyk-0049800025,369.0,Charlie,Ward,C. Ward,charlie-ward,G,,,Y,28:11,3,6,0.5,3,4.0,0.75,3,4.0,0.75,1,1.0,2,4,1,0,3,5,12,3
+2008-12-21,cle-vs-okc-0020800402,201142.0,Kevin,Durant,K. Durant,kevin-durant,F,,,Y,43:09,9,17,0.529,2,3.0,0.667,6,8.0,0.75,0,5.0,5,1,2,0,4,2,26,-9
+2008-02-06,chi-vs-por-0020700722,101112.0,Channing,Frye,C. Frye,channing-frye,,,,Y,10:45,1,2,0.5,0,0.0,0.0,0,0.0,0.0,0,4.0,4,0,0,0,0,3,2,-3
+2003-01-15,min-vs-lac-0020200551,399.0,Sean,Rooks,S. Rooks,sean-rooks,,,,Y,12:15,2,4,0.5,0,0.0,0.0,0,0.0,0.0,1,1.0,2,1,1,0,2,1,4,-1
+2006-12-09,mil-vs-nyk-0020600289,950.0,Stephon,Marbury,S. Marbury,stephon-marbury,G,,,Y,23:43,1,4,0.25,0,0.0,0.0,0,2.0,0.0,0,1.0,1,9,0,0,1,1,2,9
+2012-11-30,phi-vs-cha-0021200223,201957.0,Byron,Mullens,B. Mullens,byron-mullens,F,,,Y,34:15,3,12,0.25,0,3.0,0.0,4,4.0,1.0,1,5.0,6,0,0,0,1,3,10,-4
+2014-01-05,den-vs-lal-0021300504,201163.0,Wilson,Chandler,W. Chandler,wilson-chandler,F,,,N,25:51,6,10,0.6,3,6.0,0.5,2,2.0,1.0,0,1.0,1,1,2,0,1,3,17,5
+1995-11-28,lac-vs-hou-0029500179,699.0,Brent,Barry,B. Barry,brent-barry,,,31,N,21,5,7,0.713,1,3.0,0.333,0,0.0,0.0,0,1.0,1,2,1,0,1,2,11,0
+2012-11-04,det-vs-lal-0021200041,201941.0,Jordan,Hill,J. Hill,jordan-hill,,,,Y,19:08,3,4,0.75,0,0.0,0.0,5,5.0,1.0,4,3.0,7,0,1,1,0,2,11,-5
+2004-02-04,chi-vs-uta-0020300706,2306.0,Carlos,Arroyo,C. Arroyo,carlos-arroyo,G,,,Y,24:02,2,10,0.2,0,2.0,0.0,1,2.0,0.5,0,0.0,0,4,0,0,0,4,5,-12
+1996-03-17,dal-vs-por-0029500921,771.0,Elmore,Spencer,E. Spencer,elmore-spencer,,,27,Y,4,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,1,2,0
+2021-10-08,ind-vs-cle-0012100025,1630678.0,Terry,Taylor,T. Taylor,terry-taylor,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2022-12-11,tor-vs-orl-0022200398,1628964.0,Mo,Bamba,M. Bamba,mo-bamba,,,,Y,23:27,6,6,1.0,2,2.0,1.0,4,5.0,0.8,1,8.0,9,1,0,2,0,4,18,11
+2005-03-11,mem-vs-uta-0020400910,2073.0,Brian,Cardinal,B. Cardinal,brian-cardinal,F,,,N,34:20,5,10,0.5,2,4.0,0.5,2,2.0,1.0,0,3.0,3,4,3,0,3,5,14,13
+2011-02-02,chi-vs-lac-0021000729,1884.0,Baron,Davis,B. Davis,baron-davis,G,,,Y,28:51,4,9,0.444,2,4.0,0.5,0,0.0,0.0,0,2.0,2,3,0,0,1,1,10,-5
+2022-02-06,ind-vs-cle-0022100805,1630205.0,Lamar,Stevens,L. Stevens,lamar-stevens,,,,Y,15:38,2,5,0.4,0,1.0,0.0,2,4.0,0.5,1,1.0,2,0,2,0,0,0,6,16
+2021-02-28,cha-vs-sac-0022000528,1629610.0,DaQuan,Jeffries,D. Jeffries,daquan-jeffries,,,,Y,12:27,0,2,0.0,0,2.0,0.0,0,0.0,0.0,1,1.0,2,0,0,0,0,1,0,-10
+2000-12-23,bos-vs-mil-0020000389,760.0,Jerome,Kersey,J. Kersey,jerome-kersey,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2013-04-10,noh-vs-sac-0021201170,202349.0,Greivis,Vasquez,G. Vasquez,greivis-vasquez,G,,,N,25:10,2,6,0.333,0,2.0,0.0,0,0.0,0.0,0,1.0,1,2,1,0,3,3,4,-20
+2002-02-01,nyk-vs-ind-0020100649,2068.0,Lavor,Postell,L. Postell,lavor-postell,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2013-01-19,mil-vs-por-0021200599,101141.0,Ersan,Ilyasova,E. Ilyasova,ersan-ilyasova,F,,,N,26:06,10,14,0.714,3,3.0,1.0,4,4.0,1.0,2,12.0,14,4,0,1,1,4,27,14
+2018-03-03,uta-vs-sac-0021700942,203497.0,Rudy,Gobert,R. Gobert,rudy-gobert,C,,,N,36:19,6,10,0.6,0,0.0,0.0,4,7.0,0.571,5,7.0,12,2,3,3,1,2,16,10
+2019-12-31,phi-vs-ind-0021900498,203658.0,Norvel,Pelle,N. Pelle,norvel-pelle,,,,N,12:19,1,3,0.333,0,0.0,0.0,0,0.0,0.0,1,2.0,3,1,0,1,0,4,2,-14
+2012-11-30,phx-vs-tor-0021200222,2554.0,Mickael,Pietrus,M. Pietrus,mickael-pietrus,,,,Y,31:30,2,7,0.286,2,5.0,0.4,0,0.0,0.0,0,2.0,2,0,1,1,0,0,6,12
+2005-03-05,por-vs-phx-0020400871,2038.0,Joel,Przybilla,J. Przybilla,joel-przybilla,C,,,N,24:52,0,2,0.0,0,0.0,0.0,2,4.0,0.5,6,2.0,8,2,1,1,3,3,2,-16
+1999-03-05,den-vs-bos-0029800220,461.0,Popeye,Jones,P. Jones,popeye-jones,,,,Y,9:41,1,2,0.5,0,0.0,0.0,0,0.0,0.0,3,2.0,5,1,1,0,0,0,2,2
+2012-11-16,nyk-vs-mem-0021200127,703.0,Kurt,Thomas,K. Thomas,kurt-thomas,,,,N,9:12,1,3,0.333,0,0.0,0.0,1,2.0,0.5,2,2.0,4,0,0,1,0,1,3,-3
+2009-01-22,bos-vs-orl-0020800628,101162.0,Marcin,Gortat,M. Gortat,marcin-gortat,,,,Y,8:49,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,0,1,0,0,2,0,-9
+1997-01-29,por-vs-det-0029600622,278.0,Stacey,Augmon,S. Augmon,stacey-augmon,,,,N,6:46,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,0,0,0,-11
+2013-11-25,chi-vs-uta-0021300209,2736.0,Luol,Deng,L. Deng,luol-deng,F,,,N,44:44,7,18,0.389,0,4.0,0.0,10,13.0,0.769,1,9.0,10,2,0,0,2,3,24,-8
+2006-10-19,mta-vs-tor-0010600063,101230.0,Noel,Felix,N. Felix,noel-felix,,,,N,32,7,12,0.582,0,1.0,0.0,5,6.0,0.832,3,4.0,7,1,2,0,3,3,19,0
+2008-12-10,atl-vs-sas-0020800319,101177.0,Fabricio,Oberto,F. Oberto,fabricio-oberto,,,,Y,12:48,0,3,0.0,0,0.0,0.0,0,0.0,0.0,3,3.0,6,0,0,1,1,1,0,4
+2012-10-10,atl-vs-sas-0011200024,203178.0,Wesley,Witherspoon,W. Witherspoon,wesley-witherspoon,,,11.0,Y,12,2,4,0.5,2,3.0,0.667,0,0.0,0.0,1,0.0,1,0,0,0,2,1,6,0
+2019-01-18,mem-vs-bos-0021800671,201956.0,Omri,Casspi,O. Casspi,omri-casspi,,,,N,20:42,5,7,0.714,2,2.0,1.0,0,0.0,0.0,0,2.0,2,1,2,1,0,1,12,-5
+2000-04-18,sea-vs-sac-0029901175,270.0,Horace,Grant,H. Grant,horace-grant,C,,,N,47:49,3,10,0.3,0,0.0,0.0,0,2.0,0.0,4,5.0,9,5,1,1,1,5,6,9
+2007-05-29,det-vs-cle-0040600304,1497.0,Chauncey,Billups,C. Billups,chauncey-billups,G,,,N,45:03,6,16,0.375,2,9.0,0.222,9,10.0,0.9,2,7.0,9,2,1,0,5,3,23,2
+2000-05-08,phi-vs-ind-0049900049,365.0,Derrick,McKey,D. McKey,derrick-mckey,,,,Y,21:21,1,2,0.5,0,0.0,0.0,2,2.0,1.0,3,2.0,5,1,1,1,1,3,4,2
+2016-12-18,bos-vs-mia-0021600410,101161.0,Amir,Johnson,A. Johnson,amir-johnson,F,,,N,19:43,4,5,0.8,1,1.0,1.0,0,0.0,0.0,2,2.0,4,2,0,0,1,3,9,4
+1999-05-03,sac-vs-den-0029800702,1715.0,Jason,Williams,J. Williams,jason-williams,G,,,N,35:26,3,8,0.375,3,6.0,0.5,2,2.0,1.0,0,5.0,5,9,1,0,3,2,11,9
+2010-11-07,min-vs-hou-0021000092,2397.0,Ming,Yao,Yao,ming-yao,C,,,Y,16:55,3,5,0.6,0,0.0,0.0,7,7.0,1.0,1,3.0,4,1,0,1,0,2,13,2
+2012-03-01,lac-vs-sac-0021100526,2250.0,Bobby,Simmons,B. Simmons,bobby-simmons,,,,N,24:10,5,8,0.625,3,4.0,0.75,0,0.0,0.0,0,2.0,2,1,0,0,0,2,13,11
+2015-01-15,okc-vs-hou-0021400584,203093.0,Terrence,Jones,T. Jones,terrence-jones,,DND - Left Leg Nerve Inflammation,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-01-03,min-vs-bos-0021000501,2605.0,Marquis,Daniels,M. Daniels,marquis-daniels,,,,Y,13:41,1,2,0.5,0,0.0,0.0,2,2.0,1.0,0,1.0,1,0,0,0,1,0,4,-1
+2006-12-13,min-vs-sas-0020600322,1548.0,Mark,Blount,M. Blount,mark-blount,C,,,N,41:10,8,13,0.615,0,1.0,0.0,3,4.0,0.75,3,5.0,8,0,2,1,1,0,19,-15
+2019-11-04,nop-vs-bkn-0021900092,1629066.0,Rodions,Kurucs,R. Kurucs,rodions-kurucs,,,,Y,7:05,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,0,1,0,2,1,0,2
+2015-03-25,chi-vs-tor-0021401065,1737.0,Nazr,Mohammed,N. Mohammed,nazr-mohammed,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-02-09,sas-vs-was-0020400720,1752.0,Sean,Marks,S. Marks,sean-marks,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+1996-03-03,hou-vs-lal-0029500823,76.0,Cedric,Ceballos,C. Ceballos,cedric-ceballos,,,23,Y,24,5,11,0.455,1,3.0,0.333,3,4.0,0.75,2,3.0,5,1,0,0,1,0,14,0
+2016-12-03,atl-vs-tor-0021600293,1627783.0,Pascal,Siakam,P. Siakam,pascal-siakam,F,,,Y,27:01,7,12,0.583,0,1.0,0.0,0,0.0,0.0,1,2.0,3,0,1,2,1,2,14,23
+2017-01-19,was-vs-nyk-0021600638,1626254.0,Maurice,Ndour,M. Ndour,maurice-ndour,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-01-19,phx-vs-cle-0021000613,200789.0,Daniel,Gibson,D. Gibson,daniel-gibson,,,,Y,29:37,6,13,0.462,4,6.0,0.667,0,0.0,0.0,0,1.0,1,1,1,2,1,4,16,-6
+2019-02-27,min-vs-atl-0021800912,203476.0,Gorgui,Dieng,G. Dieng,gorgui-dieng,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2002-02-02,lac-vs-atl-0020100660,949.0,Shareef,Abdur-Rahim,S. Abdur-Rahim,shareef-abdur-rahim,F,,,Y,42:21,9,17,0.529,1,1.0,1.0,8,8.0,1.0,1,3.0,4,2,3,1,2,5,27,4
+2008-01-18,sac-vs-det-0020700577,101131.0,Jason,Maxiell,J. Maxiell,jason-maxiell,,,,Y,20:57,2,5,0.4,0,0.0,0.0,1,5.0,0.2,4,3.0,7,0,2,2,1,2,5,-14
+2005-03-05,was-vs-cha-0020400867,2041.0,Etan,Thomas,E. Thomas,etan-thomas,,Not With Team - Flu,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2018-04-25,uta-vs-okc-0041700175,202331.0,Paul,George,P. George,paul-george,F,,,Y,44:39,12,26,0.462,2,6.0,0.333,8,10.0,0.8,1,7.0,8,2,2,1,2,5,34,13
+2004-12-15,mia-vs-was-0020400318,1712.0,Antawn,Jamison,A. Jamison,antawn-jamison,F,,,Y,33:14,10,26,0.385,1,7.0,0.143,5,5.0,1.0,2,3.0,5,1,1,0,1,4,26,-8
+2012-12-12,dal-vs-bos-0021200315,202346.0,Dominique,Jones,D. Jones,dominique-jones,,,,N,1:55,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,0,0,0,0,-2
+2013-10-31,nyk-vs-chi-0021300018,203513.0,Erik,Murphy,E. Murphy,erik-murphy,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2007-01-31,was-vs-tor-0020600674,200745.0,Andrea,Bargnani,A. Bargnani,andrea-bargnani,,,,Y,24:02,4,12,0.333,1,5.0,0.2,5,5.0,1.0,0,3.0,3,4,0,1,2,2,14,2
+2021-04-13,bkn-vs-min-0022000817,1629185.0,Chris,Chiozza,C. Chiozza,chris-chiozza,G,,,N,13:55,2,6,0.333,0,1.0,0.0,0,0.0,0.0,0,2.0,2,5,0,1,0,0,4,17
+2007-02-26,mia-vs-nyk-0020600841,950.0,Stephon,Marbury,S. Marbury,stephon-marbury,G,,,Y,38:39,7,12,0.583,3,6.0,0.5,8,9.0,0.889,0,3.0,3,2,0,0,1,1,25,11
+2007-12-02,orl-vs-lal-0020700249,2567.0,Brian,Cook,B. Cook,brian-cook,,,,N,8:53,1,3,0.333,1,2.0,0.5,0,0.0,0.0,0,1.0,1,0,0,0,1,2,3,-6
+2017-03-21,lac-vs-lal-0021601058,203085.0,Austin,Rivers,A. Rivers,austin-rivers,,,,N,31:00,6,11,0.545,1,4.0,0.25,5,6.0,0.833,0,4.0,4,4,0,0,1,2,18,14
+2003-03-02,was-vs-mia-0020200856,2217.0,Brendan,Haywood,B. Haywood,brendan-haywood,C,,,N,19:49,2,4,0.5,0,0.0,0.0,1,2.0,0.5,4,3.0,7,0,0,0,0,4,5,-8
+2016-10-11,okc-vs-dal-0011600046,1627852.0,Nicolas,Brussino,N. Brussino,nicolas-brussino,,,,Y,12:29,4,5,0.8,3,4.0,0.75,0,0.0,0.0,1,1.0,2,0,0,0,1,0,11,-14
+2022-12-14,min-vs-lac-0022200423,201587.0,Nicolas,Batum,N. Batum,nicolas-batum,,,,Y,30:44,5,9,0.556,3,7.0,0.429,0,0.0,0.0,1,6.0,7,2,2,0,1,1,13,30
+2004-12-08,den-vs-was-0020400264,2030.0,Kenyon,Martin,K. Martin,kenyon-martin,F,,,N,30:03,2,7,0.286,0,0.0,0.0,2,3.0,0.667,2,1.0,3,3,2,1,2,5,6,-6
+1998-03-11,por-vs-lal-0029700896,1594.0,Rick,Brunson,R. Brunson,rick-brunson,G,,,N,28:26,4,9,0.444,3,4.0,0.75,0,2.0,0.0,1,2.0,3,6,0,0,3,2,11,-4
+2016-12-17,cha-vs-atl-0021600401,201158.0,Marco,Belinelli,M. Belinelli,marco-belinelli,,,,N,29:33,8,11,0.727,3,4.0,0.75,0,0.0,0.0,0,3.0,3,1,0,0,1,1,19,15
+1998-03-06,tor-vs-min-0029700862,52.0,Micheal,Williams,M. Williams,micheal-williams,,,,Y,3:49,0,1,0.0,0,0.0,0.0,2,2.0,1.0,0,0.0,0,3,1,0,1,2,2,4
+2015-01-17,lac-vs-sac-0021400607,201933.0,Blake,Griffin,B. Griffin,blake-griffin,F,,,N,36:32,11,16,0.688,0,0.0,0.0,8,11.0,0.727,1,4.0,5,5,1,0,1,2,30,8
+1999-02-06,cle-vs-bos-0029800013,958.0,Vitaly,Potapenko,V. Potapenko,vitaly-potapenko,,,,N,14:09,0,3,0.0,0,0.0,0.0,0,0.0,0.0,0,2.0,2,0,1,1,4,1,0,-11
+2021-04-04,nop-vs-hou-0022000760,1630256.0,Jae'Sean,Tate,J. Tate,jaesean-tate,F,,,Y,26:14,7,11,0.636,3,6.0,0.5,2,2.0,1.0,1,4.0,5,3,1,0,2,5,19,7
+2021-05-16,mia-vs-det-0022001069,1630165.0,Killian,Hayes,K. Hayes,killian-hayes,G,,,Y,30:54,3,7,0.429,2,5.0,0.4,2,2.0,1.0,0,0.0,0,4,1,0,3,5,10,-9
+2015-11-21,phi-vs-mia-0021500193,1626159.0,Justise,Winslow,J. Winslow,justise-winslow,,,,Y,23:25,4,4,1.0,1,1.0,1.0,2,3.0,0.667,1,4.0,5,1,0,0,3,3,11,-1
+1997-05-28,mia-vs-chi-0049600078,291.0,Ed,Pinckney,E. Pinckney,ed-pinckney,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2008-12-26,ind-vs-mem-0020800430,201188.0,Marc,Gasol,M. Gasol,marc-gasol,,,,Y,23:47,7,10,0.7,0,0.0,0.0,0,2.0,0.0,4,1.0,5,1,0,0,1,4,14,1
+2018-02-06,was-vs-phi-0021700802,1626147.0,Justin,Anderson,J. Anderson,justin-anderson,,,,Y,7:58,2,3,0.667,1,2.0,0.5,0,0.0,0.0,0,1.0,1,0,1,0,0,0,5,4
+1997-02-19,phx-vs-chh-0029600744,684.0,Loren,Meyer,L. Meyer,loren-meyer,,,,N,0:03,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-01-02,ind-vs-nyk-0021000492,1902.0,Jeff,Foster,J. Foster,jeff-foster,C,,,N,22:35,1,2,0.5,0,0.0,0.0,0,0.0,0.0,4,2.0,6,2,3,1,1,6,2,7
+2011-04-03,atl-vs-hou-0021001146,2863.0,Damien,Wilkins,D. Wilkins,damien-wilkins,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2019-01-04,nyk-vs-lal-0021800574,1629067.0,Isaac,Bonga,I. Bonga,isaac-bonga,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-03-02,lac-vs-phx-0021100537,101108.0,Chris,Paul,C. Paul,chris-paul,G,,,N,36:32,6,15,0.4,2,5.0,0.4,2,3.0,0.667,0,1.0,1,5,2,0,2,3,16,-2
+2020-01-11,min-vs-hou-0021900577,1629006.0,Josh,Okogie,J. Okogie,josh-okogie,,,,N,30:23,5,11,0.455,2,7.0,0.286,4,5.0,0.8,2,3.0,5,5,4,1,1,2,16,-2
+2000-02-04,cle-vs-det-0029900655,1510.0,Brevin,Knight,B. Knight,brevin-knight,G,,,N,12:26,2,3,0.667,0,0.0,0.0,0,0.0,0.0,0,3.0,3,3,1,0,1,1,4,-2
+2018-02-10,lal-vs-dal-0021700830,203484.0,Kentavious,Caldwell-Pope,K. Caldwell-Pope,kentavious-caldwell-pope,G,,,N,35:08,5,8,0.625,2,5.0,0.4,2,4.0,0.5,2,4.0,6,4,3,0,0,4,14,-4
+2007-01-17,phi-vs-mem-0020600573,200760.0,Rodney,Carney,R. Carney,rodney-carney,,,,N,11:57,3,9,0.333,0,3.0,0.0,2,2.0,1.0,3,0.0,3,1,2,0,2,2,8,-10
+2012-10-31,sac-vs-chi-0021200007,203080.0,Thomas,Robinson,T. Robinson,thomas-robinson,,,,N,21:33,1,5,0.2,0,0.0,0.0,1,2.0,0.5,1,2.0,3,0,1,0,3,3,3,1
+2006-10-11,mil-vs-min-0010600020,200786.0,David,Noel,D. Noel,david-noel,,,34.0,N,18,1,4,0.25,1,1.0,1.0,0,0.0,0.0,3,4.0,7,2,1,0,2,6,3,0
+2002-03-24,orl-vs-mil-0020100996,42.0,Monty,Williams,M. Williams,monty-williams,F,,,N,30:35,4,10,0.4,0,0.0,0.0,8,8.0,1.0,4,6.0,10,2,1,0,3,2,16,-18
+2005-01-19,min-vs-lal-0020400569,84.0,Latrell,Sprewell,L. Sprewell,latrell-sprewell,F,,,N,41:10,9,28,0.321,0,8.0,0.0,5,6.0,0.833,1,1.0,2,3,2,1,1,1,23,10
+2022-03-07,por-vs-min-0022100971,1629020.0,Jarred,Vanderbilt,J. Vanderbilt,jarred-vanderbilt,F,,,Y,18:34,1,3,0.333,0,0.0,0.0,2,2.0,1.0,2,5.0,7,1,1,0,0,1,4,21
+1995-11-13,dal-vs-van-0029500081,12.0,Chris,King,C. King,chris-king,,,17,Y,26,4,11,0.363,0,0.0,0.0,4,6.0,0.667,5,2.0,7,2,1,1,2,5,12,0
+2014-11-19,lal-vs-hou-0021400169,101179.0,Ronnie,Price,R. Price,ronnie-price,,,,N,15:31,2,3,0.667,1,2.0,0.5,0,0.0,0.0,0,1.0,1,1,1,0,2,1,5,2
+2022-11-05,okc-vs-mil-0022200136,201588.0,George,Hill,G. Hill,george-hill,,,,Y,21:12,1,2,0.5,0,0.0,0.0,0,2.0,0.0,0,2.0,2,2,0,0,3,3,2,17
+2012-10-26,ind-vs-chi-0011200111,201579.0,Roy,Hibbert,R. Hibbert,roy-hibbert,,,55.0,N,31,8,14,0.57,0,0.0,0.0,1,2.0,0.5,3,5.0,8,1,0,2,2,2,17,0
+2019-11-15,uta-vs-mem-0021900170,1626145.0,Tyus,Jones,T. Jones,tyus-jones,,,,Y,17:33,3,6,0.5,1,2.0,0.5,0,0.0,0.0,0,0.0,0,5,2,0,0,1,7,-8
+2001-03-07,sac-vs-phx-0020000883,239.0,Darrick,Martin,D. Martin,darrick-martin,,,,N,1:09,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,-4
+1998-03-12,chi-vs-dal-0029700899,1065.0,Erick,Strickland,E. Strickland,erick-strickland,G,,,Y,31:30,2,9,0.222,0,2.0,0.0,0,0.0,0.0,1,2.0,3,5,1,1,1,3,4,-21
+2007-04-06,cle-vs-was-0020601126,1913.0,Michael,Ruffin,M. Ruffin,michael-ruffin,,,,Y,7:45,0,1,0.0,0,0.0,0.0,0,0.0,0.0,3,1.0,4,0,0,0,1,1,0,-3
+2000-03-17,gsw-vs-chi-0029900936,1512.0,Chris,Anstey,C. Anstey,chris-anstey,,,,Y,8:11,1,2,0.5,0,0.0,0.0,0,2.0,0.0,1,3.0,4,1,0,1,2,3,2,1
+2022-11-28,cle-vs-tor-0022200303,1630596.0,Evan,Mobley,E. Mobley,evan-mobley,C,,,N,32:30,7,14,0.5,0,4.0,0.0,4,6.0,0.667,3,12.0,15,1,1,2,1,1,18,-8
+2017-10-02,orl-vs-mem-0011700006,201596.0,Mario,Chalmers,M. Chalmers,mario-chalmers,,,,Y,20:26,7,10,0.7,1,3.0,0.333,4,5.0,0.8,0,1.0,1,2,0,1,4,1,19,6
+2010-12-29,gsw-vs-atl-0021000462,201148.0,Brandan,Wright,B. Wright,brandan-wright,,,,N,3:36,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,2,-3
+2017-01-25,atl-vs-chi-0021600683,203487.0,Michael,Carter-Williams,M. Carter-Williams,michael-carter-williams,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2013-12-23,dal-vs-hou-0021300412,202962.0,Greg,Smith,G. Smith,greg-smith,,DND - Right Knee,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2000-02-05,min-vs-den-0029900666,210.0,Terrell,Brandon,T. Brandon,terrell-brandon,,NWT - Injury - Sprained Left Ankle,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2011-01-08,phi-vs-det-0021000539,201150.0,Spencer,Hawes,S. Hawes,spencer-hawes,C,,,N,17:46,2,4,0.5,0,0.0,0.0,2,3.0,0.667,1,0.0,1,2,0,0,1,2,6,-2
+2018-10-12,cha-vs-dal-0011800071,1629142.0,Yanyuhang,Ding,Y. Ding,yanyuhang-ding,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2001-02-07,dal-vs-nyk-0020000697,714.0,Michael,Finley,M. Finley,michael-finley,F,,,N,56:54,9,22,0.409,3,5.0,0.6,0,2.0,0.0,0,5.0,5,5,1,0,4,4,21,-2
+1995-12-29,bos-vs-sea-0029500398,64.0,Sam,Perkins,S. Perkins,sam-perkins,,,14,Y,22,4,7,0.57,1,2.0,0.5,3,3.0,1.0,1,5.0,6,3,2,0,0,2,12,0
+2010-03-07,okc-vs-sac-0020900938,2555.0,Nick,Collison,N. Collison,nick-collison,,,,N,23:46,2,3,0.667,0,0.0,0.0,0,0.0,0.0,2,4.0,6,0,1,1,2,4,4,-2
+1997-02-03,sac-vs-sas-0029600657,781.0,Will,Perdue,W. Perdue,will-perdue,,"""DND - Fracture, foot orbit, right eye.""",,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2014-11-14,uta-vs-nyk-0021400126,202379.0,Jeremy,Evans,J. Evans,jeremy-evans,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2016-11-30,det-vs-bos-0021600267,202720.0,Jon,Leuer,J. Leuer,jon-leuer,,,,N,22:45,4,5,0.8,2,3.0,0.667,2,2.0,1.0,0,7.0,7,2,0,0,0,2,12,-1
+2005-11-21,sas-vs-sac-0020500148,1710.0,Mike,Bibby,M. Bibby,mike-bibby,G,,,Y,35:40,11,23,0.478,2,5.0,0.4,9,9.0,1.0,1,2.0,3,2,1,1,3,4,33,-7
+2007-01-17,lal-vs-sas-0020600576,677.0,Eric,Williams,E. Williams,eric-williams,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2014-03-23,bkn-vs-dal-0021301044,201148.0,Brandan,Wright,B. Wright,brandan-wright,,,,Y,17:48,2,2,1.0,0,0.0,0.0,1,2.0,0.5,1,1.0,2,0,0,1,0,0,5,-16
+2019-11-29,was-vs-lal-0021900279,2544.0,LeBron,James,L. James,lebron-james,F,,,Y,24:36,9,16,0.563,4,8.0,0.5,1,2.0,0.5,0,3.0,3,11,2,1,6,1,23,20
+2018-10-24,dal-vs-atl-0021800052,1627816.0,Alex,Poythress,A. Poythress,alex-poythress,,,,Y,6:24,0,0,0.0,0,0.0,0.0,1,2.0,0.5,0,1.0,1,0,0,0,0,1,1,-11
+2012-11-03,noh-vs-chi-0021200031,1737.0,Nazr,Mohammed,N. Mohammed,nazr-mohammed,,,,Y,4:14,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,1,0,0,0,-2
+1999-03-15,sac-vs-gsw-0029800306,1744.0,Jerome,James,J. James,jerome-james,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2005-11-28,orl-vs-bos-0020500194,1711.0,Raef,LaFrentz,R. LaFrentz,raef-lafrentz,F,,,Y,25:13,1,10,0.1,0,4.0,0.0,0,0.0,0.0,2,1.0,3,1,0,0,2,3,2,-10
+2015-11-24,chi-vs-por-0021500213,1626171.0,Bobby,Portis,B. Portis,bobby-portis,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2004-02-22,orl-vs-det-0020300807,922.0,Elden,Campbell,E. Campbell,elden-campbell,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2019-05-17,tor-vs-mil-0041800302,1627783.0,Pascal,Siakam,P. Siakam,pascal-siakam,F,,,N,25:49,4,9,0.444,0,2.0,0.0,0,0.0,0.0,1,0.0,1,2,1,0,0,6,8,-21
+2006-12-15,hou-vs-lal-0020600340,200779.0,Steve,Novak,S. Novak,steve-novak,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2013-03-26,min-vs-det-0021201055,202688.0,Brandon,Knight,B. Knight,brandon-knight,G,,,Y,26:29,3,10,0.3,1,3.0,0.333,0,0.0,0.0,0,1.0,1,3,1,0,4,0,7,-16
+2003-04-02,tor-vs-det-0020201078,2050.0,Morris,Peterson,M. Peterson,morris-peterson,F,,,N,30:24,5,8,0.625,3,3.0,1.0,0,0.0,0.0,1,3.0,4,5,2,1,3,0,13,3
+2001-03-14,orl-vs-cle-0020000929,724.0,Cory,Alexander,C. Alexander,cory-alexander,,,,N,23:58,3,9,0.333,0,2.0,0.0,1,1.0,1.0,0,2.0,2,6,1,0,3,5,7,-4
+2000-12-12,orl-vs-sea-0020000311,699.0,Brent,Barry,B. Barry,brent-barry,,,,Y,18:48,2,3,0.667,1,2.0,0.5,0,0.0,0.0,0,1.0,1,4,1,0,1,1,5,-4
+2021-02-06,tor-vs-atl-0022000356,1627761.0,DeAndre',Bembry,D. Bembry,deandre-bembry,,,,N,16:45,2,4,0.5,2,3.0,0.667,0,0.0,0.0,0,3.0,3,1,1,0,0,2,6,-4
+2017-02-28,gsw-vs-was-0021600889,203949.0,James Michael,McAdoo,J. McAdoo,james-michael-mcadoo,,,,N,11:33,2,2,1.0,0,0.0,0.0,0,0.0,0.0,0,4.0,4,0,0,1,0,2,4,6
+2003-02-12,gsw-vs-nyk-0020200723,168.0,Chris,Mills,C. Mills,chris-mills,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2002-12-30,was-vs-orl-0020200432,1716.0,Larry,Hughes,L. Hughes,larry-hughes,G,,,N,43:10,5,10,0.5,1,2.0,0.5,4,4.0,1.0,0,3.0,3,1,0,0,6,3,15,-16
+2013-11-17,det-vs-lal-0021300149,201975.0,Jodie,Meeks,J. Meeks,jodie-meeks,G,,,Y,28:12,6,11,0.545,4,7.0,0.571,3,3.0,1.0,1,1.0,2,0,1,0,2,2,19,4
+2003-01-04,sac-vs-den-0020200470,2222.0,Gerald,Wallace,G. Wallace,gerald-wallace,,,,N,6:14,1,2,0.5,0,0.0,0.0,1,2.0,0.5,0,2.0,2,0,1,1,0,2,3,-6
+2012-04-13,cle-vs-ind-0021100877,202331.0,Paul,George,P. George,paul-george,G,,,Y,21:00,0,6,0.0,0,1.0,0.0,0,0.0,0.0,0,1.0,1,1,0,1,1,3,0,14
+2015-12-26,mia-vs-orl-0021500444,202696.0,Nikola,Vucevic,N. Vucevic,nikola-vucevic,C,,,Y,36:15,11,22,0.5,0,1.0,0.0,0,1.0,0.0,4,6.0,10,6,3,1,2,3,22,0
+1998-05-08,sea-vs-lal-0049700050,765.0,Hersey,Hawkins,H. Hawkins,hersey-hawkins,G,,,N,30:17,2,6,0.333,0,2.0,0.0,1,1.0,1.0,2,3.0,5,7,2,0,0,1,5,-18
+2003-12-07,uta-vs-lal-0020300284,2590.0,Mo,Williams,M. Williams,mo-williams,,,,N,23:20,6,14,0.429,0,1.0,0.0,4,7.0,0.571,0,5.0,5,6,1,0,0,0,16,8
+1996-12-06,cle-vs-det-0029600250,3.0,Grant,Long,G. Long,grant-long,F,,,Y,17:48,1,2,0.5,1,1.0,1.0,1,4.0,0.25,1,2.0,3,0,0,0,0,1,4,-7
+2022-11-16,bos-vs-atl-0022200214,1628988.0,Aaron,Holiday,A. Holiday,aaron-holiday,,,,Y,10:39,1,6,0.167,0,1.0,0.0,0,0.0,0.0,0,2.0,2,0,0,0,0,2,2,-19
+2014-11-19,okc-vs-den-0021400168,2742.0,Sebastian,Telfair,S. Telfair,sebastian-telfair,,,,N,29:36,7,7,1.0,4,4.0,1.0,0,0.0,0.0,0,2.0,2,2,0,0,1,4,18,3
+2020-01-07,min-vs-mem-0021900551,1628966.0,Keita,Bates-Diop,K. Bates-Diop,keita-bates-diop,,,,N,16:45,1,5,0.2,0,3.0,0.0,1,2.0,0.5,0,5.0,5,2,1,0,0,1,3,3
+1995-06-11,orl-vs-hou-0049400072,432.0,Pete,Chilcutt,P. Chilcutt,pete-chilcutt,,,32,Y,1,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2021-05-16,cha-vs-was-0022001080,1628370.0,Malik,Monk,M. Monk,malik-monk,,,,N,5:43,0,2,0.0,0,1.0,0.0,0,0.0,0.0,0,1.0,1,1,0,0,0,0,0,-9
+2002-12-11,ind-vs-mil-0020200311,951.0,Ray,Allen,R. Allen,ray-allen,G,,,Y,45:37,8,21,0.381,2,9.0,0.222,8,9.0,0.889,1,4.0,5,7,4,0,3,6,26,-1
+2001-03-20,hou-vs-sac-0020000976,1005.0,Walt,Williams,W. Williams,walt-williams,,DND - bruised right hand,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2020-08-30,den-vs-uta-0041900166,1628396.0,Tony,Bradley,T. Bradley,tony-bradley,,,,Y,4:47,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,2,0,-1
+2022-01-04,sas-vs-tor-0022100563,1627832.0,Fred,VanVleet,F. VanVleet,fred-vanvleet,G,,,Y,32:05,12,23,0.522,7,14.0,0.5,2,2.0,1.0,1,1.0,2,7,2,0,0,1,33,15
+1999-05-04,sas-vs-por-0029800711,739.0,Rasheed,Wallace,R. Wallace,rasheed-wallace,,,,Y,22:40,3,8,0.375,0,0.0,0.0,0,0.0,0.0,1,4.0,5,0,1,0,2,3,6,8
+2006-06-01,phx-vs-dal-0040500315,703.0,Kurt,Thomas,K. Thomas,kurt-thomas,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2001-01-19,gsw-vs-phx-0020000570,1716.0,Larry,Hughes,L. Hughes,larry-hughes,,Did Not Travel - Right Thumb,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2015-11-15,det-vs-lal-0021500151,203903.0,Jordan,Clarkson,J. Clarkson,jordan-clarkson,G,,,Y,29:14,5,10,0.5,2,4.0,0.5,5,8.0,0.625,0,6.0,6,3,0,0,5,4,17,0
+2003-11-18,mia-vs-sea-0020300151,1744.0,Jerome,James,J. James,jerome-james,,,,Y,19:45,2,5,0.4,0,0.0,0.0,0,0.0,0.0,0,1.0,1,0,0,2,2,5,4,-10
+2019-02-11,cha-vs-ind-0021800841,1628410.0,Edmond,Sumner,E. Sumner,edmond-sumner,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2002-02-20,chh-vs-tor-0020100762,145.0,Tracy,Murray,T. Murray,tracy-murray,,DND - Back spasms,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2017-10-04,den-vs-lal-0011700022,1628431.0,V.J.,Beachem,V. Beachem,vj-beachem,,,,Y,3:34,1,2,0.5,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,1,0,0,0,2,9
+2002-12-03,atl-vs-njn-0020200250,915.0,Rodney,Rogers,R. Rogers,rodney-rogers,,,,Y,22:30,5,11,0.455,2,3.0,0.667,0,0.0,0.0,3,4.0,7,1,0,1,1,1,12,5
+2013-02-13,uta-vs-min-0021200784,203144.0,Alexey,Shved,A. Shved,alexey-shved,,,,Y,10:32,0,4,0.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,1,0,0,-16
+2012-11-10,was-vs-ind-0021200082,101133.0,Ian,Mahinmi,I. Mahinmi,ian-mahinmi,,,,Y,14:15,3,4,0.75,0,0.0,0.0,1,1.0,1.0,2,2.0,4,1,1,1,1,1,7,3
+2008-11-23,min-vs-det-0020800195,201147.0,Corey,Brewer,C. Brewer,corey-brewer,,,,N,20:14,3,6,0.5,1,2.0,0.5,0,0.0,0.0,2,2.0,4,0,1,0,0,3,7,11
+1999-03-26,mil-vs-det-0029800391,951.0,Ray,Allen,R. Allen,ray-allen,G,,,N,37:41,7,19,0.368,4,9.0,0.444,11,11.0,1.0,2,4.0,6,5,3,0,3,3,29,4
+2017-12-05,phx-vs-tor-0021700350,201942.0,DeMar,DeRozan,D. DeRozan,demar-derozan,G,,,Y,34:17,7,17,0.412,0,1.0,0.0,6,7.0,0.857,0,7.0,7,8,3,0,0,2,20,17
+2017-11-07,okc-vs-sac-0021700158,203518.0,Alex,Abrines,A. Abrines,alex-abrines,,,,N,5:13,1,3,0.333,0,2.0,0.0,0,0.0,0.0,1,0.0,1,0,0,0,0,1,2,-4
+2014-11-26,por-vs-cha-0021400210,2748.0,Dorell,Wright,D. Wright,dorell-wright,,DNP - Coach's Decision,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-10-24,lal-vs-lac-0011200105,1712.0,Antawn,Jamison,A. Jamison,antawn-jamison,,,4.0,N,16,1,3,0.333,1,2.0,0.5,0,0.0,0.0,0,3.0,3,2,0,0,0,2,3,0
+2002-12-30,phi-vs-gsw-0020200441,1761.0,Greg,Buckner,G. Buckner,greg-buckner,,,,N,14:29,2,5,0.4,0,1.0,0.0,0,0.0,0.0,1,2.0,3,0,2,0,0,3,4,6
+2021-04-04,orl-vs-den-0022000761,203082.0,Terrence,Ross,T. Ross,terrence-ross,,,,N,30:42,7,18,0.389,2,9.0,0.222,3,5.0,0.6,0,3.0,3,4,1,1,1,4,19,3
+2000-02-03,phi-vs-hou-0029900649,165.0,Hakeem,Olajuwon,H. Olajuwon,hakeem-olajuwon,,,,Y,22:47,7,9,0.778,0,0.0,0.0,0,2.0,0.0,2,3.0,5,2,0,2,0,1,14,24
+2014-12-15,det-vs-lac-0021400362,202327.0,Ekpe,Udoh,E. Udoh,ekpe-udoh,,,,Y,4:14,0,1,0.0,0,0.0,0.0,0,0.0,0.0,1,1.0,2,0,0,0,0,2,0,3
+2018-01-22,was-vs-dal-0021700693,1626191.0,Chris,McCullough,C. McCullough,chris-mccullough,,,,N,4:32,0,1,0.0,0,0.0,0.0,1,2.0,0.5,0,0.0,0,1,0,1,0,0,1,-2
+1999-05-18,por-vs-uta-0049800044,1847.0,Thurl,Bailey,T. Bailey,thurl-bailey,,,,Y,6:38,2,2,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,1,4,-8
+2014-12-30,was-vs-dal-0021400470,201971.0,DeJuan,Blair,D. Blair,dejuan-blair,,,,N,12:00,4,6,0.667,0,0.0,0.0,1,2.0,0.5,1,4.0,5,0,0,0,1,1,9,-2
+1996-01-07,dal-vs-bos-0029500452,296.0,Rick,Fox,R. Fox,rick-fox,,,44,Y,35,2,9,0.222,0,1.0,0.0,4,6.0,0.667,3,5.0,8,5,0,0,3,5,8,0
+2016-03-05,ind-vs-was-0021500924,101139.0,CJ,Miles,C. Miles,cj-miles,,DND - Strained Left Calf,,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2003-11-12,atl-vs-phx-0020300109,2456.0,Cezary,Trybanski,C. Trybanski,cezary-trybanski,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2012-04-19,hou-vs-noh-0021100935,201158.0,Marco,Belinelli,M. Belinelli,marco-belinelli,,,,Y,24:56,4,10,0.4,3,7.0,0.429,2,2.0,1.0,0,2.0,2,1,0,0,0,1,13,-5
+2018-11-24,den-vs-okc-0021800282,1627846.0,Abdel,Nader,A. Nader,abdel-nader,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2008-10-10,min-vs-den-0010800029,2744.0,Al,Jefferson,A. Jefferson,al-jefferson,,,25.0,N,33,5,12,0.416,0,0.0,0.0,0,0.0,0.0,1,10.0,11,2,0,3,0,4,10,0
+2004-03-28,uta-vs-lal-0020301063,2575.0,Luke,Walton,L. Walton,luke-walton,,,,Y,8:58,0,1,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,1,0,0,1,1,0,-14
+2003-12-29,nyk-vs-orl-0020300430,970.0,Othella,Harrington,O. Harrington,othella-harrington,,,,N,17:05,3,4,0.75,0,0.0,0.0,3,4.0,0.75,0,5.0,5,1,0,0,1,6,9,5
+2000-01-15,hou-vs-chi-0029900520,1005.0,Walt,Williams,W. Williams,walt-williams,F,,,N,39:31,7,12,0.583,2,4.0,0.5,1,2.0,0.5,3,6.0,9,3,1,1,0,1,17,3
+2016-02-09,sas-vs-mia-0021500784,203613.0,Jonathon,Simmons,J. Simmons,jonathon-simmons,,,,N,22:43,5,9,0.556,0,0.0,0.0,0,1.0,0.0,1,3.0,4,1,0,0,2,3,10,5
+2001-03-29,uta-vs-sas-0020001036,198.0,Danny,Ferry,D. Ferry,danny-ferry,F,,,Y,29:58,3,4,0.75,3,4.0,0.75,0,0.0,0.0,0,2.0,2,2,0,1,0,3,9,12
+2012-01-30,chi-vs-was-0021100300,202380.0,Hamady,Ndiaye,H. Ndiaye,hamady-ndiaye,,DNP - Coach's Decision,,Y,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0
+2009-04-09,phi-vs-chi-0020801173,2767.0,Royal,Ivey,R. Ivey,royal-ivey,,,,N,11:40,1,1,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,2,2,-16
+2008-02-12,bos-vs-ind-0020700759,101122.0,Danny,Granger,D. Granger,danny-granger,G,,,Y,40:32,6,16,0.375,1,2.0,0.5,5,5.0,1.0,2,8.0,10,3,0,5,2,2,18,5
+2021-04-28,atl-vs-phi-0022000934,1627739.0,Kris,Dunn,K. Dunn,kris-dunn,,,,N,14:50,1,6,0.167,0,1.0,0.0,3,4.0,0.75,0,2.0,2,1,0,0,1,5,5,-11
+2003-01-24,den-vs-bos-0020200609,2403.0,Nene,Hilario,Nene,nene-hilario,C,,,N,43:23,2,6,0.333,0,0.0,0.0,1,2.0,0.5,2,7.0,9,2,5,0,2,0,5,-20
+1998-05-03,nyk-vs-mia-0049700036,121.0,Patrick,Ewing,P. Ewing,patrick-ewing,,"DND - Dislocation, rt. wrist",,N,,0,0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0

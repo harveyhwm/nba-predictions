@@ -1,0 +1,1001 @@
+Date,Detail Path,Action Number,Clock,Period,Team ID,Team Tricode,Person Id,Player Name,Player Init,xLegacy,yLegacy,Shot Distance,Shot Result,Field Goal,Score Home,Score Away,Points Total,Location,Description,Action Type,Sub-Type,Video Available,Action Id
+2022-11-12,atl-vs-phi-0022200188,474.0,PT02M54.00S,3.0,1610612737.0,ATL,1626163.0,Kaminsky,F. Kaminsky,0.0,0.0,0.0,,0.0,,,0.0,v,Kaminsky S.FOUL (P2.T3) (T.Ford),Foul,Shooting,1.0,345.0
+2022-12-28,min-vs-nop-0022200520,453.0,PT05M36.00S,3.0,0.0,,450.0,,,0.0,0.0,0.0,,0.0,69.0,76.0,145.0,,Instant Replay3rd Period (9:43 PM EST),Instant Replay,Overturn Ruling,0.0,332.0
+2023-03-04,phi-vs-mil-0022200960,400.0,PT03M42.00S,3.0,0.0,,1610612755.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,76ers Rebound,Rebound,Unknown,1.0,287.0
+2022-12-27,den-vs-sac-0022200514,67.0,PT06M51.00S,1.0,1610612758.0,SAC,1628989.0,Huerter,K. Huerter,99.0,230.0,25.0,Missed,1.0,,,0.0,h,MISS Huerter 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,55.0
+2022-10-06,mia-vs-bkn-0012200024,448.0,PT05M23.00S,3.0,1610612748.0,MIA,200768.0,Lowry,K. Lowry,0.0,0.0,0.0,,0.0,,,0.0,v,Lowry STEAL (2 STL),,,1.0,320.0
+2022-12-12,bos-vs-lac-0022200408,364.0,PT10M05.00S,3.0,1610612746.0,LAC,202695.0,Leonard,K. Leonard,11.0,23.0,3.0,Made,1.0,63.0,48.0,111.0,h,Leonard 3' Driving Hook Shot (15 PTS),Made Shot,Driving Hook Shot,1.0,264.0
+2022-11-06,chi-vs-tor-0022200141,282.0,PT04M54.00S,2.0,1610612761.0,TOR,1627832.0,VanVleet,F. VanVleet,0.0,0.0,0.0,,0.0,,,0.0,h,VanVleet P.FOUL (P1.T4) (E.Malloy),Foul,Personal,1.0,202.0
+2022-12-08,den-vs-por-0022200376,636.0,PT00M28.30S,4.0,1610612757.0,POR,1629014.0,Simons,A. Simons,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Winslow FOR Simons,Substitution,,0.0,472.0
+2023-02-24,sac-vs-lac-0022200902,648.0,PT00M15.20S,4.0,1610612746.0,LAC,201566.0,Westbrook,R. Westbrook,25.0,20.0,3.0,Made,1.0,151.0,148.0,299.0,h,Westbrook 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1.0,469.0
+2022-10-03,sac-vs-lal-0012200012,130.0,PT03M01.00S,1.0,1610612747.0,LAL,201976.0,Beverley,P. Beverley,0.0,0.0,0.0,,0.0,17.0,12.0,29.0,h,Beverley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1.0,91.0
+2022-12-05,phx-vs-dal-0022200358,616.0,PT01M14.00S,4.0,1610612742.0,DAL,1626174.0,Wood,C. Wood,0.0,0.0,0.0,,0.0,,,0.0,h,Wood REBOUND (Off:3 Def:6),Rebound,Unknown,1.0,458.0
+2022-10-21,orl-vs-atl-0022200020,387.0,PT07M43.00S,3.0,1610612753.0,ORL,1630591.0,Suggs,J. Suggs,0.0,0.0,0.0,,0.0,,,0.0,v,MISS Suggs Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1.0,289.0
+2022-11-02,bos-vs-cle-0022200107,415.0,PT06M25.00S,3.0,0.0,,1610612738.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0.0,305.0
+2022-10-04,uta-vs-por-0012200017,13.0,PT11M07.00S,1.0,1610612757.0,POR,203924.0,Grant,J. Grant,10.0,27.0,3.0,Missed,1.0,,,0.0,h,MISS Grant 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1.0,8.0
+2022-12-23,mil-vs-bkn-0022200483,600.0,PT04M07.00S,4.0,1610612751.0,BKN,1627732.0,Simmons,B. Simmons,0.0,0.0,0.0,,0.0,,,0.0,h,Simmons REBOUND (Off:5 Def:5),Rebound,Unknown,1.0,434.0
+2022-10-03,okc-vs-den-0012200011,74.0,PT06M43.00S,1.0,1610612760.0,OKC,1630197.0,Pokusevski,A. Pokusevski,0.0,0.0,0.0,,0.0,,,0.0,v,Pokusevski REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,52.0
+2022-11-14,sas-vs-gsw-0022200205,407.0,PT07M13.00S,3.0,1610612744.0,GSW,1629673.0,Poole,J. Poole,9.0,6.0,1.0,Missed,1.0,,,0.0,h,MISS Poole 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1.0,291.0
+2022-11-23,dal-vs-bos-0022200264,540.0,PT02M32.00S,4.0,1610612742.0,DAL,1629029.0,Doncic,L. Doncic,0.0,0.0,0.0,,0.0,,,0.0,v,Doncic OFF.Foul (P3) (M.Smith),Foul,Offensive,1.0,397.0
+2023-02-26,lal-vs-dal-0022200913,180.0,PT11M21.00S,2.0,1610612742.0,DAL,1626174.0,Wood,C. Wood,0.0,0.0,0.0,,0.0,,,0.0,h,Wood REBOUND (Off:0 Def:2),Rebound,Unknown,0.0,132.0
+2023-02-11,den-vs-cha-0022200847,238.0,PT08M08.00S,2.0,1610612766.0,CHA,1628372.0,Smith Jr.,D. Smith Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,181.0
+2023-02-02,gsw-vs-den-0022200783,572.0,PT07M45.00S,4.0,1610612743.0,DEN,203484.0,Caldwell-Pope,K. Caldwell-Pope,0.0,0.0,0.0,,0.0,,,0.0,h,Caldwell-Pope REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,403.0
+2022-11-13,okc-vs-nyk-0022200192,688.0,PT00M25.00S,4.0,1610612760.0,OKC,1630581.0,Giddey,J. Giddey,0.0,0.0,0.0,,0.0,135.0,145.0,280.0,v,Giddey Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1.0,498.0
+2023-01-30,gsw-vs-okc-0022200759,327.0,PT00M12.50S,2.0,1610612744.0,GSW,201939.0,Curry,S. Curry,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Kuminga FOR Curry,Substitution,,0.0,228.0
+2022-10-05,tor-vs-bos-0012200020,458.0,PT01M38.00S,3.0,1610612738.0,BOS,1629684.0,Williams,G. Williams,0.0,0.0,0.0,,0.0,,,0.0,h,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,1.0,347.0
+2022-12-04,chi-vs-sac-0022200350,182.0,PT09M47.00S,2.0,1610612741.0,CHI,201942.0,DeRozan,D. DeRozan,0.0,0.0,0.0,,0.0,,,0.0,v,DeRozan Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1.0,136.0
+2023-01-08,uta-vs-mem-0022200600,574.0,PT09M26.00S,4.0,1610612763.0,MEM,1631113.0,Chandler,K. Chandler,-16.0,3.0,2.0,Made,1.0,104.0,95.0,199.0,h,Chandler 2' Running Layup (2 PTS) (Roddy 1 AST),Made Shot,Running Layup Shot,1.0,411.0
+2023-01-13,okc-vs-chi-0022200636,454.0,PT03M15.00S,3.0,1610612760.0,OKC,1629026.0,Williams,K. Williams,-4.0,78.0,8.0,Made,1.0,81.0,91.0,172.0,v,K. Williams 8' Driving Floating Jump Shot (5 PTS) (Waters III 3 AST),Made Shot,Driving Floating Jump Shot,1.0,328.0
+2023-03-02,tor-vs-was-0022200942,268.0,PT02M04.00S,2.0,1610612761.0,TOR,1627832.0,VanVleet,F. VanVleet,-37.0,11.0,4.0,Made,1.0,54.0,44.0,98.0,v,VanVleet 4' Driving Layup (6 PTS) (Siakam 4 AST),Made Shot,Driving Layup Shot,1.0,201.0
+2023-02-02,mem-vs-cle-0022200779,175.0,PT00M47.10S,1.0,1610612739.0,CLE,201937.0,Rubio,R. Rubio,194.0,182.0,27.0,Missed,1.0,,,0.0,h,MISS Rubio 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,138.0
+2022-10-19,nop-vs-bkn-0022200006,146.0,PT01M55.00S,1.0,1610612740.0,NOP,1629627.0,Williamson,Z. Williamson,0.0,0.0,0.0,,0.0,,,0.0,v,Williamson REBOUND (Off:1 Def:3),Rebound,Unknown,1.0,112.0
+2023-02-11,den-vs-cha-0022200847,458.0,PT05M04.00S,3.0,1610612766.0,CHA,1631109.0,Williams,M. Williams,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Smith Jr. FOR Williams,Substitution,,0.0,345.0
+2022-12-02,lal-vs-mil-0022200331,572.0,PT08M41.00S,4.0,1610612747.0,LAL,203076.0,Davis,A. Davis,234.0,73.0,25.0,Made,1.0,108.0,112.0,220.0,v,Davis 25' 3PT Jump Shot (34 PTS) (James 9 AST),Made Shot,Jump Shot,1.0,384.0
+2023-02-11,ind-vs-was-0022200849,495.0,PT09M55.00S,4.0,0.0,,1610612754.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0.0,357.0
+2023-03-10,bkn-vs-min-0022201001,160.0,PT00M54.30S,1.0,1610612750.0,MIN,1629638.0,Alexander-Walker,N. Alexander-Walker,0.0,0.0,0.0,,0.0,,,0.0,h,Alexander-Walker Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1.0,120.0
+2022-11-14,phx-vs-mia-0022200202,220.0,PT06M55.00S,2.0,1610612756.0,PHX,1628969.0,Bridges,M. Bridges,0.0,0.0,0.0,,0.0,,,0.0,v,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,161.0
+2022-12-23,was-vs-sac-0022200491,593.0,PT06M55.00S,4.0,1610612758.0,SAC,1628989.0,Huerter,K. Huerter,124.0,253.0,28.0,Missed,1.0,,,0.0,h,MISS Huerter 28' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,437.0
+2023-01-02,mia-vs-lac-0022200560,108.0,PT02M57.00S,1.0,1610612748.0,MIA,200768.0,Lowry,K. Lowry,0.0,0.0,0.0,,0.0,,,0.0,v,Lowry REBOUND (Off:1 Def:1),Rebound,Unknown,1.0,77.0
+2022-11-27,cle-vs-det-0022200295,64.0,PT06M49.00S,1.0,1610612765.0,DET,1630180.0,Bey,S. Bey,0.0,0.0,0.0,,0.0,,,0.0,h,Bey BLOCK (1 BLK),,,1.0,46.0
+2022-12-29,nyk-vs-sas-0022200527,684.0,PT00M22.20S,4.0,1610612752.0,NYK,203944.0,Randle,J. Randle,0.0,0.0,0.0,,0.0,,,0.0,v,Randle REBOUND (Off:3 Def:8),Rebound,Unknown,1.0,504.0
+2022-12-15,mil-vs-mem-0022200425,269.0,PT06M11.00S,2.0,1610612749.0,MIL,203114.0,Middleton,K. Middleton,107.0,220.0,24.0,Missed,1.0,,,0.0,v,MISS Middleton 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,194.0
+2023-02-11,ind-vs-was-0022200849,342.0,PT09M29.00S,3.0,1610612764.0,WAS,204001.0,Porzingis,K. Porzingis,-37.0,89.0,10.0,Missed,1.0,,,0.0,h,MISS Porzingis 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,239.0
+2023-02-01,tor-vs-uta-0022200776,701.0,PT00M00.00S,4.0,1610612761.0,TOR,1630567.0,Barnes,S. Barnes,-28.0,16.0,3.0,Made,1.0,131.0,128.0,259.0,v,Barnes 3' Running Layup (18 PTS),Made Shot,Running Layup Shot,1.0,518.0
+2023-02-15,dal-vs-den-0022200881,122.0,PT02M22.00S,1.0,1610612742.0,DAL,1629029.0,Doncic,L. Doncic,15.0,113.0,11.0,Made,1.0,23.0,20.0,43.0,v,Doncic 11' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1.0,89.0
+2023-01-12,cle-vs-por-0022200631,48.0,PT07M01.00S,1.0,1610612739.0,CLE,1630596.0,Mobley,E. Mobley,0.0,0.0,0.0,,0.0,,,0.0,v,Mobley S.FOUL (P1.T1) (S.Foster),Foul,Shooting,1.0,32.0
+2023-03-01,chi-vs-det-0022200934,130.0,PT01M58.00S,1.0,1610612765.0,DET,1631093.0,Ivey,J. Ivey,0.0,0.0,0.0,,0.0,29.0,33.0,62.0,h,Ivey Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1.0,88.0
+2022-12-16,atl-vs-cha-0022200428,413.0,PT07M32.00S,3.0,1610612766.0,CHA,203486.0,Plumlee,M. Plumlee,0.0,0.0,0.0,,0.0,,,0.0,h,Plumlee S.FOUL (P4.T2) (M.Kogut),Foul,Shooting,1.0,289.0
+2023-01-07,uta-vs-chi-0022200592,575.0,PT04M56.00S,4.0,1610612762.0,UTA,1630534.0,Agbaji,O. Agbaji,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Markkanen FOR Agbaji,Substitution,,0.0,421.0
+2023-02-10,dal-vs-sac-0022200844,398.0,PT04M26.00S,3.0,1610612742.0,DAL,203501.0,Hardaway Jr.,T. Hardaway Jr.,0.0,0.0,0.0,,0.0,,,0.0,v,Hardaway Jr. REBOUND (Off:0 Def:6),Rebound,Unknown,1.0,282.0
+2023-01-11,min-vs-det-0022200618,282.0,PT02M17.00S,2.0,1610612765.0,DET,1628995.0,Knox II,K. Knox II,-194.0,190.0,27.0,Missed,1.0,,,0.0,h,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,208.0
+2022-11-04,tor-vs-dal-0022200127,478.0,PT01M56.00S,3.0,1610612761.0,TOR,203490.0,Porter Jr.,O. Porter Jr.,-97.0,241.0,26.0,Missed,1.0,,,0.0,v,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,350.0
+2023-01-11,nop-vs-bos-0022200621,290.0,PT00M25.80S,2.0,1610612740.0,NOP,1630230.0,Marshall,N. Marshall,0.0,0.0,0.0,,0.0,,,0.0,v,Marshall REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,217.0
+2022-11-25,det-vs-phx-0022200283,96.0,PT03M03.00S,1.0,1610612756.0,PHX,1629028.0,Ayton,D. Ayton,0.0,0.0,0.0,,0.0,,,0.0,h,Ayton REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,71.0
+2022-12-30,mia-vs-den-0022200535,551.0,PT06M10.00S,4.0,1610612743.0,DEN,1628971.0,Brown,B. Brown,0.0,0.0,0.0,,0.0,100.0,104.0,204.0,h,Brown Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1.0,409.0
+2023-01-04,okc-vs-orl-0022200566,359.0,PT11M08.00S,3.0,1610612760.0,OKC,1629652.0,Dort,L. Dort,0.0,0.0,0.0,,0.0,,,0.0,v,Dort STEAL (1 STL),,,1.0,263.0
+2023-01-13,atl-vs-ind-0022200633,644.0,PT06M22.00S,4.0,1610612737.0,ATL,1630168.0,Okongwu,O. Okongwu,0.0,0.0,0.0,,0.0,,,0.0,v,Okongwu REBOUND (Off:7 Def:9),Rebound,Unknown,1.0,468.0
+2023-02-01,bkn-vs-bos-0022200772,532.0,PT01M41.00S,4.0,1610612751.0,BKN,1630560.0,Thomas,C. Thomas,38.0,86.0,9.0,Missed,1.0,,,0.0,v,MISS Thomas 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,404.0
+2022-11-18,det-vs-lal-0022200234,277.0,PT04M15.00S,2.0,1610612765.0,DET,202711.0,Bogdanovic,B. Bogdanovic,0.0,0.0,0.0,,0.0,,,0.0,v,MISS Bogdanovic Free Throw Technical,Free Throw,Free Throw Technical,1.0,196.0
+2023-02-13,atl-vs-cha-0022200857,70.0,PT06M25.00S,1.0,1610612737.0,ATL,1629027.0,Young,T. Young,0.0,0.0,0.0,,0.0,20.0,11.0,31.0,v,Young Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1.0,52.0
+2023-01-07,lal-vs-sac-0022200595,227.0,PT08M36.00S,2.0,1610612758.0,SAC,1628368.0,Fox,D. Fox,-39.0,130.0,14.0,Missed,1.0,,,0.0,h,MISS Fox 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1.0,159.0
+2022-11-13,uta-vs-phi-0022200195,288.0,PT03M43.00S,2.0,1610612755.0,PHI,203954.0,Embiid,J. Embiid,0.0,0.0,0.0,,0.0,44.0,50.0,94.0,h,Embiid Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1.0,220.0
+2022-12-06,det-vs-mia-0022200361,270.0,PT02M33.00S,2.0,1610612765.0,DET,1630165.0,Hayes,K. Hayes,-145.0,126.0,19.0,Missed,1.0,,,0.0,v,MISS Hayes 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,198.0
+2023-02-27,orl-vs-nop-0022200922,233.0,PT06M40.00S,2.0,1610612740.0,NOP,1630530.0,Murphy III,T. Murphy III,0.0,0.0,0.0,,0.0,,,0.0,h,Murphy III S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,1.0,171.0
+2022-10-06,adl-vs-okc-0012200025,365.0,PT10M05.00S,3.0,15019.0,ADL,196294102.0,Cleveland,A. Cleveland,20.0,8.0,2.0,Missed,1.0,,,0.0,v,MISS Cleveland 2' Jump Shot,Missed Shot,Jump Shot,1.0,255.0
+2022-12-02,den-vs-atl-0022200327,314.0,PT07M55.00S,3.0,1610612743.0,DEN,203932.0,Gordon,A. Gordon,0.0,0.0,0.0,,0.0,,,0.0,v,Gordon REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,231.0
+2022-11-12,bkn-vs-lac-0022200184,278.0,PT05M24.00S,2.0,1610612746.0,LAC,1627826.0,Zubac,I. Zubac,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Zubac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1.0,201.0
+2022-11-02,atl-vs-nyk-0022200110,322.0,PT02M22.00S,2.0,0.0,,1610612752.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,KNICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0.0,241.0
+2022-11-06,chi-vs-tor-0022200141,15.0,PT11M09.00S,1.0,1610612741.0,CHI,1630172.0,Williams,P. Williams,0.0,0.0,0.0,,0.0,,,0.0,v,Williams BLOCK (1 BLK),,,1.0,10.0
+2022-11-04,cle-vs-det-0022200120,435.0,PT04M04.00S,3.0,1610612765.0,DET,1631093.0,Ivey,J. Ivey,0.0,0.0,0.0,,0.0,,,0.0,h,Ivey S.FOUL (P4.PN) (B.Schwab),Foul,Shooting,1.0,314.0
+2022-11-14,tor-vs-det-0022200199,354.0,PT11M25.00S,3.0,1610612761.0,TOR,201152.0,Young,T. Young,0.0,0.0,0.0,,0.0,51.0,59.0,110.0,v,Young Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1.0,254.0
+2023-01-31,cha-vs-mil-0022200767,589.0,PT10M22.00S,4.0,1610612749.0,MIL,203114.0,Middleton,K. Middleton,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Holiday FOR Middleton,Substitution,,0.0,432.0
+2022-10-24,tor-vs-mia-0022200045,581.0,PT03M52.00S,4.0,1610612748.0,MIA,1629639.0,Herro,T. Herro,0.0,0.0,0.0,,0.0,,,0.0,h,Herro REBOUND (Off:1 Def:14),Rebound,Unknown,1.0,439.0
+2023-01-21,hou-vs-min-0022200696,272.0,PT04M49.00S,2.0,1610612750.0,MIN,1630162.0,Edwards,A. Edwards,-69.0,243.0,25.0,Missed,1.0,,,0.0,h,MISS Edwards 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,202.0
+2022-12-07,okc-vs-mem-0022200368,353.0,PT01M17.00S,2.0,1610612760.0,OKC,1630544.0,Mann,T. Mann,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Joe FOR Mann,Substitution,,0.0,267.0
+2022-10-22,det-vs-ind-0022200029,86.0,PT06M09.00S,1.0,1610612765.0,DET,1630595.0,Cunningham,C. Cunningham,13.0,56.0,6.0,Missed,1.0,,,0.0,v,MISS Cunningham 6' Driving Layup,Missed Shot,Driving Layup Shot,1.0,63.0
+2022-12-25,lal-vs-dal-0022200494,203.0,PT06M56.00S,2.0,1610612747.0,LAL,1628972.0,Brown Jr.,T. Brown Jr.,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Beverley FOR Brown Jr.,Substitution,,0.0,153.0
+2023-02-01,gsw-vs-min-0022200774,318.0,PT00M14.10S,2.0,1610612744.0,GSW,201939.0,Curry,S. Curry,154.0,209.0,26.0,Made,1.0,60.0,71.0,131.0,v,Curry 26' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1.0,234.0
+2022-12-11,mil-vs-hou-0022200401,663.0,PT00M14.80S,4.0,1610612749.0,MIL,1626171.0,Portis,B. Portis,118.0,236.0,26.0,Missed,1.0,,,0.0,v,MISS Portis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,485.0
+2023-01-06,por-vs-ind-0022200580,28.0,PT10M06.00S,1.0,1610612754.0,IND,1626167.0,Turner,M. Turner,0.0,0.0,0.0,,0.0,,,0.0,h,Turner S.FOUL (P1.T2) (D.Collins),Foul,Shooting,1.0,20.0
+2023-01-22,lac-vs-dal-0022200701,49.0,PT07M44.00S,1.0,1610612746.0,LAC,1627826.0,Zubac,I. Zubac,0.0,0.0,0.0,,0.0,,,0.0,v,Zubac REBOUND (Off:2 Def:2),Rebound,Unknown,1.0,35.0
+2022-12-23,dal-vs-hou-0022200487,321.0,PT01M27.00S,2.0,1610612742.0,DAL,203501.0,Hardaway Jr.,T. Hardaway Jr.,0.0,0.0,0.0,,0.0,,,0.0,v,Hardaway Jr. P.FOUL (P2.PN) (B.Forte),Foul,Personal,1.0,229.0
+2022-12-28,uta-vs-gsw-0022200521,406.0,PT06M04.00S,3.0,1610612744.0,GSW,1629673.0,Poole,J. Poole,-195.0,183.0,27.0,Missed,1.0,,,0.0,h,MISS Poole 27' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,291.0
+2023-01-10,phx-vs-gsw-0022200615,560.0,PT10M23.00S,4.0,1610612744.0,GSW,203952.0,Wiggins,A. Wiggins,0.0,0.0,0.0,,0.0,,,0.0,h,Wiggins STEAL (2 STL),,,1.0,400.0
+2023-01-01,bos-vs-den-0022200549,245.0,PT04M43.00S,2.0,0.0,,1610612743.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,NUGGETS Rebound,Rebound,Unknown,0.0,181.0
+2022-12-04,bos-vs-bkn-0022200346,410.0,PT02M26.00S,3.0,1610612751.0,BKN,1626220.0,O'Neale,R. O'Neale,0.0,0.0,0.0,,0.0,,,0.0,h,O'Neale REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,314.0
+2022-10-21,orl-vs-atl-0022200020,158.0,PT00M00.80S,1.0,1610612737.0,ATL,1629027.0,Young,T. Young,0.0,0.0,0.0,,0.0,,,0.0,h,Young Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1.0,121.0
+2023-03-03,mem-vs-den-0022200952,58.0,PT07M17.00S,1.0,1610612743.0,DEN,203932.0,Gordon,A. Gordon,0.0,0.0,0.0,,0.0,,,0.0,h,Gordon S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,1.0,40.0
+2022-12-14,det-vs-cha-0022200414,559.0,PT10M43.00S,4.0,1610612766.0,CHA,1630163.0,Ball,L. Ball,-225.0,3.0,0.0,Made,1.0,105.0,110.0,215.0,h,Ball 3PT Fadeaway Jumper (23 PTS) (Jones 1 AST),Made Shot,Fadeaway Jump Shot,1.0,412.0
+2022-10-26,ind-vs-chi-0022200061,589.0,PT07M14.00S,4.0,1610612754.0,IND,1630169.0,Haliburton,T. Haliburton,-21.0,11.0,2.0,Made,1.0,112.0,99.0,211.0,v,Haliburton 2' Running Layup (17 PTS),Made Shot,Running Layup Shot,1.0,414.0
+2022-10-05,tor-vs-bos-0012200020,646.0,PT02M42.00S,5.0,1610612738.0,BOS,1630202.0,Pritchard,P. Pritchard,-123.0,260.0,29.0,Missed,1.0,,,0.0,h,MISS Pritchard 29' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,481.0
+2023-03-04,det-vs-cle-0022200957,536.0,PT10M48.00S,4.0,1610612765.0,DET,1630647.0,Omoruyi,E. Omoruyi,147.0,216.0,26.0,Missed,1.0,,,0.0,v,MISS Omoruyi 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,400.0
+2022-10-02,cha-vs-bos-0012200005,251.0,PT07M32.00S,2.0,1610612766.0,CHA,1630208.0,Richards,N. Richards,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Plumlee FOR Richards,Substitution,,0.0,192.0
+2023-02-25,nop-vs-nyk-0022200906,230.0,PT06M04.00S,2.0,1610612740.0,NOP,1627742.0,Ingram,B. Ingram,-119.0,227.0,26.0,Missed,1.0,,,0.0,v,MISS Ingram 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,172.0
+2022-10-21,bos-vs-mia-0022200022,377.0,PT06M03.00S,3.0,1610612748.0,MIA,200768.0,Lowry,K. Lowry,0.0,0.0,0.0,,0.0,70.0,69.0,139.0,h,Lowry Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1.0,277.0
+2022-10-12,bkn-vs-mil-0012200056,17.0,PT10M34.00S,1.0,1610612749.0,MIL,1628975.0,Carter,J. Carter,0.0,0.0,0.0,,0.0,,,0.0,h,Carter Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1.0,10.0
+2023-02-16,mil-vs-chi-0022200883,378.0,PT07M19.00S,3.0,1610612741.0,CHI,202696.0,Vucevic,N. Vucevic,-6.0,8.0,1.0,Made,1.0,60.0,70.0,130.0,h,Vucevic 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1.0,274.0
+2022-11-19,orl-vs-ind-0022200236,261.0,PT05M27.00S,2.0,1610612753.0,ORL,1630591.0,Suggs,J. Suggs,123.0,43.0,13.0,Made,1.0,34.0,42.0,76.0,v,Suggs 13' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1.0,195.0
+2023-03-03,phx-vs-chi-0022200950,87.0,PT04M50.00S,1.0,1610612756.0,PHX,1626164.0,Booker,D. Booker,-230.0,1.0,0.0,Made,1.0,19.0,29.0,48.0,v,Booker 3PT Jump Shot (7 PTS) (Paul 4 AST),Made Shot,Jump Shot,1.0,64.0
+2023-01-22,lac-vs-dal-0022200701,534.0,PT06M52.00S,4.0,1610612746.0,LAC,202704.0,Jackson,R. Jackson,0.0,0.0,0.0,,0.0,,,0.0,v,Jackson S.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Shooting,1.0,393.0
+2023-02-24,mia-vs-mil-0022200897,287.0,PT03M28.00S,2.0,1610612748.0,MIA,1629639.0,Herro,T. Herro,0.0,0.0,0.0,,0.0,,,0.0,v,Herro S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,1.0,212.0
+2023-01-05,uta-vs-hou-0022200578,441.0,PT05M48.00S,3.0,1610612745.0,HOU,1630578.0,Sengun,A. Sengun,-11.0,17.0,2.0,Made,1.0,75.0,78.0,153.0,h,Sengun 2' Dunk (17 PTS),Made Shot,Dunk Shot,1.0,325.0
+2023-01-06,cle-vs-den-0022200588,319.0,PT02M52.00S,2.0,1610612739.0,CLE,201567.0,Love,K. Love,238.0,32.0,24.0,Missed,1.0,,,0.0,v,MISS Love 24' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,226.0
+2022-11-21,mia-vs-min-0022200252,112.0,PT03M44.00S,1.0,1610612748.0,MIA,200768.0,Lowry,K. Lowry,0.0,0.0,0.0,,0.0,,,0.0,v,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,81.0
+2022-12-07,was-vs-chi-0022200367,589.0,PT07M02.00S,4.0,1610612741.0,CHI,1630245.0,Dosunmu,A. Dosunmu,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: LaVine FOR Dosunmu,Substitution,,0.0,432.0
+2022-10-29,mia-vs-sac-0022200081,83.0,PT05M55.00S,1.0,1610612748.0,MIA,1629639.0,Herro,T. Herro,0.0,0.0,0.0,,0.0,14.0,9.0,23.0,v,Herro Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1.0,59.0
+2023-01-25,sas-vs-lal-0022200729,270.0,PT05M54.00S,2.0,1610612747.0,LAL,2544.0,James,L. James,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Westbrook FOR James,Substitution,,0.0,202.0
+2022-10-22,lac-vs-sac-0022200036,469.0,PT01M23.00S,3.0,1610612746.0,LAC,201587.0,Batum,N. Batum,0.0,0.0,0.0,,0.0,,,0.0,v,Batum S.FOUL (P4.PN) (G.Petraitis),Foul,Shooting,1.0,339.0
+2022-10-14,hou-vs-ind-0012200062,79.0,PT05M29.00S,1.0,1610612754.0,IND,1630537.0,Duarte,C. Duarte,-227.0,12.0,0.0,Made,1.0,21.0,20.0,41.0,h,Duarte 3PT Jump Shot (5 PTS) (McConnell 1 AST),Made Shot,Jump Shot,0.0,62.0
+2022-11-25,lal-vs-sas-0022200282,183.0,PT10M27.00S,2.0,1610612747.0,LAL,2544.0,James,L. James,225.0,-4.0,0.0,Missed,1.0,,,0.0,v,MISS James 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,133.0
+2023-01-25,mem-vs-gsw-0022200726,287.0,PT04M15.00S,2.0,1610612763.0,MEM,1630583.0,Aldama,S. Aldama,-1.0,63.0,6.0,Made,1.0,39.0,39.0,78.0,v,Aldama 6' Driving Floating Jump Shot (7 PTS) (Morant 3 AST),Made Shot,Driving Floating Jump Shot,1.0,209.0
+2022-12-22,sas-vs-nop-0022200477,85.0,PT06M05.00S,1.0,1610612759.0,SAS,1626196.0,Richardson,J. Richardson,-194.0,172.0,26.0,Made,1.0,12.0,7.0,19.0,v,Richardson 26' 3PT Jump Shot (3 PTS) (Sochan 1 AST),Made Shot,Jump Shot,1.0,66.0
+2022-12-16,den-vs-lal-0022200437,203.0,PT10M32.00S,2.0,1610612747.0,LAL,201566.0,Westbrook,R. Westbrook,0.0,0.0,0.0,,0.0,36.0,34.0,70.0,h,Westbrook Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1.0,151.0
+2023-02-06,lac-vs-bkn-0022200810,93.0,PT03M49.00S,1.0,1610612751.0,BKN,1630560.0,Thomas,C. Thomas,0.0,0.0,0.0,,0.0,24.0,17.0,41.0,h,Thomas Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1.0,67.0
+2022-10-28,lal-vs-min-0022200076,756.0,PT00M07.00S,4.0,1610612747.0,LAL,2544.0,James,L. James,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Gabriel FOR James,Substitution,,0.0,555.0
+2023-01-06,lac-vs-min-0022200587,556.0,PT08M49.00S,4.0,1610612750.0,MIN,203497.0,Gobert,R. Gobert,0.0,0.0,0.0,,0.0,,,0.0,h,Gobert REBOUND (Off:5 Def:10),Rebound,Unknown,1.0,400.0
+2022-11-27,cle-vs-det-0022200295,52.0,PT08M01.00S,1.0,1610612739.0,CLE,1628378.0,Mitchell,D. Mitchell,104.0,248.0,27.0,Missed,1.0,,,0.0,v,MISS Mitchell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,37.0
+2022-12-27,lal-vs-orl-0022200505,548.0,PT07M21.00S,4.0,0.0,,1610612753.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0.0,404.0
+2023-01-06,det-vs-sas-0022200585,111.0,PT02M52.00S,1.0,1610612759.0,SAS,1629640.0,Johnson,K. Johnson,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Roby FOR K. Johnson,Substitution,,0.0,84.0
+2023-01-22,lal-vs-por-0022200705,578.0,PT06M27.00S,4.0,1610612757.0,POR,1628404.0,Hart,J. Hart,0.0,0.0,0.0,,0.0,,,0.0,h,Hart REBOUND (Off:2 Def:6),Rebound,Unknown,1.0,416.0
+2023-01-13,hou-vs-sac-0022200640,335.0,PT01M29.00S,2.0,1610612745.0,HOU,1631095.0,Smith Jr.,J. Smith Jr.,0.0,0.0,0.0,,0.0,,,0.0,v,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,248.0
+2023-03-02,tor-vs-was-0022200942,166.0,PT10M07.00S,2.0,1610612761.0,TOR,1627832.0,VanVleet,F. VanVleet,0.0,0.0,0.0,,0.0,,,0.0,v,VanVleet S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1.0,127.0
+2023-01-21,cha-vs-atl-0022200694,594.0,PT01M56.00S,4.0,1610612737.0,ATL,1629027.0,Young,T. Young,-124.0,218.0,25.0,Missed,1.0,,,0.0,h,MISS Young 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,431.0
+2023-01-16,uta-vs-min-0022200662,45.0,PT07M18.00S,1.0,1610612750.0,MIN,203937.0,Anderson,K. Anderson,0.0,0.0,0.0,,0.0,,,0.0,h,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,35.0
+2022-12-04,phx-vs-sas-0022200345,579.0,PT06M06.00S,4.0,0.0,,1610612756.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Suns Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0.0,416.0
+2022-11-23,nop-vs-sas-0022200269,633.0,PT05M21.00S,4.0,1610612740.0,NOP,1628984.0,Graham,D. Graham,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Hernangomez FOR Graham,Substitution,,0.0,451.0
+2023-01-14,bos-vs-cha-0022200642,180.0,PT08M56.00S,2.0,1610612738.0,BOS,1629057.0,Williams III,R. Williams III,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Kornet FOR Williams III,Substitution,,0.0,126.0
+2022-12-12,cle-vs-sas-0022200406,11.0,PT11M05.00S,1.0,1610612759.0,SAS,1630200.0,Jones,T. Jones,0.0,0.0,0.0,,0.0,,,0.0,h,Jones STEAL (1 STL),,,1.0,6.0
+2023-01-11,phx-vs-den-0022200624,418.0,PT04M20.00S,3.0,1610612756.0,PHX,1627814.0,Lee,D. Lee,-9.0,73.0,7.0,Made,1.0,91.0,64.0,155.0,v,D. Lee 7' Floating Jump Shot (9 PTS) (Landale 2 AST),Made Shot,Floating Jump shot,1.0,298.0
+2022-10-11,mem-vs-orl-0012200048,9.0,PT11M22.00S,1.0,1610612763.0,MEM,1629630.0,Morant,J. Morant,6.0,8.0,1.0,Missed,1.0,,,0.0,v,MISS Morant 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1.0,4.0
+2022-12-16,den-vs-lal-0022200437,516.0,PT00M30.10S,3.0,1610612743.0,DEN,203999.0,Jokic,N. Jokic,82.0,271.0,28.0,Missed,1.0,,,0.0,v,MISS Jokic 28' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,377.0
+2023-01-20,nyk-vs-atl-0022200684,158.0,PT11M27.00S,2.0,1610612737.0,ATL,1630552.0,Johnson,J. Johnson,0.0,0.0,0.0,,0.0,,,0.0,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1.0,115.0
+2023-01-05,uta-vs-hou-0022200578,564.0,PT08M38.00S,4.0,1610612762.0,UTA,203482.0,Olynyk,K. Olynyk,-20.0,8.0,2.0,Missed,1.0,,,0.0,v,MISS Olynyk 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1.0,412.0
+2022-10-21,tor-vs-bkn-0022200021,421.0,PT05M39.00S,3.0,0.0,,1610612761.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Raptors Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1.0,305.0
+2022-10-19,orl-vs-det-0022200003,188.0,PT09M59.00S,2.0,1610612765.0,DET,202709.0,Joseph,C. Joseph,-88.0,258.0,27.0,Made,1.0,25.0,34.0,59.0,h,Joseph 27' 3PT Pullup Jump Shot (8 PTS) (Diallo 1 AST),Made Shot,Pullup Jump shot,1.0,141.0
+2022-12-03,mil-vs-cha-0022200339,188.0,PT10M48.00S,2.0,0.0,,1610612749.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Bucks Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0.0,135.0
+2023-01-11,hou-vs-sac-0022200625,476.0,PT03M10.00S,3.0,0.0,,1610612745.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Rockets Rebound,Rebound,Unknown,1.0,347.0
+2022-11-27,mem-vs-nyk-0022200296,444.0,PT04M17.00S,3.0,1610612763.0,MEM,203500.0,Adams,S. Adams,0.0,0.0,0.0,,0.0,,,0.0,v,Adams REBOUND (Off:5 Def:2),Rebound,Unknown,1.0,328.0
+2023-01-17,bkn-vs-sas-0022200666,82.0,PT05M44.00S,1.0,1610612751.0,BKN,1629651.0,Claxton,N. Claxton,0.0,0.0,0.0,,0.0,,,0.0,v,Claxton REBOUND (Off:1 Def:4),Rebound,Unknown,1.0,66.0
+2022-11-04,uta-vs-lal-0022200131,649.0,PT01M25.00S,4.0,1610612762.0,UTA,203903.0,Clarkson,J. Clarkson,4.0,-1.0,0.0,Made,1.0,116.0,128.0,244.0,v,Clarkson Driving Dunk (20 PTS),Made Shot,Driving Dunk Shot,1.0,461.0
+2022-11-27,por-vs-bkn-0022200290,557.0,PT03M26.00S,4.0,0.0,,1610612757.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Trail Blazers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0.0,393.0
+2022-12-10,bkn-vs-ind-0022200388,450.0,PT03M57.00S,3.0,1610612754.0,IND,1630188.0,Smith,J. Smith,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Jackson FOR Smith,Substitution,,0.0,339.0
+2022-10-06,mia-vs-bkn-0012200024,576.0,PT09M02.00S,4.0,1610612751.0,BKN,1630549.0,Sharpe,D. Sharpe,0.0,0.0,0.0,,0.0,,,0.0,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,410.0
+2023-01-25,uta-vs-por-0022200727,174.0,PT09M13.00S,2.0,1610612762.0,UTA,1629659.0,Horton-Tucker,T. Horton-Tucker,0.0,0.0,0.0,,0.0,,,0.0,v,Horton-Tucker S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,1.0,132.0
+2023-01-24,den-vs-nop-0022200716,484.0,PT10M14.00S,4.0,1610612743.0,DEN,201145.0,Green,J. Green,-59.0,113.0,13.0,Missed,1.0,,,0.0,v,MISS Green 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1.0,356.0
+2022-11-10,phi-vs-atl-0022200173,210.0,PT08M14.00S,2.0,1610612737.0,ATL,1628988.0,Holiday,A. Holiday,1.0,138.0,14.0,Missed,1.0,,,0.0,h,MISS A. Holiday 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,156.0
+2023-02-23,sas-vs-dal-0022200891,420.0,PT04M43.00S,3.0,1610612759.0,SAS,1631103.0,Branham,M. Branham,32.0,25.0,4.0,Missed,1.0,,,0.0,v,MISS Branham 4' Running Layup,Missed Shot,Running Layup Shot,1.0,302.0
+2023-01-09,nop-vs-was-0022200605,268.0,PT04M34.00S,2.0,1610612740.0,NOP,203468.0,McCollum,C. McCollum,-184.0,185.0,26.0,Made,1.0,52.0,57.0,109.0,v,McCollum 26' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1.0,192.0
+2023-03-08,cle-vs-mia-0022200987,434.0,PT03M01.00S,3.0,1610612739.0,CLE,1628378.0,Mitchell,D. Mitchell,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Garland FOR Mitchell,Substitution,,0.0,312.0
+2023-03-06,phi-vs-ind-0022200972,363.0,PT11M26.00S,3.0,1610612755.0,PHI,1629667.0,McDaniels,J. McDaniels,0.0,0.0,0.0,,0.0,,,0.0,v,McDaniels Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1.0,248.0
+2022-11-15,nyk-vs-uta-0022200208,213.0,PT08M14.00S,2.0,1610612762.0,UTA,1629659.0,Horton-Tucker,T. Horton-Tucker,0.0,0.0,0.0,,0.0,,,0.0,h,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,160.0
+2022-12-30,min-vs-mil-0022200533,580.0,PT11M28.00S,4.0,1610612749.0,MIL,204060.0,Ingles,J. Ingles,-130.0,247.0,28.0,Made,1.0,92.0,85.0,177.0,h,Ingles 28' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1.0,430.0
+2022-12-19,orl-vs-atl-0022200454,180.0,PT09M11.00S,2.0,1610612753.0,ORL,203082.0,Ross,T. Ross,234.0,67.0,24.0,Missed,1.0,,,0.0,v,MISS Ross 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,129.0
+2022-10-28,cle-vs-bos-0022200072,185.0,PT00M27.20S,1.0,1610612738.0,BOS,203943.0,Vonleh,N. Vonleh,0.0,0.0,0.0,,0.0,,,0.0,h,Vonleh REBOUND (Off:1 Def:0),Rebound,Unknown,1.0,130.0
+2022-11-17,sas-vs-sac-0022200222,92.0,PT04M27.00S,1.0,1610612758.0,SAC,203084.0,Barnes,H. Barnes,0.0,0.0,0.0,,0.0,,,0.0,h,Barnes STEAL (1 STL),,,1.0,72.0
+2022-12-21,chi-vs-atl-0022200468,37.0,PT08M56.00S,1.0,1610612741.0,CHI,1630172.0,Williams,P. Williams,235.0,5.0,24.0,Made,1.0,4.0,9.0,13.0,v,Williams 24' 3PT Jump Shot (3 PTS) (LaVine 2 AST),Made Shot,Jump Shot,1.0,28.0
+2022-11-19,uta-vs-por-0022200238,407.0,PT05M44.00S,3.0,1610612757.0,POR,1631101.0,Sharpe,S. Sharpe,6.0,104.0,10.0,Missed,1.0,,,0.0,h,MISS Sharpe 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,299.0
+2022-10-14,bkn-vs-min-0012200066,644.0,PT05M20.00S,4.0,1610612751.0,BKN,1630549.0,Sharpe,D. Sharpe,0.0,0.0,0.0,,0.0,88.0,104.0,192.0,v,Sharpe Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1.0,466.0
+2023-02-06,sac-vs-hou-0022200812,332.0,PT01M04.00S,2.0,1610612745.0,HOU,1630224.0,Green,J. Green,50.0,243.0,25.0,Made,1.0,46.0,58.0,104.0,h,Green 25' 3PT Jump Shot (10 PTS) (Martin Jr. 1 AST),Made Shot,Jump Shot,1.0,242.0
+2022-11-11,phx-vs-orl-0022200177,129.0,PT01M30.00S,1.0,1610612756.0,PHX,1629111.0,Landale,J. Landale,-31.0,14.0,3.0,Made,1.0,28.0,21.0,49.0,v,Landale 3' Hook Shot (2 PTS) (Booker 3 AST),Made Shot,Hook Shot,1.0,98.0
+2022-10-28,nop-vs-phx-0022200079,8.0,PT11M38.00S,1.0,1610612740.0,NOP,1630530.0,Murphy III,T. Murphy III,-157.0,233.0,28.0,Missed,1.0,,,0.0,v,MISS Murphy III 28' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,4.0
+2022-10-23,phx-vs-lac-0022200043,339.0,PT11M39.00S,3.0,1610612756.0,PHX,1629028.0,Ayton,D. Ayton,0.0,0.0,0.0,,0.0,,,0.0,v,Ayton BLOCK (1 BLK),,,1.0,246.0
+2022-11-16,ind-vs-cha-0022200211,572.0,PT08M14.00S,4.0,1610612766.0,CHA,1630177.0,Maledon,T. Maledon,0.0,0.0,0.0,,0.0,,,0.0,h,Maledon STEAL (2 STL),,,1.0,414.0
+2023-02-26,bkn-vs-atl-0022200911,530.0,PT09M48.00S,4.0,1610612737.0,ATL,1630168.0,Okongwu,O. Okongwu,0.0,0.0,0.0,,0.0,,,0.0,h,Okongwu S.FOUL (P3.T4) (T.Ford),Foul,Shooting,1.0,394.0
+2023-02-28,den-vs-hou-0022200926,476.0,PT01M45.00S,3.0,1610612745.0,HOU,1630231.0,Martin Jr.,K. Martin Jr.,12.0,3.0,1.0,Made,1.0,79.0,99.0,178.0,h,Martin Jr. 1' Running Layup (15 PTS) (Washington Jr. 2 AST),Made Shot,Running Layup Shot,1.0,337.0
+2023-02-26,tor-vs-cle-0022200914,4.0,PT12M00.00S,1.0,1610612739.0,CLE,1628386.0,Allen,J. Allen,0.0,0.0,0.0,,0.0,,,0.0,h,Jump Ball Allen vs. Poeltl: Tip to Mobley,Jump Ball,,1.0,2.0
+2023-02-10,uta-vs-tor-0022200839,672.0,PT02M22.00S,4.0,1610612761.0,TOR,1630567.0,Barnes,S. Barnes,0.0,0.0,0.0,,0.0,113.0,112.0,225.0,h,Barnes Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1.0,490.0
+2022-09-30,gsw-vs-was-0012200001,536.0,PT01M15.00S,3.0,1610612744.0,GSW,1631311.0,Quinones,L. Quinones,-12.0,15.0,2.0,Made,1.0,60.0,65.0,125.0,v,Quinones 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,0.0,391.0
+2022-12-27,nyk-vs-dal-0022200512,263.0,PT02M00.00S,2.0,1610612742.0,DAL,203501.0,Hardaway Jr.,T. Hardaway Jr.,232.0,37.0,0.0,Made,1.0,53.0,56.0,109.0,h,Hardaway Jr. 3PT Jump Shot (8 PTS) (Doncic 4 AST),Made Shot,Jump Shot,1.0,188.0
+2022-12-21,lal-vs-sac-0022200475,269.0,PT06M03.00S,2.0,1610612758.0,SAC,203084.0,Barnes,H. Barnes,-234.0,18.0,0.0,Made,1.0,46.0,44.0,90.0,h,Barnes 3PT Jump Shot (8 PTS) (Sabonis 3 AST),Made Shot,Jump Shot,1.0,187.0
+2022-10-07,ind-vs-nyk-0012200030,604.0,PT08M30.00S,4.0,1610612752.0,NYK,1630193.0,Quickley,I. Quickley,0.0,0.0,0.0,,0.0,,,0.0,h,Quickley P.FOUL (P4.T2) (S.Foster),Foul,Personal,1.0,449.0
+2023-02-10,sas-vs-det-0022200835,314.0,PT01M41.00S,2.0,1610612759.0,SAS,203476.0,Dieng,G. Dieng,0.0,0.0,0.0,,0.0,,,0.0,v,Dieng OFF.Foul (P1) (S.Corbin),Foul,Offensive,1.0,231.0
+2023-03-09,hou-vs-ind-0022200993,659.0,PT00M52.60S,4.0,1610612754.0,IND,1630188.0,Smith,J. Smith,0.0,0.0,0.0,,0.0,,,0.0,h,Smith Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1.0,494.0
+2022-11-30,hou-vs-den-0022200320,247.0,PT06M55.00S,2.0,1610612745.0,HOU,1629645.0,Porter Jr.,K. Porter Jr.,-53.0,143.0,15.0,Missed,1.0,,,0.0,v,MISS Porter Jr. 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,179.0
+2023-01-30,atl-vs-por-0022200763,120.0,PT01M12.00S,1.0,1610612757.0,POR,1627780.0,Payton II,G. Payton II,0.0,0.0,0.0,,0.0,,,0.0,h,Payton II REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,89.0
+2022-10-21,nop-vs-cha-0022200017,666.0,PT02M44.00S,4.0,0.0,,1610612766.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,HORNETS Rebound,Rebound,Unknown,1.0,483.0
+2023-01-14,mil-vs-mia-0022200641,361.0,PT06M10.00S,3.0,1610612749.0,MIL,1626171.0,Portis,B. Portis,0.0,0.0,0.0,,0.0,63.0,61.0,124.0,v,Portis Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1.0,265.0
+2022-11-07,sac-vs-gsw-0022200156,475.0,PT03M51.00S,3.0,1610612758.0,SAC,1627734.0,Sabonis,D. Sabonis,0.0,0.0,0.0,,0.0,,,0.0,v,Sabonis P.FOUL (P4.PN) (P.Fraher),Foul,Personal,1.0,346.0
+2022-11-04,uta-vs-lal-0022200131,504.0,PT10M59.00S,4.0,1610612747.0,LAL,1628972.0,Brown Jr.,T. Brown Jr.,225.0,67.0,0.0,Missed,1.0,,,0.0,h,MISS Brown Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1.0,355.0
+2023-02-10,cle-vs-nop-0022200842,512.0,PT09M37.00S,4.0,1610612739.0,CLE,1630596.0,Mobley,E. Mobley,-89.0,99.0,13.0,Missed,1.0,,,0.0,v,MISS Mobley 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1.0,363.0
+2023-02-26,sac-vs-okc-0022200915,687.0,PT00M52.00S,4.0,1610612760.0,OKC,1631114.0,Williams,J. Williams,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Robinson-Earl FOR Jal. Williams,Substitution,,0.0,493.0
+2023-02-25,mia-vs-cha-0022200904,74.0,PT06M18.00S,1.0,1610612748.0,MIA,1629639.0,Herro,T. Herro,0.0,0.0,0.0,,0.0,,,0.0,v,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,62.0
+2023-01-26,nyk-vs-bos-0022200730,508.0,PT06M07.00S,4.0,1610612738.0,BOS,1629684.0,Williams,G. Williams,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Williams III FOR Williams,Substitution,,0.0,389.0
+2022-12-27,phx-vs-mem-0022200510,637.0,PT05M00.00S,4.0,1610612756.0,PHX,1630613.0,Washington Jr.,D. Washington Jr.,-16.0,10.0,2.0,Missed,1.0,,,0.0,v,MISS Washington Jr. 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1.0,478.0
+2023-02-10,mil-vs-lac-0022200845,94.0,PT03M35.00S,1.0,1610612749.0,MIL,204060.0,Ingles,J. Ingles,0.0,0.0,0.0,,0.0,,,0.0,v,Ingles P.FOUL (P1.T1) (L.Wood),Foul,Personal,1.0,77.0
+2022-12-26,cha-vs-por-0022200504,586.0,PT07M09.00S,4.0,1610612766.0,CHA,1631109.0,Williams,M. Williams,0.0,0.0,0.0,,0.0,,,0.0,v,Williams S.FOUL (P5.T4) (B.Kennedy),Foul,Shooting,1.0,435.0
+2022-10-28,cha-vs-orl-0022200071,396.0,PT05M50.00S,3.0,1610612753.0,ORL,1628976.0,Carter Jr.,W. Carter Jr.,-4.0,9.0,1.0,Made,1.0,67.0,42.0,109.0,h,Carter Jr. 1' Driving Dunk (10 PTS) (Ross 1 AST),Made Shot,Driving Dunk Shot,1.0,296.0
+2022-12-07,bos-vs-phx-0022200373,533.0,PT10M41.00S,4.0,1610612756.0,PHX,1629006.0,Okogie,J. Okogie,0.0,0.0,0.0,,0.0,,,0.0,h,Okogie REBOUND (Off:4 Def:1),Rebound,Unknown,0.0,390.0
+2023-03-05,sas-vs-hou-0022200967,506.0,PT00M00.00S,3.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,108.0,87.0,195.0,,End of 3rd Period (8:52 PM EST),period,end,1.0,368.0
+2023-01-04,phx-vs-cle-0022200565,588.0,PT03M29.00S,4.0,1610612739.0,CLE,1628386.0,Allen,J. Allen,0.0,0.0,0.0,,0.0,,,0.0,h,Allen REBOUND (Off:0 Def:8),Rebound,Unknown,1.0,432.0
+2022-10-09,por-vs-sac-0012200041,431.0,PT04M18.00S,3.0,1610612757.0,POR,203924.0,Grant,J. Grant,0.0,0.0,0.0,,0.0,85.0,70.0,155.0,v,Grant Free Throw 1 of 3 (15 PTS),Free Throw,Free Throw 1 of 3,1.0,318.0
+2023-01-25,den-vs-mil-0022200723,295.0,PT01M40.00S,2.0,1610612743.0,DEN,1628971.0,Brown,B. Brown,0.0,0.0,0.0,,0.0,,,0.0,v,Brown BLOCK (1 BLK),,,1.0,229.0
+2023-01-06,cle-vs-den-0022200588,82.0,PT05M42.00S,1.0,1610612739.0,CLE,1630596.0,Mobley,E. Mobley,5.0,34.0,3.0,Made,1.0,14.0,16.0,30.0,v,Mobley 3' Hook Shot (4 PTS),Made Shot,Hook Shot,1.0,62.0
+2023-01-23,bos-vs-orl-0022200707,235.0,PT07M19.00S,2.0,1610612738.0,BOS,1628369.0,Tatum,J. Tatum,0.0,0.0,0.0,,0.0,,,0.0,v,Tatum REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,174.0
+2022-11-04,chi-vs-bos-0022200124,190.0,PT09M03.00S,2.0,1610612738.0,BOS,1627763.0,Brogdon,M. Brogdon,15.0,32.0,4.0,Made,1.0,39.0,36.0,75.0,h,Brogdon 4' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1.0,135.0
+2022-11-12,atl-vs-phi-0022200188,113.0,PT03M44.00S,1.0,1610612737.0,ATL,1629631.0,Hunter,D. Hunter,2.0,116.0,12.0,Missed,1.0,,,0.0,v,MISS Hunter 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1.0,84.0
+2023-03-07,gsw-vs-okc-0022200982,355.0,PT11M50.00S,3.0,1610612744.0,GSW,203110.0,Green,D. Green,-6.0,3.0,1.0,Made,1.0,68.0,66.0,134.0,v,D. Green 1' Cutting Layup Shot (7 PTS) (Curry 6 AST),Made Shot,Cutting Layup Shot,1.0,248.0
+2022-09-30,mra-vs-lac-0012200002,22.0,PT10M35.00S,1.0,0.0,,1610612746.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,CLIPPERS Rebound,Rebound,Normal Rebound,1.0,13.0
+2023-02-26,tor-vs-cle-0022200914,262.0,PT04M11.00S,2.0,1610612761.0,TOR,1627783.0,Siakam,P. Siakam,0.0,0.0,0.0,,0.0,,,0.0,v,Siakam REBOUND (Off:2 Def:4),Rebound,Unknown,1.0,191.0
+2023-03-03,orl-vs-cha-0022200946,476.0,PT01M05.00S,3.0,1610612766.0,CHA,1631121.0,McGowens,B. McGowens,168.0,210.0,27.0,Missed,1.0,,,0.0,h,MISS McGowens 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1.0,354.0
+2023-02-13,nop-vs-okc-0022200864,217.0,PT07M18.00S,2.0,1610612760.0,OKC,1628983.0,Gilgeous-Alexander,S. Gilgeous-Alexander,0.0,0.0,0.0,,0.0,,,0.0,h,Gilgeous-Alexander Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1.0,160.0
+2023-02-10,okc-vs-por-0022200843,555.0,PT08M37.00S,4.0,1610612760.0,OKC,1628983.0,Gilgeous-Alexander,S. Gilgeous-Alexander,0.0,0.0,0.0,,0.0,112.0,107.0,219.0,v,Gilgeous-Alexander Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,1.0,392.0
+2023-01-05,uta-vs-hou-0022200578,545.0,PT09M36.00S,4.0,1610612745.0,HOU,1630586.0,Garuba,U. Garuba,0.0,0.0,0.0,,0.0,,,0.0,h,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,1.0,399.0
+2022-12-30,phx-vs-tor-0022200531,80.0,PT04M37.00S,1.0,1610612756.0,PHX,1629006.0,Okogie,J. Okogie,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Washington Jr. FOR Okogie,Substitution,,0.0,56.0
+2023-01-22,lal-vs-por-0022200705,514.0,PT11M04.00S,4.0,1610612747.0,LAL,1629134.0,Nunn,K. Nunn,-59.0,46.0,7.0,Missed,1.0,,,0.0,v,MISS Nunn 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,368.0
+2023-01-23,mem-vs-sac-0022200712,258.0,PT04M57.00S,2.0,0.0,,1610612763.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Grizzlies Rebound,Rebound,Unknown,0.0,184.0
+2023-02-28,min-vs-lac-0022200932,215.0,PT09M02.00S,2.0,1610612746.0,LAC,1626181.0,Powell,N. Powell,-181.0,194.0,27.0,Missed,1.0,,,0.0,h,MISS Powell 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1.0,164.0
+2023-03-08,por-vs-bos-0022200986,31.0,PT09M03.00S,1.0,1610612738.0,BOS,203935.0,Smart,M. Smart,0.0,0.0,0.0,,0.0,,,0.0,h,Smart S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,1.0,21.0
+2022-12-02,ind-vs-uta-0022200335,482.0,PT05M16.00S,3.0,1610612762.0,UTA,1631117.0,Kessler,W. Kessler,0.0,0.0,0.0,,0.0,,,0.0,h,Kessler REBOUND (Off:2 Def:2),Rebound,Unknown,1.0,336.0
+2022-10-21,det-vs-nyk-0022200023,205.0,PT09M23.00S,2.0,0.0,,1610612765.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Pistons Rebound,Rebound,Unknown,1.0,149.0
+2023-02-01,sac-vs-sas-0022200775,533.0,PT06M35.00S,4.0,1610612759.0,SAS,1631103.0,Branham,M. Branham,0.0,0.0,0.0,,0.0,,,0.0,h,Branham S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1.0,373.0
+2022-10-24,den-vs-por-0022200051,307.0,PT00M06.90S,2.0,1610612757.0,POR,203081.0,Lillard,D. Lillard,0.0,0.0,0.0,,0.0,,,0.0,h,Lillard P.FOUL (P2.PN) (C.Washington),Foul,Personal,1.0,225.0
+2022-10-12,sac-vs-phx-0012200058,636.0,PT08M23.00S,4.0,1610612758.0,SAC,1628370.0,Monk,M. Monk,-25.0,302.0,30.0,Missed,1.0,,,0.0,v,MISS Monk 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,468.0
+2023-03-03,mem-vs-den-0022200952,152.0,PT00M48.40S,1.0,1610612743.0,DEN,203999.0,Jokic,N. Jokic,0.0,0.0,0.0,,0.0,27.0,26.0,53.0,h,Jokic Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1.0,107.0
+2022-10-30,hou-vs-phx-0022200094,553.0,PT09M51.00S,4.0,1610612745.0,HOU,1629726.0,Mathews,G. Mathews,-200.0,215.0,29.0,Missed,1.0,,,0.0,v,MISS Mathews 29' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,401.0
+2023-02-02,lal-vs-ind-0022200778,586.0,PT05M01.00S,4.0,0.0,,1610612747.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Lakers Rebound,Rebound,Normal Rebound,0.0,433.0
+2022-11-25,phi-vs-orl-0022200273,508.0,PT07M10.00S,4.0,1610612753.0,ORL,1631216.0,Houstan,C. Houstan,-233.0,21.0,0.0,Missed,1.0,,,0.0,h,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,1.0,368.0
+2022-10-21,orl-vs-atl-0022200020,111.0,PT03M30.00S,1.0,1610612753.0,ORL,1628976.0,Carter Jr.,W. Carter Jr.,0.0,0.0,0.0,,0.0,,,0.0,v,Carter Jr. OFF.Foul (P1) (B.Schwab),Foul,Offensive,1.0,87.0
+2022-10-19,hou-vs-atl-0022200005,305.0,PT00M46.20S,2.0,1610612737.0,ATL,203991.0,Capela,C. Capela,22.0,23.0,3.0,Missed,1.0,,,0.0,h,MISS Capela 3' Hook Shot,Missed Shot,Hook Shot,1.0,227.0
+2023-02-24,sac-vs-lac-0022200902,479.0,PT00M43.60S,3.0,1610612746.0,LAC,1626181.0,Powell,N. Powell,-29.0,44.0,5.0,Missed,1.0,,,0.0,h,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,1.0,340.0
+2023-03-03,min-vs-lal-0022200955,207.0,PT09M21.00S,2.0,1610612747.0,LAL,1630559.0,Reaves,A. Reaves,-11.0,113.0,11.0,Missed,1.0,,,0.0,h,MISS Reaves 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1.0,149.0
+2023-02-23,nop-vs-tor-0022200890,425.0,PT04M40.00S,3.0,1610612740.0,NOP,1627742.0,Ingram,B. Ingram,-94.0,183.0,21.0,Missed,1.0,,,0.0,v,MISS Ingram 21' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1.0,314.0
+2023-03-11,uta-vs-cha-0022201005,225.0,PT07M04.00S,2.0,1610612762.0,UTA,1628374.0,Markkanen,L. Markkanen,0.0,0.0,0.0,,0.0,,,0.0,v,Markkanen Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1.0,177.0
+2022-10-24,den-vs-por-0022200051,328.0,PT11M41.00S,3.0,1610612743.0,DEN,1627750.0,Murray,J. Murray,0.0,0.0,0.0,,0.0,,,0.0,v,Murray S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1.0,237.0
+2023-01-11,mil-vs-atl-0022200620,302.0,PT00M00.00S,2.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,46.0,67.0,113.0,,End of 2nd Period (8:37 PM EST),period,end,1.0,223.0
+2022-12-08,den-vs-por-0022200376,4.0,PT12M00.00S,1.0,1610612757.0,POR,203994.0,Nurkic,J. Nurkic,0.0,0.0,0.0,,0.0,,,0.0,h,Jump Ball Nurkic vs. Jokic: Tip to Lillard,Jump Ball,,1.0,2.0
+2022-11-30,phi-vs-cle-0022200312,229.0,PT05M30.00S,2.0,1610612755.0,PHI,1629680.0,Thybulle,M. Thybulle,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Melton FOR Thybulle,Substitution,,0.0,156.0
+2022-10-04,uta-vs-por-0012200017,576.0,PT09M30.00S,4.0,1610612762.0,UTA,1629638.0,Alexander-Walker,N. Alexander-Walker,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Bolmaro FOR Alexander-Walker,Substitution,,0.0,421.0
+2023-01-30,sac-vs-min-0022200758,37.0,PT08M50.00S,1.0,1610612758.0,SAC,1628368.0,Fox,D. Fox,0.0,0.0,0.0,,0.0,,,0.0,v,Fox REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,30.0
+2023-01-02,chi-vs-cle-0022200552,115.0,PT02M34.00S,1.0,1610612739.0,CLE,203526.0,Neto,R. Neto,0.0,0.0,0.0,,0.0,,,0.0,h,Neto REBOUND (Off:1 Def:0),Rebound,Unknown,1.0,77.0
+2022-11-02,mem-vs-por-0022200116,331.0,PT00M00.00S,2.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,45.0,52.0,97.0,,End of 2nd Period (11:11 PM EST),period,end,1.0,241.0
+2023-01-08,dal-vs-okc-0022200602,220.0,PT08M38.00S,2.0,1610612742.0,DAL,202722.0,Bertans,D. Bertans,59.0,263.0,27.0,Made,1.0,41.0,45.0,86.0,v,Bertans 27' 3PT Jump Shot (9 PTS) (Dinwiddie 3 AST),Made Shot,Jump Shot,1.0,152.0
+2023-02-08,ind-vs-mia-0022200825,259.0,PT03M54.00S,2.0,0.0,,1610612748.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,HEAT Timeout: Regular (Full 3 Short 0),Timeout,Regular,0.0,170.0
+2023-02-10,mil-vs-lac-0022200845,159.0,PT00M00.10S,1.0,1610612746.0,LAC,1626181.0,Powell,N. Powell,0.0,0.0,0.0,,0.0,27.0,22.0,49.0,h,Powell Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,1.0,119.0
+2022-10-27,dal-vs-bkn-0022200066,544.0,PT07M45.00S,4.0,1610612751.0,BKN,202681.0,Irving,K. Irving,169.0,183.0,25.0,Missed,1.0,,,0.0,h,MISS Irving 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,400.0
+2023-02-24,nyk-vs-was-0022200895,612.0,PT00M03.20S,4.0,1610612752.0,NYK,1628404.0,Hart,J. Hart,0.0,0.0,0.0,,0.0,109.0,115.0,224.0,v,Hart Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1.0,445.0
+2023-02-02,lac-vs-mil-0022200784,235.0,PT05M51.00S,2.0,1610612746.0,LAC,202695.0,Leonard,K. Leonard,33.0,260.0,26.0,Made,1.0,34.0,34.0,68.0,v,Leonard 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1.0,178.0
+2023-01-26,det-vs-bkn-0022200731,332.0,PT11M45.00S,3.0,1610612765.0,DET,202711.0,Bogdanovic,B. Bogdanovic,-26.0,44.0,5.0,Made,1.0,59.0,60.0,119.0,v,Bogdanovic 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1.0,249.0
+2022-11-22,sac-vs-mem-0022200257,765.0,PT00M01.70S,4.0,1610612758.0,SAC,1628370.0,Monk,M. Monk,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Metu FOR Monk,Substitution,,0.0,563.0
+2022-11-19,tor-vs-atl-0022200235,348.0,PT11M51.00S,3.0,1610612761.0,TOR,1627832.0,VanVleet,F. VanVleet,43.0,253.0,26.0,Missed,1.0,,,0.0,v,MISS VanVleet 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,253.0
+2023-03-03,por-vs-atl-0022200947,460.0,PT01M18.00S,3.0,1610612737.0,ATL,1629027.0,Young,T. Young,0.0,0.0,0.0,,0.0,,,0.0,h,Young REBOUND (Off:2 Def:4),Rebound,Unknown,1.0,340.0
+2022-12-18,bkn-vs-det-0022200447,251.0,PT04M20.00S,2.0,1610612751.0,BKN,201142.0,Durant,K. Durant,1.0,10.0,1.0,Made,1.0,57.0,46.0,103.0,v,Durant 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1.0,180.0
+2022-12-27,sas-vs-okc-0022200511,298.0,PT03M47.00S,2.0,1610612760.0,OKC,1628983.0,Gilgeous-Alexander,S. Gilgeous-Alexander,76.0,59.0,10.0,Missed,1.0,,,0.0,h,MISS Gilgeous-Alexander 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1.0,217.0
+2022-10-24,bos-vs-chi-0022200047,427.0,PT04M56.00S,3.0,1610612741.0,CHI,1629750.0,Green,J. Green,0.0,0.0,0.0,,0.0,,,0.0,h,Green P.FOUL (P1.T3) (N.Sago),Foul,Personal,1.0,312.0
+2023-03-05,cha-vs-bkn-0022200965,48.0,PT07M56.00S,1.0,1610612766.0,CHA,1629023.0,Washington,P. Washington,-121.0,220.0,25.0,Made,1.0,12.0,13.0,25.0,v,Washington 25' 3PT Jump Shot (6 PTS) (Hayward 2 AST),Made Shot,Jump Shot,1.0,34.0
+2022-11-07,mil-vs-atl-0022200149,360.0,PT09M31.00S,3.0,1610612737.0,ATL,1628381.0,Collins,J. Collins,0.0,0.0,0.0,,0.0,,,0.0,h,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,261.0
+2022-10-26,ind-vs-chi-0022200061,506.0,PT00M44.90S,3.0,1610612754.0,IND,1627741.0,Hield,B. Hield,-197.0,-8.0,20.0,Missed,1.0,,,0.0,v,MISS Hield 20' Jump Shot,Missed Shot,Jump Shot,1.0,358.0
+2022-12-18,gsw-vs-tor-0022200448,304.0,PT01M53.00S,2.0,1610612761.0,TOR,1630567.0,Barnes,S. Barnes,0.0,0.0,0.0,,0.0,,,0.0,h,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,219.0
+2022-11-20,det-vs-sac-0022200242,98.0,PT04M35.00S,1.0,1610612765.0,DET,1631093.0,Ivey,J. Ivey,0.0,0.0,0.0,,0.0,,,0.0,v,Ivey S.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Shooting,1.0,69.0
+2022-10-26,atl-vs-det-0022200057,282.0,PT02M08.00S,2.0,1610612765.0,DET,202711.0,Bogdanovic,B. Bogdanovic,0.0,0.0,0.0,,0.0,,,0.0,h,Bogdanovic Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1.0,209.0
+2022-11-05,por-vs-phx-0022200139,608.0,PT04M34.00S,4.0,1610612756.0,PHX,1629006.0,Okogie,J. Okogie,0.0,0.0,0.0,,0.0,,,0.0,h,Okogie REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,444.0
+2023-03-01,orl-vs-mil-0022200939,456.0,PT03M00.00S,3.0,1610612749.0,MIL,204060.0,Ingles,J. Ingles,228.0,15.0,0.0,Made,1.0,96.0,86.0,182.0,h,Ingles 3PT Jump Shot (14 PTS) (Holiday 8 AST),Made Shot,Jump Shot,1.0,335.0
+2022-11-23,lac-vs-gsw-0022200271,90.0,PT04M06.00S,1.0,1610612746.0,LAC,202694.0,Morris Sr.,M. Morris Sr.,0.0,0.0,0.0,,0.0,,,0.0,v,Morris Sr. S.FOUL (P1.T3) (L.Wood),Foul,Shooting,1.0,63.0
+2022-12-29,lac-vs-bos-0022200525,463.0,PT12M00.00S,4.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,84.0,85.0,169.0,,Start of 4th Period (9:16 PM EST),period,start,0.0,338.0
+2023-02-06,lac-vs-bkn-0022200810,353.0,PT07M21.00S,3.0,1610612746.0,LAC,1627826.0,Zubac,I. Zubac,0.0,0.0,0.0,,0.0,,,0.0,v,Zubac S.FOUL (P3.PN) (J.Goldenberg),Foul,Shooting,1.0,262.0
+2023-01-04,det-vs-gsw-0022200573,62.0,PT05M30.00S,1.0,1610612765.0,DET,202711.0,Bogdanovic,B. Bogdanovic,-2.0,96.0,10.0,Missed,1.0,,,0.0,v,MISS Bogdanovic 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1.0,43.0
+2023-03-01,nop-vs-por-0022200941,387.0,PT06M48.00S,3.0,1610612757.0,POR,203924.0,Grant,J. Grant,0.0,0.0,0.0,,0.0,69.0,67.0,136.0,h,Grant Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1.0,292.0
+2022-12-16,bkn-vs-tor-0022200433,144.0,PT00M03.20S,1.0,1610612761.0,TOR,1627783.0,Siakam,P. Siakam,-42.0,262.0,27.0,Missed,1.0,,,0.0,h,MISS Siakam 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,106.0
+2022-10-09,nop-vs-sas-0012200039,621.0,PT05M40.00S,4.0,1610612759.0,SAS,1628993.0,Johnson,A. Johnson,0.0,16.0,2.0,Made,1.0,81.0,101.0,182.0,h,Johnson 2' Reverse Layup (4 PTS) (Branham 2 AST),Made Shot,Reverse Layup Shot,1.0,456.0
+2022-10-25,gsw-vs-phx-0022200055,149.0,PT01M59.00S,1.0,1610612756.0,PHX,1626164.0,Booker,D. Booker,0.0,0.0,0.0,,0.0,,,0.0,h,Booker REBOUND (Off:1 Def:1),Rebound,Unknown,1.0,116.0
+2022-10-18,phi-vs-bos-0022200001,405.0,PT06M47.00S,3.0,1610612738.0,BOS,1627759.0,Brown,J. Brown,4.0,22.0,2.0,Made,1.0,78.0,72.0,150.0,h,Brown 2' Running Dunk (22 PTS),Made Shot,Running Dunk Shot,1.0,297.0
+2022-12-26,cha-vs-por-0022200504,532.0,PT10M32.00S,4.0,1610612766.0,CHA,1629667.0,McDaniels,J. McDaniels,-25.0,39.0,5.0,Missed,1.0,,,0.0,v,MISS McDaniels 5' Running Layup,Missed Shot,Running Layup Shot,1.0,394.0
+2022-12-31,lac-vs-ind-0022200538,225.0,PT06M03.00S,2.0,1610612754.0,IND,1631097.0,Mathurin,B. Mathurin,44.0,35.0,6.0,Made,1.0,49.0,39.0,88.0,h,Mathurin 6' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,1.0,168.0
+2023-03-07,mem-vs-lal-0022200984,304.0,PT03M04.00S,2.0,1610612763.0,MEM,1628379.0,Kennard,L. Kennard,0.0,0.0,0.0,,0.0,43.0,47.0,90.0,v,Kennard Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1.0,218.0
+2022-10-08,atl-vs-mil-0012200036,196.0,PT08M46.00S,2.0,1610612737.0,ATL,1630168.0,Okongwu,O. Okongwu,-235.0,12.0,24.0,Missed,1.0,,,0.0,v,MISS Okongwu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,143.0
+2023-02-26,was-vs-chi-0022200912,117.0,PT02M29.00S,1.0,1610612764.0,WAS,203078.0,Beal,B. Beal,-1.0,1.0,0.0,Made,1.0,19.0,23.0,42.0,v,Beal Running Dunk (7 PTS),Made Shot,Running Dunk Shot,1.0,83.0
+2023-02-05,tor-vs-mem-0022200805,617.0,PT04M36.00S,4.0,1610612761.0,TOR,201152.0,Young,T. Young,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Trent Jr. FOR Young,Substitution,,0.0,447.0
+2023-01-07,uta-vs-chi-0022200592,165.0,PT10M56.00S,2.0,1610612741.0,CHI,1629632.0,White,C. White,0.0,0.0,0.0,,0.0,,,0.0,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,124.0
+2022-11-23,den-vs-okc-0022200268,228.0,PT07M31.00S,2.0,1610612743.0,DEN,1631128.0,Braun,C. Braun,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Caldwell-Pope FOR Braun,Substitution,,0.0,164.0
+2023-01-31,mia-vs-cle-0022200764,571.0,PT04M41.00S,4.0,1610612748.0,MIA,1629216.0,Vincent,G. Vincent,-168.0,235.0,29.0,Made,1.0,87.0,92.0,179.0,v,Vincent 29' 3PT Jump Shot (9 PTS) (Martin 1 AST),Made Shot,Jump Shot,1.0,401.0
+2023-03-03,min-vs-lal-0022200955,493.0,PT01M18.00S,3.0,1610612747.0,LAL,1630559.0,Reaves,A. Reaves,-18.0,139.0,14.0,Made,1.0,76.0,83.0,159.0,h,Reaves 14' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1.0,359.0
+2023-01-06,nyk-vs-tor-0022200582,217.0,PT06M28.00S,2.0,0.0,,1610612752.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Knicks Rebound,Rebound,Normal Rebound,0.0,162.0
+2022-11-26,okc-vs-hou-0022200287,472.0,PT12M00.00S,4.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,95.0,73.0,168.0,,Start of 4th Period (9:53 PM EST),period,start,0.0,351.0
+2022-11-13,uta-vs-phi-0022200195,41.0,PT08M05.00S,1.0,1610612762.0,UTA,203482.0,Olynyk,K. Olynyk,-245.0,34.0,25.0,Missed,1.0,,,0.0,v,MISS Olynyk 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,32.0
+2023-01-18,cle-vs-mem-0022200672,69.0,PT06M10.00S,1.0,0.0,,1610612739.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Cavaliers Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1.0,57.0
+2023-01-05,bos-vs-dal-0022200577,148.0,PT00M46.60S,1.0,1610612738.0,BOS,1628369.0,Tatum,J. Tatum,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Smart FOR Tatum,Substitution,,0.0,110.0
+2023-01-22,okc-vs-den-0022200702,31.0,PT08M41.00S,1.0,1610612743.0,DEN,1627750.0,Murray,J. Murray,38.0,17.0,4.0,Made,1.0,6.0,9.0,15.0,h,Murray 4' Finger Roll Layup (2 PTS),Made Shot,Finger Roll Layup Shot,1.0,23.0
+2023-01-20,lac-vs-sas-0022200687,278.0,PT00M15.90S,2.0,1610612746.0,LAC,1627826.0,Zubac,I. Zubac,0.0,0.0,0.0,,0.0,,,0.0,v,Zubac S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1.0,200.0
+2022-10-13,mem-vs-det-0012200060,544.0,PT02M46.00S,3.0,1610612763.0,MEM,1631223.0,Roddy,D. Roddy,-188.0,194.0,27.0,Missed,1.0,,,0.0,v,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,408.0
+2022-10-10,hou-vs-mia-0012200045,674.0,PT03M35.00S,4.0,1610612745.0,HOU,1626246.0,Marjanovic,B. Marjanovic,0.0,0.0,0.0,,0.0,,,0.0,v,Marjanovic BLOCK (1 BLK),,,1.0,497.0
+2022-10-02,uta-vs-tor-0012200006,529.0,PT12M00.00S,4.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,82.0,64.0,146.0,,Start of 4th Period (7:54 PM EST),period,start,0.0,390.0
+2023-03-09,hou-vs-ind-0022200993,332.0,PT00M00.00S,2.0,0.0,,1610612745.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Rockets Rebound,Rebound,Unknown,0.0,251.0
+2023-02-28,was-vs-atl-0022200923,451.0,PT00M05.70S,3.0,1610612764.0,WAS,201959.0,Gibson,T. Gibson,-38.0,247.0,25.0,Missed,1.0,,,0.0,v,MISS Gibson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,339.0
+2022-11-23,bkn-vs-tor-0022200266,397.0,PT08M16.00S,3.0,1610612751.0,BKN,1627732.0,Simmons,B. Simmons,-4.0,1.0,0.0,Made,1.0,57.0,70.0,127.0,v,Simmons Running Dunk (10 PTS) (Claxton 2 AST),Made Shot,Running Dunk Shot,1.0,292.0
+2022-12-23,mil-vs-bkn-0022200483,462.0,PT02M35.00S,3.0,1610612751.0,BKN,202681.0,Irving,K. Irving,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Watanabe FOR Irving,Substitution,,0.0,332.0
+2022-12-23,ind-vs-mia-0022200486,300.0,PT01M18.00S,2.0,1610612754.0,IND,1629052.0,Brissett,O. Brissett,0.0,0.0,0.0,,0.0,,,0.0,v,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1.0,219.0
+2022-11-09,hou-vs-tor-0022200165,309.0,PT02M59.00S,2.0,1610612761.0,TOR,1628384.0,Anunoby,O. Anunoby,-1.0,6.0,1.0,Made,1.0,49.0,52.0,101.0,h,Anunoby 1' Alley Oop Dunk (18 PTS) (Barnes 1 AST),Made Shot,Alley Oop Dunk Shot,1.0,228.0
+2022-11-25,was-vs-mia-0022200277,17.0,PT10M24.00S,1.0,1610612764.0,WAS,1630166.0,Avdija,D. Avdija,20.0,0.0,2.0,Made,1.0,4.0,6.0,10.0,v,Avdija 2' Reverse Layup (2 PTS) (Kuzma 2 AST),Made Shot,Reverse Layup Shot,1.0,10.0
+2023-01-13,hou-vs-sac-0022200640,167.0,PT00M00.10S,1.0,0.0,,1610612745.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Rockets Rebound,Rebound,Unknown,1.0,128.0
+2022-12-14,nyk-vs-chi-0022200418,76.0,PT05M58.00S,1.0,1610612752.0,NYK,203944.0,Randle,J. Randle,0.0,0.0,0.0,,0.0,10.0,17.0,27.0,v,Randle Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1.0,52.0
+2022-10-05,ind-vs-cha-0012200018,543.0,PT01M55.00S,3.0,1610612766.0,CHA,1630208.0,Richards,N. Richards,0.0,0.0,0.0,,0.0,,,0.0,h,Richards Transition Take Foul (P3.T3) (L.Holtkamp),Foul                                    ,Transition Take,1.0,414.0
+2022-11-25,lal-vs-sas-0022200282,376.0,PT08M02.00S,3.0,1610612747.0,LAL,203471.0,Schroder,D. Schroder,16.0,248.0,25.0,Missed,1.0,,,0.0,v,MISS Schroder 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,278.0
+2022-12-21,ind-vs-bos-0022200469,225.0,PT08M04.00S,2.0,1610612754.0,IND,1630188.0,Smith,J. Smith,0.0,0.0,0.0,,0.0,,,0.0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,166.0
+2022-11-30,hou-vs-den-0022200320,255.0,PT06M33.00S,2.0,1610612745.0,HOU,1630578.0,Sengun,A. Sengun,0.0,0.0,0.0,,0.0,,,0.0,v,Sengun REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,187.0
+2022-10-31,det-vs-mil-0022200100,531.0,PT10M42.00S,4.0,1610612765.0,DET,1631093.0,Ivey,J. Ivey,-88.0,242.0,26.0,Missed,1.0,,,0.0,v,MISS Ivey 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,394.0
+2022-10-03,por-vs-lac-0012200013,120.0,PT02M33.00S,1.0,1610612746.0,LAC,202322.0,Wall,J. Wall,66.0,150.0,16.0,Missed,1.0,,,0.0,h,MISS Wall 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,92.0
+2022-11-20,sas-vs-lal-0022200247,556.0,PT07M10.00S,4.0,1610612747.0,LAL,1628972.0,Brown Jr.,T. Brown Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,Brown Jr. Traveling Turnover (P2.T10),Turnover,Traveling,1.0,393.0
+2022-12-06,det-vs-mia-0022200361,616.0,PT00M21.60S,4.0,1610612765.0,DET,1630191.0,Stewart,I. Stewart,-7.0,71.0,7.0,Made,1.0,96.0,116.0,212.0,v,Stewart 7' Turnaround Hook Shot (11 PTS) (Bogdanovic 5 AST),Made Shot,Turnaround Hook Shot,1.0,453.0
+2022-10-07,ind-vs-nyk-0012200030,150.0,PT01M56.00S,1.0,1610612752.0,NYK,1630193.0,Quickley,I. Quickley,-97.0,125.0,16.0,Missed,1.0,,,0.0,h,MISS Quickley 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,112.0
+2022-10-02,cha-vs-bos-0012200005,689.0,PT02M01.00S,4.0,0.0,,1610612766.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Hornets Rebound,Rebound,Normal Rebound,0.0,508.0
+2022-12-19,orl-vs-atl-0022200454,472.0,PT00M00.00S,3.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,104.0,94.0,198.0,,End of 3rd Period (9:14 PM EST),period,end,1.0,349.0
+2023-03-04,phi-vs-mil-0022200960,362.0,PT06M15.00S,3.0,1610612749.0,MIL,201572.0,Lopez,B. Lopez,2.0,71.0,7.0,Missed,1.0,,,0.0,h,MISS Lopez 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1.0,262.0
+2022-12-02,tor-vs-bkn-0022200329,367.0,PT00M00.00S,2.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,72.0,49.0,121.0,,End of 2nd Period (8:44 PM EST),period,end,1.0,268.0
+2023-01-06,was-vs-okc-0022200584,435.0,PT04M09.00S,3.0,1610612764.0,WAS,204001.0,Porzingis,K. Porzingis,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Gafford FOR Porzingis,Substitution,,0.0,314.0
+2023-02-17,jkm-vs-pau-0032200006,84.0,PT00M00.00S,1.0,1610616849.0,JKM,1629656.0,Grimes,Q. Grimes,146.0,262.0,30.0,Made,1.0,16.0,16.0,32.0,v,Grimes 30' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1.0,64.0
+2022-12-28,lal-vs-mia-0022200518,178.0,PT09M49.00S,2.0,1610612747.0,LAL,2544.0,James,L. James,0.0,0.0,0.0,,0.0,,,0.0,v,James Offensive Charge Foul (P2) (N.Sago),Foul,Offensive Charge,1.0,134.0
+2022-11-27,mia-vs-atl-0022200293,256.0,PT03M45.00S,2.0,1610612748.0,MIA,1629639.0,Herro,T. Herro,0.0,0.0,0.0,,0.0,,,0.0,v,Herro STEAL (1 STL),,,1.0,192.0
+2022-11-22,det-vs-den-0022200258,640.0,PT00M46.10S,4.0,1610612743.0,DEN,203999.0,Jokic,N. Jokic,0.0,0.0,0.0,,0.0,104.0,108.0,212.0,h,Jokic Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1.0,475.0
+2022-11-12,atl-vs-phi-0022200188,154.0,PT01M29.00S,1.0,1610612737.0,ATL,1629027.0,Young,T. Young,0.0,0.0,0.0,,0.0,30.0,19.0,49.0,v,Young Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1.0,113.0
+2022-12-08,lac-vs-mia-0022200374,385.0,PT03M58.00S,3.0,1610612748.0,MIA,1628997.0,Martin,C. Martin,230.0,27.0,0.0,Missed,1.0,,,0.0,h,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1.0,285.0
+2022-12-17,por-vs-hou-0022200441,161.0,PT00M37.20S,1.0,1610612745.0,HOU,1631102.0,Washington Jr.,T. Washington Jr.,-234.0,38.0,24.0,Missed,1.0,,,0.0,h,MISS Washington Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,126.0
+2022-12-12,cle-vs-sas-0022200406,55.0,PT06M41.00S,1.0,1610612759.0,SAS,1629676.0,Roby,I. Roby,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Richardson FOR Roby,Substitution,,0.0,47.0
+2023-02-13,bkn-vs-nyk-0022200862,78.0,PT04M58.00S,1.0,1610612752.0,NYK,1628973.0,Brunson,J. Brunson,161.0,191.0,25.0,Made,1.0,15.0,14.0,29.0,h,Brunson 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1.0,62.0
+2022-11-18,phx-vs-uta-0022200232,495.0,PT02M15.00S,3.0,1610612756.0,PHX,1626164.0,Booker,D. Booker,0.0,0.0,0.0,,0.0,101.0,97.0,198.0,v,Booker Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,1.0,347.0
+2022-10-05,cle-vs-phi-0012200019,266.0,PT04M54.00S,2.0,1610612755.0,PHI,201935.0,Harden,J. Harden,0.0,0.0,0.0,,0.0,,,0.0,h,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,185.0
+2022-11-17,sas-vs-sac-0022200222,292.0,PT02M16.00S,2.0,1610612758.0,SAC,1628989.0,Huerter,K. Huerter,-40.0,253.0,26.0,Missed,1.0,,,0.0,h,MISS Huerter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,206.0
+2023-03-10,bkn-vs-min-0022201001,444.0,PT03M53.00S,3.0,1610612751.0,BKN,1626220.0,O'Neale,R. O'Neale,0.0,0.0,0.0,,0.0,,,0.0,v,O'Neale REBOUND (Off:3 Def:8),Rebound,Unknown,1.0,325.0
+2023-01-02,phx-vs-nyk-0022200550,141.0,PT10M34.00S,2.0,1610612752.0,NYK,1628973.0,Brunson,J. Brunson,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Brunson Free Throw Technical,Free Throw,Free Throw Technical,1.0,104.0
+2023-02-13,hou-vs-phi-0022200860,524.0,PT08M43.00S,4.0,1610612745.0,HOU,1631106.0,Eason,T. Eason,-12.0,6.0,1.0,Made,1.0,97.0,85.0,182.0,v,Eason 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1.0,386.0
+2022-12-07,lac-vs-orl-0022200363,598.0,PT04M43.00S,4.0,1610612746.0,LAC,1627826.0,Zubac,I. Zubac,7.0,26.0,3.0,Made,1.0,89.0,97.0,186.0,v,Zubac 3' Driving Layup (11 PTS) (George 5 AST),Made Shot,Driving Layup Shot,1.0,438.0
+2022-10-23,por-vs-lal-0022200037,588.0,PT09M04.00S,4.0,1610612757.0,POR,1631101.0,Sharpe,S. Sharpe,229.0,-2.0,0.0,Missed,1.0,,,0.0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1.0,429.0
+2023-02-09,chi-vs-bkn-0022200833,205.0,PT08M18.00S,2.0,1610612741.0,CHI,203083.0,Drummond,A. Drummond,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Vucevic FOR Drummond,Substitution,,0.0,158.0
+2022-12-10,min-vs-por-0022200394,533.0,PT09M59.00S,4.0,1610612750.0,MIN,1626156.0,Russell,D. Russell,31.0,209.0,21.0,Missed,1.0,,,0.0,v,MISS Russell 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,387.0
+2022-11-11,phx-vs-orl-0022200177,550.0,PT02M46.00S,4.0,1610612756.0,PHX,1629006.0,Okogie,J. Okogie,125.0,183.0,22.0,Missed,1.0,,,0.0,v,MISS Okogie 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,404.0
+2022-12-14,det-vs-cha-0022200414,121.0,PT03M53.00S,1.0,1610612766.0,CHA,1626162.0,Oubre Jr.,K. Oubre Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Maledon FOR Oubre Jr.,Substitution,,0.0,92.0
+2023-03-11,mil-vs-gsw-0022201012,233.0,PT08M02.00S,2.0,1610612744.0,GSW,201939.0,Curry,S. Curry,0.0,0.0,0.0,,0.0,,,0.0,h,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,175.0
+2022-10-24,uta-vs-hou-0022200048,415.0,PT06M22.00S,3.0,1610612745.0,HOU,1630224.0,Green,J. Green,-184.0,209.0,28.0,Made,1.0,65.0,63.0,128.0,h,Green 28' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1.0,318.0
+2022-10-30,min-vs-sas-0022200092,441.0,PT07M39.00S,3.0,1610612750.0,MIN,1626157.0,Towns,K. Towns,0.0,0.0,0.0,,0.0,,,0.0,v,Towns BLOCK (2 BLK),,,1.0,328.0
+2022-10-14,lal-vs-sac-0012200070,176.0,PT00M00.10S,1.0,0.0,,1610612758.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,KINGS Rebound,Rebound,Unknown,1.0,127.0
+2023-01-25,atl-vs-okc-0022200725,519.0,PT00M15.80S,3.0,1610612760.0,OKC,1628983.0,Gilgeous-Alexander,S. Gilgeous-Alexander,61.0,137.0,15.0,Missed,1.0,,,0.0,h,MISS Gilgeous-Alexander 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,374.0
+2022-10-07,tor-vs-hou-0012200032,339.0,PT03M26.00S,2.0,1610612761.0,TOR,1631132.0,Koloko,C. Koloko,0.0,0.0,0.0,,0.0,,,0.0,v,Koloko S.FOUL (P3.T2) (E.Dalen),Foul,Shooting,1.0,254.0
+2022-12-07,sac-vs-mil-0022200369,10.0,PT11M23.00S,1.0,1610612758.0,SAC,203084.0,Barnes,H. Barnes,0.0,0.0,0.0,,0.0,,,0.0,v,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,5.0
+2023-01-27,mil-vs-ind-0022200736,571.0,PT08M35.00S,4.0,1610612749.0,MIL,203507.0,Antetokounmpo,G. Antetokounmpo,0.0,0.0,0.0,,0.0,,,0.0,v,MISS G. Antetokounmpo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1.0,406.0
+2022-12-30,was-vs-orl-0022200529,448.0,PT04M25.00S,3.0,1610612764.0,WAS,1628420.0,Morris,M. Morris,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Wright FOR Morris,Substitution,,0.0,325.0
+2022-11-06,chi-vs-tor-0022200141,89.0,PT05M21.00S,1.0,1610612741.0,CHI,1630172.0,Williams,P. Williams,0.0,0.0,0.0,,0.0,,,0.0,v,Williams REBOUND (Off:2 Def:0),Rebound,Unknown,1.0,68.0
+2022-10-28,cha-vs-orl-0022200071,642.0,PT00M55.00S,4.0,1610612753.0,ORL,1630284.0,Harris,K. Harris,-184.0,177.0,26.0,Missed,1.0,,,0.0,h,MISS Harris 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,477.0
+2022-11-18,den-vs-dal-0022200230,26.0,PT09M42.00S,1.0,0.0,,1610612743.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Nuggets Rebound,Rebound,Unknown,0.0,17.0
+2023-03-03,por-vs-atl-0022200947,514.0,PT09M29.00S,4.0,1610612757.0,POR,1629629.0,Reddish,C. Reddish,-183.0,170.0,25.0,Made,1.0,106.0,86.0,192.0,v,Reddish 25' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1.0,380.0
+2022-12-31,lac-vs-ind-0022200538,590.0,PT03M47.00S,4.0,0.0,,1610612746.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Clippers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0.0,428.0
+2023-01-13,gsw-vs-sas-0022200635,699.0,PT03M21.00S,4.0,1610612744.0,GSW,1629673.0,Poole,J. Poole,0.0,0.0,0.0,,0.0,103.0,137.0,240.0,v,Poole Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1.0,492.0
+2022-12-07,lal-vs-tor-0022200366,527.0,PT11M22.00S,4.0,1610612747.0,LAL,1629022.0,Walker IV,L. Walker IV,208.0,138.0,25.0,Missed,1.0,,,0.0,v,MISS Walker IV 25' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1.0,402.0
+2023-02-15,mia-vs-bkn-0022200878,101.0,PT03M32.00S,1.0,1610612751.0,BKN,1627827.0,Finney-Smith,D. Finney-Smith,0.0,0.0,0.0,,0.0,,,0.0,h,Finney-Smith REBOUND (Off:1 Def:1),Rebound,Unknown,1.0,75.0
+2022-10-21,den-vs-gsw-0022200026,185.0,PT10M15.00S,2.0,1610612743.0,DEN,1630538.0,Hyland,B. Hyland,0.0,0.0,0.0,,0.0,36.0,45.0,81.0,v,Hyland Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1.0,129.0
+2022-11-22,det-vs-den-0022200258,326.0,PT00M33.60S,2.0,1610612765.0,DET,202711.0,Bogdanovic,B. Bogdanovic,0.0,0.0,0.0,,0.0,55.0,56.0,111.0,v,Bogdanovic Free Throw Flagrant 2 of 2 (15 PTS),Free Throw,Free Throw Flagrant 2 of 2,1.0,240.0
+2022-11-04,mil-vs-min-0022200129,572.0,PT09M05.00S,4.0,1610612750.0,MIN,1630162.0,Edwards,A. Edwards,-142.0,80.0,16.0,Made,1.0,91.0,101.0,192.0,h,Edwards 16' Pullup Jump Shot (21 PTS) (Russell 3 AST),Made Shot,Pullup Jump shot,1.0,406.0
+2023-01-18,ind-vs-okc-0022200674,451.0,PT05M00.00S,3.0,1610612760.0,OKC,1631114.0,Williams,J. Williams,13.0,-2.0,1.0,Made,1.0,82.0,63.0,145.0,h,Jal. Williams 1' Cutting Layup Shot (8 PTS) (Giddey 8 AST),Made Shot,Cutting Layup Shot,1.0,332.0
+2023-01-23,sas-vs-por-0022200711,43.0,PT09M02.00S,1.0,1610612759.0,SAS,1631110.0,Sochan,J. Sochan,0.0,0.0,0.0,,0.0,6.0,8.0,14.0,v,Sochan Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1.0,31.0
+2022-12-04,mem-vs-det-0022200347,588.0,PT07M02.00S,4.0,1610612765.0,DET,1630165.0,Hayes,K. Hayes,-123.0,48.0,13.0,Missed,1.0,,,0.0,h,MISS Hayes 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,432.0
+2022-10-05,ind-vs-cha-0012200018,387.0,PT12M00.00S,3.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,43.0,59.0,102.0,,Start of 3rd Period (8:33 PM EST),period,start,0.0,290.0
+2022-12-28,mil-vs-chi-0022200519,163.0,PT00M07.70S,1.0,1610612749.0,MIL,201588.0,Hill,G. Hill,-229.0,-15.0,0.0,Missed,1.0,,,0.0,v,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,1.0,124.0
+2022-12-30,phi-vs-nop-0022200534,128.0,PT02M27.00S,1.0,1610612740.0,NOP,203468.0,McCollum,C. McCollum,0.0,0.0,0.0,,0.0,,,0.0,h,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,93.0
+2023-01-09,mil-vs-nyk-0022200607,513.0,PT11M39.00S,4.0,1610612752.0,NYK,1630193.0,Quickley,I. Quickley,0.0,0.0,0.0,,0.0,,,0.0,h,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,374.0
+2023-01-02,sas-vs-bkn-0022200555,346.0,PT11M15.00S,3.0,1610612751.0,BKN,1629651.0,Claxton,N. Claxton,-42.0,36.0,6.0,Missed,1.0,,,0.0,h,MISS Claxton 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1.0,252.0
+2023-01-04,okc-vs-orl-0022200566,107.0,PT03M51.00S,1.0,1610612753.0,ORL,1628365.0,Fultz,M. Fultz,-83.0,140.0,16.0,Made,1.0,19.0,17.0,36.0,h,Fultz 16' Pullup Jump Shot (6 PTS) (Carter Jr. 1 AST),Made Shot,Pullup Jump shot,1.0,82.0
+2023-03-04,min-vs-sac-0022200961,294.0,PT03M29.00S,2.0,1610612750.0,MIN,1630162.0,Edwards,A. Edwards,230.0,48.0,0.0,Missed,1.0,,,0.0,v,MISS Edwards 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0.0,209.0
+2022-12-10,dal-vs-chi-0022200391,169.0,PT11M02.00S,2.0,1610612742.0,DAL,201580.0,McGee,J. McGee,-12.0,7.0,1.0,Made,1.0,45.0,32.0,77.0,v,McGee 1' Alley Oop Layup (2 PTS) (Wood 1 AST),Made Shot,Alley Oop Layup shot,1.0,122.0
+2022-12-19,mil-vs-nop-0022200457,262.0,PT06M46.00S,2.0,1610612740.0,NOP,1630631.0,Alvarado,J. Alvarado,0.0,0.0,0.0,,0.0,,,0.0,h,Alvarado S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,1.0,170.0
+2022-11-05,bos-vs-nyk-0022200135,539.0,PT03M59.00S,4.0,1610612738.0,BOS,1627763.0,Brogdon,M. Brogdon,0.0,0.0,0.0,,0.0,114.0,120.0,234.0,v,Brogdon Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1.0,393.0
+2022-12-27,atl-vs-ind-0022200508,286.0,PT02M45.00S,2.0,1610612737.0,ATL,1628381.0,Collins,J. Collins,0.0,0.0,0.0,,0.0,,,0.0,v,Collins REBOUND (Off:1 Def:4),Rebound,Unknown,1.0,215.0
+2022-10-28,nop-vs-phx-0022200079,141.0,PT00M02.40S,1.0,1610612756.0,PHX,1626166.0,Payne,C. Payne,0.0,0.0,0.0,,0.0,,,0.0,h,Payne Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1.0,106.0
+2023-02-13,sas-vs-cle-0022200858,503.0,PT09M58.00S,4.0,1610612759.0,SAS,1631104.0,Wesley,B. Wesley,7.0,13.0,1.0,Made,1.0,95.0,89.0,184.0,v,Wesley 1' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,1.0,364.0
+2022-12-16,atl-vs-cha-0022200428,447.0,PT05M13.00S,3.0,1610612737.0,ATL,1630235.0,Forrest,T. Forrest,0.0,0.0,0.0,,0.0,,,0.0,v,Forrest P.FOUL (P3.T3) (M.Boland),Foul,Personal,1.0,314.0
+2023-03-09,bkn-vs-mil-0022200995,570.0,PT08M58.00S,4.0,1610612749.0,MIL,203114.0,Middleton,K. Middleton,10.0,6.0,1.0,Missed,1.0,,,0.0,h,MISS Middleton 1' Driving Layup,Missed Shot,Driving Layup Shot,1.0,432.0
+2022-12-04,den-vs-nop-0022200344,446.0,PT03M42.00S,3.0,1610612740.0,NOP,1630530.0,Murphy III,T. Murphy III,0.0,0.0,0.0,,0.0,82.0,75.0,157.0,h,Murphy III Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1.0,327.0
+2023-02-23,sas-vs-dal-0022200891,337.0,PT11M21.00S,3.0,1610612742.0,DAL,203493.0,Bullock,R. Bullock,235.0,14.0,24.0,Made,1.0,77.0,63.0,140.0,h,Bullock 24' 3PT Jump Shot (12 PTS) (Doncic 6 AST),Made Shot,Jump Shot,1.0,241.0
+2022-12-16,ind-vs-cle-0022200431,290.0,PT01M02.00S,2.0,1610612739.0,CLE,1630205.0,Stevens,L. Stevens,27.0,95.0,10.0,Missed,1.0,,,0.0,h,MISS Stevens 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1.0,204.0
+2023-02-03,phx-vs-bos-0022200788,43.0,PT08M30.00S,1.0,1610612738.0,BOS,1627759.0,Brown,J. Brown,0.0,0.0,0.0,,0.0,,,0.0,h,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,36.0
+2022-12-03,dal-vs-nyk-0022200337,404.0,PT05M42.00S,3.0,1610612742.0,DAL,1629029.0,Doncic,L. Doncic,0.0,0.0,0.0,,0.0,,,0.0,v,Doncic Offensive Foul Turnover (P5.T8),Turnover,Offensive Foul Turnover,1.0,302.0
+2022-12-16,gsw-vs-phi-0022200432,246.0,PT04M58.00S,2.0,1610612744.0,GSW,202691.0,Thompson,K. Thompson,0.0,0.0,0.0,,0.0,,,0.0,v,Thompson STEAL (2 STL),,,1.0,182.0
+2022-12-26,hou-vs-chi-0022200501,427.0,PT04M06.00S,3.0,1610612741.0,CHI,201942.0,DeRozan,D. DeRozan,-9.0,104.0,10.0,Made,1.0,81.0,86.0,167.0,h,DeRozan 10' Turnaround Jump Shot (23 PTS),Made Shot,Turnaround Jump Shot,1.0,311.0
+2022-11-02,atl-vs-nyk-0022200110,139.0,PT03M11.00S,1.0,1610612737.0,ATL,1629027.0,Young,T. Young,112.0,162.0,20.0,Missed,1.0,,,0.0,v,MISS Young 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,105.0
+2022-11-05,sas-vs-den-0022200138,68.0,PT04M59.00S,1.0,1610612759.0,SAS,1627751.0,Poeltl,J. Poeltl,0.0,0.0,0.0,,0.0,,,0.0,v,Poeltl S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,1.0,43.0
+2022-12-04,den-vs-nop-0022200344,439.0,PT03M47.00S,3.0,1610612743.0,DEN,1628427.0,Cancar,V. Cancar,173.0,193.0,26.0,Missed,1.0,,,0.0,v,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,322.0
+2022-12-26,ind-vs-nop-0022200502,81.0,PT05M48.00S,1.0,1610612754.0,IND,1626167.0,Turner,M. Turner,0.0,0.0,0.0,,0.0,,,0.0,v,Turner L.B.FOUL (P2.T2) (K.Cutler),Foul,Loose Ball,1.0,63.0
+2022-12-29,hou-vs-dal-0022200528,150.0,PT00M59.70S,1.0,1610612745.0,HOU,1630231.0,Martin Jr.,K. Martin Jr.,-202.0,145.0,25.0,Missed,1.0,,,0.0,v,MISS Martin Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,111.0
+2023-03-03,por-vs-atl-0022200947,276.0,PT04M10.00S,2.0,1610612737.0,ATL,1628381.0,Collins,J. Collins,0.0,0.0,0.0,,0.0,,,0.0,h,Collins Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1.0,200.0
+2023-01-31,lac-vs-chi-0022200766,179.0,PT09M09.00S,2.0,1610612746.0,LAC,203496.0,Covington,R. Covington,-5.0,3.0,1.0,Made,1.0,39.0,24.0,63.0,v,Covington 1' Cutting Layup Shot (5 PTS) (George 2 AST),Made Shot,Cutting Layup Shot,1.0,134.0
+2023-01-24,was-vs-dal-0022200717,22.0,PT10M04.00S,1.0,1610612764.0,WAS,1630557.0,Kispert,C. Kispert,0.0,0.0,0.0,,0.0,,,0.0,v,Kispert STEAL (1 STL),,,1.0,15.0
+2022-12-11,phx-vs-nop-0022200395,592.0,PT08M13.00S,4.0,1610612740.0,NOP,1629627.0,Williamson,Z. Williamson,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Murphy III FOR Williamson,Substitution,,0.0,415.0
+2022-11-18,den-vs-dal-0022200230,441.0,PT00M06.30S,3.0,1610612742.0,DAL,1626174.0,Wood,C. Wood,0.0,0.0,0.0,,0.0,,,0.0,h,Wood REBOUND (Off:2 Def:4),Rebound,Unknown,1.0,322.0
+2022-11-25,sac-vs-bos-0022200275,588.0,PT07M15.00S,4.0,1610612738.0,BOS,1628436.0,Kornet,L. Kornet,0.0,0.0,0.0,,0.0,,,0.0,h,Kornet BLOCK (2 BLK),,,1.0,428.0
+2022-10-02,adl-vs-phx-0012200008,176.0,PT11M00.00S,2.0,15019.0,ADL,196294111.0,Johnson,D. Johnson,0.0,0.0,0.0,,0.0,,,0.0,v,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,1.0,118.0
+2023-02-08,sas-vs-tor-0022200826,526.0,PT09M51.00S,4.0,1610612759.0,SAS,1631103.0,Branham,M. Branham,0.0,0.0,0.0,,0.0,,,0.0,v,Branham REBOUND (Off:1 Def:3),Rebound,Unknown,1.0,382.0
+2023-01-10,cha-vs-tor-0022200613,78.0,PT05M36.00S,1.0,1610612766.0,CHA,1626179.0,Rozier,T. Rozier,0.0,0.0,0.0,,0.0,,,0.0,v,Rozier Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1.0,52.0
+2022-12-17,was-vs-lac-0022200438,90.0,PT04M01.00S,1.0,1610612764.0,WAS,204001.0,Porzingis,K. Porzingis,0.0,0.0,0.0,,0.0,,,0.0,v,Porzingis STEAL (1 STL),,,1.0,67.0
+2023-01-02,tor-vs-ind-0022200553,677.0,PT00M25.00S,4.0,1610612754.0,IND,1631097.0,Mathurin,B. Mathurin,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: McConnell FOR Mathurin,Substitution,,0.0,494.0
+2022-12-18,orl-vs-bos-0022200445,130.0,PT01M39.00S,1.0,1610612753.0,ORL,1630175.0,Anthony,C. Anthony,0.0,0.0,0.0,,0.0,,,0.0,v,Anthony P.FOUL (P1.T4) (E.Malloy),Foul,Personal,1.0,99.0
+2023-01-19,chi-vs-det-0022200678,211.0,PT08M15.00S,2.0,1610612741.0,CHI,1629632.0,White,C. White,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Dosunmu FOR White,Substitution,,0.0,166.0
+2022-10-05,tor-vs-bos-0012200020,448.0,PT02M37.00S,3.0,1610612761.0,TOR,1627823.0,Hernangomez,J. Hernangomez,0.0,0.0,0.0,,0.0,,,0.0,v,Hernangomez REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,340.0
+2022-12-03,okc-vs-min-0022200341,7.0,PT11M49.00S,1.0,1610612750.0,MIN,1626156.0,Russell,D. Russell,0.0,0.0,0.0,,0.0,,,0.0,h,Russell Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1.0,3.0
+2023-01-08,uta-vs-mem-0022200600,675.0,PT02M39.00S,4.0,1610612762.0,UTA,201144.0,Conley,M. Conley,0.0,0.0,0.0,,0.0,,,0.0,v,Conley S.FOUL (P2.T3) (J.Capers),Foul,Shooting,1.0,484.0
+2022-12-27,phx-vs-mem-0022200510,272.0,PT05M43.00S,2.0,1610612763.0,MEM,1629630.0,Morant,J. Morant,0.0,0.0,0.0,,0.0,35.0,40.0,75.0,h,Morant Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1.0,201.0
+2022-12-28,bkn-vs-atl-0022200517,509.0,PT08M56.00S,4.0,1610612737.0,ATL,1630168.0,Okongwu,O. Okongwu,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Okongwu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1.0,376.0
+2022-11-09,phx-vs-min-0022200167,141.0,PT02M39.00S,1.0,1610612756.0,PHX,1629013.0,Shamet,L. Shamet,0.0,0.0,0.0,,0.0,18.0,29.0,47.0,v,Shamet Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1.0,101.0
+2022-11-16,gsw-vs-phx-0022200220,388.0,PT08M29.00S,3.0,1610612744.0,GSW,201939.0,Curry,S. Curry,0.0,0.0,0.0,,0.0,,,0.0,v,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,274.0
+2023-02-11,mia-vs-orl-0022200848,653.0,PT00M00.00S,4.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,97.0,97.0,194.0,,End of 4th Period (9:35 PM EST),period,end,1.0,479.0
+2022-11-14,lac-vs-hou-0022200203,266.0,PT03M30.00S,2.0,1610612745.0,HOU,1630578.0,Sengun,A. Sengun,0.0,0.0,0.0,,0.0,,,0.0,h,Sengun S.FOUL (P2.T4) (R.Mott),Foul,Shooting,1.0,199.0
+2023-01-18,cha-vs-hou-0022200671,523.0,PT10M23.00S,4.0,1610612745.0,HOU,1630256.0,Tate,J. Tate,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Martin Jr. FOR Tate,Substitution,,0.0,393.0
+2022-11-04,por-vs-phx-0022200130,550.0,PT08M23.00S,4.0,1610612757.0,POR,1629642.0,Little,N. Little,-22.0,201.0,20.0,Made,1.0,84.0,92.0,176.0,v,Little 20' Pullup Jump Shot (12 PTS) (Winslow 7 AST),Made Shot,Pullup Jump shot,1.0,389.0
+2023-01-18,min-vs-den-0022200676,314.0,PT03M43.00S,2.0,1610612743.0,DEN,203999.0,Jokic,N. Jokic,0.0,0.0,0.0,,0.0,,,0.0,h,Jokic Offensive Charge Foul (P3) (C.Kirkland),Foul,Offensive Charge,1.0,228.0
+2023-01-04,bkn-vs-chi-0022200570,591.0,PT05M15.00S,4.0,1610612741.0,CHI,202696.0,Vucevic,N. Vucevic,0.0,0.0,0.0,,0.0,,,0.0,h,Vucevic BLOCK (1 BLK),,,1.0,434.0
+2023-02-13,bkn-vs-nyk-0022200862,364.0,PT04M44.00S,3.0,1610612752.0,NYK,1630579.0,Sims,J. Sims,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Hartenstein FOR Sims,Substitution,,0.0,271.0
+2022-10-23,cha-vs-atl-0022200038,434.0,PT07M13.00S,3.0,1610612737.0,ATL,1629027.0,Young,T. Young,0.0,0.0,0.0,,0.0,,,0.0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,316.0
+2023-02-12,det-vs-tor-0022200856,301.0,PT01M02.00S,2.0,1610612761.0,TOR,1630567.0,Barnes,S. Barnes,0.0,0.0,0.0,,0.0,,,0.0,h,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,229.0
+2022-12-02,was-vs-cha-0022200326,646.0,PT04M08.00S,4.0,1610612764.0,WAS,203078.0,Beal,B. Beal,9.0,164.0,16.0,Made,1.0,115.0,112.0,227.0,v,Beal 16' Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,1.0,475.0
+2022-10-29,mia-vs-sac-0022200081,193.0,PT11M30.00S,2.0,1610612758.0,SAC,1628370.0,Monk,M. Monk,0.0,0.0,0.0,,0.0,,,0.0,h,Monk REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,139.0
+2022-12-16,orl-vs-bos-0022200430,302.0,PT03M14.00S,2.0,1610612738.0,BOS,201143.0,Horford,A. Horford,0.0,0.0,0.0,,0.0,,,0.0,h,Horford BLOCK (2 BLK),,,1.0,223.0
+2023-01-15,orl-vs-den-0022200653,660.0,PT00M14.90S,4.0,0.0,,1610612753.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Magic Rebound,Rebound,Normal Rebound,0.0,482.0
+2022-11-04,por-vs-phx-0022200130,650.0,PT01M00.00S,4.0,0.0,,649.0,,,0.0,0.0,0.0,,0.0,101.0,101.0,202.0,,Instant Replay4th Period (12:18 AM EST),Instant Replay,Coach Challenge Overturn Ruling,1.0,456.0
+2022-11-21,bos-vs-chi-0022200250,282.0,PT05M13.00S,2.0,1610612738.0,BOS,1628401.0,White,D. White,224.0,-15.0,0.0,Missed,1.0,,,0.0,v,MISS White 3PT Jump Shot,Missed Shot,Jump Shot,1.0,209.0
+2022-10-14,lal-vs-sac-0012200070,717.0,PT03M19.00S,4.0,1610612747.0,LAL,1630643.0,Huff,J. Huff,-7.0,13.0,1.0,Made,1.0,56.0,35.0,91.0,v,Huff 1' Dunk (8 PTS) (Pippen Jr. 3 AST),Made Shot,Dunk Shot,1.0,505.0
+2022-11-10,dal-vs-was-0022200172,438.0,PT03M02.00S,3.0,1610612764.0,WAS,1630166.0,Avdija,D. Avdija,0.0,0.0,0.0,,0.0,,,0.0,h,Avdija Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1.0,320.0
+2022-10-12,cha-vs-phi-0012200054,104.0,PT03M59.00S,1.0,1610612755.0,PHI,202699.0,Harris,T. Harris,141.0,225.0,27.0,Missed,1.0,,,0.0,h,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,80.0
+2022-10-21,chi-vs-was-0022200019,45.0,PT06M58.00S,1.0,1610612764.0,WAS,1630166.0,Avdija,D. Avdija,130.0,25.0,13.0,Missed,1.0,,,0.0,h,MISS Avdija 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,33.0
+2023-02-14,gsw-vs-lac-0022200871,582.0,PT05M44.00S,4.0,1610612744.0,GSW,1629673.0,Poole,J. Poole,-93.0,140.0,17.0,Missed,1.0,,,0.0,v,MISS Poole 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,410.0
+2022-11-25,det-vs-phx-0022200283,485.0,PT09M51.00S,4.0,1610612756.0,PHX,1628470.0,Craig,T. Craig,32.0,50.0,6.0,Missed,1.0,,,0.0,h,MISS Craig 6' Driving Layup,Missed Shot,Driving Layup Shot,1.0,359.0
+2023-01-30,orl-vs-phi-0022200756,71.0,PT07M06.00S,1.0,1610612753.0,ORL,1628976.0,Carter Jr.,W. Carter Jr.,0.0,0.0,0.0,,0.0,,,0.0,v,Carter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,57.0
+2023-01-15,gsw-vs-chi-0022200650,224.0,PT08M22.00S,2.0,1610612741.0,CHI,1630172.0,Williams,P. Williams,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Jones Jr. FOR Williams,Substitution,,0.0,156.0
+2023-01-02,mia-vs-lac-0022200560,283.0,PT01M17.00S,2.0,1610612748.0,MIA,1629622.0,Strus,M. Strus,0.0,0.0,0.0,,0.0,,,0.0,v,Strus REBOUND (Off:1 Def:3),Rebound,Unknown,1.0,208.0
+2022-11-25,cle-vs-mil-0022200280,581.0,PT06M42.00S,4.0,1610612749.0,MIL,203507.0,Antetokounmpo,G. Antetokounmpo,-234.0,6.0,0.0,Made,1.0,98.0,83.0,181.0,h,G. Antetokounmpo 3PT Jump Shot (36 PTS) (Hill 2 AST),Made Shot,Jump Shot,1.0,432.0
+2022-11-15,nyk-vs-uta-0022200208,378.0,PT09M39.00S,3.0,1610612762.0,UTA,1629020.0,Vanderbilt,J. Vanderbilt,0.0,0.0,0.0,,0.0,,,0.0,h,Vanderbilt REBOUND (Off:2 Def:2),Rebound,Unknown,1.0,279.0
+2022-12-29,hou-vs-dal-0022200528,693.0,PT00M44.60S,4.0,0.0,,1610612742.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,MAVERICKS Rebound,Rebound,Unknown,0.0,501.0
+2023-01-31,lac-vs-chi-0022200766,92.0,PT03M44.00S,1.0,1610612746.0,LAC,1629611.0,Mann,T. Mann,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Jackson FOR Mann,Substitution,,0.0,66.0
+2022-12-19,mil-vs-nop-0022200457,497.0,PT03M07.00S,3.0,1610612740.0,NOP,1629627.0,Williamson,Z. Williamson,-16.0,10.0,2.0,Missed,1.0,,,0.0,h,MISS Williamson 2' Driving Layup,Missed Shot,Driving Layup Shot,1.0,326.0
+2022-10-24,bkn-vs-mem-0022200049,427.0,PT09M24.00S,3.0,1610612751.0,BKN,1629651.0,Claxton,N. Claxton,0.0,0.0,0.0,,0.0,,,0.0,v,Claxton S.FOUL (P4.T1) (J.Goble),Foul,Shooting,1.0,302.0
+2022-12-03,orl-vs-tor-0022200340,563.0,PT07M17.00S,4.0,1610612753.0,ORL,203082.0,Ross,T. Ross,-151.0,238.0,28.0,Made,1.0,104.0,85.0,189.0,v,Ross 28' 3PT Jump Shot (15 PTS) (Schofield 1 AST),Made Shot,Jump Shot,1.0,404.0
+2022-11-23,det-vs-uta-0022200270,337.0,PT07M49.00S,3.0,1610612765.0,DET,1628963.0,Bagley III,M. Bagley III,-44.0,101.0,11.0,Made,1.0,68.0,78.0,146.0,v,Bagley III 11' Driving Layup (14 PTS) (Livers 1 AST),Made Shot,Driving Layup Shot,1.0,242.0
+2022-12-09,det-vs-mem-0022200383,620.0,PT09M35.00S,4.0,1610612765.0,DET,1631105.0,Duren,J. Duren,0.0,0.0,0.0,,0.0,,,0.0,v,Duren REBOUND (Off:1 Def:6),Rebound,Unknown,1.0,456.0
+2022-12-30,was-vs-orl-0022200529,97.0,PT04M32.00S,1.0,1610612753.0,ORL,1628365.0,Fultz,M. Fultz,0.0,0.0,0.0,,0.0,14.0,22.0,36.0,h,Fultz Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1.0,72.0
+2023-02-03,orl-vs-min-0022200790,81.0,PT05M53.00S,1.0,0.0,,1610612750.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,TIMBERWOLVES Rebound,Rebound,Unknown,1.0,64.0
+2022-11-27,phi-vs-orl-0022200297,90.0,PT03M58.00S,1.0,1610612753.0,ORL,1629021.0,Wagner,M. Wagner,0.0,0.0,0.0,,0.0,21.0,21.0,42.0,h,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1.0,64.0
+2023-01-04,mia-vs-lal-0022200574,555.0,PT08M09.00S,4.0,1610612748.0,MIA,1629639.0,Herro,T. Herro,32.0,282.0,28.0,Made,1.0,83.0,89.0,172.0,v,Herro 28' 3PT Jump Shot (9 PTS) (Oladipo 5 AST),Made Shot,Jump Shot,1.0,406.0
+2023-03-10,bkn-vs-min-0022201001,57.0,PT07M37.00S,1.0,1610612750.0,MIN,203937.0,Anderson,K. Anderson,100.0,230.0,25.0,Made,1.0,14.0,7.0,21.0,h,Anderson 25' 3PT Jump Shot (3 PTS) (Gobert 1 AST),Made Shot,Jump Shot,1.0,42.0
+2022-11-27,cle-vs-det-0022200295,522.0,PT10M30.00S,4.0,1610612739.0,CLE,1628378.0,Mitchell,D. Mitchell,-33.0,81.0,9.0,Missed,1.0,,,0.0,v,MISS Mitchell 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,386.0
+2023-01-25,den-vs-mil-0022200723,87.0,PT05M05.00S,1.0,1610612749.0,MIL,1628960.0,Allen,G. Allen,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Middleton FOR Allen,Substitution,,0.0,71.0
+2022-12-09,det-vs-mem-0022200383,530.0,PT02M21.00S,3.0,1610612765.0,DET,1628963.0,Bagley III,M. Bagley III,0.0,0.0,0.0,,0.0,,,0.0,v,Bagley III REBOUND (Off:4 Def:5),Rebound,Unknown,1.0,389.0
+2023-02-04,lal-vs-nop-0022200798,113.0,PT04M23.00S,1.0,1610612747.0,LAL,2544.0,James,L. James,0.0,0.0,0.0,,0.0,,,0.0,v,James REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,86.0
+2022-11-09,nop-vs-chi-0022200166,653.0,PT00M17.40S,4.0,1610612741.0,CHI,202696.0,Vucevic,N. Vucevic,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Green FOR Vucevic,Substitution,,0.0,481.0
+2023-01-27,orl-vs-mia-0022200738,189.0,PT08M30.00S,2.0,1610612753.0,ORL,1630175.0,Anthony,C. Anthony,-141.0,237.0,28.0,Made,1.0,32.0,40.0,72.0,v,Anthony 28' 3PT Jump Shot (13 PTS) (M. Wagner 1 AST),Made Shot,Jump Shot,1.0,144.0
+2023-02-15,mia-vs-bkn-0022200878,619.0,PT00M08.60S,4.0,1610612748.0,MIA,1629216.0,Vincent,G. Vincent,18.0,11.0,2.0,Made,1.0,116.0,105.0,221.0,v,Vincent 2' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1.0,449.0
+2022-12-23,dal-vs-hou-0022200487,28.0,PT09M34.00S,1.0,1610612745.0,HOU,1630224.0,Green,J. Green,0.0,0.0,0.0,,0.0,,,0.0,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,18.0
+2022-12-13,phx-vs-hou-0022200411,604.0,PT07M39.00S,4.0,1610612745.0,HOU,1628981.0,Fernando,B. Fernando,0.0,0.0,0.0,,0.0,,,0.0,h,Fernando L.B.FOUL (P2.T3) (S.Mehta),Foul,Loose Ball,1.0,462.0
+2023-02-25,den-vs-mem-0022200907,208.0,PT07M32.00S,2.0,1610612763.0,MEM,1630217.0,Bane,D. Bane,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Aldama FOR Bane,Substitution,,0.0,157.0
+2023-03-07,bkn-vs-hou-0022200981,268.0,PT01M57.00S,2.0,1610612745.0,HOU,1629645.0,Porter Jr.,K. Porter Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,Porter Jr. L.B.FOUL (P1.T4) (M.Smith),Foul,Loose Ball,1.0,199.0
+2022-10-14,bos-vs-tor-0012200064,554.0,PT10M41.00S,4.0,1610612761.0,TOR,1630625.0,Banton,D. Banton,-43.0,43.0,6.0,Made,1.0,104.0,98.0,202.0,h,Banton 6' Cutting Finger Roll Layup Shot (7 PTS) (Barnes 4 AST),Made Shot,Cutting Finger Roll Layup Shot,1.0,419.0
+2022-11-23,was-vs-mia-0022200265,215.0,PT08M41.00S,2.0,1610612748.0,MIA,1629216.0,Vincent,G. Vincent,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Lowry FOR Vincent,Substitution,,0.0,161.0
+2023-01-06,lac-vs-min-0022200587,476.0,PT01M22.00S,3.0,1610612746.0,LAC,202694.0,Morris Sr.,M. Morris Sr.,230.0,26.0,0.0,Made,1.0,92.0,79.0,171.0,v,Morris Sr. 3PT Jump Shot (12 PTS) (Wall 7 AST),Made Shot,Jump Shot,1.0,349.0
+2023-03-03,nop-vs-gsw-0022200953,647.0,PT00M13.00S,4.0,1610612740.0,NOP,1630530.0,Murphy III,T. Murphy III,28.0,20.0,3.0,Made,1.0,108.0,99.0,207.0,v,Murphy III 3' Driving Dunk (15 PTS),Made Shot,Driving Dunk Shot,1.0,462.0
+2022-10-11,okc-vs-det-0012200047,466.0,PT03M20.00S,3.0,1610612765.0,DET,1630180.0,Bey,S. Bey,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: McGruder FOR Bey,Substitution,,0.0,344.0
+2023-02-09,den-vs-orl-0022200831,151.0,PT01M58.00S,1.0,1610612753.0,ORL,1628365.0,Fultz,M. Fultz,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Houstan FOR Fultz,Substitution,,0.0,114.0
+2022-11-26,uta-vs-phx-0022200289,262.0,PT04M42.00S,2.0,1610612756.0,PHX,1629028.0,Ayton,D. Ayton,0.0,0.0,0.0,,0.0,,,0.0,h,Ayton REBOUND (Off:1 Def:5),Rebound,Unknown,1.0,183.0
+2022-12-14,gsw-vs-ind-0022200415,528.0,PT00M20.60S,3.0,1610612744.0,GSW,1630541.0,Moody,M. Moody,0.0,0.0,0.0,,0.0,93.0,87.0,180.0,v,Moody Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1.0,385.0
+2022-12-15,phx-vs-lac-0022200427,547.0,PT08M38.00S,4.0,1610612756.0,PHX,1628969.0,Bridges,M. Bridges,0.0,0.0,0.0,,0.0,77.0,96.0,173.0,v,Bridges Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0.0,404.0
+2023-01-10,cha-vs-tor-0022200613,137.0,PT01M07.00S,1.0,1610612766.0,CHA,1628372.0,Smith Jr.,D. Smith Jr.,0.0,0.0,0.0,,0.0,,,0.0,v,Smith Jr. STEAL (2 STL),,,1.0,98.0
+2023-03-07,cha-vs-nyk-0022200979,261.0,PT01M31.00S,2.0,1610612752.0,NYK,1629011.0,Robinson,M. Robinson,0.0,0.0,0.0,,0.0,,,0.0,h,Robinson REBOUND (Off:1 Def:5),Rebound,Unknown,1.0,193.0
+2022-12-21,orl-vs-hou-0022200472,594.0,PT03M41.00S,4.0,1610612753.0,ORL,1631094.0,Banchero,P. Banchero,0.0,0.0,0.0,,0.0,100.0,103.0,203.0,v,Banchero Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1.0,443.0
+2023-01-08,bkn-vs-mia-0022200599,106.0,PT02M34.00S,1.0,1610612748.0,MIA,202710.0,Butler,J. Butler,245.0,10.0,25.0,Missed,1.0,,,0.0,h,MISS Butler 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1.0,80.0
+2022-11-27,dal-vs-mil-0022200298,504.0,PT11M46.00S,4.0,1610612742.0,DAL,1626174.0,Wood,C. Wood,0.0,0.0,0.0,,0.0,,,0.0,v,Wood REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,348.0
+2023-01-20,mem-vs-lal-0022200690,531.0,PT02M35.00S,3.0,1610612763.0,MEM,1629630.0,Morant,J. Morant,-1.0,8.0,1.0,Made,1.0,72.0,83.0,155.0,v,Morant 1' Putback Layup (20 PTS),Made Shot,Putback Layup Shot,1.0,396.0
+2022-12-17,mia-vs-sas-0022200439,467.0,PT04M03.00S,3.0,1610612759.0,SAS,203926.0,McDermott,D. McDermott,0.0,0.0,0.0,,0.0,,,0.0,h,McDermott S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1.0,334.0
+2022-11-13,min-vs-cle-0022200193,668.0,PT02M51.00S,4.0,1610612750.0,MIN,203497.0,Gobert,R. Gobert,0.0,0.0,0.0,,0.0,,,0.0,v,Gobert BLOCK (2 BLK),,,1.0,470.0
+2023-01-11,sas-vs-mem-0022200623,626.0,PT07M11.00S,4.0,1610612763.0,MEM,1628991.0,Jackson Jr.,J. Jackson Jr.,0.0,0.0,0.0,,0.0,123.0,113.0,236.0,h,Jackson Jr. Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1.0,466.0
+2023-02-27,det-vs-cha-0022200919,270.0,PT03M26.00S,2.0,1610612766.0,CHA,1630163.0,Ball,L. Ball,-104.0,298.0,32.0,Made,1.0,57.0,39.0,96.0,h,Ball 32' 3PT Jump Shot (15 PTS) (Rozier 2 AST),Made Shot,Jump Shot,1.0,208.0
+2022-11-04,gsw-vs-nop-0022200128,145.0,PT01M24.00S,1.0,1610612740.0,NOP,1630530.0,Murphy III,T. Murphy III,0.0,0.0,0.0,,0.0,,,0.0,h,Murphy III REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,104.0
+2023-01-16,phx-vs-mem-0022200663,301.0,PT01M24.00S,2.0,1610612756.0,PHX,1630240.0,Lee,S. Lee,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Shamet FOR S. Lee,Substitution,,0.0,216.0
+2022-10-19,cle-vs-tor-0022200008,524.0,PT00M00.00S,3.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,76.0,84.0,160.0,,End of 3rd Period (9:25 PM EST),period,end,1.0,388.0
+2022-12-11,sac-vs-nyk-0022200397,258.0,PT06M11.00S,2.0,1610612758.0,SAC,1627734.0,Sabonis,D. Sabonis,0.0,0.0,0.0,,0.0,,,0.0,v,Sabonis REBOUND (Off:1 Def:5),Rebound,Unknown,1.0,196.0
+2023-01-06,chi-vs-phi-0022200581,375.0,PT06M15.00S,3.0,1610612741.0,CHI,1629632.0,White,C. White,0.0,0.0,0.0,,0.0,,,0.0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,276.0
+2022-12-17,mia-vs-sas-0022200439,458.0,PT05M11.00S,3.0,1610612759.0,SAS,1629640.0,Johnson,K. Johnson,42.0,44.0,6.0,Missed,1.0,,,0.0,h,MISS K. Johnson 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1.0,326.0
+2023-02-03,orl-vs-min-0022200790,38.0,PT09M23.00S,1.0,1610612753.0,ORL,1631094.0,Banchero,P. Banchero,0.0,0.0,0.0,,0.0,,,0.0,v,Banchero STEAL (1 STL),,,1.0,32.0
+2022-10-18,lal-vs-gsw-0022200002,177.0,PT01M23.00S,1.0,1610612747.0,LAL,1629308.0,Toscano-Anderson,J. Toscano-Anderson,-181.0,184.0,26.0,Missed,1.0,,,0.0,v,MISS Toscano-Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,131.0
+2023-01-22,nop-vs-mia-0022200699,386.0,PT06M43.00S,3.0,1610612748.0,MIA,1629639.0,Herro,T. Herro,0.0,0.0,0.0,,0.0,,,0.0,h,Herro REBOUND (Off:2 Def:6),Rebound,Unknown,1.0,295.0
+2022-12-31,det-vs-min-0022200544,358.0,PT09M05.00S,3.0,1610612750.0,MIN,203497.0,Gobert,R. Gobert,4.0,19.0,2.0,Made,1.0,69.0,61.0,130.0,h,Gobert 2' Cutting Dunk Shot (3 PTS) (Russell 2 AST),Made Shot,Cutting Dunk Shot,1.0,264.0
+2023-01-02,tor-vs-ind-0022200553,541.0,PT09M10.00S,4.0,1610612761.0,TOR,1628384.0,Anunoby,O. Anunoby,0.0,0.0,0.0,,0.0,,,0.0,v,Anunoby BLOCK (2 BLK),,,1.0,393.0
+2023-03-05,cha-vs-bkn-0022200965,96.0,PT03M31.00S,1.0,1610612751.0,BKN,1628969.0,Bridges,M. Bridges,125.0,18.0,13.0,Made,1.0,28.0,17.0,45.0,h,Bridges 13' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,1.0,69.0
+2022-10-14,was-vs-nyk-0012200065,552.0,PT07M21.00S,4.0,1610612752.0,NYK,1630193.0,Quickley,I. Quickley,0.0,0.0,0.0,,0.0,,,0.0,h,Quickley REBOUND (Off:1 Def:8),Rebound,Unknown,1.0,419.0
+2022-11-20,mem-vs-bkn-0022200243,572.0,PT08M04.00S,4.0,1610612763.0,MEM,1631113.0,Chandler,K. Chandler,0.0,0.0,0.0,,0.0,,,0.0,v,Chandler REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,408.0
+2023-01-25,den-vs-mil-0022200723,349.0,PT09M29.00S,3.0,1610612743.0,DEN,203932.0,Gordon,A. Gordon,36.0,16.0,4.0,Made,1.0,60.0,55.0,115.0,v,Gordon 4' Driving Layup (11 PTS) (Cancar 2 AST),Made Shot,Driving Layup Shot,1.0,275.0
+2022-12-07,atl-vs-nyk-0022200365,608.0,PT03M36.00S,4.0,1610612752.0,NYK,1628973.0,Brunson,J. Brunson,0.0,0.0,0.0,,0.0,,,0.0,h,Brunson Out of Bounds - Bad Pass Turnover Turnover (P4.T12),Turnover,Out of Bounds - Bad Pass Turnover,1.0,449.0
+2023-01-27,tor-vs-gsw-0022200740,528.0,PT11M29.00S,4.0,1610612761.0,TOR,1628449.0,Boucher,C. Boucher,0.0,0.0,0.0,,0.0,,,0.0,v,Boucher STEAL (1 STL),,,1.0,371.0
+2022-11-21,bos-vs-chi-0022200250,289.0,PT04M29.00S,2.0,1610612738.0,BOS,1627759.0,Brown,J. Brown,26.0,1.0,3.0,Missed,1.0,,,0.0,v,MISS Brown 3' Running Layup,Missed Shot,Running Layup Shot,1.0,216.0
+2022-11-30,sas-vs-okc-0022200319,382.0,PT10M46.00S,3.0,1610612760.0,OKC,1630581.0,Giddey,J. Giddey,0.0,0.0,0.0,,0.0,,,0.0,h,Giddey REBOUND (Off:3 Def:3),Rebound,Unknown,1.0,259.0
+2023-03-08,dal-vs-nop-0022200988,420.0,PT03M08.00S,3.0,1610612742.0,DAL,202681.0,Irving,K. Irving,-6.0,49.0,5.0,Missed,1.0,,,0.0,v,MISS Irving 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,310.0
+2022-11-03,gsw-vs-orl-0022200118,102.0,PT04M25.00S,1.0,1610612744.0,GSW,203952.0,Wiggins,A. Wiggins,2.0,99.0,10.0,Missed,1.0,,,0.0,v,MISS Wiggins 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1.0,73.0
+2023-01-08,phi-vs-det-0022200596,357.0,PT10M46.00S,3.0,1610612755.0,PHI,1626149.0,Harrell,M. Harrell,0.0,0.0,0.0,,0.0,,,0.0,v,Harrell REBOUND (Off:3 Def:1),Rebound,Unknown,1.0,268.0
+2022-12-31,mia-vs-uta-0022200546,692.0,PT00M27.30S,4.0,1610612762.0,UTA,203903.0,Clarkson,J. Clarkson,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Clarkson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1.0,494.0
+2023-01-16,bos-vs-cha-0022200656,451.0,PT02M01.00S,3.0,1610612766.0,CHA,1628372.0,Smith Jr.,D. Smith Jr.,25.0,8.0,3.0,Missed,1.0,,,0.0,h,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1.0,325.0
+2022-12-04,den-vs-nop-0022200344,284.0,PT03M48.00S,2.0,1610612740.0,NOP,1626195.0,Hernangomez,W. Hernangomez,0.0,0.0,0.0,Made,1.0,51.0,52.0,103.0,h,Hernangomez Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,1.0,204.0
+2023-02-02,mem-vs-cle-0022200779,669.0,PT03M14.00S,4.0,1610612763.0,MEM,1629723.0,Konchar,J. Konchar,0.0,0.0,0.0,,0.0,,,0.0,v,Konchar REBOUND (Off:1 Def:5),Rebound,Unknown,1.0,481.0
+2023-01-16,nop-vs-cle-0022200658,339.0,PT09M31.00S,3.0,1610612739.0,CLE,1630596.0,Mobley,E. Mobley,0.0,0.0,0.0,,0.0,,,0.0,h,Mobley REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,249.0
+2023-01-26,chi-vs-cha-0022200732,600.0,PT03M55.00S,4.0,1610612741.0,CHI,201942.0,DeRozan,D. DeRozan,-1.0,143.0,14.0,Missed,1.0,,,0.0,v,MISS DeRozan 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,457.0
+2022-11-09,por-vs-cha-0022200159,625.0,PT04M35.00S,4.0,1610612757.0,POR,1626159.0,Winslow,J. Winslow,232.0,46.0,24.0,Missed,1.0,,,0.0,v,MISS Winslow 24' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,453.0
+2023-03-05,mem-vs-lac-0022200970,607.0,PT02M47.00S,4.0,1610612746.0,LAC,201566.0,Westbrook,R. Westbrook,7.0,16.0,2.0,Made,1.0,126.0,123.0,249.0,h,Westbrook 2' Driving Layup (8 PTS) (Morris Sr. 3 AST),Made Shot,Driving Layup Shot,1.0,440.0
+2023-02-02,gsw-vs-den-0022200783,157.0,PT00M14.20S,1.0,1610612743.0,DEN,1627750.0,Murray,J. Murray,0.0,0.0,0.0,,0.0,34.0,34.0,68.0,h,Murray Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1.0,110.0
+2023-03-09,hou-vs-ind-0022200993,581.0,PT07M29.00S,4.0,1610612754.0,IND,1627741.0,Hield,B. Hield,-4.0,250.0,25.0,Missed,1.0,,,0.0,h,MISS Hield 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,435.0
+2022-11-02,bos-vs-cle-0022200107,23.0,PT10M03.00S,1.0,1610612738.0,BOS,1628369.0,Tatum,J. Tatum,0.0,0.0,0.0,,0.0,,,0.0,v,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,16.0
+2023-01-14,dal-vs-por-0022200647,91.0,PT05M21.00S,1.0,1610612757.0,POR,1628404.0,Hart,J. Hart,0.0,0.0,0.0,,0.0,,,0.0,h,Hart REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,69.0
+2022-12-17,mem-vs-okc-0022200443,353.0,PT00M43.20S,2.0,1610612760.0,OKC,1629652.0,Dort,L. Dort,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Dort Free Throw Technical,Free Throw,Free Throw Technical,1.0,272.0
+2023-01-04,mia-vs-lal-0022200574,334.0,PT00M08.10S,2.0,1610612747.0,LAL,1630559.0,Reaves,A. Reaves,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Beverley FOR Reaves,Substitution,,0.0,245.0
+2023-01-13,atl-vs-ind-0022200633,421.0,PT07M29.00S,3.0,1610612754.0,IND,1631097.0,Mathurin,B. Mathurin,2.0,45.0,5.0,Missed,1.0,,,0.0,h,MISS Mathurin 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1.0,309.0
+2023-03-07,mil-vs-orl-0022200978,535.0,PT11M05.00S,4.0,1610612753.0,ORL,1630175.0,Anthony,C. Anthony,22.0,21.0,3.0,Made,1.0,94.0,102.0,196.0,h,Anthony 3' Running Finger Roll Layup (17 PTS) (Bitadze 1 AST),Made Shot,Running Finger Roll Layup Shot,1.0,381.0
+2023-01-08,bkn-vs-mia-0022200599,474.0,PT01M05.00S,3.0,1610612751.0,BKN,203933.0,Warren,T. Warren,0.0,0.0,0.0,,0.0,,,0.0,v,Warren STEAL (2 STL),,,1.0,340.0
+2023-03-11,nyk-vs-lac-0022201004,401.0,PT03M42.00S,3.0,1610612752.0,NYK,1629011.0,Robinson,M. Robinson,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Hart FOR Robinson,Substitution,,0.0,305.0
+2022-11-18,det-vs-lal-0022200234,178.0,PT00M03.00S,1.0,1610612765.0,DET,1628977.0,Diallo,H. Diallo,229.0,14.0,0.0,Missed,1.0,,,0.0,v,MISS Diallo 3PT Jump Shot,Missed Shot,Jump Shot,1.0,129.0
+2022-11-27,por-vs-bkn-0022200290,109.0,PT02M39.00S,1.0,1610612757.0,POR,1629234.0,Eubanks,D. Eubanks,7.0,8.0,1.0,Made,1.0,24.0,22.0,46.0,v,Eubanks 1' Cutting Dunk Shot (2 PTS) (Grant 2 AST),Made Shot,Cutting Dunk Shot,1.0,78.0
+2022-11-27,was-vs-bos-0022200294,341.0,PT08M09.00S,3.0,1610612738.0,BOS,1627759.0,Brown,J. Brown,0.0,0.0,0.0,,0.0,87.0,63.0,150.0,h,Brown Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1.0,240.0
+2022-11-01,chi-vs-bkn-0022200103,150.0,PT11M33.00S,2.0,1610612751.0,BKN,202681.0,Irving,K. Irving,0.0,0.0,0.0,,0.0,,,0.0,h,Irving P.FOUL (P1.T1) (K.Cutler),Foul,Personal,1.0,110.0
+2023-03-05,por-vs-orl-0022200966,572.0,PT05M00.00S,4.0,0.0,,1610612757.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0.0,413.0
+2023-01-12,cle-vs-por-0022200631,425.0,PT06M41.00S,3.0,1610612739.0,CLE,201937.0,Rubio,R. Rubio,0.0,0.0,0.0,,0.0,,,0.0,v,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,305.0
+2023-01-13,nop-vs-det-0022200632,602.0,PT02M05.00S,4.0,1610612740.0,NOP,203468.0,McCollum,C. McCollum,0.0,0.0,0.0,,0.0,,,0.0,v,McCollum REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,451.0
+2022-12-26,ind-vs-nop-0022200502,458.0,PT02M45.00S,3.0,1610612754.0,IND,1627741.0,Hield,B. Hield,70.0,243.0,25.0,Made,1.0,81.0,60.0,141.0,v,Hield 25' 3PT Jump Shot (12 PTS) (Mathurin 1 AST),Made Shot,Jump Shot,1.0,339.0
+2023-02-26,lac-vs-den-0022200918,28.0,PT09M41.00S,1.0,1610612746.0,LAC,202694.0,Morris Sr.,M. Morris Sr.,-4.0,6.0,1.0,Made,1.0,6.0,2.0,8.0,v,Morris Sr. 1' Cutting Dunk Shot (2 PTS) (George 1 AST),Made Shot,Cutting Dunk Shot,1.0,21.0
+2022-11-02,was-vs-phi-0022200108,475.0,PT01M09.00S,3.0,1610612764.0,WAS,1629655.0,Gafford,D. Gafford,0.0,0.0,0.0,,0.0,,,0.0,v,Gafford REBOUND (Off:2 Def:0),Rebound,Unknown,1.0,343.0
+2022-10-26,bkn-vs-mil-0022200060,688.0,PT03M42.00S,4.0,1610612751.0,BKN,201142.0,Durant,K. Durant,-66.0,250.0,26.0,Missed,1.0,,,0.0,v,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,504.0
+2023-02-27,bos-vs-nyk-0022200921,227.0,PT06M50.00S,2.0,1610612738.0,BOS,201143.0,Horford,A. Horford,-228.0,8.0,0.0,Missed,1.0,,,0.0,v,MISS Horford 3PT Jump Shot,Missed Shot,Jump Shot,1.0,168.0
+2023-01-27,mem-vs-min-0022200737,655.0,PT00M36.70S,4.0,1610612763.0,MEM,1629634.0,Clarke,B. Clarke,-1.0,15.0,2.0,Made,1.0,111.0,99.0,210.0,v,Clarke 2' Alley Oop Layup (14 PTS) (Morant 11 AST),Made Shot,Alley Oop Layup shot,1.0,480.0
+2022-11-04,uta-vs-lal-0022200131,508.0,PT10M40.00S,4.0,1610612762.0,UTA,1629020.0,Vanderbilt,J. Vanderbilt,0.0,0.0,0.0,,0.0,,,0.0,v,Vanderbilt S.FOUL (P3.T1) (N.Sago),Foul,Shooting,1.0,358.0
+2023-02-10,phx-vs-ind-0022200836,272.0,PT04M29.00S,2.0,0.0,,1610612756.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Suns Rebound,Rebound,Unknown,0.0,199.0
+2022-10-06,min-vs-lal-0012200028,642.0,PT08M01.00S,4.0,1610612750.0,MIN,1630639.0,Lawson,A. Lawson,210.0,141.0,25.0,Missed,1.0,,,0.0,v,MISS Lawson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,469.0
+2022-10-28,cle-vs-bos-0022200072,684.0,PT02M54.00S,5.0,1610612739.0,CLE,1628378.0,Mitchell,D. Mitchell,0.0,0.0,0.0,,0.0,,,0.0,v,Mitchell S.FOUL (P3.T1) (J.Conley),Foul,Shooting,1.0,491.0
+2023-01-18,lac-vs-uta-0022200675,130.0,PT02M12.00S,1.0,1610612762.0,UTA,1629012.0,Sexton,C. Sexton,54.0,19.0,6.0,Made,1.0,33.0,24.0,57.0,h,Sexton 6' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1.0,97.0
+2022-10-27,mia-vs-gsw-0022200068,272.0,PT03M46.00S,2.0,1610612748.0,MIA,1631107.0,Jovic,N. Jovic,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Adebayo FOR Jovic,Substitution,,0.0,197.0
+2023-01-19,gsw-vs-bos-0022200679,508.0,PT01M11.00S,3.0,1610612744.0,GSW,1626172.0,Looney,K. Looney,0.0,0.0,0.0,,0.0,,,0.0,v,Looney S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,1.0,378.0
+2023-03-08,cle-vs-mia-0022200987,275.0,PT02M35.00S,2.0,1610612739.0,CLE,1629636.0,Garland,D. Garland,0.0,0.0,0.0,,0.0,47.0,47.0,94.0,v,Garland Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1.0,197.0
+2023-02-14,bos-vs-mil-0022200869,461.0,PT03M04.00S,3.0,1610612749.0,MIL,203114.0,Middleton,K. Middleton,-23.0,20.0,3.0,Missed,1.0,,,0.0,h,MISS Middleton 3' Layup,Missed Shot,Layup Shot,1.0,326.0
+2022-10-26,phi-vs-tor-0022200059,193.0,PT07M53.00S,2.0,1610612755.0,PHI,1630178.0,Maxey,T. Maxey,20.0,14.0,2.0,Made,1.0,45.0,36.0,81.0,v,Maxey 2' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,1.0,142.0
+2022-11-22,det-vs-den-0022200258,606.0,PT03M10.00S,4.0,1610612743.0,DEN,203484.0,Caldwell-Pope,K. Caldwell-Pope,0.0,0.0,0.0,,0.0,,,0.0,h,Caldwell-Pope P.FOUL (P4.PN) (J.Williams),Foul,Personal,1.0,449.0
+2022-12-10,uta-vs-den-0022200393,221.0,PT05M14.00S,2.0,1610612743.0,DEN,203484.0,Caldwell-Pope,K. Caldwell-Pope,74.0,131.0,15.0,Made,1.0,42.0,39.0,81.0,h,Caldwell-Pope 15' Pullup Jump Shot (5 PTS) (Jokic 7 AST),Made Shot,Pullup Jump shot,1.0,160.0
+2022-11-03,gsw-vs-orl-0022200118,732.0,PT00M00.00S,4.0,0.0,,1610612744.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Warriors Rebound,Rebound,Unknown,0.0,527.0
+2023-01-08,phi-vs-det-0022200596,311.0,PT01M30.00S,2.0,1610612755.0,PHI,1629001.0,Melton,D. Melton,0.0,0.0,0.0,,0.0,,,0.0,v,Melton STEAL (1 STL),,,1.0,240.0
+2023-01-20,gsw-vs-cle-0022200685,107.0,PT03M08.00S,1.0,1610612744.0,GSW,203210.0,Green,J. Green,0.0,0.0,0.0,,0.0,,,0.0,v,Green REBOUND (Off:2 Def:2),Rebound,Unknown,1.0,81.0
+2023-01-15,phi-vs-lal-0022200655,53.0,PT06M50.00S,1.0,1610612747.0,LAL,1628972.0,Brown Jr.,T. Brown Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,Brown Jr. S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,1.0,40.0
+2022-10-19,cha-vs-sas-0022200011,605.0,PT08M07.00S,4.0,1610612766.0,CHA,202330.0,Hayward,G. Hayward,2.0,259.0,26.0,Missed,1.0,,,0.0,v,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,440.0
+2023-01-11,phx-vs-den-0022200624,310.0,PT00M00.60S,2.0,1610612743.0,DEN,203999.0,Jokic,N. Jokic,-69.0,219.0,23.0,Missed,1.0,,,0.0,h,MISS Jokic 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,215.0
+2022-11-07,bos-vs-mem-0022200152,439.0,PT03M31.00S,3.0,1610612738.0,BOS,1627759.0,Brown,J. Brown,0.0,0.0,0.0,,0.0,,,0.0,v,Brown OFF.Foul (P2) (M.Dagher),Foul,Offensive,1.0,316.0
+2023-03-04,atl-vs-mia-0022200958,576.0,PT06M10.00S,4.0,1610612737.0,ATL,203992.0,Bogdanovic,B. Bogdanovic,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Hunter FOR Bogdanovic,Substitution,,0.0,417.0
+2022-12-03,sac-vs-lac-0022200338,446.0,PT07M12.00S,3.0,1610612758.0,SAC,1631099.0,Murray,K. Murray,237.0,51.0,24.0,Missed,1.0,,,0.0,v,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,326.0
+2023-01-13,den-vs-lac-0022200639,456.0,PT07M55.00S,4.0,1610612746.0,LAC,203496.0,Covington,R. Covington,0.0,0.0,0.0,Made,1.0,92.0,94.0,186.0,h,Covington Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1.0,347.0
+2022-12-21,chi-vs-atl-0022200468,562.0,PT04M42.00S,4.0,1610612741.0,CHI,1630172.0,Williams,P. Williams,6.0,-1.0,1.0,Made,1.0,100.0,94.0,194.0,v,Williams 1' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1.0,427.0
+2022-10-05,ind-vs-cha-0012200018,500.0,PT05M07.00S,3.0,1610612766.0,CHA,1630163.0,Ball,L. Ball,0.0,0.0,0.0,,0.0,,,0.0,h,MISS La. Ball Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1.0,377.0
+2022-11-18,cha-vs-cle-0022200225,581.0,PT05M38.00S,4.0,1610612766.0,CHA,1626179.0,Rozier,T. Rozier,6.0,8.0,1.0,Made,1.0,92.0,87.0,179.0,v,Rozier 1' Running Layup (17 PTS),Made Shot,Running Layup Shot,1.0,429.0
+2023-01-12,bos-vs-bkn-0022200627,425.0,PT04M04.00S,3.0,1610612738.0,BOS,1629684.0,Williams,G. Williams,0.0,0.0,0.0,,0.0,,,0.0,v,Williams S.FOUL (P2.T1) (C.Blair),Foul,Shooting,1.0,291.0
+2023-02-11,dal-vs-sac-0022200854,229.0,PT05M42.00S,2.0,1610612742.0,DAL,1629033.0,Pinson,T. Pinson,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Powell FOR Pinson,Substitution,,0.0,167.0
+2022-11-09,lal-vs-lac-0022200170,189.0,PT10M30.00S,2.0,1610612747.0,LAL,1629117.0,Gabriel,W. Gabriel,0.0,0.0,0.0,,0.0,,,0.0,v,Gabriel L.B.FOUL (P2.T3) (B.Kennedy),Foul,Loose Ball,1.0,140.0
+2022-12-31,cle-vs-chi-0022200540,44.0,PT08M13.00S,1.0,0.0,,1610612739.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Cavaliers Rebound,Rebound,Normal Rebound,1.0,29.0
+2022-11-20,mia-vs-cle-0022200244,537.0,PT07M32.00S,4.0,1610612739.0,CLE,1630171.0,Okoro,I. Okoro,67.0,180.0,19.0,Missed,1.0,,,0.0,h,MISS Okoro 19' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,393.0
+2022-10-05,phx-vs-lal-0012200022,687.0,PT05M24.00S,4.0,1610612747.0,LAL,1631306.0,Swider,C. Swider,0.0,0.0,0.0,,0.0,,,0.0,h,Swider REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,503.0
+2023-02-10,okc-vs-por-0022200843,182.0,PT09M00.00S,2.0,1610612757.0,POR,203924.0,Grant,J. Grant,0.0,0.0,0.0,,0.0,,,0.0,h,Grant Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1.0,128.0
+2023-03-01,bkn-vs-nyk-0022200937,202.0,PT08M11.00S,2.0,1610612751.0,BKN,1629651.0,Claxton,N. Claxton,0.0,0.0,0.0,,0.0,,,0.0,v,Claxton REBOUND (Off:0 Def:4),Rebound,Unknown,1.0,137.0
+2023-01-11,mil-vs-atl-0022200620,377.0,PT06M29.00S,3.0,1610612749.0,MIL,203507.0,Antetokounmpo,G. Antetokounmpo,-1.0,-10.0,1.0,Made,1.0,59.0,78.0,137.0,v,G. Antetokounmpo 1' Alley Oop Dunk (7 PTS) (Ingles 4 AST),Made Shot,Alley Oop Dunk Shot,1.0,280.0
+2022-10-09,mra-vs-okc-0012200038,326.0,PT01M27.00S,2.0,1610612760.0,OKC,1631114.0,Williams,J. Williams,25.0,24.0,3.0,Made,1.0,69.0,52.0,121.0,h,Jal. Williams 3' Running Layup (7 PTS) (Pokusevski 4 AST),Made Shot,Running Layup Shot,1.0,224.0
+2023-01-19,phi-vs-por-0022200682,531.0,PT08M14.00S,4.0,1610612755.0,PHI,1626149.0,Harrell,M. Harrell,0.0,0.0,0.0,,0.0,,,0.0,v,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1.0,397.0
+2022-12-02,orl-vs-cle-0022200330,552.0,PT01M52.00S,4.0,1610612753.0,ORL,1629021.0,Wagner,M. Wagner,0.0,0.0,0.0,,0.0,,,0.0,v,M. Wagner P.FOUL (P5.T2) (B.Adair),Foul,Personal,1.0,402.0
+2022-12-27,sas-vs-okc-0022200511,292.0,PT04M21.00S,2.0,1610612760.0,OKC,1628983.0,Gilgeous-Alexander,S. Gilgeous-Alexander,0.0,0.0,0.0,,0.0,,,0.0,h,Gilgeous-Alexander P.FOUL (P2.T3) (T.Brothers),Foul,Personal,1.0,214.0
+2022-12-02,was-vs-cha-0022200326,681.0,PT00M11.50S,4.0,1610612764.0,WAS,1629655.0,Gafford,D. Gafford,0.0,0.0,0.0,,0.0,,,0.0,v,Gafford REBOUND (Off:5 Def:6),Rebound,Unknown,1.0,507.0
+2022-11-23,por-vs-cle-0022200261,13.0,PT10M53.00S,1.0,1610612757.0,POR,1626159.0,Winslow,J. Winslow,-237.0,62.0,24.0,Missed,1.0,,,0.0,v,MISS Winslow 24' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,7.0
+2022-11-15,nyk-vs-uta-0022200208,420.0,PT06M25.00S,3.0,1610612752.0,NYK,1628392.0,Hartenstein,I. Hartenstein,-2.0,86.0,9.0,Missed,1.0,,,0.0,v,MISS Hartenstein 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1.0,314.0
+2022-11-26,dal-vs-tor-0022200286,129.0,PT01M47.00S,1.0,1610612761.0,TOR,1631132.0,Koloko,C. Koloko,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Flynn FOR Koloko,Substitution,,0.0,97.0
+2023-01-30,sac-vs-min-0022200758,116.0,PT03M51.00S,1.0,1610612758.0,SAC,1626168.0,Lyles,T. Lyles,0.0,0.0,0.0,,0.0,,,0.0,v,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,90.0
+2023-03-11,mil-vs-gsw-0022201012,780.0,PT00M14.90S,5.0,1610612744.0,GSW,201939.0,Curry,S. Curry,0.0,0.0,0.0,,0.0,,,0.0,h,Curry Double Dribble Turnover (P5.T15),Turnover,Double Dribble,1.0,553.0
+2023-01-31,nop-vs-den-0022200768,339.0,PT10M53.00S,3.0,1610612740.0,NOP,202685.0,Valanciunas,J. Valanciunas,0.0,0.0,0.0,,0.0,,,0.0,v,Valanciunas OFF.Foul (P2) (C.Blair),Foul,Offensive,1.0,238.0
+2023-03-06,bos-vs-cle-0022200971,484.0,PT00M02.60S,3.0,1610612738.0,BOS,1628436.0,Kornet,L. Kornet,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: White FOR Kornet,Substitution,,0.0,341.0
+2022-12-21,por-vs-okc-0022200474,344.0,PT10M00.00S,3.0,1610612757.0,POR,1629014.0,Simons,A. Simons,-174.0,183.0,25.0,Missed,1.0,,,0.0,v,MISS Simons 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,238.0
+2023-01-08,cle-vs-phx-0022200603,92.0,PT03M43.00S,1.0,1610612739.0,CLE,1628378.0,Mitchell,D. Mitchell,0.0,0.0,0.0,,0.0,19.0,27.0,46.0,v,Mitchell Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1.0,63.0
+2022-11-13,gsw-vs-sac-0022200197,380.0,PT08M28.00S,3.0,1610612744.0,GSW,202691.0,Thompson,K. Thompson,114.0,240.0,27.0,Made,1.0,72.0,78.0,150.0,v,Thompson 27' 3PT Running Jump Shot (14 PTS) (D. Green 8 AST),Made Shot,Running Jump Shot,1.0,278.0
+2022-10-21,sas-vs-ind-0022200018,529.0,PT00M42.10S,3.0,1610612754.0,IND,1630543.0,Jackson,I. Jackson,0.0,0.0,0.0,,0.0,,,0.0,h,Jackson REBOUND (Off:2 Def:4),Rebound,Unknown,1.0,371.0
+2022-11-10,phi-vs-atl-0022200173,665.0,PT01M11.00S,4.0,1610612755.0,PHI,203954.0,Embiid,J. Embiid,0.0,0.0,0.0,,0.0,102.0,95.0,197.0,v,Embiid Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1.0,493.0
+2022-11-18,ind-vs-hou-0022200228,16.0,PT10M33.00S,1.0,1610612754.0,IND,1630169.0,Haliburton,T. Haliburton,219.0,137.0,26.0,Missed,1.0,,,0.0,v,MISS Haliburton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,10.0
+2022-12-31,dal-vs-sas-0022200542,412.0,PT02M31.00S,3.0,1610612759.0,SAS,1628380.0,Collins,Z. Collins,0.0,0.0,0.0,,0.0,,,0.0,h,Collins S.FOUL (P3.PN) (M.Dagher),Foul,Shooting,1.0,291.0
+2023-01-16,mia-vs-atl-0022200661,599.0,PT02M51.00S,4.0,1610612748.0,MIA,1629639.0,Herro,T. Herro,0.0,0.0,0.0,,0.0,,,0.0,v,Herro REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,424.0
+2022-11-05,bkn-vs-cha-0022200133,298.0,PT02M55.00S,2.0,1610612751.0,BKN,202693.0,Morris,M. Morris,-23.0,247.0,25.0,Missed,1.0,,,0.0,v,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,218.0
+2022-10-19,chi-vs-mia-0022200007,254.0,PT06M20.00S,2.0,1610612748.0,MIA,1628389.0,Adebayo,B. Adebayo,0.0,0.0,0.0,,0.0,,,0.0,h,Adebayo L.B.FOUL (P1.T4) (A.Smith),Foul,Loose Ball,1.0,185.0
+2022-11-05,hou-vs-min-0022200137,244.0,PT06M59.00S,2.0,1610612745.0,HOU,1629645.0,Porter Jr.,K. Porter Jr.,143.0,1.0,14.0,Missed,1.0,,,0.0,v,MISS Porter Jr. 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,164.0
+2023-02-10,mil-vs-lac-0022200845,607.0,PT00M36.30S,4.0,1610612746.0,LAC,1630527.0,Boston Jr.,B. Boston Jr.,0.0,0.0,0.0,,0.0,103.0,117.0,220.0,h,Boston Jr. Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1.0,438.0
+2023-02-06,lac-vs-bkn-0022200810,251.0,PT03M20.00S,2.0,1610612751.0,BKN,1628410.0,Sumner,E. Sumner,-25.0,15.0,3.0,Missed,1.0,,,0.0,h,MISS Sumner 3' Running Layup,Missed Shot,Running Layup Shot,1.0,189.0
+2023-01-23,mil-vs-det-0022200706,685.0,PT03M43.00S,4.0,1610612765.0,DET,1630180.0,Bey,S. Bey,78.0,244.0,26.0,Missed,1.0,,,0.0,h,MISS Bey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,487.0
+2023-01-30,atl-vs-por-0022200763,248.0,PT03M37.00S,2.0,1610612737.0,ATL,1627749.0,Murray,D. Murray,0.0,0.0,0.0,,0.0,,,0.0,v,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,183.0
+2023-02-13,sas-vs-cle-0022200858,88.0,PT03M58.00S,1.0,1610612739.0,CLE,1628386.0,Allen,J. Allen,0.0,0.0,0.0,,0.0,,,0.0,h,Allen REBOUND (Off:3 Def:1),Rebound,Unknown,1.0,63.0
+2022-12-14,mia-vs-okc-0022200419,93.0,PT03M58.00S,1.0,1610612748.0,MIA,1628389.0,Adebayo,B. Adebayo,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Highsmith FOR Adebayo,Substitution,,0.0,71.0
+2023-01-13,nop-vs-det-0022200632,78.0,PT05M28.00S,1.0,1610612740.0,NOP,1630700.0,Daniels,D. Daniels,0.0,0.0,0.0,,0.0,,,0.0,v,Daniels S.FOUL (P1.T3) (S.Wright),Foul,Shooting,1.0,57.0
+2022-12-28,bkn-vs-atl-0022200517,222.0,PT05M12.00S,2.0,1610612737.0,ATL,1630552.0,Johnson,J. Johnson,0.0,0.0,0.0,,0.0,,,0.0,h,Johnson S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1.0,159.0
+2022-12-10,okc-vs-cle-0022200390,106.0,PT04M23.00S,1.0,1610612760.0,OKC,1628983.0,Gilgeous-Alexander,S. Gilgeous-Alexander,0.0,0.0,0.0,,0.0,15.0,14.0,29.0,v,Gilgeous-Alexander Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0.0,82.0
+2022-10-28,cle-vs-bos-0022200072,330.0,PT01M55.00S,2.0,1610612739.0,CLE,1627747.0,LeVert,C. LeVert,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Osman FOR LeVert,Substitution,,0.0,237.0
+2022-12-09,sac-vs-cle-0022200381,569.0,PT05M23.00S,4.0,1610612758.0,SAC,1627734.0,Sabonis,D. Sabonis,-43.0,9.0,4.0,Made,1.0,93.0,87.0,180.0,v,Sabonis 4' Layup (16 PTS),Made Shot,Layup Shot,1.0,414.0
+2022-12-03,orl-vs-tor-0022200340,46.0,PT07M17.00S,1.0,1610612753.0,ORL,1629626.0,Bol,B. Bol,0.0,0.0,0.0,,0.0,,,0.0,v,Bol STEAL (1 STL),,,1.0,35.0
+2023-01-18,atl-vs-dal-0022200670,345.0,PT10M17.00S,3.0,1610612737.0,ATL,1628381.0,Collins,J. Collins,233.0,38.0,24.0,Made,1.0,66.0,70.0,136.0,v,Collins 24' 3PT Jump Shot (15 PTS) (Okongwu 1 AST),Made Shot,Jump Shot,1.0,247.0
+2022-11-01,orl-vs-okc-0022200105,425.0,PT06M18.00S,3.0,1610612760.0,OKC,1630197.0,Pokusevski,A. Pokusevski,0.0,0.0,0.0,,0.0,,,0.0,h,Pokusevski REBOUND (Off:3 Def:1),Rebound,Unknown,1.0,316.0
+2022-10-09,lal-vs-gsw-0012200040,82.0,PT06M58.00S,1.0,1610612747.0,LAL,203076.0,Davis,A. Davis,-141.0,69.0,16.0,Made,1.0,15.0,17.0,32.0,v,Davis 16' Jump Shot (6 PTS),Made Shot,Jump Shot,1.0,59.0
+2022-10-09,por-vs-sac-0012200041,25.0,PT09M49.00S,1.0,1610612757.0,POR,1628404.0,Hart,J. Hart,0.0,0.0,0.0,,0.0,,,0.0,v,MISS Hart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1.0,18.0
+2023-01-06,mia-vs-phx-0022200589,89.0,PT03M43.00S,1.0,1610612756.0,PHX,1629028.0,Ayton,D. Ayton,-12.0,267.0,27.0,Missed,1.0,,,0.0,h,MISS Ayton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,67.0
+2022-12-08,hou-vs-sas-0022200375,214.0,PT06M49.00S,2.0,1610612759.0,SAS,1629640.0,Johnson,K. Johnson,-25.0,96.0,10.0,Made,1.0,37.0,38.0,75.0,h,K. Johnson 10' Hook Shot (14 PTS),Made Shot,Hook Shot,1.0,158.0
+2022-11-25,chi-vs-okc-0022200281,337.0,PT11M22.00S,3.0,1610612741.0,CHI,201942.0,DeRozan,D. DeRozan,0.0,0.0,0.0,,0.0,,,0.0,v,DeRozan S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1.0,224.0
+2022-12-31,bkn-vs-cha-0022200539,321.0,PT01M00.00S,2.0,1610612751.0,BKN,202681.0,Irving,K. Irving,29.0,72.0,8.0,Made,1.0,45.0,59.0,104.0,v,Irving 8' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1.0,232.0
+2022-11-18,orl-vs-chi-0022200227,541.0,PT08M31.00S,4.0,1610612753.0,ORL,203082.0,Ross,T. Ross,0.0,0.0,0.0,,0.0,,,0.0,v,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,395.0
+2023-01-23,min-vs-hou-0022200709,576.0,PT06M27.00S,4.0,0.0,,1610612745.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,ROCKETS Rebound,Rebound,Unknown,0.0,425.0
+2023-02-25,ind-vs-orl-0022200905,348.0,PT00M40.80S,2.0,1610612754.0,IND,1627741.0,Hield,B. Hield,0.0,0.0,0.0,,0.0,,,0.0,v,Hield REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,259.0
+2022-11-15,sas-vs-por-0022200209,174.0,PT10M00.00S,2.0,1610612757.0,POR,1629014.0,Simons,A. Simons,0.0,0.0,0.0,,0.0,,,0.0,h,Simons P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,1.0,127.0
+2022-11-09,mil-vs-okc-0022200168,124.0,PT03M09.00S,1.0,1610612760.0,OKC,1630197.0,Pokusevski,A. Pokusevski,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Wiggins FOR Pokusevski,Substitution,,0.0,92.0
+2022-11-27,phi-vs-orl-0022200297,595.0,PT01M41.00S,4.0,1610612755.0,PHI,1630577.0,Champagnie,J. Champagnie,0.0,0.0,0.0,,0.0,,,0.0,v,Champagnie STEAL (1 STL),,,1.0,439.0
+2023-01-20,ind-vs-den-0022200688,606.0,PT05M53.00S,4.0,1610612754.0,IND,1629614.0,Nembhard,A. Nembhard,-234.0,25.0,24.0,Missed,1.0,,,0.0,v,MISS Nembhard 24' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,437.0
+2023-02-17,jkm-vs-pau-0032200006,92.0,PT00M00.00S,1.0,0.0,,1610616847.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,PAU Timeout: Regular (Full 2 Short 0),Timeout,Regular,0.0,72.0
+2022-10-12,bkn-vs-mil-0012200056,236.0,PT07M22.00S,2.0,1610612751.0,BKN,202693.0,Morris,M. Morris,-59.0,13.0,6.0,Missed,1.0,,,0.0,v,MISS Morris 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1.0,167.0
+2023-01-30,orl-vs-phi-0022200756,305.0,PT03M19.00S,2.0,1610612755.0,PHI,1629001.0,Melton,D. Melton,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Maxey FOR Melton,Substitution,,0.0,230.0
+2022-11-11,min-vs-mem-0022200181,89.0,PT05M36.00S,1.0,1610612763.0,MEM,1629723.0,Konchar,J. Konchar,0.0,0.0,0.0,,0.0,,,0.0,h,Konchar REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,68.0
+2022-11-30,tor-vs-nop-0022200318,242.0,PT06M33.00S,2.0,1610612740.0,NOP,1630530.0,Murphy III,T. Murphy III,-183.0,194.0,27.0,Missed,1.0,,,0.0,h,MISS Murphy III 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,171.0
+2022-10-10,was-vs-cha-0012200043,335.0,PT01M03.00S,2.0,1610612764.0,WAS,204001.0,Porzingis,K. Porzingis,0.0,0.0,0.0,,0.0,53.0,57.0,110.0,v,Porzingis Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1.0,251.0
+2023-02-01,por-vs-mem-0022200771,405.0,PT08M37.00S,3.0,0.0,,1610612763.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,GRIZZLIES Rebound,Rebound,Unknown,0.0,294.0
+2023-03-09,hou-vs-ind-0022200993,423.0,PT06M23.00S,3.0,1610612745.0,HOU,1630227.0,Nix,D. Nix,0.0,0.0,0.0,,0.0,,,0.0,v,Nix S.FOUL (P4.PN) (J.Conley),Foul,Shooting,1.0,318.0
+2022-12-21,gsw-vs-bkn-0022200470,176.0,PT11M07.00S,2.0,1610612744.0,GSW,1629660.0,Jerome,T. Jerome,0.0,0.0,0.0,,0.0,48.0,20.0,68.0,v,Jerome Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1.0,119.0
+2023-01-02,chi-vs-cle-0022200552,584.0,PT07M00.00S,4.0,1610612739.0,CLE,201567.0,Love,K. Love,0.0,0.0,0.0,,0.0,,,0.0,h,Love AWAY.FROM.PLAY.FOUL (P3.PN) (T.Brothers),Foul,Away From Play,1.0,416.0
+2022-10-03,orl-vs-mem-0012200010,523.0,PT03M07.00S,3.0,0.0,,1610612763.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,GRIZZLIES Rebound,Rebound,Unknown,1.0,377.0
+2023-02-15,sas-vs-cha-0022200873,528.0,PT02M40.00S,3.0,1610612766.0,CHA,1630208.0,Richards,N. Richards,0.0,0.0,0.0,,0.0,,,0.0,h,Richards Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1.0,396.0
+2022-11-23,was-vs-mia-0022200265,247.0,PT06M37.00S,2.0,0.0,,1610612748.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,HEAT Timeout: Regular (Full 2 Short 0),Timeout,Regular,0.0,182.0
+2022-12-27,den-vs-sac-0022200514,2.0,PT12M00.00S,1.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,,Start of 1st Period (10:11 PM EST),period,start,0.0,1.0
+2022-12-03,okc-vs-min-0022200341,317.0,PT04M55.00S,2.0,1610612750.0,MIN,1629675.0,Reid,N. Reid,0.0,0.0,0.0,,0.0,,,0.0,h,Reid REBOUND (Off:1 Def:6),Rebound,Unknown,1.0,239.0
+2022-12-02,chi-vs-gsw-0022200336,684.0,PT01M49.00S,4.0,1610612744.0,GSW,1626172.0,Looney,K. Looney,0.0,0.0,0.0,,0.0,,,0.0,h,Looney BLOCK (1 BLK),,,1.0,482.0
+2023-02-08,sac-vs-hou-0022200827,581.0,PT06M20.00S,4.0,1610612745.0,HOU,1631095.0,Smith Jr.,J. Smith Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,421.0
+2022-10-19,nyk-vs-mem-0022200009,527.0,PT09M48.00S,4.0,1610612752.0,NYK,1629629.0,Reddish,C. Reddish,0.0,0.0,0.0,,0.0,,,0.0,v,Reddish REBOUND (Off:1 Def:3),Rebound,Unknown,1.0,393.0
+2023-02-28,sac-vs-okc-0022200928,380.0,PT09M52.00S,3.0,0.0,,1610612760.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,THUNDER Rebound,Rebound,Normal Rebound,0.0,273.0
+2023-01-22,lal-vs-por-0022200705,117.0,PT02M04.00S,1.0,1610612757.0,POR,1629014.0,Simons,A. Simons,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Lillard FOR Simons,Substitution,,0.0,81.0
+2023-01-14,bos-vs-cha-0022200642,553.0,PT04M40.00S,4.0,1610612766.0,CHA,203486.0,Plumlee,M. Plumlee,0.0,0.0,0.0,,0.0,,,0.0,h,Plumlee REBOUND (Off:3 Def:12),Rebound,Unknown,1.0,403.0
+2023-02-08,dal-vs-lac-0022200829,69.0,PT05M05.00S,1.0,1610612742.0,DAL,203493.0,Bullock,R. Bullock,-237.0,55.0,24.0,Made,1.0,16.0,28.0,44.0,v,Bullock 24' 3PT Jump Shot (12 PTS) (Irving 1 AST),Made Shot,Jump Shot,1.0,51.0
+2022-10-30,hou-vs-phx-0022200094,600.0,PT07M13.00S,4.0,1610612745.0,HOU,1629726.0,Mathews,G. Mathews,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Sengun FOR Mathews,Substitution,,0.0,438.0
+2022-12-23,nop-vs-okc-0022200488,784.0,PT00M21.80S,5.0,1610612760.0,OKC,1631114.0,Williams,J. Williams,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Giddey FOR J. Williams,Substitution,,0.0,563.0
+2023-01-07,lal-vs-sac-0022200595,419.0,PT08M04.00S,3.0,1610612758.0,SAC,1626158.0,Holmes,R. Holmes,0.0,0.0,0.0,,0.0,,,0.0,h,Holmes S.FOUL (P3.T3) (D.Taylor),Foul,Shooting,1.0,296.0
+2023-01-08,atl-vs-lac-0022200604,256.0,PT04M19.00S,2.0,1610612737.0,ATL,1631100.0,Griffin,A. Griffin,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Collins FOR Griffin,Substitution,,0.0,195.0
+2022-12-26,hou-vs-chi-0022200501,366.0,PT08M32.00S,3.0,1610612745.0,HOU,201569.0,Gordon,E. Gordon,0.0,0.0,0.0,,0.0,,,0.0,v,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,262.0
+2023-01-09,mil-vs-nyk-0022200607,580.0,PT05M29.00S,4.0,1610612749.0,MIL,1626192.0,Connaughton,P. Connaughton,227.0,19.0,0.0,Made,1.0,89.0,90.0,179.0,v,Connaughton 3PT Jump Shot (11 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,1.0,427.0
+2022-11-22,sac-vs-mem-0022200257,520.0,PT01M57.00S,3.0,1610612763.0,MEM,1631223.0,Roddy,D. Roddy,0.0,0.0,0.0,,0.0,,,0.0,h,Roddy Offensive Charge Foul (P1) (C.Washington),Foul,Offensive Charge,1.0,388.0
+2023-02-09,phx-vs-atl-0022200832,176.0,PT10M19.00S,2.0,0.0,,1610612756.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Suns Rebound,Rebound,Normal Rebound,0.0,134.0
+2022-10-28,hou-vs-por-0022200080,613.0,PT05M05.00S,4.0,1610612757.0,POR,1629234.0,Eubanks,D. Eubanks,0.0,0.0,0.0,,0.0,114.0,104.0,218.0,h,Eubanks Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1.0,440.0
+2022-12-07,sac-vs-mil-0022200369,346.0,PT10M28.00S,3.0,1610612749.0,MIL,1628960.0,Allen,G. Allen,136.0,218.0,26.0,Made,1.0,73.0,63.0,136.0,h,Allen 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 5 AST),Made Shot,Jump Shot,1.0,250.0
+2022-12-25,phx-vs-den-0022200497,698.0,PT03M37.00S,5.0,1610612743.0,DEN,203932.0,Gordon,A. Gordon,0.0,0.0,0.0,,0.0,,,0.0,h,Gordon BLOCK (1 BLK),,,1.0,503.0
+2023-03-01,mem-vs-hou-0022200938,114.0,PT03M13.00S,1.0,1610612745.0,HOU,1631102.0,Washington Jr.,T. Washington Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,Washington Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1.0,83.0
+2022-12-23,mem-vs-phx-0022200490,388.0,PT09M52.00S,3.0,1610612763.0,MEM,1628991.0,Jackson Jr.,J. Jackson Jr.,15.0,68.0,7.0,Made,1.0,44.0,64.0,108.0,v,Jackson Jr. 7' Hook Shot (14 PTS) (Brooks 2 AST),Made Shot,Hook Shot,1.0,281.0
+2022-10-12,cha-vs-phi-0012200054,174.0,PT10M22.00S,2.0,1610612766.0,CHA,1630550.0,Thor,J. Thor,0.0,0.0,0.0,,0.0,29.0,34.0,63.0,v,Thor Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1.0,132.0
+2022-11-04,nyk-vs-phi-0022200122,725.0,PT00M18.10S,4.0,1610612755.0,PHI,1629680.0,Thybulle,M. Thybulle,0.0,0.0,0.0,,0.0,,,0.0,h,Thybulle Personal Take Foul (P4.PN) (J.Goble),Foul,Personal Take,1.0,527.0
+2023-03-07,mem-vs-lal-0022200984,95.0,PT04M39.00S,1.0,0.0,,1610612747.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,LAKERS Rebound,Rebound,Unknown,1.0,76.0
+2022-10-11,okc-vs-det-0012200047,274.0,PT03M47.00S,2.0,1610612760.0,OKC,1631114.0,Williams,J. Williams,0.0,19.0,2.0,Made,1.0,53.0,47.0,100.0,v,Jal. Williams 2' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1.0,200.0
+2023-03-10,tor-vs-lal-0022201003,51.0,PT07M07.00S,1.0,1610612747.0,LAL,1628972.0,Brown Jr.,T. Brown Jr.,-4.0,13.0,1.0,Made,1.0,10.0,17.0,27.0,h,Brown Jr. 1' Layup (5 PTS) (Russell 1 AST),Made Shot,Layup Shot,1.0,37.0
+2023-02-11,phi-vs-bkn-0022200846,487.0,PT10M24.00S,4.0,1610612755.0,PHI,1630178.0,Maxey,T. Maxey,0.0,0.0,0.0,,0.0,,,0.0,v,Maxey Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1.0,362.0
+2022-11-05,bkn-vs-cha-0022200133,415.0,PT05M49.00S,3.0,1610612751.0,BKN,1629651.0,Claxton,N. Claxton,0.0,0.0,0.0,,0.0,,,0.0,v,Claxton Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,1.0,302.0
+2023-01-25,uta-vs-por-0022200727,391.0,PT04M02.00S,3.0,1610612757.0,POR,203081.0,Lillard,D. Lillard,0.0,0.0,0.0,,0.0,91.0,79.0,170.0,h,Lillard Free Throw 2 of 2 (39 PTS),Free Throw,Free Throw 2 of 2,1.0,285.0
+2022-11-05,sac-vs-orl-0022200132,21.0,PT09M54.00S,1.0,1610612758.0,SAC,1628368.0,Fox,D. Fox,-16.0,29.0,3.0,Made,1.0,6.0,5.0,11.0,v,Fox 3' Cutting Layup Shot (5 PTS) (Sabonis 1 AST),Made Shot,Cutting Layup Shot,1.0,15.0
+2023-02-05,cle-vs-ind-0022200803,126.0,PT03M07.00S,1.0,1610612739.0,CLE,1629636.0,Garland,D. Garland,0.0,0.0,0.0,,0.0,,,0.0,v,Garland S.FOUL (P2.PN) (J.Orr),Foul,Shooting,1.0,95.0
+2022-12-27,lal-vs-orl-0022200505,546.0,PT07M22.00S,4.0,1610612747.0,LAL,1628972.0,Brown Jr.,T. Brown Jr.,162.0,193.0,25.0,Made,1.0,94.0,107.0,201.0,v,Brown Jr. 25' 3PT Jump Shot (10 PTS) (Bryant 1 AST),Made Shot,Jump Shot,1.0,403.0
+2022-11-13,bkn-vs-lal-0022200198,62.0,PT06M45.00S,1.0,1610612751.0,BKN,1628410.0,Sumner,E. Sumner,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Thomas FOR Sumner,Substitution,,0.0,48.0
+2022-12-23,min-vs-bos-0022200482,666.0,PT00M47.60S,4.0,1610612750.0,MIN,1631169.0,Minott,J. Minott,136.0,218.0,26.0,Missed,1.0,,,0.0,v,MISS Minott 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,490.0
+2022-12-18,orl-vs-bos-0022200445,628.0,PT00M07.60S,4.0,1610612753.0,ORL,1628365.0,Fultz,M. Fultz,0.0,0.0,0.0,,0.0,,,0.0,v,Fultz STEAL (3 STL),,,1.0,477.0
+2022-10-14,bos-vs-tor-0012200064,46.0,PT07M55.00S,1.0,1610612761.0,TOR,1630173.0,Achiuwa,P. Achiuwa,0.0,0.0,0.0,,0.0,10.0,12.0,22.0,h,Achiuwa Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1.0,33.0
+2023-01-13,phx-vs-min-0022200637,623.0,PT01M18.00S,4.0,0.0,,1610612750.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),Timeout,Regular,0.0,456.0
+2023-01-30,sac-vs-min-0022200758,78.0,PT05M36.00S,1.0,1610612758.0,SAC,1628989.0,Huerter,K. Huerter,0.0,0.0,0.0,,0.0,,,0.0,v,Huerter S.FOUL (P1.T1) (N.Green),Foul,Shooting,1.0,63.0
+2022-12-13,gsw-vs-mil-0022200410,701.0,PT06M30.00S,3.0,1610612749.0,MIL,201572.0,Lopez,B. Lopez,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Portis FOR Lopez,Substitution,,0.0,308.0
+2023-02-25,sas-vs-uta-0022200909,110.0,PT04M03.00S,1.0,1610612759.0,SAS,1629646.0,Bassey,C. Bassey,0.0,0.0,0.0,,0.0,,,0.0,v,Bassey REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,83.0
+2023-01-15,okc-vs-bkn-0022200651,507.0,PT00M33.80S,3.0,1610612760.0,OKC,1630544.0,Mann,T. Mann,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Jal. Williams FOR Mann,Substitution,,0.0,368.0
+2022-12-17,was-vs-lac-0022200438,351.0,PT07M31.00S,3.0,1610612764.0,WAS,1630166.0,Avdija,D. Avdija,0.0,0.0,0.0,,0.0,59.0,63.0,122.0,v,Avdija Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1.0,264.0
+2022-12-05,ind-vs-gsw-0022200359,663.0,PT00M27.80S,4.0,1610612744.0,GSW,1630228.0,Kuminga,J. Kuminga,0.0,0.0,0.0,,0.0,,,0.0,h,Kuminga Personal Take Foul (P6.PN) (B.Kennedy),Foul,Personal Take,1.0,480.0
+2022-10-18,lal-vs-gsw-0022200002,458.0,PT09M34.00S,3.0,1610612747.0,LAL,203076.0,Davis,A. Davis,0.0,0.0,0.0,,0.0,,,0.0,v,Davis REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,322.0
+2023-02-08,phi-vs-bos-0022200824,157.0,PT09M11.00S,2.0,1610612738.0,BOS,1627763.0,Brogdon,M. Brogdon,88.0,46.0,10.0,Missed,1.0,,,0.0,h,MISS Brogdon 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,111.0
+2023-02-25,mia-vs-cha-0022200904,323.0,PT01M54.00S,2.0,1610612766.0,CHA,1626179.0,Rozier,T. Rozier,0.0,0.0,0.0,,0.0,52.0,41.0,93.0,h,Rozier Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1.0,245.0
+2022-11-23,den-vs-okc-0022200268,388.0,PT09M15.00S,3.0,1610612760.0,OKC,1631114.0,Williams,J. Williams,227.0,15.0,0.0,Made,1.0,75.0,72.0,147.0,h,J. Williams 3PT Jump Shot (14 PTS) (Giddey 4 AST),Made Shot,Jump Shot,1.0,278.0
+2022-10-01,mem-vs-mil-0012200003,304.0,PT01M49.00S,2.0,1610612763.0,MEM,1630533.0,Williams,Z. Williams,15.0,268.0,27.0,Made,1.0,41.0,39.0,80.0,v,Williams 27' 3PT Jump Shot (8 PTS) (Chandler 3 AST),Made Shot,Jump Shot,1.0,218.0
+2022-12-02,phi-vs-mem-0022200332,461.0,PT03M12.00S,3.0,1610612763.0,MEM,1629630.0,Morant,J. Morant,0.0,0.0,0.0,,0.0,84.0,72.0,156.0,h,Morant Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1.0,340.0
+2023-01-02,atl-vs-gsw-0022200558,329.0,PT00M39.90S,2.0,0.0,,1610612744.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,WARRIORS Rebound,Rebound,Normal Rebound,0.0,240.0
+2023-02-14,was-vs-por-0022200872,441.0,PT03M41.00S,3.0,1610612764.0,WAS,1630166.0,Avdija,D. Avdija,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Kuzma FOR Avdija,Substitution,,0.0,321.0
+2022-11-14,okc-vs-bos-0022200201,18.0,PT10M42.00S,1.0,1610612738.0,BOS,1628369.0,Tatum,J. Tatum,0.0,0.0,0.0,,0.0,,,0.0,h,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,11.0
+2023-01-17,por-vs-den-0022200667,496.0,PT09M38.00S,4.0,1610612757.0,POR,203081.0,Lillard,D. Lillard,0.0,0.0,0.0,,0.0,104.0,94.0,198.0,v,Lillard Free Throw 1 of 1 (37 PTS),Free Throw,Free Throw 1 of 1,1.0,363.0
+2022-11-14,okc-vs-bos-0022200201,27.0,PT09M46.00S,1.0,1610612760.0,OKC,1631114.0,Williams,J. Williams,124.0,185.0,22.0,Made,1.0,6.0,4.0,10.0,v,Jal. Williams 22' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1.0,18.0
+2022-10-19,orl-vs-det-0022200003,296.0,PT02M05.00S,2.0,1610612765.0,DET,1631093.0,Ivey,J. Ivey,21.0,5.0,2.0,Made,1.0,50.0,45.0,95.0,h,Ivey 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,1.0,217.0
+2022-11-19,sas-vs-lac-0022200239,422.0,PT01M20.00S,3.0,1610612746.0,LAC,1626181.0,Powell,N. Powell,0.0,0.0,0.0,,0.0,,,0.0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,302.0
+2023-03-07,cha-vs-nyk-0022200979,104.0,PT02M13.00S,1.0,1610612752.0,NYK,1630193.0,Quickley,I. Quickley,229.0,0.0,0.0,Missed,1.0,,,0.0,h,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,1.0,82.0
+2022-12-28,mil-vs-chi-0022200519,557.0,PT11M15.00S,4.0,1610612741.0,CHI,202696.0,Vucevic,N. Vucevic,-47.0,61.0,8.0,Missed,1.0,,,0.0,h,MISS Vucevic 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1.0,410.0
+2022-10-30,den-vs-lal-0022200095,445.0,PT06M35.00S,3.0,1610612747.0,LAL,201976.0,Beverley,P. Beverley,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Reaves FOR Beverley,Substitution,,0.0,324.0
+2022-11-07,sac-vs-gsw-0022200156,134.0,PT02M54.00S,1.0,1610612758.0,SAC,1628368.0,Fox,D. Fox,0.0,0.0,0.0,,0.0,,,0.0,v,Fox P.FOUL (P1.T3) (M.Kallio),Foul,Personal,1.0,95.0
+2022-10-26,atl-vs-det-0022200057,40.0,PT08M47.00S,1.0,1610612737.0,ATL,1629027.0,Young,T. Young,34.0,199.0,20.0,Made,1.0,8.0,13.0,21.0,v,Young 20' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1.0,28.0
+2023-02-27,orl-vs-nop-0022200922,358.0,PT09M50.00S,3.0,1610612740.0,NOP,203468.0,McCollum,C. McCollum,0.0,0.0,0.0,,0.0,,,0.0,h,McCollum REBOUND (Off:1 Def:0),Rebound,Unknown,1.0,257.0
+2023-02-27,mia-vs-phi-0022200920,207.0,PT07M49.00S,2.0,1610612755.0,PHI,1629003.0,Milton,S. Milton,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Melton FOR Milton,Substitution,,0.0,155.0
+2023-01-04,bkn-vs-chi-0022200570,95.0,PT03M11.00S,1.0,1610612751.0,BKN,202681.0,Irving,K. Irving,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Curry FOR Irving,Substitution,,0.0,73.0
+2023-02-15,nyk-vs-atl-0022200876,94.0,PT04M55.00S,1.0,1610612737.0,ATL,1628381.0,Collins,J. Collins,-143.0,50.0,15.0,Missed,1.0,,,0.0,h,MISS Collins 15' Jump Shot,Missed Shot,Jump Shot,1.0,74.0
+2023-01-12,okc-vs-phi-0022200626,382.0,PT10M51.00S,3.0,1610612760.0,OKC,1630581.0,Giddey,J. Giddey,0.0,0.0,0.0,,0.0,,,0.0,v,Giddey Traveling Turnover (P2.T6),Turnover,Traveling,1.0,264.0
+2023-03-02,lac-vs-gsw-0022200945,316.0,PT00M47.60S,2.0,0.0,,314.0,,,0.0,0.0,0.0,,0.0,44.0,53.0,97.0,,Instant Replay2nd Period (11:02 PM EST),Instant Replay,Support Ruling,0.0,228.0
+2023-03-01,orl-vs-mil-0022200939,534.0,PT10M08.00S,4.0,1610612749.0,MIL,1628960.0,Allen,G. Allen,0.0,0.0,0.0,,0.0,,,0.0,h,Allen REBOUND (Off:4 Def:0),Rebound,Unknown,1.0,392.0
+2022-12-29,cle-vs-ind-0022200524,481.0,PT10M17.00S,4.0,1610612754.0,IND,1629052.0,Brissett,O. Brissett,235.0,96.0,25.0,Missed,1.0,,,0.0,h,MISS Brissett 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,353.0
+2022-12-11,tor-vs-orl-0022200398,433.0,PT04M47.00S,3.0,1610612753.0,ORL,1631094.0,Banchero,P. Banchero,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1.0,315.0
+2023-01-15,phi-vs-lal-0022200655,64.0,PT05M55.00S,1.0,1610612755.0,PHI,203954.0,Embiid,J. Embiid,2.0,133.0,13.0,Made,1.0,18.0,17.0,35.0,v,Embiid 13' Jump Shot (7 PTS) (Harden 2 AST),Made Shot,Jump Shot,1.0,48.0
+2023-03-02,lac-vs-gsw-0022200945,491.0,PT02M34.00S,3.0,1610612744.0,GSW,1626172.0,Looney,K. Looney,0.0,0.0,0.0,,0.0,,,0.0,h,Looney REBOUND (Off:3 Def:4),Rebound,Unknown,1.0,360.0
+2023-02-04,lac-vs-nyk-0022200795,154.0,PT10M00.00S,2.0,1610612746.0,LAC,202331.0,George,P. George,0.0,0.0,0.0,,0.0,,,0.0,v,George REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,106.0
+2022-11-15,mem-vs-nop-0022200206,544.0,PT08M01.00S,4.0,0.0,,1610612740.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,PELICANS Rebound,Rebound,Unknown,1.0,400.0
+2022-10-05,phx-vs-lal-0012200022,623.0,PT10M10.00S,4.0,1610612756.0,PHX,1629111.0,Landale,J. Landale,-105.0,229.0,25.0,Made,1.0,2.0,11.0,13.0,v,Landale 25' 3PT Jump Shot (5 PTS) (Wainright 1 AST),Made Shot,Jump Shot,0.0,450.0
+2022-12-20,mem-vs-den-0022200465,176.0,PT10M22.00S,2.0,1610612743.0,DEN,1630192.0,Nnaji,Z. Nnaji,0.0,0.0,0.0,,0.0,,,0.0,h,Nnaji REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,132.0
+2022-11-13,gsw-vs-sac-0022200197,374.0,PT09M11.00S,3.0,1610612744.0,GSW,201939.0,Curry,S. Curry,0.0,0.0,0.0,,0.0,70.0,72.0,142.0,v,Curry Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1.0,273.0
+2023-03-07,uta-vs-dal-0022200983,673.0,PT00M03.70S,4.0,1610612762.0,UTA,1627739.0,Dunn,K. Dunn,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Jones FOR Dunn,Substitution,,0.0,504.0
+2022-12-02,chi-vs-gsw-0022200336,271.0,PT05M40.00S,2.0,1610612741.0,CHI,203897.0,LaVine,Z. LaVine,47.0,36.0,6.0,Made,1.0,49.0,41.0,90.0,v,LaVine 6' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1.0,183.0
+2022-12-07,was-vs-chi-0022200367,184.0,PT10M42.00S,2.0,1610612741.0,CHI,203083.0,Drummond,A. Drummond,7.0,18.0,2.0,Missed,1.0,,,0.0,h,MISS Drummond 2' Driving Layup,Missed Shot,Driving Layup Shot,1.0,134.0
+2022-10-06,orl-vs-sas-0012200026,59.0,PT07M01.00S,1.0,1610612759.0,SAS,1630200.0,Jones,T. Jones,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: McDermott FOR Jones,Substitution,,0.0,42.0
+2023-03-06,bos-vs-cle-0022200971,121.0,PT02M48.00S,1.0,0.0,,1610612738.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0.0,87.0
+2022-12-05,ind-vs-gsw-0022200359,591.0,PT06M30.00S,4.0,1610612744.0,GSW,1630237.0,Lamb,A. Lamb,0.0,0.0,0.0,,0.0,,,0.0,h,Lamb Offensive Charge Foul (P2) (S.Mehta),Foul,Offensive Charge,1.0,426.0
+2023-01-18,was-vs-nyk-0022200669,679.0,PT00M57.90S,4.0,1610612752.0,NYK,1629628.0,Barrett,R. Barrett,0.0,0.0,0.0,,0.0,,,0.0,h,Barrett REBOUND (Off:1 Def:6),Rebound,Unknown,1.0,507.0
+2023-02-27,mia-vs-phi-0022200920,298.0,PT00M49.30S,2.0,1610612755.0,PHI,203954.0,Embiid,J. Embiid,0.0,0.0,0.0,,0.0,50.0,54.0,104.0,h,Embiid Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1.0,222.0
+2023-02-11,phi-vs-bkn-0022200846,367.0,PT06M27.00S,3.0,1610612751.0,BKN,1628969.0,Bridges,M. Bridges,-136.0,213.0,25.0,Made,1.0,71.0,60.0,131.0,h,Bridges 25' 3PT Jump Shot (21 PTS) (Johnson 3 AST),Made Shot,Jump Shot,1.0,279.0
+2022-10-05,dal-vs-okc-0012200021,212.0,PT08M06.00S,2.0,1610612760.0,OKC,1629647.0,Bazley,D. Bazley,81.0,6.0,8.0,Made,1.0,34.0,34.0,68.0,h,Bazley 8' Step Back Jump Shot (4 PTS) (K. Williams 1 AST),Made Shot,Step Back Jump shot,1.0,161.0
+2022-11-07,nop-vs-ind-0022200147,99.0,PT03M56.00S,1.0,1610612740.0,NOP,1630631.0,Alvarado,J. Alvarado,0.0,0.0,0.0,,0.0,,,0.0,v,Alvarado P.FOUL (P1.T3) (M.Kogut),Foul,Personal,1.0,73.0
+2022-10-11,sas-vs-uta-0012200050,11.0,PT11M51.00S,1.0,0.0,,1610612759.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Spurs Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0.0,4.0
+2022-12-05,bos-vs-tor-0022200355,620.0,PT00M12.70S,4.0,1610612738.0,BOS,201933.0,Griffin,B. Griffin,0.0,0.0,0.0,,0.0,110.0,116.0,226.0,v,Griffin Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1.0,469.0
+2022-10-26,cha-vs-nyk-0022200058,263.0,PT04M55.00S,2.0,1610612766.0,CHA,1630177.0,Maledon,T. Maledon,-28.0,42.0,5.0,Made,1.0,55.0,51.0,106.0,v,Maledon 5' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1.0,189.0
+2023-01-05,bos-vs-dal-0022200577,417.0,PT05M38.00S,3.0,1610612738.0,BOS,201143.0,Horford,A. Horford,0.0,0.0,0.0,,0.0,,,0.0,v,Horford REBOUND (Off:2 Def:4),Rebound,Unknown,1.0,312.0
+2023-01-18,ind-vs-okc-0022200674,363.0,PT12M00.00S,3.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,58.0,44.0,102.0,,Start of 3rd Period (9:24 PM EST),period,start,0.0,263.0
+2023-01-18,atl-vs-dal-0022200670,591.0,PT01M50.00S,4.0,1610612737.0,ATL,1627749.0,Murray,D. Murray,120.0,220.0,25.0,Made,1.0,120.0,124.0,244.0,v,Murray 25' 3PT Jump Shot (30 PTS),Made Shot,Jump Shot,1.0,414.0
+2023-02-15,mia-vs-bkn-0022200878,613.0,PT01M16.00S,4.0,1610612748.0,MIA,202710.0,Butler,J. Butler,0.0,0.0,0.0,,0.0,113.0,101.0,214.0,v,Butler Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1.0,444.0
+2023-03-04,atl-vs-mia-0022200958,484.0,PT01M28.00S,3.0,1610612748.0,MIA,1629622.0,Strus,M. Strus,227.0,16.0,0.0,Missed,1.0,,,0.0,h,MISS Strus 3PT Jump Shot,Missed Shot,Jump Shot,1.0,348.0
+2022-12-27,sas-vs-okc-0022200511,233.0,PT07M44.00S,2.0,1610612760.0,OKC,1630581.0,Giddey,J. Giddey,0.0,0.0,0.0,,0.0,,,0.0,h,Giddey REBOUND (Off:1 Def:4),Rebound,Unknown,1.0,171.0
+2022-10-03,phi-vs-bkn-0012200009,190.0,PT10M59.00S,2.0,1610612755.0,PHI,1626149.0,Harrell,M. Harrell,0.0,0.0,0.0,,0.0,,,0.0,v,Harrell S.FOUL (P4.T1) (P.O'Connell),Foul,Shooting,1.0,141.0
+2023-01-03,bos-vs-okc-0022200562,666.0,PT00M24.10S,4.0,1610612760.0,OKC,1630544.0,Mann,T. Mann,0.0,0.0,0.0,,0.0,,,0.0,h,Mann BLOCK (2 BLK),,,1.0,493.0
+2023-01-30,atl-vs-por-0022200763,376.0,PT05M55.00S,3.0,1610612757.0,POR,203924.0,Grant,J. Grant,113.0,174.0,21.0,Missed,1.0,,,0.0,h,MISS Grant 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,274.0
+2022-11-25,den-vs-lac-0022200285,603.0,PT03M03.00S,4.0,0.0,,1610612743.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Nuggets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0.0,435.0
+2023-01-29,nop-vs-mil-0022200755,270.0,PT05M05.00S,2.0,1610612740.0,NOP,202685.0,Valanciunas,J. Valanciunas,-55.0,121.0,13.0,Missed,1.0,,,0.0,v,MISS Valanciunas 13' Jump Shot,Missed Shot,Jump Shot,1.0,187.0
+2023-03-07,was-vs-det-0022200769,238.0,PT03M55.00S,2.0,1610612764.0,WAS,204001.0,Porzingis,K. Porzingis,-135.0,253.0,29.0,Missed,1.0,,,0.0,v,MISS Porzingis 29' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,168.0
+2023-01-04,phx-vs-cle-0022200565,515.0,PT09M20.00S,4.0,1610612756.0,PHX,203967.0,Saric,D. Saric,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Wainright FOR Saric,Substitution,,0.0,381.0
+2022-10-21,phx-vs-por-0022200027,21.0,PT09M50.00S,1.0,1610612757.0,POR,203994.0,Nurkic,J. Nurkic,0.0,0.0,0.0,Made,1.0,4.0,7.0,11.0,h,Nurkic Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1.0,15.0
+2023-02-10,dal-vs-sac-0022200844,34.0,PT10M02.00S,1.0,1610612742.0,DAL,201580.0,McGee,J. McGee,0.0,0.0,0.0,,0.0,,,0.0,v,McGee S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,1.0,24.0
+2022-10-12,min-vs-lal-0012200057,546.0,PT02M01.00S,3.0,1610612747.0,LAL,2544.0,James,L. James,0.0,0.0,0.0,,0.0,,,0.0,h,James REBOUND (Off:1 Def:9),Rebound,Unknown,1.0,392.0
+2022-10-31,sac-vs-cha-0022200096,123.0,PT03M37.00S,1.0,1610612766.0,CHA,1630177.0,Maledon,T. Maledon,0.0,0.0,0.0,,0.0,,,0.0,h,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,95.0
+2022-09-30,gsw-vs-was-0012200001,420.0,PT09M21.00S,3.0,1610612764.0,WAS,204001.0,Porzingis,K. Porzingis,0.0,0.0,0.0,,0.0,,,0.0,h,Porzingis STEAL (3 STL),,,1.0,308.0
+2022-11-07,nop-vs-ind-0022200147,187.0,PT09M10.00S,2.0,1610612740.0,NOP,1630230.0,Marshall,N. Marshall,21.0,15.0,3.0,Made,1.0,38.0,38.0,76.0,v,Marshall 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1.0,132.0
+2022-11-23,phi-vs-cha-0022200260,381.0,PT07M16.00S,3.0,0.0,,1610612755.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0.0,288.0
+2023-03-01,orl-vs-mil-0022200939,27.0,PT09M41.00S,1.0,1610612749.0,MIL,1628960.0,Allen,G. Allen,0.0,0.0,0.0,,0.0,,,0.0,h,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,1.0,20.0
+2023-02-02,nop-vs-dal-0022200782,548.0,PT08M13.00S,4.0,1610612740.0,NOP,1626204.0,Nance Jr.,L. Nance Jr.,0.0,0.0,0.0,,0.0,,,0.0,v,Nance Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,1.0,395.0
+2023-03-08,okc-vs-phx-0022200990,257.0,PT06M00.00S,2.0,1610612756.0,PHX,1629028.0,Ayton,D. Ayton,0.0,0.0,0.0,,0.0,,,0.0,h,Ayton REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,191.0
+2023-02-07,phx-vs-bkn-0022200817,712.0,PT00M06.70S,4.0,1610612751.0,BKN,1630696.0,Smith,D. Smith,0.0,0.0,0.0,,0.0,,,0.0,h,Smith Personal Take Foul (P2.PN) (K.Scott),Foul,Personal Take,1.0,505.0
+2022-12-14,nyk-vs-chi-0022200418,215.0,PT09M53.00S,2.0,1610612741.0,CHI,201942.0,DeRozan,D. DeRozan,0.0,0.0,0.0,,0.0,,,0.0,h,DeRozan OFF.Foul (P2) (C.Washington),Foul,Offensive,1.0,152.0
+2023-01-26,chi-vs-cha-0022200732,336.0,PT11M18.00S,3.0,1610612741.0,CHI,202696.0,Vucevic,N. Vucevic,0.0,0.0,0.0,,0.0,,,0.0,v,Vucevic REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,250.0
+2022-12-18,nyk-vs-ind-0022200446,304.0,PT01M52.00S,2.0,1610612752.0,NYK,1628973.0,Brunson,J. Brunson,0.0,0.0,0.0,,0.0,,,0.0,v,Brunson S.FOUL (P2.PN) (M.Myers),Foul,Shooting,1.0,234.0
+2023-02-24,sac-vs-lac-0022200902,394.0,PT07M47.00S,3.0,1610612758.0,SAC,1631099.0,Murray,K. Murray,-1.0,5.0,1.0,Made,1.0,92.0,88.0,180.0,v,Murray 1' Running Dunk (11 PTS) (Huerter 3 AST),Made Shot,Running Dunk Shot,1.0,278.0
+2022-11-04,lac-vs-sas-0022200126,347.0,PT08M37.00S,3.0,1610612759.0,SAS,1631110.0,Sochan,J. Sochan,2.0,101.0,10.0,Made,1.0,67.0,59.0,126.0,h,Sochan 10' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1.0,247.0
+2023-02-02,lal-vs-ind-0022200778,549.0,PT07M26.00S,4.0,1610612754.0,IND,1630543.0,Jackson,I. Jackson,0.0,0.0,0.0,,0.0,,,0.0,h,Jackson BLOCK (3 BLK),,,1.0,407.0
+2022-10-02,uta-vs-tor-0012200006,631.0,PT06M05.00S,4.0,1610612761.0,TOR,1631122.0,Brown,G. Brown,0.0,0.0,0.0,,0.0,,,0.0,h,Brown Offensive Charge Foul (P1) (M.Davis),Foul,Offensive Charge,1.0,468.0
+2023-02-08,sas-vs-tor-0022200826,647.0,PT01M28.00S,4.0,1610612759.0,SAS,1626196.0,Richardson,J. Richardson,0.0,0.0,0.0,,0.0,108.0,98.0,206.0,v,Richardson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1.0,476.0
+2023-01-19,phi-vs-por-0022200682,7.0,PT11M40.00S,1.0,1610612757.0,POR,1629014.0,Simons,A. Simons,61.0,131.0,14.0,Missed,1.0,,,0.0,h,MISS Simons 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,3.0
+2023-01-21,orl-vs-was-0022200693,393.0,PT06M41.00S,3.0,1610612764.0,WAS,1629060.0,Hachimura,R. Hachimura,0.0,0.0,0.0,,0.0,,,0.0,h,Hachimura REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,290.0
+2023-03-07,bkn-vs-hou-0022200981,80.0,PT05M08.00S,1.0,1610612745.0,HOU,1630231.0,Martin Jr.,K. Martin Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Tate FOR Martin Jr.,Substitution,,0.0,66.0
+2022-10-30,den-vs-lal-0022200095,530.0,PT00M02.70S,3.0,1610612747.0,LAL,201976.0,Beverley,P. Beverley,0.0,0.0,0.0,,0.0,,,0.0,h,Beverley P.FOUL (P3.T4) (T.Maddox),Foul,Personal,1.0,383.0
+2023-02-14,bos-vs-mil-0022200869,15.0,PT10M52.00S,1.0,1610612749.0,MIL,1626192.0,Connaughton,P. Connaughton,-112.0,241.0,27.0,Made,1.0,3.0,2.0,5.0,h,Connaughton 27' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,1.0,10.0
+2022-12-07,lal-vs-tor-0022200366,564.0,PT08M59.00S,4.0,1610612747.0,LAL,1630559.0,Reaves,A. Reaves,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Christie FOR Reaves,Substitution,,0.0,430.0
+2022-11-10,dal-vs-was-0022200172,542.0,PT07M49.00S,4.0,1610612764.0,WAS,1629060.0,Hachimura,R. Hachimura,-104.0,79.0,13.0,Made,1.0,100.0,86.0,186.0,h,Hachimura 13' Pullup Jump Shot (23 PTS) (Barton 4 AST),Made Shot,Pullup Jump shot,1.0,404.0
+2022-12-30,lal-vs-atl-0022200530,264.0,PT05M13.00S,2.0,1610612737.0,ATL,1630552.0,Johnson,J. Johnson,233.0,50.0,24.0,Made,1.0,57.0,42.0,99.0,h,Johnson 24' 3PT Jump Shot (6 PTS) (Murray 6 AST),Made Shot,Jump Shot,1.0,199.0
+2022-11-04,mia-vs-ind-0022200121,79.0,PT05M56.00S,1.0,1610612748.0,MIA,1628389.0,Adebayo,B. Adebayo,0.0,0.0,0.0,,0.0,,,0.0,v,Adebayo REBOUND (Off:3 Def:2),Rebound,Unknown,1.0,58.0
+2022-11-13,den-vs-chi-0022200196,552.0,PT04M09.00S,4.0,1610612743.0,DEN,1628432.0,Reed,D. Reed,87.0,34.0,9.0,Missed,1.0,,,0.0,v,MISS Reed 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,409.0
+2022-12-21,ind-vs-bos-0022200469,545.0,PT10M11.00S,4.0,1610612738.0,BOS,1627759.0,Brown,J. Brown,0.0,0.0,0.0,,0.0,,,0.0,h,Brown REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,396.0
+2022-11-13,okc-vs-nyk-0022200192,4.0,PT12M00.00S,1.0,1610612752.0,NYK,1628392.0,Hartenstein,I. Hartenstein,0.0,0.0,0.0,,0.0,,,0.0,h,Jump Ball Hartenstein vs. Robinson-Earl: Tip to Randle,Jump Ball,,1.0,2.0
+2023-02-03,tor-vs-hou-0022200789,353.0,PT08M37.00S,3.0,1610612761.0,TOR,1630173.0,Achiuwa,P. Achiuwa,0.0,0.0,0.0,,0.0,,,0.0,v,Achiuwa Violation:Kicked Ball (S.Mehta),Violation,Kicked Ball,0.0,261.0
+2022-12-15,nop-vs-uta-0022200426,265.0,PT05M18.00S,2.0,1610612762.0,UTA,1627736.0,Beasley,M. Beasley,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Clarkson FOR Beasley,Substitution,,0.0,198.0
+2023-01-25,min-vs-nop-0022200724,453.0,PT02M38.00S,3.0,1610612750.0,MIN,1629669.0,Nowell,J. Nowell,-25.0,10.0,3.0,Made,1.0,65.0,82.0,147.0,v,Nowell 3' Running Layup (4 PTS) (Edwards 4 AST),Made Shot,Running Layup Shot,1.0,325.0
+2022-10-23,was-vs-cle-0022200039,374.0,PT07M06.00S,3.0,1610612739.0,CLE,1628378.0,Mitchell,D. Mitchell,0.0,0.0,0.0,,0.0,73.0,59.0,132.0,h,Mitchell Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1.0,273.0
+2023-01-15,phi-vs-lal-0022200655,603.0,PT02M58.00S,4.0,1610612747.0,LAL,201566.0,Westbrook,R. Westbrook,-18.0,111.0,11.0,Made,1.0,107.0,106.0,213.0,h,Westbrook 11' Fadeaway Jumper (20 PTS),Made Shot,Fadeaway Jump Shot,1.0,428.0
+2022-11-30,mia-vs-bos-0022200314,536.0,PT07M17.00S,4.0,1610612748.0,MIA,1628389.0,Adebayo,B. Adebayo,0.0,0.0,0.0,,0.0,,,0.0,v,Adebayo REBOUND (Off:1 Def:5),Rebound,Unknown,1.0,378.0
+2022-12-03,hou-vs-gsw-0022200342,40.0,PT07M57.00S,1.0,1610612745.0,HOU,1629645.0,Porter Jr.,K. Porter Jr.,32.0,184.0,19.0,Missed,1.0,,,0.0,v,MISS Porter Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,28.0
+2022-11-28,cha-vs-bos-0022200301,531.0,PT06M47.00S,4.0,1610612766.0,CHA,1630208.0,Richards,N. Richards,0.0,0.0,0.0,,0.0,,,0.0,v,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,1.0,381.0
+2022-11-28,ind-vs-lal-0022200308,135.0,PT02M55.00S,1.0,1610612747.0,LAL,201566.0,Westbrook,R. Westbrook,0.0,0.0,0.0,,0.0,,,0.0,h,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,102.0
+2023-01-24,den-vs-nop-0022200716,567.0,PT02M21.00S,4.0,1610612743.0,DEN,1628971.0,Brown,B. Brown,-237.0,32.0,24.0,Missed,1.0,,,0.0,v,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,417.0
+2022-10-28,cha-vs-orl-0022200071,562.0,PT07M07.00S,4.0,1610612766.0,CHA,1628372.0,Smith Jr.,D. Smith Jr.,18.0,177.0,18.0,Missed,1.0,,,0.0,v,MISS Smith Jr. 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1.0,419.0
+2023-01-14,cle-vs-min-0022200645,559.0,PT03M36.00S,4.0,1610612750.0,MIN,1629675.0,Reid,N. Reid,-66.0,36.0,8.0,Made,1.0,106.0,93.0,199.0,h,Reid 8' Driving Bank Hook Shot (17 PTS) (Edwards 7 AST),Made Shot,Driving Bank Hook Shot,1.0,403.0
+2022-12-16,sac-vs-det-0022200429,308.0,PT02M25.00S,2.0,1610612765.0,DET,1631105.0,Duren,J. Duren,0.0,0.0,0.0,,0.0,,,0.0,h,Duren REBOUND (Off:4 Def:3),Rebound,Unknown,1.0,225.0
+2022-11-14,atl-vs-mil-0022200204,516.0,PT01M06.00S,3.0,1610612749.0,MIL,203507.0,Antetokounmpo,G. Antetokounmpo,0.0,0.0,0.0,,0.0,,,0.0,h,G. Antetokounmpo REBOUND (Off:0 Def:5),Rebound,Unknown,1.0,377.0
+2022-12-05,phi-vs-hou-0022200356,756.0,PT00M02.90S,5.0,1610612745.0,HOU,1630578.0,Sengun,A. Sengun,0.0,0.0,0.0,,0.0,,,0.0,h,Sengun REBOUND (Off:5 Def:2),Rebound,Unknown,1.0,545.0
+2022-12-04,bos-vs-bkn-0022200346,364.0,PT05M37.00S,3.0,0.0,,1610612738.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Celtics Rebound,Rebound,Unknown,0.0,284.0
+2022-11-25,phi-vs-orl-0022200273,128.0,PT01M11.00S,1.0,1610612753.0,ORL,1629021.0,Wagner,M. Wagner,-225.0,20.0,0.0,Made,1.0,27.0,21.0,48.0,h,M. Wagner 3PT Running Jump Shot (3 PTS) (Houstan 1 AST),Made Shot,Running Jump Shot,1.0,93.0
+2022-12-26,ind-vs-nop-0022200502,71.0,PT06M16.00S,1.0,1610612740.0,NOP,202685.0,Valanciunas,J. Valanciunas,164.0,196.0,26.0,Missed,1.0,,,0.0,h,MISS Valanciunas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,55.0
+2022-10-12,den-vs-lac-0012200059,11.0,PT11M10.00S,1.0,1610612746.0,LAC,202331.0,George,P. George,0.0,0.0,0.0,,0.0,,,0.0,h,George STEAL (1 STL),,,1.0,8.0
+2023-01-13,orl-vs-uta-0022200638,327.0,PT01M52.00S,2.0,1610612753.0,ORL,1628976.0,Carter Jr.,W. Carter Jr.,0.0,0.0,0.0,,0.0,,,0.0,v,Carter Jr. S.FOUL (P1.PN) (M.Smith),Foul,Shooting,1.0,244.0
+2022-10-14,lal-vs-sac-0012200070,347.0,PT01M48.00S,2.0,1610612758.0,SAC,1628370.0,Monk,M. Monk,0.0,0.0,0.0,,0.0,128.0,81.0,209.0,h,Monk Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1.0,248.0
+2022-12-18,cha-vs-den-0022200450,537.0,PT10M55.00S,4.0,1610612743.0,DEN,1630538.0,Hyland,B. Hyland,-81.0,253.0,27.0,Missed,1.0,,,0.0,h,MISS Hyland 27' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,400.0
+2023-03-05,nyk-vs-bos-0022200969,342.0,PT09M21.00S,3.0,1610612752.0,NYK,1629011.0,Robinson,M. Robinson,0.0,0.0,0.0,,0.0,,,0.0,v,Robinson REBOUND (Off:5 Def:2),Rebound,Unknown,1.0,265.0
+2023-03-06,nop-vs-sac-0022200976,145.0,PT00M01.30S,1.0,1610612740.0,NOP,1630230.0,Marshall,N. Marshall,0.0,0.0,0.0,,0.0,,,0.0,v,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,102.0
+2022-11-28,orl-vs-bkn-0022200302,318.0,PT00M33.90S,2.0,1610612751.0,BKN,203925.0,Harris,J. Harris,0.0,0.0,0.0,,0.0,52.0,47.0,99.0,h,Harris Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1.0,241.0
+2023-01-27,cle-vs-okc-0022200739,94.0,PT05M02.00S,1.0,1610612760.0,OKC,1628983.0,Gilgeous-Alexander,S. Gilgeous-Alexander,0.0,0.0,0.0,,0.0,16.0,15.0,31.0,h,Gilgeous-Alexander Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1.0,68.0
+2022-12-16,gsw-vs-phi-0022200432,416.0,PT03M17.00S,3.0,1610612755.0,PHI,203954.0,Embiid,J. Embiid,88.0,7.0,9.0,Missed,1.0,,,0.0,h,MISS Embiid 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1.0,313.0
+2022-11-11,sac-vs-lal-0022200183,500.0,PT02M10.00S,3.0,1610612758.0,SAC,1626168.0,Lyles,T. Lyles,-169.0,203.0,26.0,Missed,1.0,,,0.0,v,MISS Lyles 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1.0,374.0
+2022-10-14,bkn-vs-min-0012200066,84.0,PT05M44.00S,1.0,1610612751.0,BKN,1629651.0,Claxton,N. Claxton,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Morris FOR Claxton,Substitution,,0.0,64.0
+2023-02-24,mia-vs-mil-0022200897,445.0,PT03M38.00S,3.0,1610612748.0,MIA,203469.0,Zeller,C. Zeller,-4.0,9.0,1.0,Made,1.0,92.0,71.0,163.0,v,Zeller 1' Dunk (6 PTS) (Strus 3 AST),Made Shot,Dunk Shot,1.0,331.0
+2022-12-14,atl-vs-orl-0022200416,630.0,PT03M38.00S,4.0,1610612753.0,ORL,1628365.0,Fultz,M. Fultz,2.0,85.0,9.0,Made,1.0,126.0,110.0,236.0,h,Fultz 9' Floating Jump Shot (14 PTS),Made Shot,Floating Jump shot,1.0,468.0
+2023-01-25,den-vs-mil-0022200723,17.0,PT10M15.00S,1.0,1610612743.0,DEN,1630192.0,Nnaji,Z. Nnaji,99.0,256.0,27.0,Missed,1.0,,,0.0,v,MISS Nnaji 27' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,12.0
+2023-01-05,mem-vs-orl-0022200576,10.0,PT11M04.00S,1.0,1610612753.0,ORL,203914.0,Harris,G. Harris,-200.0,168.0,26.0,Missed,1.0,,,0.0,h,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,6.0
+2022-11-07,okc-vs-det-0022200146,504.0,PT03M18.00S,3.0,1610612760.0,OKC,1629647.0,Bazley,D. Bazley,124.0,20.0,13.0,Missed,1.0,,,0.0,v,MISS Bazley 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0.0,373.0
+2023-03-08,okc-vs-phx-0022200990,468.0,PT01M46.00S,3.0,1610612756.0,PHX,1629111.0,Landale,J. Landale,0.0,0.0,0.0,,0.0,,,0.0,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,342.0
+2022-11-21,por-vs-mil-0022200251,372.0,PT07M48.00S,3.0,1610612749.0,MIL,1628960.0,Allen,G. Allen,6.0,0.0,1.0,Made,1.0,73.0,67.0,140.0,h,Allen 1' Driving Reverse Layup (12 PTS) (Lopez 2 AST),Made Shot,Driving Reverse Layup Shot,1.0,270.0
+2022-12-17,uta-vs-mil-0022200442,102.0,PT03M22.00S,1.0,0.0,,1610612749.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0.0,78.0
+2022-10-24,bkn-vs-mem-0022200049,392.0,PT00M01.90S,2.0,1610612763.0,MEM,1631223.0,Roddy,D. Roddy,0.0,0.0,0.0,,0.0,,,0.0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,279.0
+2023-02-04,por-vs-chi-0022200796,517.0,PT06M51.00S,4.0,0.0,,1610612741.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,BULLS Rebound,Rebound,Unknown,1.0,365.0
+2022-10-28,cle-vs-bos-0022200072,188.0,PT00M02.50S,1.0,1610612738.0,BOS,203935.0,Smart,M. Smart,0.0,0.0,0.0,,0.0,,,0.0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,133.0
+2023-02-14,bos-vs-mil-0022200869,350.0,PT11M02.00S,3.0,1610612749.0,MIL,203507.0,Antetokounmpo,G. Antetokounmpo,-77.0,141.0,16.0,Missed,1.0,,,0.0,h,MISS G. Antetokounmpo 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,243.0
+2023-02-08,det-vs-cle-0022200822,233.0,PT06M27.00S,2.0,1610612765.0,DET,1631093.0,Ivey,J. Ivey,0.0,0.0,0.0,,0.0,,,0.0,v,Ivey REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,172.0
+2023-02-08,sas-vs-tor-0022200826,417.0,PT04M44.00S,3.0,1610612759.0,SAS,1631103.0,Branham,M. Branham,0.0,0.0,0.0,,0.0,,,0.0,v,Branham P.FOUL (P4.PN) (M.Lindsay),Foul,Personal,1.0,309.0
+2022-10-06,mra-vs-por-0012200027,779.0,PT02M17.00S,4.0,1610612757.0,POR,1628411.0,Iwundu,W. Iwundu,0.0,0.0,0.0,,0.0,138.0,85.0,223.0,h,Iwundu Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1.0,545.0
+2022-11-25,nop-vs-mem-0022200279,193.0,PT10M15.00S,2.0,1610612763.0,MEM,1631222.0,LaRavia,J. LaRavia,190.0,163.0,25.0,Missed,1.0,,,0.0,h,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,142.0
+2023-02-08,sac-vs-hou-0022200827,361.0,PT10M52.00S,3.0,1610612745.0,HOU,1630578.0,Sengun,A. Sengun,7.0,267.0,27.0,Made,1.0,65.0,60.0,125.0,h,Sengun 27' 3PT Jump Shot (12 PTS) (Gordon 3 AST),Made Shot,Jump Shot,1.0,264.0
+2022-12-07,okc-vs-mem-0022200368,308.0,PT04M29.00S,2.0,1610612763.0,MEM,1631223.0,Roddy,D. Roddy,-229.0,32.0,0.0,Made,1.0,45.0,40.0,85.0,h,Roddy 3PT Jump Shot (6 PTS) (Morant 3 AST),Made Shot,Jump Shot,1.0,234.0
+2023-01-20,mia-vs-dal-0022200686,81.0,PT05M16.00S,1.0,1610612742.0,DAL,203493.0,Bullock,R. Bullock,207.0,139.0,25.0,Made,1.0,17.0,9.0,26.0,h,Bullock 25' 3PT Jump Shot (3 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,1.0,63.0
+2023-03-03,por-vs-atl-0022200947,390.0,PT07M21.00S,3.0,1610612737.0,ATL,1629027.0,Young,T. Young,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Bogdanovic FOR Young,Substitution,,0.0,290.0
+2022-10-31,sac-vs-cha-0022200096,517.0,PT01M09.00S,3.0,1610612758.0,SAC,1626168.0,Lyles,T. Lyles,0.0,0.0,0.0,,0.0,,,0.0,v,Lyles Step Out of Bounds Turnover (P2.T14),Turnover,Step Out of Bounds Turnover,1.0,370.0
+2022-12-19,tor-vs-phi-0022200453,546.0,PT04M37.00S,4.0,1610612755.0,PHI,203954.0,Embiid,J. Embiid,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Embiid Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1.0,394.0
+2023-03-01,phx-vs-cha-0022200933,158.0,PT11M38.00S,2.0,1610612766.0,CHA,1626162.0,Oubre Jr.,K. Oubre Jr.,-22.0,179.0,18.0,Missed,1.0,,,0.0,h,MISS Oubre Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,115.0
+2022-12-12,okc-vs-dal-0022200405,28.0,PT09M47.00S,1.0,1610612742.0,DAL,203915.0,Dinwiddie,S. Dinwiddie,0.0,0.0,0.0,,0.0,,,0.0,h,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,22.0
+2022-10-02,uta-vs-tor-0012200006,99.0,PT04M43.00S,1.0,1610612761.0,TOR,1628449.0,Boucher,C. Boucher,0.0,0.0,0.0,,0.0,,,0.0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,70.0
+2022-10-21,bos-vs-mia-0022200022,406.0,PT04M25.00S,3.0,1610612738.0,BOS,1628369.0,Tatum,J. Tatum,-147.0,222.0,27.0,Made,1.0,71.0,75.0,146.0,v,Tatum 27' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1.0,300.0
+2022-11-16,okc-vs-was-0022200213,299.0,PT01M15.00S,2.0,1610612760.0,OKC,1630581.0,Giddey,J. Giddey,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Waters III FOR Giddey,Substitution,,0.0,207.0
+2023-02-13,den-vs-mia-0022200861,564.0,PT00M13.70S,4.0,1610612748.0,MIA,202710.0,Butler,J. Butler,-11.0,16.0,2.0,Missed,1.0,,,0.0,h,MISS Butler 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1.0,407.0
+2023-01-31,mia-vs-cle-0022200764,344.0,PT09M13.00S,3.0,1610612739.0,CLE,1628386.0,Allen,J. Allen,0.0,0.0,0.0,,0.0,,,0.0,h,Allen REBOUND (Off:1 Def:8),Rebound,Unknown,1.0,244.0
+2022-12-19,lal-vs-phx-0022200459,597.0,PT00M00.00S,4.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,130.0,104.0,234.0,,End of 4th Period (11:15 PM EST),period,end,1.0,458.0
+2023-02-15,hou-vs-okc-0022200880,665.0,PT06M35.00S,4.0,1610612745.0,HOU,1631309.0,Hudgins,T. Hudgins,-125.0,235.0,27.0,Missed,1.0,,,0.0,v,MISS Hudgins 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,490.0
+2023-01-15,gsw-vs-chi-0022200650,219.0,PT08M34.00S,2.0,1610612744.0,GSW,1630237.0,Lamb,A. Lamb,0.0,0.0,0.0,,0.0,43.0,35.0,78.0,v,Lamb Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0.0,152.0
+2023-01-06,det-vs-sas-0022200585,47.0,PT08M01.00S,1.0,0.0,,1610612765.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Pistons Rebound,Rebound,Unknown,1.0,34.0
+2022-12-07,cha-vs-bkn-0022200364,72.0,PT05M41.00S,1.0,1610612751.0,BKN,202681.0,Irving,K. Irving,0.0,176.0,18.0,Made,1.0,18.0,17.0,35.0,h,Irving 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1.0,56.0
+2023-03-01,cle-vs-bos-0022200935,44.0,PT07M30.00S,1.0,0.0,,1610612739.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Cavaliers Rebound,Rebound,Unknown,0.0,32.0
+2022-11-28,cha-vs-bos-0022200301,431.0,PT02M08.00S,3.0,1610612766.0,CHA,1630208.0,Richards,N. Richards,-2.0,26.0,3.0,Missed,1.0,,,0.0,v,MISS Richards 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1.0,307.0
+2022-10-23,was-vs-cle-0022200039,648.0,PT03M56.00S,5.0,1610612739.0,CLE,1628378.0,Mitchell,D. Mitchell,137.0,178.0,22.0,Missed,1.0,,,0.0,h,MISS Mitchell 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,471.0
+2022-10-29,mia-vs-sac-0022200081,55.0,PT06M42.00S,1.0,1610612758.0,SAC,1628989.0,Huerter,K. Huerter,-131.0,213.0,25.0,Made,1.0,12.0,8.0,20.0,h,Huerter 25' 3PT Step Back Jump Shot (6 PTS) (Sabonis 2 AST),Made Shot,Step Back Jump shot,1.0,42.0
+2022-10-27,lac-vs-okc-0022200067,347.0,PT10M22.00S,3.0,1610612746.0,LAC,1626181.0,Powell,N. Powell,0.0,0.0,0.0,,0.0,,,0.0,v,Powell Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,1.0,245.0
+2022-12-15,phx-vs-lac-0022200427,123.0,PT02M09.00S,1.0,1610612746.0,LAC,1630527.0,Boston Jr.,B. Boston Jr.,0.0,0.0,0.0,,0.0,17.0,23.0,40.0,h,Boston Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1.0,92.0
+2022-11-25,por-vs-nyk-0022200274,772.0,PT00M06.80S,5.0,1610612752.0,NYK,1629656.0,Grimes,Q. Grimes,0.0,0.0,0.0,,0.0,,,0.0,h,Grimes P.FOUL (P5.PN) (C.Blair),Foul,Personal,1.0,561.0
+2023-01-26,det-vs-bkn-0022200731,445.0,PT03M38.00S,3.0,1610612765.0,DET,1631093.0,Ivey,J. Ivey,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Hayes FOR Ivey,Substitution,,0.0,327.0
+2022-12-04,cle-vs-nyk-0022200348,262.0,PT03M26.00S,2.0,1610612739.0,CLE,1627747.0,LeVert,C. LeVert,0.0,0.0,0.0,,0.0,,,0.0,v,LeVert S.FOUL (P2.T3) (M.Dagher),Foul,Shooting,1.0,205.0
+2022-12-05,bos-vs-tor-0022200355,330.0,PT11M35.00S,3.0,1610612761.0,TOR,1627783.0,Siakam,P. Siakam,-48.0,66.0,8.0,Made,1.0,64.0,56.0,120.0,h,Siakam 8' Driving Hook Shot (19 PTS),Made Shot,Driving Hook Shot,1.0,253.0
+2022-11-16,min-vs-orl-0022200212,154.0,PT00M29.20S,1.0,1610612753.0,ORL,1630532.0,Wagner,F. Wagner,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1.0,117.0
+2022-11-14,phx-vs-mia-0022200202,169.0,PT10M48.00S,2.0,1610612748.0,MIA,1629216.0,Vincent,G. Vincent,-156.0,225.0,27.0,Missed,1.0,,,0.0,h,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,121.0
+2022-11-21,nyk-vs-okc-0022200254,635.0,PT02M12.00S,4.0,1610612760.0,OKC,1628983.0,Gilgeous-Alexander,S. Gilgeous-Alexander,0.0,0.0,0.0,,0.0,109.0,119.0,228.0,h,Gilgeous-Alexander Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1.0,473.0
+2022-10-26,atl-vs-det-0022200057,381.0,PT07M02.00S,3.0,1610612765.0,DET,1630180.0,Bey,S. Bey,0.0,0.0,0.0,,0.0,,,0.0,h,Bey REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,283.0
+2022-12-11,cha-vs-phi-0022200399,37.0,PT08M28.00S,1.0,1610612766.0,CHA,203486.0,Plumlee,M. Plumlee,0.0,0.0,0.0,,0.0,,,0.0,v,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,28.0
+2023-01-04,mem-vs-cha-0022200564,669.0,PT04M25.00S,4.0,1610612763.0,MEM,1630214.0,Tillman,X. Tillman,-11.0,74.0,7.0,Made,1.0,95.0,123.0,218.0,v,Tillman 7' Floating Jump Shot (10 PTS) (Chandler 1 AST),Made Shot,Floating Jump shot,1.0,488.0
+2022-10-11,mil-vs-chi-0012200049,440.0,PT04M01.00S,3.0,1610612749.0,MIL,1630572.0,Mamukelashvili,S. Mamukelashvili,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Vildoza FOR Mamukelashvili,Substitution,,0.0,318.0
+2023-02-11,chi-vs-cle-0022200852,148.0,PT11M47.00S,2.0,1610612741.0,CHI,201942.0,DeRozan,D. DeRozan,74.0,130.0,15.0,Made,1.0,26.0,31.0,57.0,v,DeRozan 15' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1.0,107.0
+2023-02-28,lal-vs-mem-0022200927,111.0,PT03M55.00S,1.0,0.0,,1610612763.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,GRIZZLIES Rebound,Rebound,Unknown,0.0,86.0
+2022-10-27,lac-vs-okc-0022200067,44.0,PT08M44.00S,1.0,1610612746.0,LAC,1627826.0,Zubac,I. Zubac,0.0,0.0,0.0,,0.0,8.0,3.0,11.0,v,Zubac Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1.0,31.0
+2023-02-10,hou-vs-mia-0022200840,248.0,PT05M57.00S,2.0,1610612745.0,HOU,1630528.0,Christopher,J. Christopher,-20.0,16.0,3.0,Missed,1.0,,,0.0,v,MISS Christopher 3' Layup,Missed Shot,Layup Shot,1.0,175.0
+2022-12-09,was-vs-ind-0022200378,275.0,PT00M05.50S,2.0,1610612764.0,WAS,1630264.0,Gill,A. Gill,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Morris FOR Gill,Substitution,,0.0,194.0
+2023-01-18,was-vs-nyk-0022200669,425.0,PT05M05.00S,3.0,1610612752.0,NYK,1628973.0,Brunson,J. Brunson,-18.0,5.0,2.0,Made,1.0,62.0,74.0,136.0,h,Brunson 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1.0,313.0
+2023-01-31,nop-vs-den-0022200768,498.0,PT01M13.00S,3.0,1610612743.0,DEN,203999.0,Jokic,N. Jokic,-10.0,64.0,6.0,Made,1.0,92.0,82.0,174.0,h,Jokic 6' Turnaround Hook Shot (17 PTS) (Green 1 AST),Made Shot,Turnaround Hook Shot,1.0,355.0
+2022-10-07,det-vs-nop-0012200034,421.0,PT09M24.00S,3.0,1610612765.0,DET,1630595.0,Cunningham,C. Cunningham,0.0,0.0,0.0,,0.0,,,0.0,v,Cunningham S.FOUL (P5.PN) (M.Boland),Foul,Shooting,1.0,315.0
+2023-01-02,sas-vs-bkn-0022200555,203.0,PT08M19.00S,2.0,1610612759.0,SAS,203926.0,McDermott,D. McDermott,0.0,0.0,0.0,,0.0,,,0.0,v,McDermott S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1.0,148.0
+2022-12-27,cha-vs-gsw-0022200513,239.0,PT07M34.00S,2.0,1610612766.0,CHA,1630163.0,Ball,L. Ball,0.0,0.0,0.0,Missed,1.0,,,0.0,v,MISS Ball Tip Layup Shot,Missed Shot,Tip Layup Shot,1.0,175.0
+2022-11-05,sas-vs-den-0022200138,535.0,PT07M28.00S,4.0,1610612743.0,DEN,201599.0,Jordan,D. Jordan,0.0,0.0,0.0,,0.0,,,0.0,h,Jordan Transition Take Foul (P2.T2) (B.Nansel),Foul                                    ,Transition Take,1.0,380.0
+2023-01-17,tor-vs-mil-0022200665,44.0,PT08M28.00S,1.0,1610612761.0,TOR,1630567.0,Barnes,S. Barnes,0.0,0.0,0.0,,0.0,,,0.0,v,Barnes REBOUND (Off:2 Def:1),Rebound,Unknown,1.0,34.0
+2023-02-03,phi-vs-sas-0022200791,368.0,PT09M34.00S,3.0,1610612759.0,SAS,1629640.0,Johnson,K. Johnson,-22.0,3.0,2.0,Missed,1.0,,,0.0,h,MISS K. Johnson 2' Driving Layup,Missed Shot,Driving Layup Shot,1.0,260.0
+2023-03-05,nyk-vs-bos-0022200969,417.0,PT03M42.00S,3.0,1610612738.0,BOS,1627759.0,Brown,J. Brown,12.0,21.0,2.0,Missed,1.0,,,0.0,h,MISS Brown 2' Driving Layup,Missed Shot,Driving Layup Shot,1.0,321.0
+2022-12-05,ind-vs-gsw-0022200359,471.0,PT01M29.00S,3.0,1610612754.0,IND,1631112.0,Brown,K. Brown,0.0,0.0,0.0,,0.0,,,0.0,v,Brown S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,1.0,347.0
+2023-02-13,bkn-vs-nyk-0022200862,504.0,PT08M07.00S,4.0,1610612752.0,NYK,1630167.0,Toppin,O. Toppin,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Brunson FOR Toppin,Substitution,,0.0,373.0
+2022-11-14,cha-vs-orl-0022200200,439.0,PT03M53.00S,3.0,1610612766.0,CHA,1629667.0,McDaniels,J. McDaniels,0.0,0.0,0.0,,0.0,62.0,78.0,140.0,v,McDaniels Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1.0,322.0
+2023-01-31,cha-vs-mil-0022200767,212.0,PT09M30.00S,2.0,1610612766.0,CHA,1628372.0,Smith Jr.,D. Smith Jr.,-26.0,2.0,3.0,Missed,1.0,,,0.0,v,MISS Smith Jr. 3' Running Layup,Missed Shot,Running Layup Shot,1.0,157.0
+2022-10-05,phx-vs-lal-0012200022,48.0,PT08M54.00S,1.0,1610612756.0,PHX,101108.0,Paul,C. Paul,0.0,0.0,0.0,,0.0,,,0.0,v,Paul Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1.0,32.0
+2023-03-04,hou-vs-sas-0022200959,195.0,PT10M15.00S,2.0,1610612759.0,SAS,1631104.0,Wesley,B. Wesley,2.0,121.0,12.0,Missed,1.0,,,0.0,h,MISS Wesley 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,143.0
+2022-12-14,mia-vs-okc-0022200419,179.0,PT10M02.00S,2.0,0.0,,1610612760.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,THUNDER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0.0,129.0
+2022-11-23,dal-vs-bos-0022200264,584.0,PT01M36.00S,4.0,0.0,,1610612742.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Mavericks Rebound,Rebound,Normal Rebound,0.0,426.0
+2022-11-16,ind-vs-cha-0022200211,189.0,PT02M07.00S,1.0,1610612766.0,CHA,1626162.0,Oubre Jr.,K. Oubre Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,Oubre Jr. REBOUND (Off:3 Def:1),Rebound,Unknown,0.0,105.0
+2022-11-09,mem-vs-sas-0022200169,321.0,PT10M42.00S,3.0,1610612763.0,MEM,1630583.0,Aldama,S. Aldama,0.0,0.0,0.0,,0.0,,,0.0,v,Aldama REBOUND (Off:4 Def:2),Rebound,Unknown,1.0,233.0
+2022-10-26,orl-vs-cle-0022200056,395.0,PT07M52.00S,3.0,1610612753.0,ORL,203082.0,Ross,T. Ross,0.0,0.0,0.0,,0.0,,,0.0,v,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,1.0,283.0
+2023-02-14,was-vs-por-0022200872,365.0,PT07M35.00S,3.0,1610612757.0,POR,1629680.0,Thybulle,M. Thybulle,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Watford FOR Thybulle,Substitution,,0.0,269.0
+2022-11-12,bos-vs-det-0022200186,437.0,PT06M32.00S,3.0,1610612765.0,DET,1631093.0,Ivey,J. Ivey,0.0,0.0,0.0,,0.0,71.0,70.0,141.0,h,Ivey Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1.0,313.0
+2023-01-08,min-vs-hou-0022200601,462.0,PT01M07.00S,3.0,1610612745.0,HOU,1630256.0,Tate,J. Tate,241.0,22.0,24.0,Missed,1.0,,,0.0,h,MISS Tate 24' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,345.0
+2023-02-25,mia-vs-cha-0022200904,609.0,PT05M58.00S,4.0,1610612766.0,CHA,202330.0,Hayward,G. Hayward,0.0,0.0,0.0,,0.0,,,0.0,h,Hayward P.FOUL (P3.PN) (S.Corbin),Foul,Personal,1.0,453.0
+2022-11-30,sas-vs-okc-0022200319,416.0,PT07M51.00S,3.0,1610612759.0,SAS,1628380.0,Collins,Z. Collins,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Roby FOR Collins,Substitution,,0.0,286.0
+2022-11-09,nyk-vs-bkn-0022200164,471.0,PT02M02.00S,3.0,1610612752.0,NYK,1628973.0,Brunson,J. Brunson,69.0,257.0,27.0,Missed,1.0,,,0.0,v,MISS Brunson 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1.0,346.0
+2022-12-21,mil-vs-cle-0022200466,334.0,PT00M49.50S,2.0,1610612749.0,MIL,203507.0,Antetokounmpo,G. Antetokounmpo,0.0,0.0,0.0,,0.0,56.0,41.0,97.0,v,G. Antetokounmpo Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1.0,250.0
+2022-11-13,uta-vs-phi-0022200195,16.0,PT10M49.00S,1.0,1610612755.0,PHI,203954.0,Embiid,J. Embiid,227.0,132.0,26.0,Missed,1.0,,,0.0,h,MISS Embiid 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,12.0
+2022-11-04,mia-vs-ind-0022200121,396.0,PT07M24.00S,3.0,1610612754.0,IND,1626167.0,Turner,M. Turner,0.0,0.0,0.0,Made,1.0,73.0,63.0,136.0,h,Turner Putback Layup (16 PTS),Made Shot,Putback Layup Shot,1.0,297.0
+2023-01-14,bos-vs-cha-0022200642,518.0,PT07M51.00S,4.0,1610612738.0,BOS,1629684.0,Williams,G. Williams,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Horford FOR Williams,Substitution,,0.0,377.0
+2022-10-31,mem-vs-uta-0022200101,487.0,PT02M42.00S,3.0,1610612762.0,UTA,1630534.0,Agbaji,O. Agbaji,0.0,0.0,0.0,,0.0,,,0.0,h,Agbaji P.FOUL (P1.PN) (M.Davis),Foul,Personal,1.0,361.0
+2022-12-23,sas-vs-orl-0022200479,475.0,PT02M47.00S,3.0,1610612753.0,ORL,1631094.0,Banchero,P. Banchero,-119.0,232.0,26.0,Made,1.0,84.0,83.0,167.0,h,Banchero 26' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1.0,341.0
+2023-02-08,sas-vs-tor-0022200826,112.0,PT04M04.00S,1.0,1610612761.0,TOR,1627783.0,Siakam,P. Siakam,232.0,10.0,0.0,Made,1.0,22.0,17.0,39.0,h,Siakam 3PT Jump Shot (16 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,1.0,88.0
+2022-12-25,lal-vs-dal-0022200494,643.0,PT01M24.00S,4.0,1610612742.0,DAL,203501.0,Hardaway Jr.,T. Hardaway Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Pinson FOR Hardaway Jr.,Substitution,,0.0,453.0
+2023-02-10,dal-vs-sac-0022200844,303.0,PT01M21.00S,2.0,1610612758.0,SAC,1628989.0,Huerter,K. Huerter,-77.0,48.0,9.0,Made,1.0,51.0,72.0,123.0,h,Huerter 9' Floating Jump Shot (6 PTS) (Fox 2 AST),Made Shot,Floating Jump shot,1.0,217.0
+2022-11-11,sac-vs-lal-0022200183,159.0,PT01M11.00S,1.0,1610612758.0,SAC,1629002.0,Metu,C. Metu,-50.0,96.0,11.0,Missed,1.0,,,0.0,v,MISS Metu 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1.0,119.0
+2022-12-05,mia-vs-mem-0022200357,411.0,PT03M36.00S,3.0,1610612763.0,MEM,1626145.0,Jones,T. Jones,0.0,0.0,0.0,,0.0,,,0.0,h,Jones STEAL (2 STL),,,1.0,303.0
+2023-01-22,nyk-vs-tor-0022200700,619.0,PT01M10.00S,4.0,1610612761.0,TOR,1627832.0,VanVleet,F. VanVleet,-164.0,252.0,30.0,Made,1.0,119.0,108.0,227.0,h,VanVleet 30' 3PT Jump Shot (26 PTS) (Siakam 6 AST),Made Shot,Jump Shot,1.0,460.0
+2022-12-31,mia-vs-uta-0022200546,239.0,PT07M52.00S,2.0,1610612762.0,UTA,203482.0,Olynyk,K. Olynyk,0.0,0.0,0.0,,0.0,,,0.0,h,Olynyk Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1.0,164.0
+2023-02-28,por-vs-gsw-0022200931,423.0,PT05M39.00S,3.0,1610612744.0,GSW,202691.0,Thompson,K. Thompson,55.0,15.0,6.0,Missed,1.0,,,0.0,h,MISS Thompson 6' Driving Layup,Missed Shot,Driving Layup Shot,1.0,307.0
+2022-12-23,cha-vs-lal-0022200492,439.0,PT05M04.00S,3.0,1610612747.0,LAL,1629117.0,Gabriel,W. Gabriel,0.0,0.0,0.0,,0.0,,,0.0,h,Gabriel REBOUND (Off:4 Def:1),Rebound,Unknown,1.0,320.0
+2023-02-28,lal-vs-mem-0022200927,219.0,PT07M44.00S,2.0,1610612747.0,LAL,203471.0,Schroder,D. Schroder,0.0,0.0,0.0,,0.0,,,0.0,v,Schroder REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,170.0
+2022-12-10,dal-vs-chi-0022200391,415.0,PT03M29.00S,3.0,1610612742.0,DAL,203915.0,Dinwiddie,S. Dinwiddie,49.0,250.0,25.0,Missed,1.0,,,0.0,v,MISS Dinwiddie 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,308.0
+2022-12-21,por-vs-okc-0022200474,306.0,PT00M35.80S,2.0,1610612757.0,POR,203924.0,Grant,J. Grant,0.0,0.0,0.0,,0.0,,,0.0,v,Grant S.FOUL (P2.PN) (C.Washington),Foul,Shooting,1.0,213.0
+2023-01-19,phi-vs-por-0022200682,461.0,PT01M31.00S,3.0,1610612757.0,POR,1629642.0,Little,N. Little,12.0,1.0,1.0,Made,1.0,63.0,75.0,138.0,h,Little 1' Running Layup (7 PTS) (Lillard 9 AST),Made Shot,Running Layup Shot,1.0,345.0
+2022-11-05,bos-vs-nyk-0022200135,149.0,PT00M01.20S,1.0,1610612752.0,NYK,203095.0,Fournier,E. Fournier,-78.0,244.0,26.0,Made,1.0,29.0,32.0,61.0,h,Fournier 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1.0,106.0
+2023-01-15,phi-vs-lal-0022200655,308.0,PT00M02.90S,2.0,1610612747.0,LAL,2544.0,James,L. James,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Bryant FOR James,Substitution,,0.0,222.0
+2023-02-01,gsw-vs-min-0022200774,136.0,PT02M02.00S,1.0,1610612750.0,MIN,203085.0,Rivers,A. Rivers,0.0,0.0,0.0,,0.0,,,0.0,h,Rivers S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,1.0,100.0
+2022-11-07,bos-vs-mem-0022200152,351.0,PT10M57.00S,3.0,1610612738.0,BOS,1627759.0,Brown,J. Brown,0.0,0.0,0.0,,0.0,,,0.0,v,Brown Offensive Foul Turnover (P3.T6),Turnover,Offensive Foul Turnover,1.0,252.0
+2023-01-21,mil-vs-cle-0022200695,488.0,PT09M53.00S,4.0,1610612749.0,MIL,201572.0,Lopez,B. Lopez,74.0,264.0,27.0,Missed,1.0,,,0.0,v,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,337.0
+2023-03-08,tor-vs-lac-0022200991,166.0,PT09M59.00S,2.0,1610612761.0,TOR,1628449.0,Boucher,C. Boucher,0.0,0.0,0.0,,0.0,,,0.0,v,Boucher REBOUND (Off:1 Def:4),Rebound,Unknown,1.0,125.0
+2022-11-30,chi-vs-phx-0022200321,118.0,PT01M57.00S,1.0,1610612756.0,PHX,1627814.0,Lee,D. Lee,51.0,245.0,25.0,Made,1.0,28.0,22.0,50.0,h,Lee 25' 3PT Jump Shot (3 PTS) (Booker 3 AST),Made Shot,Jump Shot,1.0,86.0
+2022-10-21,nop-vs-cha-0022200017,586.0,PT07M27.00S,4.0,1610612740.0,NOP,1630529.0,Jones,H. Jones,0.0,0.0,0.0,,0.0,,,0.0,v,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,1.0,428.0
+2022-12-28,min-vs-nop-0022200520,95.0,PT04M24.00S,1.0,1610612740.0,NOP,202685.0,Valanciunas,J. Valanciunas,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Williamson FOR Valanciunas,Substitution,,0.0,70.0
+2023-02-24,cle-vs-atl-0022200896,137.0,PT02M40.00S,1.0,0.0,,1610612739.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0.0,106.0
+2022-11-18,okc-vs-mem-0022200229,45.0,PT09M11.00S,1.0,1610612763.0,MEM,1628991.0,Jackson Jr.,J. Jackson Jr.,26.0,27.0,4.0,Missed,1.0,,,0.0,h,MISS Jackson Jr. 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1.0,34.0
+2023-02-10,okc-vs-por-0022200843,17.0,PT10M45.00S,1.0,0.0,,1610612757.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0.0,11.0
+2023-02-06,sas-vs-chi-0022200811,620.0,PT01M32.00S,4.0,1610612741.0,CHI,1631207.0,Terry,D. Terry,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Terry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1.0,461.0
+2023-03-08,chi-vs-den-0022200989,38.0,PT08M09.00S,1.0,1610612743.0,DEN,1629008.0,Porter Jr.,M. Porter Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,27.0
+2023-02-11,mia-vs-orl-0022200848,603.0,PT03M20.00S,4.0,1610612753.0,ORL,1629626.0,Bol,B. Bol,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Carter Jr. FOR Bol,Substitution,,0.0,444.0
+2022-11-25,bkn-vs-ind-0022200276,94.0,PT04M14.00S,1.0,1610612754.0,IND,1630174.0,Nesmith,A. Nesmith,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Nesmith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1.0,65.0
+2022-11-01,chi-vs-bkn-0022200103,425.0,PT04M32.00S,3.0,1610612751.0,BKN,201142.0,Durant,K. Durant,37.0,90.0,10.0,Made,1.0,74.0,65.0,139.0,h,Durant 10' Pullup Jump Shot (26 PTS) (Sumner 3 AST),Made Shot,Pullup Jump shot,1.0,314.0
+2022-12-10,bos-vs-gsw-0022200392,91.0,PT04M28.00S,1.0,1610612744.0,GSW,202691.0,Thompson,K. Thompson,38.0,10.0,4.0,Made,1.0,21.0,18.0,39.0,h,Thompson 4' Cutting Finger Roll Layup Shot (10 PTS) (Poole 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1.0,74.0
+2022-12-09,atl-vs-bkn-0022200380,173.0,PT11M17.00S,2.0,1610612737.0,ATL,1631100.0,Griffin,A. Griffin,31.0,31.0,4.0,Missed,1.0,,,0.0,v,MISS Griffin 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1.0,121.0
+2022-12-31,bkn-vs-cha-0022200539,197.0,PT08M13.00S,2.0,1610612766.0,CHA,1631109.0,Williams,M. Williams,10.0,10.0,1.0,Made,1.0,28.0,39.0,67.0,h,Williams 1' Dunk (6 PTS) (Ball 5 AST),Made Shot,Dunk Shot,1.0,145.0
+2022-11-22,lal-vs-phx-0022200259,566.0,PT06M57.00S,4.0,1610612747.0,LAL,1629022.0,Walker IV,L. Walker IV,-7.0,5.0,1.0,Missed,1.0,,,0.0,v,MISS Walker IV 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1.0,429.0
+2022-11-28,phx-vs-sac-0022200307,510.0,PT10M42.00S,4.0,1610612758.0,SAC,1629002.0,Metu,C. Metu,0.0,0.0,0.0,,0.0,89.0,94.0,183.0,h,Metu Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1.0,369.0
+2023-03-04,det-vs-cle-0022200957,246.0,PT05M29.00S,2.0,1610612739.0,CLE,1626224.0,Osman,C. Osman,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Stevens FOR Osman,Substitution,,0.0,188.0
+2023-03-04,hou-vs-sas-0022200959,628.0,PT03M42.00S,4.0,1610612759.0,SAS,1628380.0,Collins,Z. Collins,0.0,0.0,0.0,,0.0,,,0.0,h,Collins S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,1.0,445.0
+2022-10-14,cle-vs-orl-0012200063,609.0,PT02M11.00S,4.0,1610612753.0,ORL,1630284.0,Harris,K. Harris,0.0,0.0,0.0,,0.0,,,0.0,h,K. Harris REBOUND (Off:2 Def:1),Rebound,Unknown,1.0,466.0
+2023-01-06,was-vs-okc-0022200584,564.0,PT08M11.00S,4.0,1610612764.0,WAS,1629655.0,Gafford,D. Gafford,1.0,7.0,1.0,Made,1.0,108.0,94.0,202.0,v,Gafford 1' Dunk (13 PTS) (Barton 3 AST),Made Shot,Dunk Shot,1.0,409.0
+2023-01-24,was-vs-dal-0022200717,67.0,PT06M00.00S,1.0,1610612742.0,DAL,1629029.0,Doncic,L. Doncic,-64.0,67.0,9.0,Made,1.0,15.0,17.0,32.0,h,Doncic 9' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1.0,49.0
+2022-10-28,chi-vs-sas-0022200077,24.0,PT09M41.00S,1.0,1610612741.0,CHI,201942.0,DeRozan,D. DeRozan,76.0,92.0,12.0,Missed,1.0,,,0.0,v,MISS DeRozan 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,16.0
+2022-10-29,mem-vs-uta-0022200087,450.0,PT03M44.00S,3.0,1610612763.0,MEM,1628415.0,Brooks,D. Brooks,0.0,0.0,0.0,,0.0,,,0.0,v,Brooks S.FOUL (P4.T4) (J.Reneau),Foul,Shooting,1.0,323.0
+2022-11-19,uta-vs-por-0022200238,444.0,PT03M31.00S,3.0,1610612757.0,POR,1626159.0,Winslow,J. Winslow,0.0,0.0,0.0,,0.0,,,0.0,h,Winslow REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,324.0
+2022-12-02,tor-vs-bkn-0022200329,557.0,PT09M17.00S,4.0,1610612751.0,BKN,1626220.0,O'Neale,R. O'Neale,0.0,0.0,0.0,,0.0,,,0.0,h,O'Neale S.FOUL (P4.PN) (N.Green),Foul,Shooting,1.0,406.0
+2022-11-25,atl-vs-hou-0022200278,61.0,PT07M16.00S,1.0,1610612745.0,HOU,1629645.0,Porter Jr.,K. Porter Jr.,0.0,0.0,0.0,,0.0,,,0.0,h,Porter Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1.0,47.0
+2022-12-19,mil-vs-nop-0022200457,448.0,PT06M14.00S,3.0,0.0,,1610612749.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Bucks Rebound,Rebound,Unknown,1.0,291.0
+2023-01-02,nop-vs-phi-0022200554,410.0,PT04M04.00S,3.0,1610612755.0,PHI,203954.0,Embiid,J. Embiid,0.0,0.0,0.0,,0.0,,,0.0,h,Embiid REBOUND (Off:1 Def:7),Rebound,Unknown,1.0,300.0
+2022-10-10,hou-vs-mia-0012200045,148.0,PT01M54.00S,1.0,1610612745.0,HOU,1630528.0,Christopher,J. Christopher,36.0,175.0,18.0,Missed,1.0,,,0.0,v,MISS Christopher 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,107.0
+2022-12-07,cha-vs-bkn-0022200364,255.0,PT04M01.00S,2.0,1610612766.0,CHA,203486.0,Plumlee,M. Plumlee,0.0,0.0,0.0,,0.0,,,0.0,v,Hornets T.Foul (Def. 3 Sec Plumlee ) (G.Petraitis),Foul,Defense 3 Second,1.0,180.0
+2023-01-08,phi-vs-det-0022200596,300.0,PT02M48.00S,2.0,1610612765.0,DET,202711.0,Bogdanovic,B. Bogdanovic,-194.0,155.0,25.0,Missed,1.0,,,0.0,h,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,229.0
+2022-12-19,lal-vs-phx-0022200459,431.0,PT02M17.00S,3.0,1610612747.0,LAL,1629117.0,Gabriel,W. Gabriel,0.0,0.0,0.0,,0.0,,,0.0,v,Gabriel REBOUND (Off:2 Def:3),Rebound,Unknown,1.0,334.0
+2022-10-21,phx-vs-por-0022200027,130.0,PT01M36.00S,1.0,1610612756.0,PHX,1626166.0,Payne,C. Payne,0.0,0.0,0.0,,0.0,,,0.0,v,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,97.0
+2023-02-23,gsw-vs-lal-0022200893,38.0,PT08M51.00S,1.0,1610612747.0,LAL,203076.0,Davis,A. Davis,0.0,0.0,0.0,,0.0,,,0.0,h,Davis Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1.0,28.0
+2022-10-04,det-vs-nyk-0012200014,328.0,PT00M00.70S,2.0,1610612752.0,NYK,203944.0,Randle,J. Randle,-31.0,12.0,3.0,Made,1.0,65.0,53.0,118.0,h,Randle 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1.0,249.0
+2023-01-20,nop-vs-orl-0022200683,583.0,PT04M47.00S,4.0,1610612740.0,NOP,1630529.0,Jones,H. Jones,142.0,183.0,23.0,Missed,1.0,,,0.0,v,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,1.0,420.0
+2022-10-05,tor-vs-bos-0012200020,463.0,PT01M18.00S,3.0,1610612738.0,BOS,1630573.0,Hauser,S. Hauser,119.0,224.0,25.0,Made,1.0,87.0,70.0,157.0,h,Hauser 25' 3PT Jump Shot (12 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,1.0,351.0
+2022-12-30,uta-vs-sac-0022200537,94.0,PT04M36.00S,1.0,1610612762.0,UTA,203482.0,Olynyk,K. Olynyk,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Gay FOR Olynyk,Substitution,,0.0,68.0
+2023-02-28,den-vs-hou-0022200926,566.0,PT05M45.00S,4.0,1610612743.0,DEN,203484.0,Caldwell-Pope,K. Caldwell-Pope,-228.0,-9.0,0.0,Made,1.0,100.0,122.0,222.0,v,Caldwell-Pope 3PT Jump Shot (14 PTS) (Jackson 7 AST),Made Shot,Jump Shot,1.0,405.0
+2022-12-30,min-vs-mil-0022200533,244.0,PT07M47.00S,2.0,1610612749.0,MIL,203507.0,Antetokounmpo,G. Antetokounmpo,0.0,0.0,0.0,,0.0,,,0.0,h,G. Antetokounmpo REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,178.0
+2022-10-01,was-vs-gsw-0012200004,530.0,PT00M37.40S,3.0,1610612764.0,WAS,1629655.0,Gafford,D. Gafford,0.0,0.0,0.0,,0.0,,,0.0,v,Gafford REBOUND (Off:3 Def:3),Rebound,Unknown,1.0,374.0
+2022-12-02,mia-vs-bos-0022200328,341.0,PT00M33.90S,2.0,1610612738.0,BOS,203935.0,Smart,M. Smart,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1.0,255.0
+2022-12-16,nyk-vs-chi-0022200434,180.0,PT09M19.00S,2.0,1610612752.0,NYK,1628392.0,Hartenstein,I. Hartenstein,232.0,-21.0,0.0,Missed,1.0,,,0.0,v,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,1.0,128.0
+2022-11-09,dal-vs-orl-0022200161,154.0,PT00M20.20S,1.0,1610612753.0,ORL,1630181.0,Hampton,R. Hampton,-232.0,47.0,24.0,Missed,1.0,,,0.0,h,MISS Hampton 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1.0,112.0
+2023-01-22,nop-vs-mia-0022200699,331.0,PT10M43.00S,3.0,1610612740.0,NOP,203468.0,McCollum,C. McCollum,0.0,0.0,0.0,,0.0,41.0,50.0,91.0,v,McCollum Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1.0,250.0
+2023-01-21,bos-vs-tor-0022200692,309.0,PT11M38.00S,3.0,1610612761.0,TOR,1628384.0,Anunoby,O. Anunoby,163.0,47.0,17.0,Made,1.0,59.0,50.0,109.0,h,Anunoby 17' Jump Shot (12 PTS),Made Shot,Jump Shot,1.0,214.0
+2023-03-05,cha-vs-bkn-0022200965,209.0,PT06M57.00S,2.0,1610612751.0,BKN,203925.0,Harris,J. Harris,0.0,0.0,0.0,,0.0,,,0.0,h,Harris Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1.0,148.0
+2022-12-28,uta-vs-gsw-0022200521,433.0,PT03M55.00S,3.0,1610612744.0,GSW,1628978.0,DiVincenzo,D. DiVincenzo,0.0,0.0,0.0,,0.0,,,0.0,h,DiVincenzo REBOUND (Off:1 Def:2),Rebound,Unknown,1.0,310.0
+2023-01-22,nyk-vs-tor-0022200700,447.0,PT02M54.00S,3.0,1610612752.0,NYK,203944.0,Randle,J. Randle,0.0,0.0,0.0,Made,1.0,83.0,78.0,161.0,v,Randle Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1.0,333.0
+2022-11-16,mia-vs-tor-0022200215,172.0,PT09M45.00S,2.0,1610612761.0,TOR,1627823.0,Hernangomez,J. Hernangomez,0.0,0.0,0.0,,0.0,,,0.0,h,Hernangomez P.FOUL (P1.T2) (M.Myers),Foul,Personal,1.0,127.0
+2022-12-25,phx-vs-den-0022200497,2.0,PT12M00.00S,1.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,,Start of 1st Period (10:52 PM EST),period,start,0.0,1.0
+2022-10-21,uta-vs-min-0022200025,683.0,PT02M41.00S,4.0,1610612762.0,UTA,203903.0,Clarkson,J. Clarkson,-147.0,226.0,27.0,Made,1.0,111.0,117.0,228.0,v,Clarkson 27' 3PT Jump Shot (26 PTS) (Conley 8 AST),Made Shot,Jump Shot,1.0,502.0
+2022-10-14,bos-vs-tor-0012200064,33.0,PT09M12.00S,1.0,0.0,,1610612738.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Celtics Rebound,Rebound,Unknown,1.0,24.0
+2022-10-19,okc-vs-min-0022200010,142.0,PT01M40.00S,1.0,0.0,,1610612760.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Thunder Rebound,Rebound,Normal Rebound,1.0,111.0
+2022-12-07,lal-vs-tor-0022200366,167.0,PT11M24.00S,2.0,1610612747.0,LAL,1629134.0,Nunn,K. Nunn,0.0,0.0,0.0,,0.0,,,0.0,v,Nunn STEAL (1 STL),,,1.0,126.0
+2022-12-30,lal-vs-atl-0022200530,381.0,PT08M48.00S,3.0,1610612737.0,ATL,1630168.0,Okongwu,O. Okongwu,0.0,0.0,0.0,,0.0,,,0.0,h,Okongwu STEAL (2 STL),,,1.0,286.0
+2023-02-10,uta-vs-tor-0022200839,333.0,PT02M00.00S,2.0,0.0,,1610612761.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,RAPTORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0.0,237.0
+2023-01-03,bos-vs-okc-0022200562,10.0,PT11M34.00S,1.0,1610612738.0,BOS,1628401.0,White,D. White,0.0,0.0,0.0,,0.0,,,0.0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,7.0
+2023-01-06,cha-vs-mil-0022200583,313.0,PT01M52.00S,2.0,1610612749.0,MIL,201950.0,Holiday,J. Holiday,0.0,0.0,0.0,,0.0,,,0.0,h,MISS Holiday Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1.0,222.0
+2022-11-28,min-vs-was-0022200300,173.0,PT11M46.00S,2.0,1610612764.0,WAS,1628398.0,Kuzma,K. Kuzma,0.0,0.0,0.0,,0.0,,,0.0,h,Kuzma REBOUND (Off:0 Def:2),Rebound,Unknown,1.0,117.0
+2023-02-10,mil-vs-lac-0022200845,4.0,PT12M00.00S,1.0,1610612746.0,LAC,1627826.0,Zubac,I. Zubac,0.0,0.0,0.0,,0.0,,,0.0,h,Jump Ball Zubac vs. Lopez: Tip to Connaughton,Jump Ball,,1.0,2.0
+2023-03-04,atl-vs-mia-0022200958,431.0,PT04M46.00S,3.0,0.0,,1610612737.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Hawks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0.0,309.0
+2022-10-11,mem-vs-orl-0012200048,372.0,PT06M53.00S,3.0,1610612763.0,MEM,1628415.0,Brooks,D. Brooks,129.0,169.0,21.0,Missed,1.0,,,0.0,v,MISS Brooks 21' Jump Shot,Missed Shot,Jump Shot,1.0,280.0
+2023-02-25,mia-vs-cha-0022200904,118.0,PT03M49.00S,1.0,1610612748.0,MIA,202710.0,Butler,J. Butler,0.0,0.0,0.0,,0.0,17.0,16.0,33.0,v,Butler Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1.0,93.0
+2023-01-16,bos-vs-cha-0022200656,365.0,PT08M28.00S,3.0,1610612738.0,BOS,1628369.0,Tatum,J. Tatum,-107.0,243.0,27.0,Made,1.0,63.0,78.0,141.0,v,Tatum 27' 3PT Step Back Jump Shot (25 PTS) (Williams III 3 AST),Made Shot,Step Back Jump shot,1.0,263.0
+2022-11-30,por-vs-lal-0022200324,99.0,PT03M53.00S,1.0,1610612757.0,POR,1630570.0,Watford,T. Watford,0.0,0.0,0.0,,0.0,,,0.0,v,Watford S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1.0,77.0
+2022-11-25,por-vs-nyk-0022200274,14.0,PT11M03.00S,1.0,1610612752.0,NYK,203944.0,Randle,J. Randle,136.0,94.0,17.0,Missed,1.0,,,0.0,h,MISS Randle 17' Jump Shot,Missed Shot,Jump Shot,1.0,8.0
+2023-01-08,cle-vs-phx-0022200603,389.0,PT03M41.00S,3.0,1610612739.0,CLE,1627747.0,LeVert,C. LeVert,6.0,11.0,1.0,Made,1.0,67.0,73.0,140.0,v,LeVert 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,1.0,290.0
+2023-02-14,bos-vs-mil-0022200869,678.0,PT00M07.40S,4.0,1610612738.0,BOS,1629057.0,Williams III,R. Williams III,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Hauser FOR Williams III,Substitution,,0.0,487.0
+2022-11-09,por-vs-cha-0022200159,516.0,PT11M27.00S,4.0,0.0,,1610612766.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,HORNETS Rebound,Rebound,Unknown,1.0,376.0
+2023-01-15,gsw-vs-chi-0022200650,264.0,PT06M15.00S,2.0,1610612744.0,GSW,1628978.0,DiVincenzo,D. DiVincenzo,0.0,0.0,0.0,,0.0,,,0.0,v,DiVincenzo BLOCK (1 BLK),,,1.0,187.0
+2023-01-24,chi-vs-ind-0022200713,460.0,PT01M50.00S,3.0,0.0,,1610612741.0,,,0.0,0.0,0.0,,0.0,,,0.0,v,Bulls Rebound,Rebound,Unknown,1.0,349.0
+2022-11-19,min-vs-phi-0022200237,531.0,PT10M12.00S,4.0,1610612750.0,MIN,1629669.0,Nowell,J. Nowell,-138.0,215.0,26.0,Made,1.0,90.0,103.0,193.0,v,Nowell 26' 3PT Jump Shot (13 PTS) (Gobert 1 AST),Made Shot,Jump Shot,1.0,375.0
+2022-12-28,phx-vs-was-0022200516,448.0,PT01M32.00S,3.0,1610612756.0,PHX,101108.0,Paul,C. Paul,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Washington Jr. FOR Paul,Substitution,,0.0,310.0
+2022-12-05,mil-vs-orl-0022200353,75.0,PT07M55.00S,1.0,1610612749.0,MIL,203507.0,Antetokounmpo,G. Antetokounmpo,0.0,0.0,0.0,,0.0,13.0,9.0,22.0,v,G. Antetokounmpo Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1.0,52.0
+2023-01-13,phx-vs-min-0022200637,158.0,PT10M44.00S,2.0,1610612756.0,PHX,1630688.0,Wainright,I. Wainright,229.0,42.0,0.0,Made,1.0,38.0,28.0,66.0,v,Wainright 3PT Jump Shot (3 PTS) (Okogie 1 AST),Made Shot,Jump Shot,1.0,112.0
+2023-03-10,bkn-vs-min-0022201001,341.0,PT00M00.10S,2.0,0.0,,1610612750.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0.0,248.0
+2022-11-12,por-vs-dal-0022200190,504.0,PT10M12.00S,4.0,1610612742.0,DAL,1626174.0,Wood,C. Wood,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Finney-Smith FOR Wood,Substitution,,0.0,375.0
+2023-02-01,gsw-vs-min-0022200774,18.0,PT11M06.00S,1.0,1610612744.0,GSW,202691.0,Thompson,K. Thompson,0.0,0.0,0.0,,0.0,0.0,3.0,3.0,v,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1.0,9.0
+2023-02-03,sac-vs-ind-0022200786,130.0,PT02M17.00S,1.0,1610612758.0,SAC,203084.0,Barnes,H. Barnes,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Lyles FOR Barnes,Substitution,,0.0,103.0
+2023-02-15,det-vs-bos-0022200877,540.0,PT04M58.00S,4.0,1610612738.0,BOS,201143.0,Horford,A. Horford,0.0,0.0,0.0,,0.0,,,0.0,h,Horford REBOUND (Off:2 Def:5),Rebound,Unknown,1.0,397.0
+2022-12-10,sas-vs-mia-0022200387,460.0,PT03M03.00S,3.0,1610612748.0,MIA,202710.0,Butler,J. Butler,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: Lowry FOR Butler,Substitution,,0.0,332.0
+2022-10-23,sac-vs-gsw-0022200042,624.0,PT07M33.00S,4.0,1610612758.0,SAC,1630558.0,Mitchell,D. Mitchell,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Monk FOR Mitchell,Substitution,,0.0,449.0
+2022-12-03,sac-vs-lac-0022200338,309.0,PT03M15.00S,2.0,1610612758.0,SAC,1627734.0,Sabonis,D. Sabonis,0.0,0.0,0.0,,0.0,,,0.0,v,Sabonis L.B.FOUL (P3.T4) (R.Acosta),Foul,Loose Ball,1.0,231.0
+2023-01-03,bos-vs-okc-0022200562,397.0,PT07M47.00S,3.0,1610612738.0,BOS,1627759.0,Brown,J. Brown,20.0,0.0,2.0,Made,1.0,90.0,67.0,157.0,v,Brown 2' Driving Layup (27 PTS) (Horford 1 AST),Made Shot,Driving Layup Shot,1.0,290.0
+2023-01-24,den-vs-nop-0022200716,159.0,PT10M59.00S,2.0,1610612743.0,DEN,1628427.0,Cancar,V. Cancar,-232.0,-20.0,0.0,Missed,1.0,,,0.0,v,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,1.0,117.0
+2023-03-11,okc-vs-nop-0022201011,66.0,PT07M04.00S,1.0,1610612760.0,OKC,1630581.0,Giddey,J. Giddey,0.0,0.0,0.0,,0.0,,,0.0,v,MISS Giddey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1.0,49.0
+2022-11-20,nyk-vs-phx-0022200240,119.0,PT02M48.00S,1.0,1610612756.0,PHX,1628969.0,Bridges,M. Bridges,169.0,199.0,26.0,Missed,1.0,,,0.0,h,MISS Bridges 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,93.0
+2023-01-23,bos-vs-orl-0022200707,614.0,PT01M18.00S,4.0,1610612738.0,BOS,1630202.0,Pritchard,P. Pritchard,-33.0,10.0,3.0,Missed,1.0,,,0.0,v,MISS Pritchard 3' Driving Layup,Missed Shot,Driving Layup Shot,1.0,445.0
+2022-10-29,okc-vs-dal-0022200086,320.0,PT02M42.00S,2.0,1610612760.0,OKC,1630526.0,Robinson-Earl,J. Robinson-Earl,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Bazley FOR Robinson-Earl,Substitution,,0.0,215.0
+2022-12-09,phx-vs-nop-0022200384,507.0,PT00M00.00S,3.0,1610612756.0,PHX,1626166.0,Payne,C. Payne,-221.0,3.0,0.0,Missed,1.0,,,0.0,v,MISS Payne 3PT Jump Shot,Missed Shot,Jump Shot,1.0,355.0
+2022-11-25,was-vs-mia-0022200277,493.0,PT00M00.00S,3.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,85.0,85.0,170.0,,End of 3rd Period (9:49 PM EST),period,end,1.0,357.0
+2023-01-11,mil-vs-atl-0022200620,620.0,PT01M09.00S,4.0,1610612749.0,MIL,1626192.0,Connaughton,P. Connaughton,0.0,0.0,0.0,,0.0,,,0.0,v,Connaughton REBOUND (Off:4 Def:3),Rebound,Unknown,1.0,452.0
+2023-01-21,ind-vs-phx-0022200697,338.0,PT00M38.30S,2.0,1610612756.0,PHX,1630688.0,Wainright,I. Wainright,0.0,0.0,0.0,,0.0,,,0.0,h,SUB: D. Lee FOR Wainright,Substitution,,0.0,244.0
+2022-12-09,nyk-vs-cha-0022200377,389.0,PT10M26.00S,3.0,1610612752.0,NYK,1628973.0,Brunson,J. Brunson,0.0,0.0,0.0,,0.0,52.0,63.0,115.0,v,Brunson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1.0,288.0
+2022-12-31,phi-vs-okc-0022200545,628.0,PT06M15.00S,4.0,1610612760.0,OKC,1629026.0,Williams,K. Williams,-219.0,117.0,25.0,Missed,1.0,,,0.0,h,MISS K. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,459.0
+2023-02-28,mil-vs-bkn-0022200924,88.0,PT05M42.00S,1.0,1610612751.0,BKN,1629661.0,Johnson,C. Johnson,145.0,204.0,25.0,Made,1.0,20.0,11.0,31.0,h,Johnson 25' 3PT Running Pull-Up Jump Shot (7 PTS) (Dinwiddie 2 AST),Made Shot,Running Pull-Up Jump Shot,1.0,64.0
+2022-11-05,por-vs-phx-0022200139,638.0,PT02M44.00S,4.0,0.0,,1610612756.0,,,0.0,0.0,0.0,,0.0,,,0.0,h,SUNS Rebound,Rebound,Unknown,1.0,468.0
+2022-11-07,hou-vs-orl-0022200145,245.0,PT05M31.00S,2.0,1610612753.0,ORL,1631094.0,Banchero,P. Banchero,0.0,0.0,0.0,,0.0,,,0.0,h,Banchero OFF.Foul (P1) (J.Goble),Foul,Offensive,1.0,174.0
+2022-11-27,por-vs-bkn-0022200290,576.0,PT02M17.00S,4.0,1610612757.0,POR,203924.0,Grant,J. Grant,-113.0,170.0,20.0,Missed,1.0,,,0.0,v,MISS Grant 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1.0,408.0
+2023-03-08,okc-vs-phx-0022200990,338.0,PT00M00.00S,2.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0,60.0,52.0,112.0,,End of 2nd Period (10:10 PM EST),period,end,1.0,246.0
+2023-02-10,cha-vs-bos-0022200838,97.0,PT05M08.00S,1.0,1610612738.0,BOS,1628369.0,Tatum,J. Tatum,0.0,0.0,0.0,,0.0,,,0.0,h,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1.0,71.0
+2023-02-13,orl-vs-chi-0022200863,12.0,PT11M03.00S,1.0,1610612753.0,ORL,1628976.0,Carter Jr.,W. Carter Jr.,-59.0,254.0,26.0,Missed,1.0,,,0.0,v,MISS Carter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,6.0
+2022-10-31,mem-vs-uta-0022200101,549.0,PT11M06.00S,4.0,1610612762.0,UTA,1630534.0,Agbaji,O. Agbaji,-21.0,13.0,2.0,Missed,1.0,,,0.0,h,MISS Agbaji 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1.0,403.0
+2023-02-06,dal-vs-uta-0022200813,406.0,PT06M09.00S,3.0,1610612762.0,UTA,1628374.0,Markkanen,L. Markkanen,49.0,25.0,6.0,Made,1.0,72.0,77.0,149.0,h,Markkanen 6' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1.0,292.0
+2022-10-27,mia-vs-gsw-0022200068,304.0,PT01M45.00S,2.0,1610612744.0,GSW,203952.0,Wiggins,A. Wiggins,0.0,0.0,0.0,,0.0,,,0.0,h,Wiggins REBOUND (Off:2 Def:3),Rebound,Unknown,1.0,221.0
+2023-02-19,gns-vs-lbn-0032200001,621.0,PT00M00.00S,4.0,1610616833.0,GNS,1628369.0,Tatum,J. Tatum,-26.0,20.0,3.0,Made,1.0,170.0,181.0,351.0,v,Tatum 3' Driving Layup (55 PTS),Made Shot,Driving Layup Shot,1.0,441.0
+2022-10-26,hou-vs-uta-0022200063,503.0,PT03M31.00S,3.0,1610612762.0,UTA,200752.0,Gay,R. Gay,0.0,0.0,0.0,,0.0,,,0.0,h,Gay REBOUND (Off:0 Def:3),Rebound,Unknown,1.0,366.0
+2023-01-29,mia-vs-cha-0022200752,577.0,PT05M17.00S,4.0,1610612748.0,MIA,1628389.0,Adebayo,B. Adebayo,0.0,0.0,0.0,,0.0,,,0.0,v,Adebayo REBOUND (Off:2 Def:2),Rebound,Unknown,1.0,416.0
+2022-12-16,bkn-vs-tor-0022200433,139.0,PT00M12.60S,1.0,1610612751.0,BKN,1629139.0,Watanabe,Y. Watanabe,0.0,0.0,0.0,,0.0,,,0.0,v,SUB: Claxton FOR Watanabe,Substitution,,0.0,104.0
+2022-10-26,hou-vs-uta-0022200063,343.0,PT00M42.30S,2.0,1610612762.0,UTA,1628374.0,Markkanen,L. Markkanen,120.0,222.0,25.0,Missed,1.0,,,0.0,h,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,1.0,250.0
+2022-10-12,atl-vs-cle-0012200052,454.0,PT05M48.00S,3.0,1610612739.0,CLE,1629636.0,Garland,D. Garland,-49.0,277.0,28.0,Made,1.0,64.0,60.0,124.0,h,Garland 28' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1.0,347.0
+2023-02-06,bos-vs-det-0022200808,303.0,PT00M32.30S,2.0,1610612765.0,DET,202711.0,Bogdanovic,B. Bogdanovic,0.0,0.0,0.0,,0.0,52.0,60.0,112.0,h,Bogdanovic Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1.0,222.0
+2023-01-18,min-vs-den-0022200676,586.0,PT10M16.00S,4.0,1610612750.0,MIN,1627752.0,Prince,T. Prince,20.0,102.0,10.0,Made,1.0,94.0,100.0,194.0,v,Prince 10' Pullup Jump Shot (14 PTS) (Russell 6 AST),Made Shot,Pullup Jump shot,1.0,414.0
+2022-12-10,lac-vs-was-0022200389,542.0,PT08M09.00S,4.0,1610612746.0,LAC,1628379.0,Kennard,L. Kennard,-164.0,219.0,27.0,Made,1.0,88.0,94.0,182.0,v,Kennard 27' 3PT Jump Shot (10 PTS) (Wall 2 AST),Made Shot,Jump Shot,1.0,394.0
+2023-01-31,lal-vs-nyk-0022200765,505.0,PT11M14.00S,4.0,1610612752.0,NYK,203944.0,Randle,J. Randle,0.0,0.0,0.0,,0.0,86.0,88.0,174.0,h,Randle Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1.0,376.0
+2022-12-19,lal-vs-phx-0022200459,38.0,PT08M25.00S,1.0,1610612756.0,PHX,1628969.0,Bridges,M. Bridges,-230.0,-11.0,0.0,Made,1.0,15.0,13.0,28.0,h,Bridges 3PT Running Jump Shot (3 PTS) (Craig 3 AST),Made Shot,Running Jump Shot,1.0,24.0
