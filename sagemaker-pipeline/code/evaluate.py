@@ -12,7 +12,7 @@ from io import StringIO, BytesIO
 
 s3_resource = boto3.resource('s3')
 s3_client = boto3.client('s3')
-bucket = params['bucket_pipeline']
+bucket = 'sagemaker-pipelines-hwm'
 
 def install(package):
     subprocess.check_call([sys.executable, '-m', 'pip', 'install', package])

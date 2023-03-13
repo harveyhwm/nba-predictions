@@ -19,7 +19,7 @@ from io import StringIO, BytesIO
 
 s3_resource = boto3.resource('s3')
 s3_client = boto3.client('s3')
-bucket = params['bucket_pipeline']
+bucket = 'sagemaker-pipelines-hwm'
 
 def parse_args():
     parser = argparse.ArgumentParser()
@@ -34,10 +34,10 @@ def parse_args():
     return parser.parse_known_args()
 
 
-#class PrintDot(tf.keras.callbacks.Callback):
-#    def on_epoch_end(self, epoch, logs):
-#        #if epoch == 0:
-#        print(str(epoch)+' ', end='')
+# class PrintDot(tf.keras.callbacks.Callback):
+#     def on_epoch_end(self, epoch, logs):
+#         # if epoch == 0:
+#         print(str(epoch)+' ', end='')
 
 
 def install(package):
@@ -112,7 +112,7 @@ if __name__ == '__main__':
     model.save(os.path.join(local_path, name, '1'))
     # tf.keras.models.save_model(model_assets['model'], os.path.join(path, name, '00001'))
     tar = tarfile.open(os.path.join(local_path, tar_name), 'w:gz')
-    for file_name in glob.glob(os.path.join(local_path, '*')):
+    for file_name in glob.glob(os.path.join(local_path, name, '*')):
         print('Adding %s...' % file_name)
         tar.add(file_name, os.path.basename(file_name))
     tar.close()
